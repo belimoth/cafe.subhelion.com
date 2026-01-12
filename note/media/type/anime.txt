@@ -1,0 +1,212 @@
+PROJECT           | TYPE  | YEAR | TITLE                                                          | FRANCHISE     | BY                     | TAG                      | LINK
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--                | anime | 1937 | Snow White and the Seven Dwarfs                                | Disney        | --                     | --                       | --
+--                | anime | 1940 | Fantasia                                                       | Disney        | --                     | --                       | --
+--                | anime | 1940 | Pinocchio                                                      | Disney        | --                     | --                       | --
+--                | anime | 1941 | Dumbo                                                          | Disney        | --                     | --                       | --
+--                | anime | 1942 | Bambi                                                          | Disney        | --                     | --                       | --
+--                | anime | 1950 | Cinderella                                                     | Disney        | --                     | --                       | --
+--                | anime | 1951 | Alice in Wonderland                                            | Disney        | --                     | --                       | --
+--                | anime | 1953 | Peter Pan                                                      | Disney        | --                     | --                       | --
+--                | anime | 1955 | Lady and the Tramp                                             | Disney        | --                     | --                       | --
+--                | anime | 1959 | Sleeping Beauty                                                | Disney        | --                     | --                       | --
+--                | anime | 1961 | One Hundred and One Dalmatians                                 | Disney        | --                     | --                       | --
+--                | anime | 1964 | Rudolph the Red-Nosed Reindeer                                 | Christmas     | Rankin & Bass          | --                       | --
+--                | anime | 1967 | The Jungle Book                                                | Disney        | --                     | --                       | --
+--                | anime | 1969 | Frosty the Snowman                                             | Christmas     | Rankin & Bass          | --                       | --
+--                | anime | 1970 | The Aristocats                                                 | Disney        | --                     | --                       | --
+--                | anime | 1973 | Belladonna of Sadness                                          | --            | --                     | --                       | --
+--                | anime | 1973 | Charlotte's Web                                                | --            | --                     | --                       | --
+--                | anime | 1973 | Fantastic Planet                                               | --            | René Laloux            | scifi                    | --
+--                | anime | 1973 | Robin Hood                                                     | Disney        | --                     | --                       | --
+--                | anime | 1977 | The Hobbit                                                     | --            | --                     | --                       | --
+--                | anime | 1977 | The Many Adventures of Winnie the Pooh                         | Disney        | --                     | --                       | --
+--                | anime | 1977 | The Rescuers                                                   | Disney        | --                     | --                       | --
+--                | anime | 1977 | Wizards                                                        | --            | --                     | --                       | --
+--                | anime | 1978 | The Lord of the Rings                                          | --            | --                     | --                       | --
+--                | anime | 1978 | Watership Down                                                 | --            | --                     | --                       | --
+--                | anime | 1981 | Son of the White Mare                                          | --            | --                     | --                       | --
+--                | anime | 1981 | The Fox and the Hound                                          | --            | --                     | --                       | --
+--                | anime | 1982 | Gandahar                                                       | --            | René Laloux            | scifi                    | --
+--                | anime | 1982 | The Last Unicorn                                               | --            | --                     | --                       | --
+--                | anime | 1982 | The Secret of NIMH                                             | --            | --                     | --                       | --
+--                | anime | 1982 | Time Masters                                                   | --            | René Laloux            | scifi                    | --
+--                | anime | 1984 | Nausicaä of the Valley of the Wind                             | --            | --                     | --                       | --
+--                | anime | 1986 | An American Tail                                               | --            | --                     | --                       | --
+--                | anime | 1986 | Dirty Pair: Project Eden                                       | Dirty Pair    | --                     | scifi action             | --
+--                | anime | 1986 | Fist of the North Star                                         | --            | --                     | --                       | --
+--                | anime | 1986 | The Great Mouse Detective                                      | --            | --                     | --                       | --
+--                | anime | 1987 | The Brave Little Toaster                                       | --            | --                     | --                       | --
+--                | anime | 1988 | Grave of the Fireflies                                         | --            | Ghibli                 | --                       | --
+--                | anime | 1988 | My Neighbor Totoro                                             | --            | Ghibli                 | --                       | --
+--                | anime | 1989 | Kiki's Delivery Service                                        | --            | Ghibli                 | --                       | --
+--                | anime | 1989 | The Little Mermaid                                             | --            | --                     | --                       | --
+--                | anime | 1990 | The Rescuers Down Under                                        | --            | --                     | --                       | --
+--                | anime | 1991 | An American Tail: Fievel Goes West                             | --            | --                     | --                       | --
+--                | anime | 1991 | Beauty and the Beast                                           | --            | --                     | --                       | --
+--                | anime | 1991 | Pirates of Dark Water                                          | --            | --                     | fantasy                  | --
+--                | anime | 1992 | Aladdin                                                        | --            | --                     | --                       | --
+--                | anime | 1993 | Ninja Scroll                                                   | --            | --                     | --                       | --
+--                | anime | 1993 | The Thief and the Cobbler                                      | --            | --                     | --                       | --
+--                | anime | 1994 | The Lion King                                                  | --            | --                     | --                       | --
+--                | anime | 1994 | The Return of Jafar                                            | --            | --                     | --                       | --
+--                | anime | 1994 | The Swan Princess                                              | --            | --                     | --                       | --
+--                | anime | 1995 | A Goofy Movie                                                  | --            | --                     | --                       | --
+--                | anime | 1995 | Balto                                                          | --            | --                     | --                       | --
+--                | anime | 1995 | Pocahontas                                                     | --            | --                     | --                       | --
+--                | anime | 1995 | Toy Story                                                      | --            | --                     | --                       | --
+--                | anime | 1995 | Whisper of the Heart                                           | --            | Ghibli                 | --                       | --
+--                | anime | 1996 | Aladdin and the King of Thieves                                | --            | --                     | --                       | --
+--                | anime | 1997 | Anastasia                                                      | --            | --                     | --                       | --
+--                | anime | 1997 | Cats Don't Dance                                               | --            | --                     | --                       | --
+--                | anime | 1997 | Hercules                                                       | --            | --                     | --                       | --
+--                | anime | 1997 | Princess Mononoke                                              | --            | --                     | --                       | --
+--                | anime | 1998 | A Bug's Life                                                   | --            | --                     | --                       | --
+--                | anime | 1998 | Antz                                                           | --            | --                     | --                       | --
+--                | anime | 1998 | Batman & Mr. Freeze: SubZero                                   | --            | --                     | --                       | --
+--                | anime | 1998 | Cowboy Bebop                                                   | --            | --                     | --                       | --
+--                | anime | 1998 | Mulan                                                          | --            | --                     | --                       | --
+--                | anime | 1998 | Quest for Camelot                                              | --            | --                     | --                       | --
+--                | anime | 1998 | The Prince of Egypt                                            | --            | --                     | --                       | --
+--                | anime | 1999 | Fantasia 2000                                                  | --            | --                     | --                       | --
+--                | anime | 1999 | Tarzan                                                         | --            | --                     | --                       | --
+--                | anime | 1999 | The Iron Giant                                                 | --            | --                     | --                       | --
+--                | anime | 2000 | Chicken Run                                                    | --            | --                     | --                       | --
+--                | anime | 2000 | Dinosaur                                                       | --            | --                     | --                       | --
+--                | anime | 2000 | FLCL                                                           | --            | --                     | --                       | --
+--                | anime | 2000 | For the Birds                                                  | --            | --                     | --                       | --
+--                | anime | 2000 | The Emperor's New Groove                                       | --            | --                     | --                       | --
+--                | anime | 2000 | The Tigger Movie                                               | --            | --                     | --                       | --
+--                | anime | 2001 | Cat Soup                                                       | --            | --                     | --                       | --
+--                | anime | 2001 | Metropolis                                                     | --            | --                     | --                       | --
+--                | anime | 2001 | Monsters, Inc.                                                 | --            | --                     | --                       | --
+--                | anime | 2001 | Scooby-Doo and the Cyber Chase                                 | --            | --                     | --                       | --
+--                | anime | 2001 | Shrek                                                          | --            | --                     | --                       | --
+--                | anime | 2001 | Spirited Away                                                  | --            | --                     | --                       | --
+--                | anime | 2001 | Trava: Fist Planet                                             | --            | --                     | scifi action comedy      | --
+--                | anime | 2002 | Ice Age                                                        | --            | --                     | --                       | --
+--                | anime | 2002 | Lilo & Stitch                                                  | --            | --                     | --                       | --
+--                | anime | 2002 | The Cat Returns                                                | --            | --                     | --                       | --
+--                | anime | 2002 | Treasure Planet                                                | --            | --                     | --                       | --
+--                | anime | 2003 | Bionicle: Mask of Light                                        | --            | --                     | --                       | --
+--                | anime | 2003 | Brother Bear                                                   | --            | --                     | --                       | --
+--                | anime | 2003 | Finding Nemo                                                   | --            | --                     | --                       | --
+--                | anime | 2003 | Sinbad: Legend of the Seven Seas                               | --            | --                     | --                       | --
+--                | anime | 2003 | The Triplets of Belleville                                     | --            | --                     | --                       | --
+--                | anime | 2004 | All You Need Is Kill                                           | --            | --                     | mecha                    | --
+--                | anime | 2004 | Dead Leaves                                                    | --            | --                     | scifi action crime       | --
+--                | anime | 2004 | Howl's Moving Castle                                           | --            | --                     | --                       | --
+--                | anime | 2004 | Paranoia Agent                                                 | --            | --                     | --                       | --
+--                | anime | 2004 | Samurai Champloo                                               | --            | --                     | --                       | --
+--                | anime | 2004 | Shark Tale                                                     | --            | --                     | --                       | --
+--                | anime | 2004 | The Incredibles                                                | --            | --                     | --                       | --
+--                | anime | 2004 | The Lion King 1½                                               | --            | --                     | --                       | --
+--                | anime | 2004 | The Polar Express                                              | --            | --                     | --                       | --
+--                | anime | 2005 | Chicken Little                                                 | --            | --                     | --                       | --
+--                | anime | 2005 | Kronk's New Groove                                             | --            | --                     | --                       | --
+--                | anime | 2005 | Madagascar                                                     | --            | --                     | --                       | --
+--                | anime | 2005 | Robots                                                         | --            | --                     | --                       | --
+--                | anime | 2006 | Happy Feet                                                     | --            | --                     | --                       | --
+--                | anime | 2006 | Monster House                                                  | --            | --                     | --                       | --
+--                | anime | 2006 | Paprika                                                        | --            | --                     | --                       | --
+--                | anime | 2006 | Tales from Earthsea                                            | --            | --                     | --                       | --
+--                | anime | 2007 | Afro Samurai                                                   | --            | --                     | --                       | --
+--                | anime | 2007 | Meet the Robinsons                                             | --            | --                     | --                       | --
+--                | anime | 2007 | Ratatouille                                                    | --            | --                     | --                       | --
+--                | anime | 2007 | Vexille                                                        | --            | --                     | --                       | --
+--                | anime | 2008 | Bolt                                                           | --            | --                     | --                       | --
+--                | anime | 2008 | La Maison en Petits Cubes; The House of Small Cubes            | --            | --                     | --                       | --
+--                | anime | 2009 | 9                                                              | --            | --                     | --                       | --
+--                | anime | 2009 | Coraline                                                       | --            | --                     | --                       | --
+--                | anime | 2009 | Dug's Special Mission                                          | --            | --                     | --                       | --
+--                | anime | 2009 | Fantastic Mr. Fox                                              | --            | --                     | --                       | --
+--                | anime | 2009 | Mary and Max                                                   | --            | --                     | --                       | --
+--                | anime | 2009 | Redline                                                        | --            | --                     | --                       | --
+--                | anime | 2009 | Up                                                             | --            | --                     | --                       | --
+--                | anime | 2010 | Despicable Me                                                  | --            | --                     | --                       | --
+--                | anime | 2010 | How to Train Your Dragon                                       | --            | --                     | --                       | --
+--                | anime | 2010 | Toy Story 3                                                    | --            | --                     | --                       | --
+--                | anime | 2011 | Puella Magi Madoka Magica                                      | --            | --                     | --                       | --
+--                | anime | 2011 | Rango                                                          | --            | --                     | --                       | --
+--                | anime | 2011 | Winnie the Pooh                                                | --            | --                     | --                       | --
+--                | anime | 2013 | The Elephant's Garden                                          | --            | --                     | --                       | --
+--                | anime | 2015 | TIE Fighter (short)                                            | Star Wars     | Paul Johnson           | --                       | https://www.youtube.com/watch?v=PN_CP4SuoTU
+--                | anime | 2016 | Kubo and the Two Strings                                       | --            | --                     | --                       | --
+--                | anime | 2016 | Moana                                                          | --            | --                     | --                       | --
+--                | anime | 2017 | Lu Over the Wall                                               | --            | --                     | --                       | --
+--                | anime | 2017 | World of Tomorrow 2: The Burden of Other People's Thoughts     | --            | --                     | --                       | --
+--                | anime | 2018 | Bao                                                            | --            | --                     | --                       | --
+--                | anime | 2018 | Dry Run                                                        | --            | --                     | --                       | --
+--                | anime | 2018 | Hell's Paradise                                                | --            | --                     | fantasy action           | --
+--                | anime | 2018 | Spider-Man: Into the Spider-Verse                              | --            | --                     | --                       | --
+--                | anime | 2019 | Invader Zim: Enter the Florpus                                 | --            | --                     | --                       | --
+--                | anime | 2019 | Love, Death & Robots: Alternate Histories                      | --            | --                     | --                       | --
+--                | anime | 2019 | Love, Death & Robots: Blindspot                                | --            | --                     | --                       | --
+--                | anime | 2019 | Love, Death & Robots: Fish Night                               | --            | --                     | --                       | --
+--                | anime | 2019 | Love, Death & Robots: Good Hunting                             | --            | --                     | --                       | --
+--                | anime | 2019 | Love, Death & Robots: Helping Hand                             | --            | --                     | --                       | --
+--                | anime | 2019 | Love, Death & Robots: Ice Age                                  | --            | --                     | --                       | --
+--                | anime | 2019 | Love, Death & Robots: Lucky 13                                 | --            | --                     | --                       | --
+--                | anime | 2019 | Love, Death & Robots: Shape-Shifters                           | --            | --                     | --                       | --
+--                | anime | 2019 | Love, Death & Robots: Sonnie's Edge                            | --            | --                     | --                       | --
+--                | anime | 2019 | Love, Death & Robots: Suits                                    | --            | --                     | --                       | --
+--                | anime | 2019 | Love, Death & Robots: The Secret War                           | --            | --                     | --                       | --
+--                | anime | 2019 | Love, Death & Robots: The Witness                              | --            | --                     | --                       | --
+--                | anime | 2019 | Love, Death & Robots: Three Robots                             | --            | --                     | --                       | --
+--                | anime | 2019 | Love, Death & Robots: When the Yogurt Took Over                | --            | --                     | --                       | --
+--                | anime | 2019 | Love, Death & Robots: Zima Blue                                | --            | --                     | --                       | --
+--                | anime | 2024 | Centuria                                                       | --            | --                     | --                       | --
+--                | anime | 2024 | DeDeDeDe                                                       | --            | Inio Asano             | --                       | --
+draugb            | anime | 1985 | Angel's Egg                                                    | --            | --                     | --                       | --
+draugb            | anime | 1988 | Akira                                                          | --            | --                     | --                       | --
+draugb            | anime | 1988 | Gunbuster                                                      | --            | --                     | mecha opera              | --
+draugb            | anime | 1991 | Æon Flux                                                       | --            | Peter Chung            | --                       | --
+draugb            | anime | 1992 | Batman (TV)                                                    | DC/Batman     | --                     | --                       | --
+draugb            | anime | 1992 | X-Men (TV)                                                     | Marvel/X-Men  | --                     | --                       | --
+draugb            | anime | 1994 | Gargoyles (TV)                                                 | --            | Greg Weisman           | --                       | --
+draugb            | anime | 1994 | ReBoot (TV)                                                    | --            | --                     | scifi techno             | --
+draugb            | anime | 1995 | Memories                                                       | --            | --                     | --                       | --
+draugb            | anime | 1997 | Virus Buster Serge                                             | --            | --                     | --                       | --
+draugb            | anime | 1998 | Kirikou and the Sorceress                                      | --            | --                     | --                       | --
+draugb            | anime | 1999 | Batman Beyond                                                  | DC/Batman     | --                     | --                       | --
+draugb            | anime | 1999 | Futurama                                                       | --            | Matt Groenig           | scifi comedy             | --
+draugb            | anime | 1999 | Jin-Roh: The Wolf Brigade                                      | --            | --                     | --                       | --
+draugb            | anime | 2001 | Atlantis: The Lost Empire                                      | --            | --                     | --                       | --
+draugb            | anime | 2001 | Cowboy Bebop: The Movie                                        | --            | --                     | --                       | --
+draugb            | anime | 2001 | Final Fantasy: The Spirits Within                              | --            | --                     | --                       | --
+draugb            | anime | 2001 | Osmosis Jones                                                  | --            | --                     | --                       | --
+draugb            | anime | 2003 | The Animatrix                                                  | --            | --                     | --                       | --
+draugb            | anime | 2004 | Gunbuster 2: Diebuster                                         | --            | --                     | mecha opera              | --
+draugb            | anime | 2009 | The Secret of Kells                                            | --            | --                     | --                       | --
+draugb            | anime | 2015 | Gate                                                           | Gate          | Takumi Yanai           | fantasy                  | --
+draugb            | anime | 2016 | Dead Hand - 2 - Last Day of War                                | Dead Hand     | Dima Fedotov           | --                       | https://www.youtube.com/watch?v=oKKr0bkuYuo
+draugb            | anime | 2019 | Ling Cage                                                      | --            | --                     | scifi action drama       | --
+draugb            | anime | 2019 | Love, Death & Robots: Beyond the Aquila Rift                   | --            | --                     | --                       | --
+draugb            | anime | 2021 | Mad God                                                        | --            | --                     | --                       | --
+draugb            | anime | 2025 | War of Lights                                                  | --            | --                     | --                       | https://www.youtube.com/watch?v=z0AUrwl3-DI
+draugb swatcity   | anime |      | WALL-E Character EVE                                           | --            | --                     | --                       | --
+draugb swatcity   | anime | 1997 | G-Police - Trailer                                             | --            | Peter Chung            | --                       | https://www.youtube.com/watch?v=TSUX3qGcWS4
+draugb tyrant     | anime | 2023 | Gargoyles: Dark Ages                                           | Gargoyles     | Greg Weisman           | --                       | https://gargoyles.fandom.com/wiki/Gargoyles:_The_Dark_Ages
+draugb_frontier   | anime | 1992 | FernGully: The Last Rainforest                                 | --            | --                     | --                       | --
+draugb_tower      | anime | 2017 | BLAME!                                                         | --            | --                     | --                       | --
+horsewar          | anime | 1981 | Mobile Suit Gundam I                                           | --            | --                     | --                       | --
+horsewar          | anime | 1982 | Blue Gale Xabungle                                             | --            | --                     | mecha adventure          | --
+horsewar          | anime | 1989 | Five Star Stories                                              | --            | --                     | mecha                    | --
+horsewar          | anime | 2007 | Gurenn Lagann                                                  | --            | --                     | mecha adventure          | --
+horsewar swatcity | anime | 1989 | Patlabor: The Movie                                            | --            | --                     | --                       | --
+horsewar swatcity | anime | 1993 | Patlabor 2: The Movie                                          | --            | --                     | --                       | --
+simir             | anime | 1988 | The Land Before Time                                           | --            | --                     | --                       | --
+simir             | anime | 2008 | WALL·E                                                         | --            | --                     | --                       | --
+simir             | anime | 2023 | Scavengers Reign                                               | Scavengers    | Charles Huettner       | scifi                    | --
+swatcity          | anime | 1994 | The Pagemaster                                                 | --            | --                     | --                       | --
+swatcity          | anime | 1995 | Ghost in the Shell                                             | --            | --                     | --                       | --
+swatcity          | anime | 1998 | Serial Experiments Lain                                        | --            | --                     | --                       | --
+swatcity          | anime | 2004 | Ghost in the Shell 2: Innocence                                | --            | --                     | --                       | --
+swatcity          | anime | 2006 | A Scanner Darkly                                               | --            | --                     | --                       | --
+tyrant            | anime | 1985 | The Black Cauldron                                             | --            | --                     | --                       | --
+tyrant            | anime | 1994 | Samurai Shodown: The Movie                                     | Samsho        | --                     | --                       | --
+tyrant            | anime | 1997 | Revolutionary Girl Utena                                       | --            | Kunihiko Ikuhara       | --                       | --
+tyrant            | anime | 2001 | Claymore                                                       | --            | --                     | fantasy action           | --
+tyrant            | anime | 2021 | Ranking of Kings                                               | --            | Sōsuke Tōka            | fantasy                  | --
+tyrant_pound      | anime | 1988 | Oliver & Company                                               | --            | --                     | --                       | --
+tyrant_pound      | anime | 1989 | All Dogs Go to Heaven                                          | --            | --                     | --                       | --

@@ -1,0 +1,19 @@
+PROJECT           | TYPE  | YEAR | TITLE                                                          | FRANCHISE     | BY                     | TAG                      | LINK
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+swatcity          | anime |      | WALL-E Character EVE                                           | --            | --                     | --                       | --
+swatcity          | anime | 1997 | G-Police - Trailer                                             | --            | Peter Chung            | --                       | https://www.youtube.com/watch?v=TSUX3qGcWS4
+swatcity          | film  |      | Boy Kills World Character June 27                              | --            | --                     | --                       | --
+swatcity          | film  | 1949 | The Third Man                                                  | --            | --                     | noir                     | https://bsky.app/profile/binarypartitioned.space/post/3m6lzlha23s2r
+swatcity          | toy   |      | Cozmo the Robot                                                | --            | --                     | --                       | --
+swatcity          | tv    |      | Dr. Who S10.E2 Smile Character Emojibot                        | --            | --                     | --                       | --
+swatcity          | tv    |      | GITS SAC S2.E4 Natural Enemy                                   | GITS SAC      | --                     | --                       | https://www.adultswim.com/videos/ghost-in-the-shell/natural-enemy
+horsewar swatcity | anime | 1989 | Patlabor: The Movie                                            | --            | --                     | --                       | --
+horsewar swatcity | anime | 1993 | Patlabor 2: The Movie                                          | --            | --                     | --                       | --
+swatcity          | anime | 1994 | The Pagemaster                                                 | --            | --                     | --                       | --
+swatcity          | anime | 1995 | Ghost in the Shell                                             | --            | --                     | --                       | --
+swatcity          | anime | 1998 | Serial Experiments Lain                                        | --            | --                     | --                       | --
+swatcity          | anime | 2004 | Ghost in the Shell 2: Innocence                                | --            | --                     | --                       | --
+swatcity          | anime | 2006 | A Scanner Darkly                                               | --            | --                     | --                       | --
+swatcity          | film  | 2005 | Æon Flux                                                       | --            | --                     | --                       | --
+swatcity          | film  | 2011 | Attack the Block                                               | --            | --                     | --                       | --
+swatcity simir    | film  | 2013 | Oblivion                                                       | --            | --                     | --                       | --

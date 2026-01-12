@@ -1,0 +1,290 @@
+PROJECT           | TYPE  | YEAR | TITLE                                                          | FRANCHISE     | BY                     | TAG                      | LINK
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+draugb            | anime | 1985 | Angel's Egg                                                    | --            | --                     | --                       | --
+draugb            | anime | 1988 | Akira                                                          | --            | --                     | --                       | --
+draugb            | anime | 1988 | Gunbuster                                                      | --            | --                     | mecha opera              | --
+draugb            | anime | 1991 | Æon Flux                                                       | --            | Peter Chung            | --                       | --
+draugb            | anime | 1992 | Batman (TV)                                                    | DC/Batman     | --                     | --                       | --
+draugb            | anime | 1992 | X-Men (TV)                                                     | Marvel/X-Men  | --                     | --                       | --
+draugb            | anime | 1994 | Gargoyles (TV)                                                 | --            | Greg Weisman           | --                       | --
+draugb            | anime | 1994 | ReBoot (TV)                                                    | --            | --                     | scifi techno             | --
+draugb            | anime | 1995 | Memories                                                       | --            | --                     | --                       | --
+draugb            | anime | 1997 | Virus Buster Serge                                             | --            | --                     | --                       | --
+draugb            | anime | 1998 | Kirikou and the Sorceress                                      | --            | --                     | --                       | --
+draugb            | anime | 1999 | Batman Beyond                                                  | DC/Batman     | --                     | --                       | --
+draugb            | anime | 1999 | Futurama                                                       | --            | Matt Groenig           | scifi comedy             | --
+draugb            | anime | 1999 | Jin-Roh: The Wolf Brigade                                      | --            | --                     | --                       | --
+draugb            | anime | 2001 | Atlantis: The Lost Empire                                      | --            | --                     | --                       | --
+draugb            | anime | 2001 | Cowboy Bebop: The Movie                                        | --            | --                     | --                       | --
+draugb            | anime | 2001 | Final Fantasy: The Spirits Within                              | --            | --                     | --                       | --
+draugb            | anime | 2001 | Osmosis Jones                                                  | --            | --                     | --                       | --
+draugb            | anime | 2003 | The Animatrix                                                  | --            | --                     | --                       | --
+draugb            | anime | 2004 | Gunbuster 2: Diebuster                                         | --            | --                     | mecha opera              | --
+draugb            | anime | 2009 | The Secret of Kells                                            | --            | --                     | --                       | --
+draugb            | anime | 2015 | Gate                                                           | Gate          | Takumi Yanai           | fantasy                  | --
+draugb            | anime | 2016 | Dead Hand - 2 - Last Day of War                                | Dead Hand     | Dima Fedotov           | --                       | https://www.youtube.com/watch?v=oKKr0bkuYuo
+draugb            | anime | 2019 | Ling Cage                                                      | --            | --                     | scifi action drama       | --
+draugb            | anime | 2019 | Love, Death & Robots: Beyond the Aquila Rift                   | --            | --                     | --                       | --
+draugb            | anime | 2021 | Mad God                                                        | --            | --                     | --                       | --
+draugb            | anime | 2025 | War of Lights                                                  | --            | --                     | --                       | https://www.youtube.com/watch?v=z0AUrwl3-DI
+draugb            | book  | 2007 | Unwind                                                         | --            | Neal Shusterman        | scifi dystopia adventure | --
+draugb            | film  | 1957 | The Monolith Monsters                                          | --            | --                     | scifi disaster           | --
+draugb            | film  | 1958 | Invention for Destruction                                      | --            | --                     | scifi adventure          | --
+draugb            | film  | 1960 | Swiss Family Robinson                                          | --            | --                     | --                       | --
+draugb            | film  | 1964 | Red Desert                                                     | --            | Michelangelo Antonioni | drama                    | --
+draugb            | film  | 1967 | Viy                                                            | --            | --                     | --                       | --
+draugb            | film  | 1968 | Night of the Living Dead                                       | --            | --                     | --                       | --
+draugb            | film  | 1971 | The Andromeda Strain                                           | --            | --                     | --                       | --
+draugb            | film  | 1971 | The Omega Man                                                  | --            | --                     | --                       | --
+draugb            | film  | 1976 | Assault on Precinct 13                                         | --            | John Carpenter         | --                       | --
+draugb            | film  | 1977 | Alternative 3                                                  | --            | --                     | mock                     | --
+draugb            | film  | 1977 | Sorceror                                                       | --            | William Friedkin       | action thriller          | --
+draugb            | film  | 1977 | The Gauntlet                                                   | --            | --                     | --                       | --
+draugb            | film  | 1978 | Warlords of Atlantis                                           | --            | --                     | --                       | --
+draugb            | film  | 1979 | Alien                                                          | Alien         | --                     | --                       | --
+draugb            | film  | 1979 | Stalker                                                        | --            | --                     | --                       | --
+draugb            | film  | 1980 | The Fog                                                        | --            | John Carpenter         | --                       | --
+draugb            | film  | 1981 | Escape from New York                                           | --            | John Carpenter         | --                       | --
+draugb            | film  | 1981 | Outland                                                        | --            | --                     | --                       | --
+draugb            | film  | 1982 | The Thing                                                      | --            | John Carpenter         | --                       | --
+draugb            | film  | 1983 | Videodrome                                                     | --            | David Cronenburg       | horror scifi             | --
+draugb            | film  | 1984 | Dune                                                           | --            | --                     | --                       | --
+draugb            | film  | 1984 | Nausicaä of the Valley of the Wind                             | --            | --                     | --                       | --
+draugb            | film  | 1984 | The Terminator                                                 | Terminator    | --                     | --                       | --
+draugb            | film  | 1984 | Threads                                                        | --            | --                     | disaster drama           | --
+draugb            | film  | 1985 | Brazil                                                         | --            | Terry Gillam           | --                       | --
+draugb            | film  | 1985 | Come and See                                                   | --            | --                     | war horror               | --
+draugb            | film  | 1985 | Lifeforce                                                      | --            | --                     | --                       | --
+draugb            | film  | 1986 | Aliens                                                         | --            | --                     | --                       | --
+draugb            | film  | 1987 | Prince of Darkness                                             | --            | John Carpenter         | --                       | --
+draugb            | film  | 1987 | Walker                                                         | --            | Alex Cox               | western weirdo           | --
+draugb            | film  | 1988 | Oil Gobblers                                                   | --            | --                     | mock                     | --
+draugb            | film  | 1988 | On the Silver Globe                                            | --            | --                     | --                       | --
+draugb            | film  | 1988 | They Live                                                      | --            | John Carpenter         | --                       | --
+draugb            | film  | 1989 | DeepStar Six                                                   | --            | --                     | --                       | --
+draugb            | film  | 1989 | Elephant                                                       | --            | Alan Clarke            | crime thriller           | --
+draugb            | film  | 1989 | Tetsuo: The Iron Man                                           | Tetsuo        | --                     | --                       | --
+draugb            | film  | 1990 | Home Alone                                                     | --            | --                     | --                       | --
+draugb            | film  | 1990 | Jacob’s Ladder                                                 | --            | --                     | --                       | --
+draugb            | film  | 1990 | Total Recall                                                   | --            | --                     | --                       | --
+draugb            | film  | 1990 | Tremors                                                        | --            | --                     | --                       | --
+draugb            | film  | 1991 | Terminator 2: Judgment Day                                     | Terminator    | --                     | --                       | --
+draugb            | film  | 1991 | Zëiram                                                         | --            | --                     | --                       | --
+draugb            | film  | 1992 | Tetsuo II: Body Hammer                                         | Tetsuo        | --                     | --                       | --
+draugb            | film  | 1994 | In the Mouth of Madness                                        | --            | John Carpenter         | --                       | --
+draugb            | film  | 1994 | Stargate                                                       | --            | --                     | --                       | --
+draugb            | film  | 1994 | Timecop                                                        | --            | --                     | --                       | --
+draugb            | film  | 1994 | Zëiram 2                                                       | --            | --                     | --                       | --
+draugb            | film  | 1995 | 12 Monkeys                                                     | --            | Terry Gillam           | --                       | --
+draugb            | film  | 1995 | Batman Forever                                                 | --            | --                     | --                       | --
+draugb            | film  | 1995 | Gargoyles the Movie                                            | --            | --                     | --                       | --
+draugb            | film  | 1995 | Heat                                                           | --            | --                     | --                       | --
+draugb            | film  | 1995 | Mechanical Violator Hakaider                                   | --            | --                     | --                       | --
+draugb            | film  | 1995 | Se7en                                                          | --            | --                     | --                       | --
+draugb            | film  | 1995 | Tales from the Crypt: Demon Knight                             | --            | --                     | --                       | --
+draugb            | film  | 1995 | Twelve Monkeys                                                 | --            | --                     | --                       | --
+draugb            | film  | 1995 | Waterworld                                                     | --            | --                     | --                       | --
+draugb            | film  | 1996 | Escape from L.A.                                               | --            | John Carpenter         | --                       | --
+draugb            | film  | 1996 | Star Trek: First Contact                                       | --            | --                     | --                       | --
+draugb            | film  | 1996 | Star Trek: First Contact                                       | --            | --                     | --                       | --
+draugb            | film  | 1997 | Batman & Robin                                                 | --            | --                     | --                       | --
+draugb            | film  | 1997 | Event Horizon                                                  | --            | --                     | --                       | --
+draugb            | film  | 1997 | Men in Black                                                   | --            | --                     | --                       | --
+draugb            | film  | 1997 | Mimic                                                          | --            | --                     | --                       | --
+draugb            | film  | 1998 | Blade                                                          | --            | --                     | --                       | --
+draugb            | film  | 1998 | Dark City                                                      | --            | --                     | --                       | --
+draugb            | film  | 1998 | Godzilla                                                       | --            | --                     | --                       | --
+draugb            | film  | 1998 | Sphere                                                         | --            | --                     | --                       | --
+draugb            | film  | 1998 | The Faculty                                                    | --            | Robert Rodriguez       | scifi horror             | --
+draugb            | film  | 1999 | The 13th Warrior                                               | --            | --                     | --                       | --
+draugb            | film  | 1999 | The Matrix                                                     | The Matrix    | The Wachowskis         | --                       | --
+draugb            | film  | 1999 | The Thirteenth Floor                                           | --            | --                     | --                       | --
+draugb            | film  | 1999 | Virus                                                          | --            | --                     | --                       | --
+draugb            | film  | 2001 | Avalon                                                         | --            | --                     | --                       | --
+draugb            | film  | 2001 | Dagon                                                          | --            | --                     | --                       | --
+draugb            | film  | 2001 | Ghosts of Mars                                                 | --            | John Carpenter         | --                       | --
+draugb            | film  | 2001 | Tremors 3: Back to Perfection                                  | --            | --                     | --                       | --
+draugb            | film  | 2002 | 28 Days Later                                                  | 28 Days Later | --                     | --                       | --
+draugb            | film  | 2002 | Blade II                                                       | --            | --                     | --                       | --
+draugb            | film  | 2002 | Dog Soldiers                                                   | --            | --                     | --                       | --
+draugb            | film  | 2002 | Men in Black II                                                | --            | --                     | --                       | --
+draugb            | film  | 2002 | Minority Report                                                | --            | --                     | --                       | --
+draugb            | film  | 2002 | Resident Evil                                                  | --            | --                     | --                       | --
+draugb            | film  | 2003 | The Animatrix                                                  | The Matrix    | --                     | --                       | --
+draugb            | film  | 2003 | The Matrix Reloaded                                            | The Matrix    | The Wachowskis         | --                       | --
+draugb            | film  | 2003 | The Matrix Revolutions                                         | --            | --                     | --                       | --
+draugb            | film  | 2004 | AVP: Alien vs. Predator                                        | Alien         | --                     | --                       | --
+draugb            | film  | 2004 | Dawn of the Dead                                               | --            | --                     | --                       | --
+draugb            | film  | 2004 | Immortal                                                       | --            | --                     | --                       | --
+draugb            | film  | 2004 | R-Point                                                        | --            | --                     | psycho horror war        | --
+draugb            | film  | 2004 | Resident Evil: Apocalypse                                      | --            | --                     | --                       | --
+draugb            | film  | 2004 | The Chronicles of Riddick                                      | Riddick       | --                     | --                       | --
+draugb            | film  | 2004 | The Matrix Revolutions                                         | The Matrix    | The Wachowskis         | --                       | --
+draugb            | film  | 2005 | The Cave                                                       | --            | --                     | --                       | --
+draugb            | film  | 2005 | The Descent                                                    | --            | --                     | --                       | --
+draugb            | film  | 2005 | The Fog (2005)                                                 | --            | Rupert Wainwright      | --                       | --
+draugb            | film  | 2007 | 28 Weeks Later                                                 | 28 Days Later | --                     | --                       | --
+draugb            | film  | 2007 | Eden Log                                                       | --            | --                     | --                       | --
+draugb            | film  | 2007 | I Am Legend                                                    | --            | --                     | --                       | --
+draugb            | film  | 2007 | Resident Evil: Extinction                                      | --            | --                     | --                       | --
+draugb            | film  | 2007 | Sunshine                                                       | --            | --                     | --                       | --
+draugb            | film  | 2007 | The Mist                                                       | --            | --                     | --                       | --
+draugb            | film  | 2008 | Dante 01                                                       | --            | --                     | --                       | --
+draugb            | film  | 2008 | Doomsday                                                       | --            | --                     | --                       | --
+draugb            | film  | 2008 | Tokyo Gore Police                                              | --            | --                     | --                       | --
+draugb            | film  | 2009 | District 9                                                     | --            | --                     | --                       | --
+draugb            | film  | 2009 | Gamer                                                          | --            | --                     | --                       | --
+draugb            | film  | 2009 | Pandorum                                                       | --            | --                     | --                       | --
+draugb            | film  | 2009 | Tetsuo: The Bullet Man                                         | Tetsuo        | --                     | --                       | --
+draugb            | film  | 2011 | Attack the Block                                               | --            | --                     | --                       | --
+draugb            | film  | 2011 | Mermaids: The Body Found                                       | --            | --                     | mock                     | --
+draugb            | film  | 2011 | Source Code                                                    | --            | --                     | --                       | --
+draugb            | film  | 2011 | The Raid                                                       | --            | --                     | --                       | --
+draugb            | film  | 2012 | Dead Mine                                                      | --            | --                     | horror                   | --
+draugb            | film  | 2013 | Megalodon: The Monster Shark Lives                             | --            | --                     | mock                     | --
+draugb            | film  | 2013 | Oblivion                                                       | --            | Joseph Kosinski        | scifi                    | --
+draugb            | film  | 2013 | Riddick                                                        | --            | --                     | --                       | --
+draugb            | film  | 2013 | Riddick                                                        | Riddick       | --                     | --                       | --
+draugb            | film  | 2014 | Garm Wars: The Last Druid                                      | --            | --                     | --                       | --
+draugb            | film  | 2014 | Over the Garden Wall                                           | --            | --                     | --                       | --
+draugb            | film  | 2016 | Arrival                                                        | --            | --                     | --                       | --
+draugb            | film  | 2016 | Shin Godzilla                                                  | --            | --                     | --                       | --
+draugb            | film  | 2017 | Alien: Covenant                                                | --            | --                     | --                       | --
+draugb            | film  | 2017 | Attraction                                                     | --            | --                     | scifi action             | --
+draugb            | film  | 2017 | BLAME!                                                         | --            | --                     | --                       | --
+draugb            | film  | 2017 | Cold Skin                                                      | --            | --                     | --                       | --
+draugb            | film  | 2017 | The Mummy                                                      | --            | --                     | --                       | --
+draugb            | film  | 2018 | Prospect                                                       | --            | --                     | --                       | --
+draugb            | film  | 2019 | The Blackout                                                   | --            | --                     | scifi action thriller    | --
+draugb            | film  | 2020 | The Empty Man                                                  | --            | --                     | --                       | --
+draugb            | film  | 2020 | Underwater                                                     | --            | --                     | --                       | --
+draugb            | film  | 2021 | Dune                                                           | --            | --                     | --                       | --
+draugb            | film  | 2021 | Mad God                                                        | --            | --                     | --                       | --
+draugb            | film  | 2021 | The Matrix Resurrections                                       | The Matrix    | The Wachowskis         | --                       | --
+draugb            | film  | 2022 | All Quiet on the Western Front                                 | --            | --                     | war horror action        | --
+draugb            | film  | 2022 | Nope                                                           | --            | Jordan Peele           | scifi horror             | --
+draugb            | film  | 2023 | Boy Kills World                                                | --            | --                     | --                       | --
+draugb            | film  | 2024 | Monkey Man                                                     | --            | --                     | --                       | --
+draugb            | film  | 2024 | Sixty Minutes                                                  | --            | --                     | action sports crime      | --
+draugb            | film  | 2025 | 28 Years Later                                                 | 28 Days Later | --                     | --                       | --
+draugb            | film  | 2025 | Mission Impossible: The Final Reckoning                        | MI            | --                     | spy action               | --
+draugb            | film  | 2026 | 28 Years Later: The Bone Temple                                | 28 Days Later | --                     | --                       | --
+draugb            | game  | ---- | In Hope Voiden                                                 | --            | --                     | fps survival horror      | --
+draugb            | game  | ---- | Ironclad                                                       | --            | --                     | --                       | --
+draugb            | game  | ---- | Post Apocalypse Courier Service                                | --            | --                     | drive survival slop      | --
+draugb            | game  | ---- | Prospice                                                       | --            | --                     | drive horror             | --
+draugb            | game  | 1992 | Wolfenstein 3D                                                 | --            | id                     | fps 1p                   | --
+draugb            | game  | 1993 | Doom                                                           | Doom          | id                     | fps 1p                   | --
+draugb            | game  | 1994 | Doom II                                                        | Doom          | id                     | fps 1p                   | --
+draugb            | game  | 1994 | Marathon                                                       | Marathon      | Bungie                 | fps 1p                   | --
+draugb            | game  | 1995 | Command & Conquer                                              | C&C           | Westwood               | rts                      | --
+draugb            | game  | 1995 | Marathon 2: Durandal                                           | Marathon      | Bungie                 | fps 1p                   | --
+draugb            | game  | 1996 | Command & Conquer: Red Alert                                   | C&C           | Westwood               | rts                      | --
+draugb            | game  | 1996 | Marathon Infinity                                              | Marathon      | Bungie                 | fps 1p                   | --
+draugb            | game  | 1996 | Quake                                                          | Quake         | id                     | fps 1p                   | --
+draugb            | game  | 1996 | ZPC; Zero Population Count                                     | --            | Zombie                 | fps 1p                   | --
+draugb            | game  | 1997 | Chasm: The Rift                                                | --            | --                     | fps 1p mp                | --
+draugb            | game  | 1997 | GoldenEye 007                                                  | --            | Rare                   | fps 1p mp                | --
+draugb            | game  | 1998 | Half Life                                                      | Half Life     | Valve                  | fps 1p                   | --
+draugb            | game  | 1999 | Command & Conquer: Tiberian Sun                                | C&C           | Westwood               | rts                      | --
+draugb            | game  | 1999 | Half Life: Opposing Force                                      | Half Life     | Valve                  | fps 1p                   | --
+draugb            | game  | 2000 | Command & Conquer: Red Alert 2                                 | C&C           | Westwood               | rts                      | --
+draugb            | game  | 2000 | Perfect Dark                                                   | --            | Rare                   | fps 1p mp                | --
+draugb            | game  | 2000 | TimeSplitters                                                  | TimeSplitters | Free Radical           | --                       | --
+draugb            | game  | 2001 | Black Shades                                                   | Black Shades  | Wolfire                | fps 1p sim               | --
+draugb            | game  | 2001 | Half Life: Blue Shift                                          | Half Life     | Valve                  | fps 1p                   | --
+draugb            | game  | 2001 | Halo: Combat Evolved                                           | Halo          | Bungie                 | fps 1p mp                | --
+draugb            | game  | 2001 | Red Faction                                                    | Red Faction   | Volition               | fps 1p mp                | --
+draugb            | game  | 2002 | Command & Conquer: Renegade                                    | C&C           | Westwood               | action strategy          | --
+draugb            | game  | 2002 | Half Life: The Specialists Mod                                 | Half Life Mod | --                     | fps 1p                   | https://www.tsmod.net
+draugb            | game  | 2002 | Red Faction II                                                 | Red Faction   | Volition               | fps 1p mp                | --
+draugb            | game  | 2002 | TimeSplitters 2                                                | TimeSplitters | Free Radical           | --                       | --
+draugb            | game  | 2004 | Doom 3                                                         | Doom          | id                     | fps 1p                   | --
+draugb            | game  | 2004 | Half Life 2                                                    | Half Life     | Valve                  | fps 1p                   | --
+draugb            | game  | 2004 | Halo 2                                                         | Halo          | Bungie                 | fps 1p mp                | --
+draugb            | game  | 2005 | Project Snowblind                                              | Deus Ex       | Crystal Dynamics       | fps 1p                   | --
+draugb            | game  | 2005 | TimeSplitters: Future Perfect                                  | TimeSplitters | Free Radical           | --                       | --
+draugb            | game  | 2007 | Halo 3                                                         | Halo          | Bungie                 | fps 1p mp                | --
+draugb            | game  | 2007 | Hard Time                                                      | --            | MDickie                | action sim  	         | https://www.mdickie.com/prev_hardtime.htm
+draugb            | game  | 2008 | Fallout 3                                                      | Fallout       | --                     | --                       | --
+draugb            | game  | 2008 | Haze                                                           | --            | Free Radical           | fps 1p mp                | --
+draugb            | game  | 2009 | Black Shades iOS                                               | Black Shades  | Wolfire                | fps 1p sim               | --
+draugb            | game  | 2009 | Shin Megami Tensei: Strange Journey                            | SMT           | --                     | --                       | --
+draugb            | game  | 2010 | Fallout: New Vegas                                             | Fallout       | --                     | --                       | --
+draugb            | game  | 2011 | Red Faction: Armageddon                                        | Red Faction   | Volition               | tps 1p                   | --
+draugb            | game  | 2011 | Red Faction: Battlegrounds                                     | Red Faction   | Volition               | car 1p                   | --
+draugb            | game  | 2012 | Receiver                                                       | Receiver      | Wolfire                | fps 1p sim gun           | --
+draugb            | game  | 2014 | NaissanceE                                                     | --            | Limasse Five           | --                       | --
+draugb            | game  | 2015 | Sylvio                                                         | --            | Stroboskop             | fps horror adventure     | --
+draugb            | game  | 2016 | Doom (2016)                                                    | Doom          | id                     | fps 1p mp                | --
+draugb            | game  | 2017 | Entropy: Zero                                                  | Half Life     | Breadmen               | fps 1p                   | --
+draugb            | game  | 2017 | Pavlov                                                         | --            | --                     | --                       | --
+draugb            | game  | 2017 | SCP: Secret Laboratory                                         | SCP           | --                     | fps horror slop free     | --
+draugb            | game  | 2020 | Black Mesa                                                     | Half Life     | --                     | fps 1p                   | --
+draugb            | game  | 2020 | G String                                                       | --            | Eyaura                 | fps 1p                   | --
+draugb            | game  | 2020 | Hardspace: Shipbreaker                                         | --            | Blackbird              | --                       | --
+draugb            | game  | 2020 | Iron Harvest                                                   | --            | King Art               | rts                      | --
+draugb            | game  | 2020 | Receiver 2                                                     | Receiver      | Wolfire                | fps 1p sim gun           | --
+draugb            | game  | 2022 | Arma Reforger                                                  | Arma          | Bohemia                | fps tps sim              | --
+draugb            | game  | 2022 | Entropy: Zero  2                                               | Half Life     | Breadmen               | fps 1p                   | --
+draugb            | game  | 2022 | Selaco                                                         | --            | --                     | --                       | https://selacogame.com
+draugb            | game  | 2022 | Signalis                                                       | --            | --                     | --                       | --
+draugb            | game  | 2023 | Hrot                                                           | --            | Spytihněv              | fps 1p                   | --
+draugb            | game  | 2023 | Lethal Company                                                 | --            | Zeekerss               | slop                     | --
+draugb            | game  | 2023 | Mik                                                            | --            | --                     | parkour                  | --
+draugb            | game  | 2024 | B.C. Piezophile                                                | --            | --                     | fps action horror        | --
+draugb            | game  | 2024 | Forever Winter                                                 | --            | --                     | --                       | --
+draugb            | game  | 2024 | Metal Garden                                                   | --            | --                     | --                       | https://tinerasoft.itch.io/metal-garden
+draugb            | game  | 2024 | Mohrta                                                         | --            | Scumhead               | fps 1p                   | https://scumhead.itch.io/mohrta-demo
+draugb            | game  | 2024 | Nuclear Nightmare                                              | --            | --                     | slop                     | --
+draugb            | game  | 2024 | Project Silverfish                                             | --            | --                     | fps survival             | https://siris-pendrake.itch.io/project-silverfish
+draugb            | game  | 2024 | R.E.P.O.                                                       | --            | --                     | slop                     | --
+draugb            | game  | 2025 | Ambrosia Sky                                                   | --            | Soft Rains             | --                       | --
+draugb            | game  | 2025 | Atomfall                                                       | --            | --                     | action survival          | --
+draugb            | game  | 2025 | Cronos: New Dawn                                               | --            | --                     | --                       | https://cronosnewdawn.com
+draugb            | game  | 2025 | Deathground                                                    | --            | --                     | dino survival slop       | --
+draugb            | game  | 2025 | Doom: The Dark Ages                                            | Doom          | id                     | fps 1p                   | --
+draugb            | game  | 2025 | Mimesis                                                        | --            | --                     | slop                     | --
+draugb            | game  | 2025 | Motorslice                                                     | --            | --                     | --                       | --
+draugb            | game  | 2025 | Peak                                                           | --            | --                     | slop                     | --
+draugb            | game  | 2025 | Pigface                                                        | --            | --                     | --                       | --
+draugb            | game  | 2025 | Psycho Patrol R                                                | --            | --                     | fps 1p                   | --
+draugb            | game  | 2025 | Routine                                                        | --            | --                     | survival horror          | --
+draugb            | game  | 2025 | TimeSplitters: Rewind                                          | TimeSplitters | --                     | --                       | --
+draugb            | game  | 2025 | White Knuckle                                                  | --            | --                     | --                       | https://whiteknuckle.net
+draugb            | game  | 2026 | Klostyn                                                        | --            | --                     | --                       | --
+draugb            | game  | 2026 | Marathon (2026)                                                | Marathon      | Bungie                 | fps mp bad               | --
+draugb            | game  | 2026 | Ontos                                                          | --            | Frictional             | --                       | --
+draugb            | game  | 2026 | Pragmata                                                       | --            | Capcom                 | action adventure         | --
+draugb            | game  | 2027 | No Walls in Heaven                                             | --            | --                     | parkour                  | --
+draugb            | table | 1995 | Necromunda                                                     | Warhammer 40K | Games Workshop         | skirmish                 | --
+draugb            | tv    | 2007 | Primeval (TV)                                                  | --            | --                     | --                       | --
+draugb            | tv    | 2017 | Oats Studio - Volume 1 - Rakka                                 | --            | Oats Studio            | --                       | https://www.youtube.com/watch?v=VjQ2t_yNHQs
+draugb            | tv    | 2020 | Raised by Wolves                                               | --            | --                     | scifi drama              | --
+draugb            | tv    | 2021 | Foundation (TV)                                                | Foundation    | --                     | scifi drama              | --
+draugb            | tv    | 2024 | Time Bandits (TV)                                              | Time Bandits  | --                     | fantasy adventure comedy | --
+draugb horsewar   | game  | 2000 | Ring of Red                                                    | --            | Konami                 | strategy                 | --
+draugb raygame    | film  | 1998 | Ronin                                                          | --            | --                     | action thriller          | --
+draugb raygame    | game  | 2009 | Red Faction: Guerilla                                          | Red Faction   | Volition               | tps 1p mp                | --
+draugb simir      | book  | 2021 | Project Hail Mary                                              | --            | Andy Weir              | scifi                    | --
+draugb simir      | film  | 1981 | Outland                                                        | --            | --                     | --                       | --
+draugb simir      | film  | 2000 | Pitch Black                                                    | Riddick       | --                     | --                       | --
+draugb simir      | film  | 2009 | Moon                                                           | --            | --                     | --                       | --
+draugb simir      | film  | 2018 | Annihilation                                                   | --            | --                     | --                       | --
+draugb simir      | film  | 2025 | Mickey 17                                                      | --            | Bong Joon Ho           | scifi comedy satire      | --
+draugb simir      | game  | 2014 | Spintires                                                      | Spintires     | --                     | drive sim                | --
+draugb simir      | game  | 2017 | MudRunner                                                      | Spintires     | --                     | drive sim                | --
+draugb simir      | game  | 2018 | Subnautica                                                     | Subnautica    | Unknown Worlds         | --                       | --
+draugb simir      | game  | 2021 | Outer Wilds: Echoes of the Eye                                 | Outer Wilds   | Mobius                 | --                       | --
+draugb simir      | game  | 2021 | Subnautica: Below Zero                                         | Subnautica    | Unknown Worlds         | --                       | --
+draugb simir      | game  | 2026 | Subnautica 2                                                   | Subnautica    | Unknown Worlds         | --                       | --
+draugb tyrant     | anime | 2023 | Gargoyles: Dark Ages                                           | Gargoyles     | Greg Weisman           | --                       | https://gargoyles.fandom.com/wiki/Gargoyles:_The_Dark_Ages
+draugb_frontier   | anime | 1992 | FernGully: The Last Rainforest                                 | --            | --                     | --                       | --
+draugb_harbor     | film  | 1989 | DeepStar Six                                                   | --            | --                     | --                       | --
+draugb_harbor     | film  | 1989 | The Abyss                                                      | --            | --                     | --                       | --
+draugb_harbor     | film  | 2001 | Dagon                                                          | --            | --                     | --                       | --
+draugb_harbor     | film  | 2017 | Cold Skin                                                      | --            | --                     | --                       | --
+draugb_harbor     | film  | 2018 | The Meg                                                        | --            | --                     | --                       | --
+draugb_harbor     | film  | 2019 | The Lighthouse                                                 | --            | --                     | --                       | --
+draugb_harbor     | film  | 2020 | Underwater                                                     | --            | --                     | --                       | --
+draugb_tower      | anime | 2017 | BLAME!                                                         | --            | --                     | --                       | --

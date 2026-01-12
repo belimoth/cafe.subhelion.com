@@ -1,0 +1,29 @@
+PROJECT           | TYPE  | YEAR | TITLE                                                          | FRANCHISE     | BY                     | TAG                      | LINK
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+draugb tyrant     | anime | 2023 | Gargoyles: Dark Ages                                           | Gargoyles     | Greg Weisman           | --                       | https://gargoyles.fandom.com/wiki/Gargoyles:_The_Dark_Ages
+tyrant            | anime | 1985 | The Black Cauldron                                             | --            | --                     | --                       | --
+tyrant            | anime | 1994 | Samurai Shodown: The Movie                                     | Samsho        | --                     | --                       | --
+tyrant            | anime | 1997 | Revolutionary Girl Utena                                       | --            | Kunihiko Ikuhara       | --                       | --
+tyrant            | anime | 2001 | Claymore                                                       | --            | --                     | fantasy action           | --
+tyrant            | anime | 2021 | Ranking of Kings                                               | --            | Sōsuke Tōka            | fantasy                  | --
+tyrant            | film  | 1981 | Excalibur                                                      | --            | --                     | --                       | --
+tyrant            | film  | 1986 | The Name of the Rose                                           | --            | Jean-Jacques Annaud    | history mystery medieval | --
+tyrant            | film  | 1991 | Robin Hood: Prince of Thieves                                  | --            | Kevin Reynolds         | action adventure myth    | --
+tyrant            | film  | 1992 | Bram Stoker's Dracula                                          | --            | Francis Ford Coppola   | --                       | --
+tyrant            | film  | 1996 | Dragonheart                                                    | --            | Rob Cohen              | fantasy adventure        | --
+tyrant            | film  | 2074 | Play for Today - Penda's Fen                                   | --            | --                     | --                       | https://www.youtube.com/watch?v=oGL6eFHWefs
+tyrant            | game  | 1997 | Samurai Shodown RPG                                            | Samsho        | --                     | --                       | https://www.polygon.com/23982922/samurai-shodown-rpg-neogeo-snk-english-translation
+tyrant            | game  | 1998 | Guantlet: Legends                                              | Guantlet      | --                     | slash slop               | --
+tyrant            | game  | 2000 | Guantlet: Dark Legacy                                          | Guantlet      | --                     | slash slop               | --
+tyrant            | game  | 2000 | Guantlet: Seven Sorrows                                        | Guantlet      | --                     | slash slop               | --
+tyrant            | game  | 2004 | Wrath Unleashed                                                | --            | The Collective         | strategy action 1p mp    | --
+tyrant            | game  | 2008 | Kongai                                                         | --            | David Sirlin           | --                       | https://www.sirlin.net/articles/designing-kongai
+tyrant            | game  | 2015 | Mordheim: City of the Damned                                   | Warhammer     | Rogue Factor           | skirmish                 | --
+tyrant            | game  | 2019 | Samurai Shodown (2019)                                         | Samsho        | --                     | fighting                 | --
+tyrant            | table | 1475 | Chess                                                          | --            | --                     | --                       | --
+tyrant            | table | 1999 | Mordheim                                                       | Warhammer     | Games Workshop         | skirmish                 | --
+tyrant            | table | 2025 | Pilgrims of the Murk Dome                                      | --            | --                     | --                       | https://hollow-press.net/products/pilgrims-of-the-murk-dome-rpg
+tyrant_pound      | anime | 1988 | Oliver & Company                                               | --            | --                     | --                       | --
+tyrant_pound      | anime | 1989 | All Dogs Go to Heaven                                          | --            | --                     | --                       | --
+tyrant_pound      | film  | 1993 | Homeward Bound: The Incredible Journey                         | --            | --                     | --                       | --
+tyrant_pound      | film  | 1998 | Babe: Pig in the City                                          | --            | --                     | --                       | --

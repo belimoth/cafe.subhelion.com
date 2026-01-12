@@ -1,0 +1,9 @@
+PROJECT           | TYPE  | YEAR | TITLE                                                          | FRANCHISE     | BY                     | TAG                      | LINK
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+draugb horsewar   | game  | 2000 | Ring of Red                                                    | --            | Konami                 | strategy                 | --
+horsewar          | anime | 1981 | Mobile Suit Gundam I                                           | --            | --                     | --                       | --
+horsewar          | anime | 1982 | Blue Gale Xabungle                                             | --            | --                     | mecha adventure          | --
+horsewar          | anime | 1989 | Five Star Stories                                              | --            | --                     | mecha                    | --
+horsewar          | anime | 2007 | Gurenn Lagann                                                  | --            | --                     | mecha adventure          | --
+horsewar swatcity | anime | 1989 | Patlabor: The Movie                                            | --            | --                     | --                       | --
+horsewar swatcity | anime | 1993 | Patlabor 2: The Movie                                          | --            | --                     | --                       | --

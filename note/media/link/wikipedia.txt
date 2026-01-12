@@ -1,0 +1,221 @@
+anime | 1973 | Fantastic Planet                        | https://en.wikipedia.org/wiki/Fantastic_Planet
+anime | 1982 | Blue Gale Xabungle                      | https://en.wikipedia.org/wiki/Combat_Mecha_Xabungle
+anime | 1982 | Gandahar                                | https://en.wikipedia.org/wiki/Gandahar_(film)
+anime | 1982 | Time Masters                            | https://en.wikipedia.org/wiki/Les_Maîtres_du_temps
+anime | 1986 | Dirty Pair: Project Eden                | https://en.wikipedia.org/wiki/Dirty_Pair:_Project_Eden
+anime | 1988 | Gunbuster                               | https://en.wikipedia.org/wiki/Gunbuster
+anime | 1989 | Five Star Stories                       | https://en.wikipedia.org/wiki/The_Five_Star_Stories
+anime | 1991 | Æon Flux                                | https://en.wikipedia.org/wiki/Æon_Flux
+anime | 1991 | Pirates of Dark Water                   | https://en.wikipedia.org/wiki/The_Pirates_of_Dark_Water
+anime | 1992 | Batman (TV)                             | https://en.wikipedia.org/wiki/Batman:_The_Animated_Series
+anime | 1992 | X-Men (TV)                              | https://en.wikipedia.org/wiki/X-Men:_The_Animated_Series
+anime | 1994 | Gargoyles (TV)                          | https://en.wikipedia.org/wiki/Gargoyles_(TV_series)
+anime | 1994 | ReBoot (TV)                             | https://en.wikipedia.org/wiki/ReBoot
+anime | 1994 | Samurai Shodown: The Movie              | https://en.wikipedia.org/wiki/Samurai_Shodown:_The_Motion_Picture
+anime | 1997 | Revolutionary Girl Utena                | https://en.wikipedia.org/wiki/Revolutionary_Girl_Utena
+anime | 1997 | Virus Buster Serge                      | https://en.wikipedia.org/wiki/Virus_Buster_Serge
+anime | 1999 | Batman Beyond                           | https://en.wikipedia.org/wiki/Batman_Beyond
+anime | 1999 | Futurama                                | https://en.wikipedia.org/wiki/Futurama
+anime | 2001 | Claymore                                | https://en.wikipedia.org/wiki/Claymore_(manga)
+anime | 2001 | Trava: Fist Planet                      | https://en.wikipedia.org/wiki/Trava:_Fist_Planet
+anime | 2004 | All You Need Is Kill                    | https://en.wikipedia.org/wiki/All_You_Need_Is_Kill
+anime | 2004 | Dead Leaves                             | https://en.wikipedia.org/wiki/Dead_Leaves
+anime | 2004 | Gunbuster 2: Diebuster                  | https://en.wikipedia.org/wiki/Diebuster
+anime | 2007 | Gurenn Lagann                           | https://en.wikipedia.org/wiki/Gurren_Lagann
+anime | 2015 | Gate                                    | https://en.wikipedia.org/wiki/Gate_(novel_series)
+anime | 2018 | Hell's Paradise                         | https://en.wikipedia.org/wiki/Hell%27s_Paradise:_Jigokuraku
+anime | 2019 | Ling Cage                               | https://en.wikipedia.org/wiki/Ling_Cage
+anime | 2021 | Ranking of Kings                        | https://en.wikipedia.org/wiki/Ranking_of_Kings
+anime | 2023 | Scavengers Reign                        | https://en.wikipedia.org/wiki/Scavengers_Reign
+anime | 2024 | Centuria                                | https://en.wikipedia.org/wiki/Centuria_(manga)
+anime | 2024 | DeDeDeDe                                | https://en.wikipedia.org/wiki/Dead_Dead_Demon%27s_Dededede_Destruction
+book  | 2007 | Unwind                                  | https://en.wikipedia.org/wiki/Unwind_(novel)
+book  | 2011 | The Martian                             | https://en.wikipedia.org/wiki/The_Martian_(Weir_novel)
+book  | 2016 | Dark Matter                             | https://en.wikipedia.org/wiki/Dark_Matter_(Crouch_novel)
+book  | 2017 | Artemis                                 | https://en.wikipedia.org/wiki/Artemis_(novel)
+book  | 2021 | Project Hail Mary                       | https://en.wikipedia.org/wiki/Project_Hail_Mary
+comic | 1977 | Life in Hell                            | https://en.wikipedia.org/wiki/Life_in_Hell
+film  | 1957 | The Monolith Monsters                   | https://en.wikipedia.org/wiki/The_Monolith_Monsters
+film  | 1958 | Invention for Destruction               | https://en.wikipedia.org/wiki/Invention_for_Destruction
+film  | 1964 | Kwaidan; "Ghost Stories"                | https://en.wikipedia.org/wiki/Kwaidan_(film)
+film  | 1977 | Alternative 3                           | https://en.wikipedia.org/wiki/Alternative_3
+film  | 1977 | Jabberwocky                             | https://en.wikipedia.org/wiki/Jabberwocky_(1977_film)
+film  | 1977 | Sorceror                                | https://en.wikipedia.org/wiki/Sorcerer_(film)
+film  | 1981 | My Dinner with Andre                    | https://en.wikipedia.org/wiki/My_Dinner_with_Andre
+film  | 1981 | Time Bandits                            | https://en.wikipedia.org/wiki/Time_Bandits
+film  | 1982 | Burden of Dreams                        | https://en.wikipedia.org/wiki/Burden_of_Dreams
+film  | 1983 | Christine                               | https://en.wikipedia.org/wiki/Christine_(1983_film)
+film  | 1984 | Threads                                 | https://en.wikipedia.org/wiki/Threads_(1984_film)
+film  | 1985 | Brazil                                  | https://en.wikipedia.org/wiki/Brazil_(1985_film)
+film  | 1985 | Cocoon                                  | https://en.wikipedia.org/wiki/Cocoon_(film)
+film  | 1987 | Walker                                  | https://en.wikipedia.org/wiki/Walker_(film)
+film  | 1988 | Oil Gobblers                            | https://en.wikipedia.org/wiki/Oil_Gobblers
+film  | 1988 | The Adventures of Baron Munchausen      | https://en.wikipedia.org/wiki/The_Adventures_of_Baron_Munchausen
+film  | 1989 | Honey I Shrunk the Kids                 | https://en.wikipedia.org/wiki/Honey,_I_Shrunk_the_Kids
+film  | 1991 | Oscar                                   | https://en.wikipedia.org/wiki/Oscar_(1991_film)
+film  | 1991 | The Fisher King                         | https://en.wikipedia.org/wiki/The_Fisher_King
+film  | 1995 | 12 Monkeys                              | https://en.wikipedia.org/wiki/12_Monkeys
+film  | 1995 | The Usual Suspects                      | https://en.wikipedia.org/wiki/The_Usual_Suspects
+film  | 1996 | Dragonheart                             | https://en.wikipedia.org/wiki/Dragonheart
+film  | 1996 | Mission Impossible                      | https://en.wikipedia.org/wiki/Mission:_Impossible_(film)
+film  | 1997 | Conspiracy Theory                       | https://en.wikipedia.org/wiki/Conspiracy_Theory_(film)
+film  | 1997 | Gattaca                                 | https://en.wikipedia.org/wiki/Gattaca
+film  | 1998 | Fear and Loathing in Las Vegas          | https://en.wikipedia.org/wiki/Fear_and_Loathing_in_Las_Vegas_(film)
+film  | 1998 | Ronin                                   | https://en.wikipedia.org/wiki/Ronin_(film)
+film  | 1998 | The Faculty                             | https://en.wikipedia.org/wiki/The_Faculty
+film  | 1999 | The Matrix                              | https://en.wikipedia.org/wiki/The_Matrix
+film  | 2000 | Mission Impossible 2                    | https://en.wikipedia.org/wiki/Mission:_Impossible_2
+film  | 2002 | City of God                             | https://en.wikipedia.org/wiki/City_of_God_(2002_film)
+film  | 2003 | The Animatrix                           | https://en.wikipedia.org/wiki/The_Animatrix
+film  | 2003 | The Matrix Reloaded                     | https://en.wikipedia.org/wiki/The_Matrix_Reloaded
+film  | 2004 | R-Point                                 | https://en.wikipedia.org/wiki/R-Point
+film  | 2004 | The Matrix Revolutions                  | https://en.wikipedia.org/wiki/The_Matrix_Revolutions
+film  | 2005 | The Brothers Grimm                      | https://en.wikipedia.org/wiki/The_Brothers_Grimm_(film)
+film  | 2005 | Tideland                                | https://en.wikipedia.org/wiki/Tideland_(film)
+film  | 2006 | Mission Impossible 3                    | https://en.wikipedia.org/wiki/Mission:_Impossible_III
+film  | 2009 | The Imaginarium of Doctor Parnassus     | https://en.wikipedia.org/wiki/The_Imaginarium_of_Doctor_Parnassus
+film  | 2011 | Mermaids: The Body Found                | https://en.wikipedia.org/wiki/Mermaids:_The_Body_Found
+film  | 2011 | Mission Impossible: Ghost Protocol      | https://en.wikipedia.org/wiki/Mission:_Impossible_%E2%80%93_Ghost_Protocol
+film  | 2012 | Dead Mine                               | https://en.wikipedia.org/wiki/Dead_Mine
+film  | 2012 | Siege Lord 2: Day of the Siege          | https://en.wikipedia.org/wiki/The_Day_of_the_Siege:_September_Eleven_1683
+film  | 2013 | Coherence                               | https://en.wikipedia.org/wiki/Coherence_(film)
+film  | 2013 | Megalodon: The Monster Shark Lives      | https://en.wikipedia.org/wiki/Megalodon:_The_Monster_Shark_Lives
+film  | 2013 | The Zero Theorem                        | https://en.wikipedia.org/wiki/The_Zero_Theorem
+film  | 2015 | Anomalisa                               | https://en.wikipedia.org/wiki/Anomalisa
+film  | 2015 | Jupiter Ascending                       | https://en.wikipedia.org/wiki/Jupiter_Ascending
+film  | 2015 | Mission Impossible: Rogue Nation        | https://en.wikipedia.org/wiki/Mission:_Impossible_%E2%80%93_Rogue_Nation
+film  | 2017 | Attraction                              | https://en.wikipedia.org/wiki/Attraction_(2017_film)
+film  | 2018 | Mission Impossible: Fallout             | https://en.wikipedia.org/wiki/Mission:_Impossible_%E2%80%93_Fallout
+film  | 2018 | The Man Who Killed Don Quixote          | https://en.wikipedia.org/wiki/The_Man_Who_Killed_Don_Quixote
+film  | 2019 | The Blackout                            | https://en.wikipedia.org/wiki/The_Blackout_(2019_film)
+film  | 2021 | The King's Man                          | https://en.wikipedia.org/wiki/The_King%27s_Man
+film  | 2021 | The Matrix Resurrections                | https://en.wikipedia.org/wiki/The_Matrix_Resurrections
+film  | 2022 | Nope                                    | https://en.wikipedia.org/wiki/Nope_(film)
+film  | 2023 | Landscape with Invisible Hand           | https://en.wikipedia.org/wiki/Landscape_with_Invisible_Hand
+film  | 2023 | Mission Impossible: Dead Reckoning      | https://en.wikipedia.org/wiki/Mission:_Impossible_%E2%80%93_Dead_Reckoning_Part_One
+film  | 2023 | The Gullspång Miracle                   | https://en.wikipedia.org/wiki/The_Gullspång_Miracle
+film  | 2024 | I Saw the TV Glow                       | https://en.wikipedia.org/wiki/I_Saw_the_TV_Glow
+film  | 2025 | Mickey 17                               | https://en.wikipedia.org/wiki/Mickey_17
+film  | 2025 | Mission Impossible: The Final Reckoning | https://en.wikipedia.org/wiki/Mission:_Impossible_%E2%80%93_The_Final_Reckoning
+game  | 1991 | Catacomb 3D                             | https://en.wikipedia.org/wiki/Catacomb_3-D
+game  | 1991 | Hovertank                               | https://en.wikipedia.org/wiki/Hovertank_One
+game  | 1992 | Wolfenstein 3D                          | https://en.wikipedia.org/wiki/Wolfenstein_3D
+game  | 1993 | Doom                                    | https://en.wikipedia.org/wiki/Doom_(1993_video_game)
+game  | 1993 | Pathways into Darkness                  | https://en.wikipedia.org/wiki/Pathways_into_Darkness
+game  | 1994 | Doom II                                 | https://en.wikipedia.org/wiki/Doom_II
+game  | 1994 | Heretic                                 | https://en.wikipedia.org/wiki/Heretic_(video_game)
+game  | 1994 | Marathon                                | https://en.wikipedia.org/wiki/Marathon_(video_game)
+game  | 1994 | Sensory Overload                        | https://en.wikipedia.org/wiki/Sensory_Overload_(video_game)
+game  | 1995 | Havoc                                   | https://en.wikipedia.org/wiki/Havoc_(video_game)
+game  | 1995 | Hexen: Beyond Heretic                   | https://en.wikipedia.org/wiki/Hexen:_Beyond_Heretic
+game  | 1995 | Marathon 2: Durandal                    | https://en.wikipedia.org/wiki/Marathon_2:_Durandal
+game  | 1996 | Dark Vengeance                          | https://en.wikipedia.org/wiki/Dark_Vengeance_(video_game)
+game  | 1996 | Marathon Infinity                       | https://en.wikipedia.org/wiki/Marathon_Infinity
+game  | 1996 | Prime Target                            | https://en.wikipedia.org/wiki/Prime_Target
+game  | 1996 | Quake                                   | https://en.wikipedia.org/wiki/Quake_(video_game)
+game  | 1996 | Syndicate Wars                          | https://en.wikipedia.org/wiki/Syndicate_Wars
+game  | 1996 | ZPC; Zero Population Count              | https://en.wikipedia.org/wiki/ZPC
+game  | 1997 | Chasm: The Rift                         | https://en.wikipedia.org/wiki/Chasm:_The_Rift
+game  | 1997 | Damage Incorporated                     | https://en.wikipedia.org/wiki/Damage_Incorporated
+game  | 1997 | Excalibur: Morgana's Revenge            | https://en.wikipedia.org/wiki/Excalibur:_Morgana%27s_Revenge
+game  | 1997 | GoldenEye 007                           | https://en.wikipedia.org/wiki/GoldenEye_007
+game  | 1997 | Hexen II                                | https://en.wikipedia.org/wiki/Hexen_II
+game  | 1997 | Quake II                                | https://en.wikipedia.org/wiki/Quake_II
+game  | 1998 | Guantlet: Legends                       | https://en.wikipedia.org/wiki/Gauntlet_Legends
+game  | 1998 | Half Life                               | https://en.wikipedia.org/wiki/Half-Life_(video_game)
+game  | 1998 | Shogo: Mobile Armor Division            | https://en.wikipedia.org/wiki/Shogo:_Mobile_Armor_Division
+game  | 1999 | Half Life: Opposing Force               | https://en.wikipedia.org/wiki/Half-Life:_Opposing_Force
+game  | 1999 | Quake III Arena                         | https://en.wikipedia.org/wiki/Quake_III_Arena
+game  | 2000 | Daikatana                               | https://en.wikipedia.org/wiki/Daikatana
+game  | 2000 | Deus Ex                                 | https://en.wikipedia.org/wiki/Deus_Ex_(video_game)
+game  | 2000 | Guantlet: Dark Legacy                   | https://en.wikipedia.org/wiki/Gauntlet_Dark_Legacy
+game  | 2000 | Guantlet: Seven Sorrows                 | https://en.wikipedia.org/wiki/Gauntlet:_Seven_Sorrows
+game  | 2000 | Perfect Dark                            | https://en.wikipedia.org/wiki/Perfect_Dark
+game  | 2000 | Ring of Red                             | https://en.wikipedia.org/wiki/Ring_of_Red
+game  | 2000 | TimeSplitters                           | https://en.wikipedia.org/wiki/TimeSplitters_(video_game)
+game  | 2001 | Half Life: Blue Shift                   | https://en.wikipedia.org/wiki/Half-Life:_Blue_Shift
+game  | 2001 | Halo: Combat Evolved                    | https://en.wikipedia.org/wiki/Halo:_Combat_Evolved
+game  | 2001 | Red Faction                             | https://en.wikipedia.org/wiki/Red_Faction_(video_game)
+game  | 2002 | Red Faction II                          | https://en.wikipedia.org/wiki/Red_Faction_II
+game  | 2002 | TimeSplitters 2                         | https://en.wikipedia.org/wiki/TimeSplitters_2
+game  | 2003 | Deus Ex: Invisible War                  | https://en.wikipedia.org/wiki/Deus_Ex:_Invisible_War
+game  | 2003 | Enter The Matrix                        | https://en.wikipedia.org/wiki/Enter_the_Matrix
+game  | 2004 | Breakdown                               | https://en.wikipedia.org/wiki/Breakdown_(video_game)
+game  | 2004 | Doom 3                                  | https://en.wikipedia.org/wiki/Doom_3
+game  | 2004 | Half Life 2                             | https://en.wikipedia.org/wiki/Half-Life_2
+game  | 2004 | Halo 2                                  | https://en.wikipedia.org/wiki/Halo_2
+game  | 2004 | Thief: Deadly Shadows                   | https://en.wikipedia.org/wiki/Thief:_Deadly_Shadows
+game  | 2004 | Wrath Unleashed                         | https://en.wikipedia.org/wiki/Wrath_Unleashed
+game  | 2005 | Chibi-Robo!                             | https://en.wikipedia.org/wiki/Chibi-Robo!
+game  | 2005 | Project Snowblind                       | https://en.wikipedia.org/wiki/Project_Snowblind
+game  | 2005 | The Matrix: Path of Neo                 | https://en.wikipedia.org/wiki/The_Matrix:_Path_of_Neo
+game  | 2005 | TimeSplitters: Future Perfect           | https://en.wikipedia.org/wiki/TimeSplitters:_Future_Perfect
+game  | 2007 | Halo 3                                  | https://en.wikipedia.org/wiki/Halo_3
+game  | 2007 | Penumbra: Overture                      | https://en.wikipedia.org/wiki/Penumbra:_Overture
+game  | 2007 | Shadowrun                               | https://en.wikipedia.org/wiki/Shadowrun_(2007_video_game)
+game  | 2008 | Haze                                    | https://en.wikipedia.org/wiki/Haze_(video_game)
+game  | 2008 | Penumbra: Black Plague                  | https://en.wikipedia.org/wiki/Penumbra:_Black_Plague
+game  | 2009 | Fuel                                    | https://en.wikipedia.org/wiki/Fuel_(video_game)
+game  | 2009 | Penumbra: Requiem                       | https://en.wikipedia.org/wiki/Penumbra:_Requiem
+game  | 2009 | Red Faction: Guerilla                   | https://en.wikipedia.org/wiki/Red_Faction:_Guerrilla
+game  | 2009 | Shin Megami Tensei: Strange Journey     | https://en.wikipedia.org/wiki/Shin_Megami_Tensei:_Strange_Journey
+game  | 2010 | Amnesia: The Dark Descent               | https://en.wikipedia.org/wiki/Amnesia:_The_Dark_Descent
+game  | 2011 | Rage                                    | https://en.wikipedia.org/wiki/Rage_(video_game)
+game  | 2011 | Red Faction: Armageddon                 | https://en.wikipedia.org/wiki/Red_Faction:_Armageddon
+game  | 2011 | Red Faction: Battlegrounds              | https://en.wikipedia.org/wiki/Red_Faction:_Battlegrounds
+game  | 2013 | Amnesia: A Machine for Pigs             | https://en.wikipedia.org/wiki/Amnesia:_A_Machine_for_Pigs
+game  | 2014 | NaissanceE                              | https://en.wikipedia.org/wiki/NaissanceE
+game  | 2014 | Spintires                               | https://en.wikipedia.org/wiki/Spintires
+game  | 2015 | Soma                                    | https://en.wikipedia.org/wiki/Soma_(video_game)
+game  | 2015 | Sylvio                                  | https://en.wikipedia.org/wiki/Sylvio_(video_game)
+game  | 2016 | Doom (2016)                             | https://en.wikipedia.org/wiki/Doom_(2016_video_game)
+game  | 2017 | MudRunner                               | https://en.wikipedia.org/wiki/MudRunner
+game  | 2018 | Dusk                                    | https://en.wikipedia.org/wiki/Dusk_(video_game)
+game  | 2018 | Subnautica                              | https://en.wikipedia.org/wiki/Subnautica
+game  | 2019 | Outer Wilds                             | https://en.wikipedia.org/wiki/Outer_Wilds
+game  | 2019 | Rage 2                                  | https://en.wikipedia.org/wiki/Rage_2
+game  | 2019 | Samurai Shodown (2019)                  | https://en.wikipedia.org/wiki/Samurai_Shodown_(2019_video_game)
+game  | 2020 | Amnesia: Rebirth                        | https://en.wikipedia.org/wiki/Amnesia:_Rebirth
+game  | 2020 | Black Mesa                              | https://en.wikipedia.org/wiki/Black_Mesa_(video_game)
+game  | 2020 | Doom Eternal                            | https://en.wikipedia.org/wiki/Doom_Eternal
+game  | 2020 | G String                                | https://en.wikipedia.org/wiki/G_String_(video_game)
+game  | 2020 | Hardspace: Shipbreaker                  | https://en.wikipedia.org/wiki/Hardspace:_Shipbreaker
+game  | 2020 | Iron Harvest                            | https://en.wikipedia.org/wiki/Iron_Harvest
+game  | 2020 | Ultrakill                               | https://en.wikipedia.org/wiki/Ultrakill
+game  | 2021 | Subnautica: Below Zero                  | https://en.wikipedia.org/wiki/Subnautica:_Below_Zero
+game  | 2022 | Amid Evil                               | https://en.wikipedia.org/wiki/Amid_Evil
+game  | 2022 | Arma Reforger                           | https://en.wikipedia.org/wiki/Arma_Reforger
+game  | 2022 | Entropy: Zero  2                        | https://en.wikipedia.org/wiki/Entropy:_Zero_2
+game  | 2022 | Gloomwood                               | https://en.wikipedia.org/wiki/Gloomwood
+game  | 2022 | Iron Lung                               | https://en.wikipedia.org/wiki/Iron_Lung_(video_game)
+game  | 2022 | Norco                                   | https://en.wikipedia.org/wiki/Norco_(video_game)
+game  | 2022 | Quake Champions                         | https://en.wikipedia.org/wiki/Quake_Champions
+game  | 2022 | Signalis                                | https://en.wikipedia.org/wiki/Signalis
+game  | 2023 | Amnesia: The Bunker                     | https://en.wikipedia.org/wiki/Amnesia:_The_Bunker
+game  | 2023 | Hrot                                    | https://en.wikipedia.org/wiki/Hrot
+game  | 2023 | Lethal Company                          | https://en.wikipedia.org/wiki/Lethal_Company
+game  | 2023 | Mars First Logistics                    | https://en.wikipedia.org/wiki/Mars_First_Logistics
+game  | 2023 | Mosa Lina                               | https://en.wikipedia.org/wiki/Mosa_Lina
+game  | 2023 | Trepang²                                | https://en.wikipedia.org/wiki/Trepang2
+game  | 2024 | Animal Well                             | https://en.wikipedia.org/wiki/Animal_Well
+game  | 2024 | Mouthwashing                            | https://en.wikipedia.org/wiki/Mouthwashing_(video_game)
+game  | 2024 | R.E.P.O.                                | https://en.wikipedia.org/wiki/R.E.P.O.
+game  | 2025 | Deathground                             | https://en.wikipedia.org/wiki/Deathground_(upcoming_video_game)
+game  | 2025 | Doom: The Dark Ages                     | https://en.wikipedia.org/wiki/Doom:_The_Dark_Ages
+game  | 2025 | Peak                                    | https://en.wikipedia.org/wiki/Peak_(video_game)
+game  | 2025 | Psycho Patrol R                         | https://en.wikipedia.org/wiki/Psycho_Patrol_R
+game  | 2026 | Marathon (2026)                         | https://en.wikipedia.org/wiki/Marathon_(2026_video_game)
+game  | 2026 | Pragmata                                | https://en.wikipedia.org/wiki/Pragmata
+game  | 2026 | Subnautica 2                            | https://en.wikipedia.org/wiki/Subnautica_2
+table | 1475 | Chess                                   | https://en.wikipedia.org/wiki/Chess
+table | 1995 | Necromunda                              | https://en.wikipedia.org/wiki/Necromunda
+table | 1999 | Mordheim                                | https://en.wikipedia.org/wiki/Mordheim
+tv    | 2007 | Primeval (TV)                           | https://en.wikipedia.org/wiki/Primeval_(TV_series)
+tv    | 2015 | Mr. Robot                               | https://en.wikipedia.org/wiki/Mr._Robot
+tv    | 2017 | The Orville                             | https://en.wikipedia.org/wiki/The_Orville
+tv    | 2020 | Raised by Wolves                        | https://en.wikipedia.org/wiki/Raised_by_Wolves_(American_TV_series)
+tv    | 2021 | Foundation (TV)                         | https://en.wikipedia.org/wiki/Foundation_(TV_series)
+tv    | 2021 | Wheel of Time                           | https://en.wikipedia.org/wiki/The_Wheel_of_Time_(TV_series)
+tv    | 2022 | Surface                                 | https://en.wikipedia.org/wiki/Surface_(2022_TV_series)
+tv    | 2024 | Fallout (TV)                            | https://en.wikipedia.org/wiki/Fallout_(American_TV_series)
+tv    | 2024 | Time Bandits                            | https://en.wikipedia.org/wiki/Time_Bandits_(TV_series)

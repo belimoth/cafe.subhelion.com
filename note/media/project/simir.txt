@@ -1,0 +1,35 @@
+PROJECT           | TYPE  | YEAR | TITLE                                                          | FRANCHISE     | BY                     | TAG                      | LINK
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+draugb simir      | book  | 2021 | Project Hail Mary                                              | --            | Andy Weir              | scifi                    | --
+draugb simir      | film  | 1981 | Outland                                                        | --            | --                     | --                       | --
+draugb simir      | film  | 2000 | Pitch Black                                                    | Riddick       | --                     | --                       | --
+draugb simir      | film  | 2009 | Moon                                                           | --            | --                     | --                       | --
+draugb simir      | film  | 2018 | Annihilation                                                   | --            | --                     | --                       | --
+draugb simir      | film  | 2025 | Mickey 17                                                      | --            | Bong Joon Ho           | scifi comedy satire      | --
+draugb simir      | game  | 2014 | Spintires                                                      | Spintires     | --                     | drive sim                | --
+draugb simir      | game  | 2017 | MudRunner                                                      | Spintires     | --                     | drive sim                | --
+draugb simir      | game  | 2018 | Subnautica                                                     | Subnautica    | Unknown Worlds         | --                       | --
+draugb simir      | game  | 2021 | Outer Wilds: Echoes of the Eye                                 | Outer Wilds   | Mobius                 | --                       | --
+draugb simir      | game  | 2021 | Subnautica: Below Zero                                         | Subnautica    | Unknown Worlds         | --                       | --
+draugb simir      | game  | 2026 | Subnautica 2                                                   | Subnautica    | Unknown Worlds         | --                       | --
+simir             | anime | 1988 | The Land Before Time                                           | --            | --                     | --                       | --
+simir             | anime | 2008 | WALL·E                                                         | --            | --                     | --                       | --
+simir             | anime | 2023 | Scavengers Reign                                               | Scavengers    | Charles Huettner       | scifi                    | --
+simir             | book  | 2011 | The Martian                                                    | --            | Andy Weir              | scifi                    | --
+simir             | film  | 1968 | 2001: A Space Odyssey                                          | --            | --                     | --                       | --
+simir             | film  | 1984 | 2010: The Year We Make Contact                                 | --            | --                     | --                       | --
+simir             | film  | 2000 | Mission to Mars                                                | --            | --                     | --                       | --
+simir             | film  | 2000 | Red Planet                                                     | --            | --                     | --                       | --
+simir             | film  | 2013 | Europa Report                                                  | --            | --                     | --                       | --
+simir             | film  | 2013 | Gravity                                                        | --            | --                     | --                       | --
+simir             | film  | 2014 | Interstellar                                                   | --            | --                     | --                       | --
+simir             | film  | 2016 | Kedi                                                           | --            | --                     | --                       | --
+simir             | film  | 2017 | Blue Planet II                                                 | --            | --                     | --                       | --
+simir             | film  | 2018 | The Meg                                                        | --            | --                     | --                       | --
+simir             | film  | 2019 | Ad Astra                                                       | --            | --                     | --                       | --
+simir             | film  | 2019 | Ad Astra                                                       | --            | --                     | --                       | --
+simir             | film  | 2023 | Landscape with Invisible Hand                                  | --            | --                     | scifi comedy             | --
+simir             | game  | 2019 | Outer Wilds                                                    | Outer Wilds   | Mobius                 | --                       | --
+simir             | game  | 2023 | Mars First Logistics                                           | --            | --                     | --                       | --
+simir             | short | 2016 | Scavengers                                                     | Scavengers    | Charles Huettner       | scifi                    | https://www.youtube.com/watch?v=1TRzemJbUsw
+swatcity simir    | film  | 2013 | Oblivion                                                       | --            | --                     | --                       | --

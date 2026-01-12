@@ -1,0 +1,10 @@
+PROJECT           | TYPE  | YEAR | TITLE                                                          | FRANCHISE     | BY                     | TAG                      | LINK
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--                | book  | 2016 | Dark Matter                                                    | --            | Blake Crouch           | scifi thriller           | --
+--                | book  | 2017 | Artemis                                                        | --            | Andy Weir              | scifi                    | --
+--                | comic | 1977 | Life in Hell                                                   | --            | Matt Groenig           | comedy satire            | --
+--                | web   | ---- | Codicia Foundation                                             | --            | --                     | --                       | --
+draugb            | book  | 2007 | Unwind                                                         | --            | Neal Shusterman        | scifi dystopia adventure | --
+draugb simir      | book  | 2021 | Project Hail Mary                                              | --            | Andy Weir              | scifi                    | --
+draugb swatcity   | toy   |      | Cozmo the Robot                                                | --            | --                     | --                       | --
+simir             | book  | 2011 | The Martian                                                    | --            | Andy Weir              | scifi                    | --

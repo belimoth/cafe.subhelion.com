@@ -1,0 +1,850 @@
+ _ | film  | 1979 | The Warriors                                                   | --
+ x | anime | 1937 | Snow White and the Seven Dwarfs                                | --
+ x | anime | 1940 | Fantasia                                                       | --
+ x | anime | 1940 | Pinocchio                                                      | --
+ x | anime | 1941 | Dumbo                                                          | --
+ x | anime | 1942 | Bambi                                                          | --
+ x | anime | 1950 | Cinderella                                                     | --
+ x | anime | 1951 | Alice in Wonderland                                            | --
+ x | anime | 1953 | Peter Pan                                                      | --
+ x | anime | 1955 | Lady and the Tramp                                             | --
+ x | anime | 1959 | Sleeping Beauty                                                | --
+ x | anime | 1961 | One Hundred and One Dalmatians                                 | --
+ x | anime | 1964 | Rudolph the Red-Nosed Reindeer                                 | --
+ x | anime | 1967 | The Jungle Book                                                | --
+ x | anime | 1969 | Frosty the Snowman                                             | --
+ x | anime | 1970 | The Aristocats                                                 | ♥
+ x | anime | 1973 | Belladonna of Sadness                                          | --
+ x | anime | 1973 | Charlotte's Web                                                | --
+ x | anime | 1973 | Fantastic Planet                                               | ♥
+ x | anime | 1973 | Robin Hood                                                     | --
+ x | anime | 1977 | The Many Adventures of Winnie the Pooh                         | --
+ x | anime | 1977 | The Rescuers                                                   | ♥ --
+ x | anime | 1977 | Wizards                                                        | ♥ ★★★★ this slaps actually, i was wrong
+ x | anime | 1978 | The Lord of the Rings                                          | --
+ x | anime | 1978 | Watership Down                                                 | --
+ x | anime | 1981 | The Fox and the Hound                                          | --
+ x | anime | 1982 | The Last Unicorn                                               | ♥
+ x | anime | 1982 | The Secret of NIMH                                             | ♥
+ x | anime | 1985 | Angel's Egg                                                    | ♥
+ x | anime | 1986 | An American Tail                                               | --
+ x | anime | 1986 | Fist of the North Star                                         | ♥
+ x | anime | 1986 | The Great Mouse Detective                                      | --
+ x | anime | 1987 | The Brave Little Toaster                                       | --
+ x | anime | 1988 | Grave of the Fireflies                                         | --
+ x | anime | 1988 | My Neighbor Totoro                                             | --
+ x | anime | 1988 | Oliver & Company                                               | --
+ x | anime | 1988 | The Land Before Time                                           | ♥
+ x | anime | 1989 | All Dogs Go to Heaven                                          | --
+ x | anime | 1989 | Kiki's Delivery Service                                        | --
+ x | anime | 1989 | The Little Mermaid                                             | --
+ x | anime | 1990 | The Rescuers Down Under                                        | --
+ x | anime | 1991 | An American Tail: Fievel Goes West                             | --
+ x | anime | 1991 | Beauty and the Beast                                           | --
+ x | anime | 1992 | Aladdin                                                        | --
+ x | anime | 1992 | FernGully: The Last Rainforest                                 | ♥
+ x | anime | 1993 | Ninja Scroll                                                   | --
+ x | anime | 1993 | The Thief and the Cobbler                                      | --
+ x | anime | 1994 | The Lion King                                                  | --
+ x | anime | 1994 | The Return of Jafar                                            | --
+ x | anime | 1994 | The Swan Princess                                              | --
+ x | anime | 1995 | A Goofy Movie                                                  | --
+ x | anime | 1995 | Balto                                                          | --
+ x | anime | 1995 | Pocahontas                                                     | --
+ x | anime | 1995 | Toy Story                                                      | --
+ x | anime | 1995 | Whisper of the Heart                                           | --
+ x | anime | 1996 | Aladdin and the King of Thieves                                | ♥
+ x | anime | 1997 | Anastasia                                                      | --
+ x | anime | 1997 | Cats Don't Dance                                               | --
+ x | anime | 1997 | Hercules                                                       | --
+ x | anime | 1998 | A Bug's Life                                                   | --
+ x | anime | 1998 | Antz                                                           | --
+ x | anime | 1998 | Batman & Mr. Freeze: SubZero                                   | --
+ x | anime | 1998 | Mulan                                                          | --
+ x | anime | 1998 | Quest for Camelot                                              | --
+ x | anime | 1998 | The Prince of Egypt                                            | --
+ x | anime | 1999 | Fantasia 2000                                                  | --
+ x | anime | 1999 | Tarzan                                                         | --
+ x | anime | 1999 | The Iron Giant                                                 | --
+ x | anime | 2000 | Chicken Run                                                    | ♥ ★★★★★ it's good joe
+ x | anime | 2000 | Dinosaur                                                       | --
+ x | anime | 2000 | For the Birds                                                  | --
+ x | anime | 2000 | The Emperor's New Groove                                       | --
+ x | anime | 2000 | The Tigger Movie                                               | --
+ x | anime | 2001 | Atlantis: The Lost Empire                                      | ♥
+ x | anime | 2001 | Cat Soup                                                       | --
+ x | anime | 2001 | Monsters, Inc.                                                 | --
+ x | anime | 2001 | Osmosis Jones                                                  | --
+ x | anime | 2001 | Scooby-Doo and the Cyber Chase                                 | --
+ x | anime | 2001 | Shrek                                                          | --
+ x | anime | 2002 | Ice Age                                                        | --
+ x | anime | 2002 | Lilo & Stitch                                                  | ♥
+ x | anime | 2002 | Treasure Planet                                                | --
+ x | anime | 2003 | Bionicle: Mask of Light                                        | --
+ x | anime | 2003 | Brother Bear                                                   | --
+ x | anime | 2003 | Finding Nemo                                                   | --
+ x | anime | 2003 | Sinbad: Legend of the Seven Seas                               | --
+ x | anime | 2004 | Ghost in the Shell 2: Innocence                                | ♥
+ x | anime | 2004 | Howl's Moving Castle                                           | --
+ x | anime | 2004 | Shark Tale                                                     | --
+ x | anime | 2004 | The Incredibles                                                | --
+ x | anime | 2004 | The Lion King 1½                                               | --
+ x | anime | 2004 | The Polar Express                                              | --
+ x | anime | 2005 | Chicken Little                                                 | --
+ x | anime | 2005 | Kronk's New Groove                                             | --
+ x | anime | 2005 | Madagascar                                                     | --
+ x | anime | 2005 | Robots                                                         | --
+ x | anime | 2006 | Happy Feet                                                     | --
+ x | anime | 2006 | Monster House                                                  | --
+ x | anime | 2006 | Tales from Earthsea                                            | --
+ x | anime | 2007 | Afro Samurai                                                   | ♥
+ x | anime | 2007 | Meet the Robinsons                                             | --
+ x | anime | 2007 | Ratatouille                                                    | --
+ x | anime | 2008 | Bolt                                                           | --
+ x | anime | 2008 | La Maison en Petits Cubes; The House of Small Cubes            | ♥
+ x | anime | 2009 | 9                                                              | --
+ x | anime | 2009 | Coraline                                                       | --
+ x | anime | 2009 | Dug's Special Mission                                          | --
+ x | anime | 2009 | Fantastic Mr. Fox                                              | --
+ x | anime | 2009 | Mary and Max                                                   | --
+ x | anime | 2009 | Redline                                                        | ♥
+ x | anime | 2009 | The Secret of Kells                                            | ♥
+ x | anime | 2009 | Up                                                             | --
+ x | anime | 2010 | Despicable Me                                                  | --
+ x | anime | 2010 | How to Train Your Dragon                                       | --
+ x | anime | 2010 | Toy Story 3                                                    | --
+ x | anime | 2011 | Puella Magi Madoka Magica                                      | ★★ the character deaths are only shocking if you've already purchased the dead girl's merch, personally i never pretended to have funerals for my toys. if this is your fave you were a middle child
+ x | anime | 2011 | Rango                                                          | --
+ x | anime | 2011 | Winnie the Pooh                                                | --
+ x | anime | 2013 | The Elephant's Garden                                          | --
+ x | anime | 2016 | Kubo and the Two Strings                                       | --
+ x | anime | 2016 | Moana                                                          | ♥
+ x | anime | 2017 | Lu Over the Wall                                               | ♥ ★★★ In this universe there is a distinction between fish and mer-fish so that's weird. Good blobby shapes.
+ x | anime | 2017 | World of Tomorrow 2: The Burden of Other People's Thoughts     | --
+ x | anime | 2018 | Bao                                                            | --
+ x | anime | 2018 | Dry Run                                                        | --
+ x | anime | 2018 | Spider-Man: Into the Spider-Verse                              | ♥
+ x | anime | 2019 | Invader Zim: Enter the Florpus                                 | --
+ x | anime | 2019 | Love, Death & Robots: Alternate Histories                      | --
+ x | anime | 2019 | Love, Death & Robots: Beyond the Aquila Rift                   | ♥
+ x | anime | 2019 | Love, Death & Robots: Blindspot                                | --
+ x | anime | 2019 | Love, Death & Robots: Fish Night                               | ♥
+ x | anime | 2019 | Love, Death & Robots: Good Hunting                             | --
+ x | anime | 2019 | Love, Death & Robots: Helping Hand                             | --
+ x | anime | 2019 | Love, Death & Robots: Ice Age                                  | ♥
+ x | anime | 2019 | Love, Death & Robots: Lucky 13                                 | --
+ x | anime | 2019 | Love, Death & Robots: Shape-Shifters                           | --
+ x | anime | 2019 | Love, Death & Robots: Sonnie's Edge                            | ♥
+ x | anime | 2019 | Love, Death & Robots: Suits                                    | ♥
+ x | anime | 2019 | Love, Death & Robots: The Secret War                           | --
+ x | anime | 2019 | Love, Death & Robots: The Witness                              | ♥
+ x | anime | 2019 | Love, Death & Robots: Three Robots                             | ♥
+ x | anime | 2019 | Love, Death & Robots: When the Yogurt Took Over                | --
+ x | anime | 2019 | Love, Death & Robots: Zima Blue                                | ♥
+ x | film  | 1915 | The Birth of a Nation                                          | --
+ x | film  | 1920 | The Cabinet of Dr. Caligari                                    | --
+ x | film  | 1922 | Nosferatu                                                      | --
+ x | film  | 1927 | Metropolis                                                     | --
+ x | film  | 1931 | Frankenstein                                                   | --
+ x | film  | 1931 | M                                                              | ♥
+ x | film  | 1932 | The Mummy                                                      | --
+ x | film  | 1932 | White Zombie                                                   | --
+ x | film  | 1935 | Triumph of the Will                                            | --
+ x | film  | 1936 | Swing Time                                                     | --
+ x | film  | 1938 | Alexander Nevsky                                               | --
+ x | film  | 1939 | The Wizard of Oz                                               | --
+ x | film  | 1946 | Song of the South                                              | --
+ x | film  | 1947 | Black Narcissus                                                | --
+ x | film  | 1951 | The Day the Earth Stood Still                                  | --
+ x | film  | 1952 | Ikiru                                                          | --
+ x | film  | 1953 | The War of the Worlds                                          | --
+ x | film  | 1954 | 20,000 Leagues Under the Sea                                   | --
+ x | film  | 1954 | Gog                                                            | ♥ ★★★
+ x | film  | 1954 | Sansho the Bailiff                                             | --
+ x | film  | 1954 | Seven Samurai                                                  | --
+ x | film  | 1957 | The Bridge on the River Kwai                                   | --
+ x | film  | 1958 | Dracula                                                        | --
+ x | film  | 1959 | North by Northwest                                             | --
+ x | film  | 1960 | Psycho                                                         | --
+ x | film  | 1961 | Yojimbo                                                        | --
+ x | film  | 1962 | Dr. No                                                         | --
+ x | film  | 1962 | King Kong vs. Godzilla                                         | --
+ x | film  | 1962 | Sanjuro                                                        | --
+ x | film  | 1962 | The Man Who Shot Liberty Valance                               | --
+ x | film  | 1963 | The Pink Panther                                               | --
+ x | film  | 1964 | A Fistful of Dollars                                           | --
+ x | film  | 1964 | A Hard Day's Night                                             | --
+ x | film  | 1964 | Dr. Strangelove                                                | --
+ x | film  | 1964 | Mary Poppins                                                   | --
+ x | film  | 1964 | Mothra vs. Godzilla                                            | --
+ x | film  | 1965 | For a Few Dollars More                                         | --
+ x | film  | 1965 | The Sound of Music                                             | --
+ x | film  | 1966 | Andrei Rublev                                                  | --
+ x | film  | 1966 | Batman                                                         | --
+ x | film  | 1966 | Daimajin                                                       | ♥ ★★★★ slow burn
+ x | film  | 1966 | The Good, the Bad and the Ugly                                 | --
+ x | film  | 1967 | Cool Hand Luke                                                 | ♥
+ x | film  | 1967 | The Dirty Dozen                                                | --
+ x | film  | 1967 | Viy                                                            | ♥ ★★★★★ damn got em
+ x | film  | 1968 | 2001: A Space Odyssey                                          | ♥
+ x | film  | 1968 | Chitty Chitty Bang Bang                                        | --
+ x | film  | 1968 | Night of the Living Dead                                       | --
+ x | film  | 1968 | Planet of the Apes                                             | --
+ x | film  | 1969 | Butch Cassidy and the Sundance Kid                             | --
+ x | film  | 1969 | The Color of Pomegranates                                      | ♥
+ x | film  | 1969 | The Italian Job                                                | ★★ not very italian
+ x | film  | 1970 | El Topo                                                        | ♥ ★★★★ Mythical with unavoidable clowns. Unkind to rabbits unfortunately.
+ x | film  | 1971 | Shaft                                                          | --
+ x | film  | 1971 | The Andromeda Strain                                           | --
+ x | film  | 1971 | The Omega Man                                                  | --
+ x | film  | 1971 | THX 1138                                                       | ♥
+ x | film  | 1972 | Silent Running                                                 | ♥
+ x | film  | 1972 | Sleuth                                                         | ♥
+ x | film  | 1972 | Solaris                                                        | ♥
+ x | film  | 1972 | Tales from the Crypt                                           | --
+ x | film  | 1972 | The Godfather                                                  | --
+ x | film  | 1972 | The Poseidon Adventure                                         | --
+ x | film  | 1973 | Enter the Dragon                                               | --
+ x | film  | 1973 | Ganja & Hess                                                   | --
+ x | film  | 1973 | Serpico                                                        | --
+ x | film  | 1973 | Soylent Green                                                  | --
+ x | film  | 1973 | The Holy Mountain                                              | ♥
+ x | film  | 1974 | Blazing Saddles                                                | --
+ x | film  | 1974 | Dark Star                                                      | ♥
+ x | film  | 1974 | Space Is the Place                                             | --
+ x | film  | 1974 | The Godfather Part II                                          | --
+ x | film  | 1974 | Young Frankenstein                                             | --
+ x | film  | 1974 | Zardoz                                                         | ♥
+ x | film  | 1975 | Dog Day Afternoon                                              | ♥ ★★★★★ this is a good movie but only watch it if you have air conditioning
+ x | film  | 1975 | Mirror                                                         | --
+ x | film  | 1975 | Monty Python and the Holy Grail                                | --
+ x | film  | 1975 | One Flew Over the Cuckoo's Nest                                | --
+ x | film  | 1976 | Assault on Precinct 13                                         | ♥ ★★★★ In any four-player situation, it'a important to let the enemy pass all the way through the window before you shoot them. If you shoot them outside the window, you won't be able to reach the ammo drops.
+ x | film  | 1976 | Logan's Run                                                    | --
+ x | film  | 1977 | Close Encounters of the Third Kind                             | --
+ x | film  | 1977 | Eraserhead                                                     | --
+ x | film  | 1977 | House                                                          | ♥ ★★★★★ mario 64
+ x | film  | 1977 | Jabberwocky                                                    | --
+ x | film  | 1977 | Pete's Dragon                                                  | --
+ x | film  | 1977 | Star Wars                                                      | --
+ x | film  | 1977 | Stroszek                                                       | ♥
+ x | film  | 1977 | The Hills Have Eyes                                            | --
+ x | film  | 1977 | The Last Wave                                                  | ♥ ★★★★★ Watch out for weather.
+ x | film  | 1978 | Dawn of the Dead                                               | --
+ x | film  | 1978 | Starcrash                                                      | ♥ ★★ if you watch this at 1.5x speed it becomes a ★★★ movie
+ x | film  | 1979 | Mad Max                                                        | ♥
+ x | film  | 1979 | The Castle of Cagliostro                                       | ♥
+ x | film  | 1980 | Caddyshack                                                     | --
+ x | film  | 1980 | The Big Brawl                                                  | ♥ ★★★ really good jingle, authentic chicago sports, press x to shush guard dog
+ x | film  | 1980 | The Elephant Man                                               | --
+ x | film  | 1980 | The Empire Strikes Back                                        | --
+ x | film  | 1980 | The Gods Must Be Crazy                                         | ♥
+ x | film  | 1980 | The Shining                                                    | --
+ x | film  | 1981 | Mad Max 2                                                      | --
+ x | film  | 1981 | Quest for Fire                                                 | --
+ x | film  | 1981 | Raiders of the Lost Ark                                        | --
+ x | film  | 1981 | Scanners                                                       | --
+ x | film  | 1981 | The Evil Dead                                                  | --
+ x | film  | 1982 | Blade Runner                                                   | --
+ x | film  | 1982 | E.T. the Extra-Terrestrial                                     | --
+ x | film  | 1982 | First Blood                                                    | --
+ x | film  | 1982 | The Dark Crystal                                               | --
+ x | film  | 1982 | The Thing                                                      | --
+ x | film  | 1982 | White Dog                                                      | --
+ x | film  | 1983 | A Christmas Story                                              | --
+ x | film  | 1983 | Krull                                                          | ♥
+ x | film  | 1983 | Return of the Jedi                                             | --
+ x | film  | 1983 | Scarface                                                       | --
+ x | film  | 1984 | Amadeus                                                        | --
+ x | film  | 1984 | Ghostbusters                                                   | --
+ x | film  | 1984 | Indiana Jones and the Temple of Doom                           | --
+ x | film  | 1984 | Repo Man                                                       | --
+ x | film  | 1984 | The Karate Kid                                                 | --
+ x | film  | 1984 | The NeverEnding Story                                          | ♥
+ x | film  | 1984 | The Terminator                                                 | ♥
+ x | film  | 1984 | The Toxic Avenger                                              | --
+ x | film  | 1984 | Trancers                                                       | --
+ x | film  | 1985 | Back to the Future                                             | --
+ x | film  | 1985 | Clue                                                           | ♥
+ x | film  | 1985 | Day of the Dead                                                | --
+ x | film  | 1985 | Enemy Mine                                                     | --
+ x | film  | 1985 | Mad Love                                                       | --
+ x | film  | 1985 | Pale Rider                                                     | --
+ x | film  | 1985 | Star Knight                                                    | ★ erratic
+ x | film  | 1985 | The Breakfast Club                                             | --
+ x | film  | 1986 | Big Trouble in Little China                                    | --
+ x | film  | 1986 | Ferris Bueller's Day Off                                       | --
+ x | film  | 1986 | Highlander                                                     | ★★ not a fan of films that earnestly want me to know what haggis is
+ x | film  | 1986 | Labyrinth                                                      | --
+ x | film  | 1986 | Short Circuit                                                  | ♥
+ x | film  | 1986 | The Fly                                                        | ♥
+ x | film  | 1986 | The Karate Kid Part II                                         | --
+ x | film  | 1986 | Top Gun                                                        | --
+ x | film  | 1987 | Evil Dead II                                                   | --
+ x | film  | 1987 | Hellraiser                                                     | ♥ ★★★★ really scary pet shop
+ x | film  | 1987 | Lethal Weapon                                                  | --
+ x | film  | 1987 | Predator                                                       | --
+ x | film  | 1987 | Prince of Darkness                                             | ♥ ★★★★★ this happened to a buddy of mine
+ x | film  | 1987 | RoboCop                                                        | --
+ x | film  | 1987 | Spaceballs                                                     | --
+ x | film  | 1987 | The Lost Boys                                                  | ♥ ★★★ Really funny.
+ x | film  | 1987 | The Princess Bride                                             | --
+ x | film  | 1988 | Die Hard                                                       | --
+ x | film  | 1988 | Hell Comes to Frogtown                                         | --
+ x | film  | 1988 | Killer Klowns from Outer Space                                 | --
+ x | film  | 1988 | Naked Gun                                                      | --
+ x | film  | 1988 | On the Silver Globe                                            | ♥ ★★★★★ Totally cool.
+ x | film  | 1988 | They Live                                                      | --
+ x | film  | 1988 | Who Framed Roger Rabbit                                        | ♥
+ x | film  | 1989 | Back to the Future Part II                                     | --
+ x | film  | 1989 | Batman                                                         | ★★ very flat, no good reviews
+ x | film  | 1989 | Ghostbusters II                                                | --
+ x | film  | 1989 | Honey, I Shrunk the Kids                                       | --
+ x | film  | 1989 | Indiana Jones and the Last Crusade                             | --
+ x | film  | 1989 | Moontrap                                                       | ★★ I need to know if instant igloos are real. The soundtrack sounds like that garage band meme.
+ x | film  | 1989 | National Lampoon's Christmas Vacation                          | --
+ x | film  | 1989 | Robot Jox                                                      | --
+ x | film  | 1989 | The 'Burbs                                                     | ♥ ★★★★ every group chat is like this
+ x | film  | 1989 | The Karate Kid Part III                                        | --
+ x | film  | 1989 | Twin Peaks                                                     | ♥
+ x | film  | 1990 | Edward Scissorhands                                            | --
+ x | film  | 1990 | GoodFellas                                                     | ♥
+ x | film  | 1990 | Home Alone                                                     | --
+ x | film  | 1990 | Lionheart                                                      | --
+ x | film  | 1990 | Nightbreed                                                     | --
+ x | film  | 1990 | Predator 2                                                     | --
+ x | film  | 1990 | RoboCop 2                                                      | --
+ x | film  | 1990 | The Godfather Part III                                         | --
+ x | film  | 1990 | The Hunt for Red October                                       | --
+ x | film  | 1991 | Boyz n the Hood                                                | --
+ x | film  | 1991 | Hook                                                           | --
+ x | film  | 1991 | Once Upon a Time in China                                      | --
+ x | film  | 1991 | Robin Hood: Prince of Thieves                                  | --
+ x | film  | 1991 | Terminator 2: Judgment Day                                     | ♥
+ x | film  | 1992 | Alien³                                                         | ♥
+ x | film  | 1992 | Army of Darkness                                               | --
+ x | film  | 1992 | Batman Returns                                                 | ★★★ clowns again! i don't like it but i'm the only one allowed to not like it
+ x | film  | 1992 | Bram Stoker's Dracula                                          | --
+ x | film  | 1992 | Cool World                                                     | --
+ x | film  | 1992 | Fortress                                                       | ♥ ★★★ This is a good movie to watch if you want to see a man fight a self-driving truck.
+ x | film  | 1992 | Hero                                                           | --
+ x | film  | 1992 | Juice                                                          | --
+ x | film  | 1992 | Once Upon a Time in China II                                   | --
+ x | film  | 1992 | Reservoir Dogs                                                 | ♥
+ x | film  | 1992 | Split Second                                                   | ♥ ★★ Everybody in this movie is disgusting, but Rutger Hauer shows his police badge to a dog that barked at him and it's pretty funny.
+ x | film  | 1992 | Tetsuo II: Body Hammer                                         | --
+ x | film  | 1992 | The Last of the Mohicans                                       | --
+ x | film  | 1992 | The Lost World                                                 | ★★ Don't pay anything for this.
+ x | film  | 1992 | The Muppet Christmas Carol                                     | --
+ x | film  | 1992 | Twin Peaks: Fire Walk with Me                                  | --
+ x | film  | 1992 | Unforgiven                                                     | --
+ x | film  | 1992 | Universal Soldier                                              | --
+ x | film  | 1993 | Hard Target                                                    | --
+ x | film  | 1993 | Hocus Pocus                                                    | --
+ x | film  | 1993 | Homeward Bound: The Incredible Journey                         | ♥
+ x | film  | 1993 | Jason Goes to Hell: The Final Friday                           | --
+ x | film  | 1993 | Jurassic Park                                                  | ♥
+ x | film  | 1993 | Last Action Hero                                               | --
+ x | film  | 1993 | Mrs. Doubtfire                                                 | --
+ x | film  | 1993 | Super Mario Bros.                                              | ♥
+ x | film  | 1993 | The Nightmare Before Christmas                                 | --
+ x | film  | 1993 | The Sandlot                                                    | --
+ x | film  | 1993 | The Wrong Trousers                                             | --
+ x | film  | 1994 | D2: The Mighty Ducks                                           | --
+ x | film  | 1994 | Fist of Legend                                                 | --
+ x | film  | 1994 | Godzilla vs. SpaceGodzilla                                     | --
+ x | film  | 1994 | Léon: The Professional                                         | --
+ x | film  | 1994 | Miracle on 34th Street                                         | --
+ x | film  | 1994 | Pulp Fiction                                                   | ♥ ★★★★ why is vince always in the bathroom
+ x | film  | 1994 | The Crow                                                       | --
+ x | film  | 1994 | The Hudsucker Proxy                                            | --
+ x | film  | 1994 | The Mask                                                       | --
+ x | film  | 1994 | The Next Karate Kid                                            | --
+ x | film  | 1994 | The Shawshank Redemption                                       | --
+ x | film  | 1994 | True Lies                                                      | --
+ x | film  | 1995 | Babe                                                           | --
+ x | film  | 1995 | Braveheart                                                     | --
+ x | film  | 1995 | Casino                                                         | --
+ x | film  | 1995 | Friday                                                         | --
+ x | film  | 1995 | GoldenEye                                                      | --
+ x | film  | 1995 | Hackers                                                        | --
+ x | film  | 1995 | Johnny Mnemonic                                                | ♥ ★★★★★ Just garbage!
+ x | film  | 1995 | Judge Dredd                                                    | ♥
+ x | film  | 1995 | Jumanji                                                        | --
+ x | film  | 1995 | Lumière & Company                                              | --
+ x | film  | 1995 | Mortal Kombat                                                  | --
+ x | film  | 1995 | Se7en                                                          | --
+ x | film  | 1995 | The Indian in the Cupboard                                     | --
+ x | film  | 1995 | The Prophecy                                                   | ♥ ★★★ Really funny, not sure what to do with the information that there are 5 of these.
+ x | film  | 1996 | DragonHeart                                                    | --
+ x | film  | 1996 | Escape from L.A.                                               | ♥ ★★★ I hate it when the government injects me with a time-delay virus so that I an forced to do missions in exchange for the antidote. Relatable.
+ x | film  | 1996 | Fargo                                                          | ♥ ★★★★★
+ x | film  | 1996 | From Dusk Till Dawn                                            | --
+ x | film  | 1996 | Harriet the Spy                                                | --
+ x | film  | 1996 | Homeward Bound II: Lost in San Francisco                       | --
+ x | film  | 1996 | Independence Day                                               | --
+ x | film  | 1996 | James and the Giant Peach                                      | --
+ x | film  | 1996 | Kazaam                                                         | --
+ x | film  | 1996 | Lawnmower Man 2: Beyond Cyberspace                             | ★ execute worm function
+ x | film  | 1996 | Matilda                                                        | --
+ x | film  | 1996 | Mission: Impossible                                            | --
+ x | film  | 1996 | Muppet Treasure Island                                         | --
+ x | film  | 1996 | Sling Blade                                                    | --
+ x | film  | 1996 | Space Jam                                                      | --
+ x | film  | 1996 | Star Trek: First Contact                                       | ♥ ★★★ this is how they retcon the borg queen into existence: [queen] hello, remember me? [picard] yes. i remember now, you were there the whole time
+ x | film  | 1996 | The Hunchback of Notre Dame                                    | --
+ x | film  | 1996 | The Quest                                                      | --
+ x | film  | 1996 | The Rock                                                       | --
+ x | film  | 1996 | Tremors 2: Aftershocks                                         | --
+ x | film  | 1996 | Twister                                                        | --
+ x | film  | 1996 | When We Were Kings                                             | --
+ x | film  | 1997 | Alien Resurrection                                             | ♥
+ x | film  | 1997 | Cube                                                           | --
+ x | film  | 1997 | Flubber                                                        | --
+ x | film  | 1997 | Gattaca                                                        | --
+ x | film  | 1997 | George of the Jungle                                           | --
+ x | film  | 1997 | Good Burger                                                    | --
+ x | film  | 1997 | Good Will Hunting                                              | --
+ x | film  | 1997 | Honey, We Shrunk Ourselves                                     | --
+ x | film  | 1997 | Insomnia                                                       | ♥ ★★★★★
+ x | film  | 1997 | Mortal Kombat: Annihilation                                    | --
+ x | film  | 1997 | Spawn                                                          | --
+ x | film  | 1997 | Starship Troopers                                              | --
+ x | film  | 1997 | The Borrowers                                                  | --
+ x | film  | 1997 | The Fifth Element                                              | --
+ x | film  | 1997 | Titanic                                                        | --
+ x | film  | 1998 | Armageddon                                                     | --
+ x | film  | 1998 | Babe: Pig in the City                                          | --
+ x | film  | 1998 | Pleasantville                                                  | --
+ x | film  | 1998 | Small Soldiers                                                 | --
+ x | film  | 1998 | The Big Lebowski                                               | ♥
+ x | film  | 1998 | The Faculty                                                    | --
+ x | film  | 1998 | The Parent Trap                                                | --
+ x | film  | 1999 | Bicentennial Man                                               | --
+ x | film  | 1999 | End of Days                                                    | ★ worthless, watch Prince of Darkness instead
+ x | film  | 1999 | eXistenZ                                                       | --
+ x | film  | 1999 | Fight Club                                                     | --
+ x | film  | 1999 | Inspector Gadget                                               | --
+ x | film  | 1999 | October Sky                                                    | --
+ x | film  | 1999 | Sleepy Hollow                                                  | ♥ ★★★★ Really good use of overcast lighting. Watch this for a halloween movie mostly free of steampunk devices.
+ x | film  | 1999 | Star Wars: Episode I - The Phantom Menace                      | --
+ x | film  | 1999 | Stuart Little                                                  | --
+ x | film  | 1999 | The Boondock Saints                                            | --
+ x | film  | 1999 | The Green Mile                                                 | --
+ x | film  | 1999 | Toy Story 2                                                    | --
+ x | film  | 1999 | Wild Wild West                                                 | ½
+ x | film  | 2000 | Dracula 2000                                                   | ♥
+ x | film  | 2000 | How the Grinch Stole Christmas                                 | ★★ sad :(
+ x | film  | 2000 | Memento                                                        | ♥
+ x | film  | 2000 | O Brother, Where Art Thou?                                     | ♥
+ x | film  | 2000 | Remember the Titans                                            | --
+ x | film  | 2000 | Romeo Must Die                                                 | --
+ x | film  | 2000 | Supernova                                                      | ★ the trailer has the words "if you can't stand the heat... get out of the universe" a must-watch trailer
+ x | film  | 2000 | The Road to El Dorado                                          | --
+ x | film  | 2000 | Titan A.E.                                                     | --
+ x | film  | 2000 | Unbreakable                                                    | --
+ x | film  | 2001 | A.I. Artificial Intelligence                                   | --
+ x | film  | 2001 | Cats & Dogs                                                    | --
+ x | film  | 2001 | Donnie Darko                                                   | --
+ x | film  | 2001 | Evolution                                                      | --
+ x | film  | 2001 | Halloweentown II: Kalabar's Revenge                            | --
+ x | film  | 2001 | Harry Potter and the Philosopher's Stone                       | --
+ x | film  | 2001 | Jason X                                                        | ♥ ★★ really bad
+ x | film  | 2001 | Kiss of the Dragon                                             | --
+ x | film  | 2001 | Ocean's Eleven                                                 | --
+ x | film  | 2001 | Pootie Tang                                                    | --
+ x | film  | 2001 | Spy Kids                                                       | --
+ x | film  | 2001 | The Lord of the Rings: Fellowship of the Ring                  | --
+ x | film  | 2001 | The Mummy Returns                                              | ♥
+ x | film  | 2001 | The PriceMaster                                                | ♥ ★★★★★ five... hundred stars
+ x | film  | 2001 | The Princess Diaries                                           | --
+ x | film  | 2002 | Catch Me If You Can                                            | --
+ x | film  | 2002 | Gangs of New York                                              | --
+ x | film  | 2002 | Harry Potter and the Chamber of Secrets                        | --
+ x | film  | 2002 | Rabbits                                                        | --
+ x | film  | 2002 | Red Dragon                                                     | --
+ x | film  | 2002 | Scooby-Doo                                                     | --
+ x | film  | 2002 | Spider-Man                                                     | --
+ x | film  | 2002 | Star Wars: Episode II – Attack of the Clones                   | --
+ x | film  | 2002 | The Lord of the Rings: The Two Towers                          | --
+ x | film  | 2002 | The Scorpion King                                              | --
+ x | film  | 2003 | Angels in America                                              | ♥
+ x | film  | 2003 | Elf                                                            | --
+ x | film  | 2003 | Holes                                                          | --
+ x | film  | 2003 | House of 1000 Corpses                                          | --
+ x | film  | 2003 | Hulk                                                           | --
+ x | film  | 2003 | Inspector Gadget 2                                             | --
+ x | film  | 2003 | Pirates of the Caribbean: The Curse of the Black Pearl         | --
+ x | film  | 2003 | Terminator 3: Rise of the Machines                             | --
+ x | film  | 2003 | The Core                                                       | ★ Very unkind to pigeons.
+ x | film  | 2003 | The Lord of the Rings: The Return of the King                  | --
+ x | film  | 2003 | Underworld                                                     | --
+ x | film  | 2004 | AVP: Alien vs. Predator                                        | --
+ x | film  | 2004 | Blade: Trinity                                                 | ★ don't watch this ryan reynolds is in it
+ x | film  | 2004 | Casshern                                                       | ★ slideshow of bad ideas
+ x | film  | 2004 | Ella Enchanted                                                 | --
+ x | film  | 2004 | Finding Neverland                                              | --
+ x | film  | 2004 | Harry Potter and the Prisoner of Azkaban                       | --
+ x | film  | 2004 | Hellboy                                                        | --
+ x | film  | 2004 | I, Robot                                                       | --
+ x | film  | 2004 | Napoleon Dynamite                                              | --
+ x | film  | 2004 | National Treasure                                              | --
+ x | film  | 2004 | Ocean's Twelve                                                 | --
+ x | film  | 2004 | Primer                                                         | ♥
+ x | film  | 2004 | The Day After Tomorrow                                         | --
+ x | film  | 2004 | The Ladykillers                                                | ★★ tom hanks acting weird. good cat
+ x | film  | 2004 | The Phantom of the Opera                                       | --
+ x | film  | 2004 | The Princess Diaries 2: Royal Engagement                       | --
+ x | film  | 2004 | Tremors 4: The Legend Begins                                   | --
+ x | film  | 2004 | Van Helsing                                                    | ♥ ★★ This is just Shrek for adults.
+ x | film  | 2005 | Batman Begins                                                  | --
+ x | film  | 2005 | Charlie and the Chocolate Factory                              | --
+ x | film  | 2005 | Constantine                                                    | ♥ ★★★★ don't miss the post-credits scene where shia labeouf turns into an angel
+ x | film  | 2005 | Fantastic Four                                                 | --
+ x | film  | 2005 | Harry Potter and the Goblet of Fire                            | --
+ x | film  | 2005 | King Kong                                                      | --
+ x | film  | 2005 | Star Wars: Episode III – Revenge of the Sith                   | --
+ x | film  | 2005 | The Chronicles of Narnia: The Lion, the Witch and the Wardrobe | --
+ x | film  | 2005 | The Descent                                                    | ♥ ★★★★★ ok it's pretty good
+ x | film  | 2005 | The Devil's Rejects                                            | --
+ x | film  | 2005 | The Hitchhiker's Guide to the Galaxy                           | --
+ x | film  | 2005 | The Pacifier                                                   | --
+ x | film  | 2005 | Unleashed                                                      | ♥
+ x | film  | 2005 | V for Vendetta                                                 | --
+ x | film  | 2005 | War of the Worlds                                              | --
+ x | film  | 2005 | Zathura: A Space Adventure                                     | --
+ x | film  | 2006 | 300                                                            | --
+ x | film  | 2006 | Apocalypto                                                     | ♥ ★★★★ The first 15 minutes are fun, can't wait to watch the rest.
+ x | film  | 2006 | Cars                                                           | ♥
+ x | film  | 2006 | Casino Royale                                                  | --
+ x | film  | 2006 | Eragon                                                         | --
+ x | film  | 2006 | Pan's Labyrinth                                                | --
+ x | film  | 2006 | Pirates of the Caribbean: Dead Man's Chest                     | --
+ x | film  | 2006 | Superman Returns                                               | --
+ x | film  | 2006 | The Black Dahlia                                               | --
+ x | film  | 2006 | The Departed                                                   | --
+ x | film  | 2006 | The Illusionist                                                | --
+ x | film  | 2006 | The Prestige                                                   | --
+ x | film  | 2007 | Aliens vs Predator: Requiem                                    | ★ disrespectful to the troops (pizza delivery workers)
+ x | film  | 2007 | Beowulf                                                        | --
+ x | film  | 2007 | Harry Potter and the Order of the Phoenix                      | --
+ x | film  | 2007 | No Country for Old Men                                         | ♥
+ x | film  | 2007 | Ocean's Thirteen                                               | --
+ x | film  | 2007 | Pirates of the Caribbean: At World's End                       | --
+ x | film  | 2007 | Sweeney Todd: The Demon Barber of Fleet Street                 | --
+ x | film  | 2007 | There Will Be Blood                                            | ♥
+ x | film  | 2007 | Transformers                                                   | --
+ x | film  | 2008 | 10,000 BC                                                      | ♥
+ x | film  | 2008 | Cloverfield                                                    | --
+ x | film  | 2008 | Doomsday                                                       | --
+ x | film  | 2008 | Get Smart                                                      | --
+ x | film  | 2008 | Ghost in the Shell 2.0                                         | --
+ x | film  | 2008 | Ip Man                                                         | ♥
+ x | film  | 2008 | Iron Man                                                       | --
+ x | film  | 2008 | Journey to the Center of the Earth                             | --
+ x | film  | 2008 | Mutant Chronicles                                              | ★
+ x | film  | 2008 | Ong Bak 2                                                      | --
+ x | film  | 2008 | Quantum of Solace                                              | --
+ x | film  | 2008 | Repo! The Genetic Opera                                        | ♥
+ x | film  | 2008 | Sleep Dealer                                                   | ♥ ★★★★ better than robocop
+ x | film  | 2008 | The Curious Case of Benjamin Button                            | --
+ x | film  | 2008 | The Dark Knight                                                | --
+ x | film  | 2008 | The Day the Earth Stood Still                                  | --
+ x | film  | 2008 | The Incredible Hulk                                            | --
+ x | film  | 2008 | The Mummy: Tomb of the Dragon Emperor                          | --
+ x | film  | 2008 | The Ruins                                                      | --
+ x | film  | 2009 | Avatar                                                         | --
+ x | film  | 2009 | Black Dynamite                                                 | --
+ x | film  | 2009 | Daybreakers                                                    | --
+ x | film  | 2009 | District 9                                                     | ♥
+ x | film  | 2009 | Dragonball Evolution                                           | --
+ x | film  | 2009 | Inglourious Basterds                                           | ♥
+ x | film  | 2009 | Moon                                                           | ♥
+ x | film  | 2009 | Sherlock Holmes                                                | --
+ x | film  | 2009 | Splice                                                         | --
+ x | film  | 2009 | Surviving Evil                                                 | ♥ ★★★
+ x | film  | 2009 | Terminator Salvation                                           | --
+ x | film  | 2009 | The Blind Side                                                 | --
+ x | film  | 2009 | The Boondock Saints II: All Saints Day                         | --
+ x | film  | 2009 | The Imaginarium of Doctor Parnassus                            | --
+ x | film  | 2009 | Watchmen                                                       | --
+ x | film  | 2009 | Zombieland                                                     | --
+ x | film  | 2010 | Harry Potter and the Deathly Hallows: Part 1                   | --
+ x | film  | 2010 | Inception                                                      | --
+ x | film  | 2010 | Insidious                                                      | --
+ x | film  | 2010 | Ip Man 2                                                       | --
+ x | film  | 2010 | Iron Man 2                                                     | --
+ x | film  | 2010 | Rare Exports: A Christmas Tale                                 | ♥
+ x | film  | 2010 | RED                                                            | ♥
+ x | film  | 2010 | Resident Evil: Afterlife                                       | --
+ x | film  | 2010 | Shutter Island                                                 | ♥
+ x | film  | 2010 | The Last Airbender                                             | --
+ x | film  | 2010 | Uncle Boonmee Who Can Recall His Past Lives                    | ♥
+ x | film  | 2011 | Captain America: The First Avenger                             | --
+ x | film  | 2011 | Conan the Barbarian                                            | ★★ I fell asleep.
+ x | film  | 2011 | Cowboys & Aliens                                               | --
+ x | film  | 2011 | Harry Potter and the Deathly Hallows: Part 2                   | --
+ x | film  | 2011 | Jiro Dreams of Sushi                                           | --
+ x | film  | 2011 | Sherlock Holmes: A Game of Shadows                             | --
+ x | film  | 2011 | Source Code                                                    | ♥
+ x | film  | 2011 | Super 8                                                        | --
+ x | film  | 2011 | The Cabin in the Woods                                         | --
+ x | film  | 2011 | The Maker                                                      | ♥
+ x | film  | 2011 | Thor                                                           | --
+ x | film  | 2012 | Berserk: The Golden Age Arc I – The Egg of the King            | ♥
+ x | film  | 2012 | Brave                                                          | --
+ x | film  | 2012 | Cloud Atlas                                                    | ♥
+ x | film  | 2012 | Indie Game: The Movie                                          | --
+ x | film  | 2012 | It's Such a Beautiful Day                                      | --
+ x | film  | 2012 | John Carter                                                    | --
+ x | film  | 2012 | Life of Pi                                                     | ★ Didn't finish watching it, very unkind to the animals.
+ x | film  | 2012 | Looper                                                         | --
+ x | film  | 2012 | Men in Black 3                                                 | --
+ x | film  | 2012 | Moonrise Kingdom                                               | --
+ x | film  | 2012 | Resident Evil: Retribution                                     | --
+ x | film  | 2012 | Skyfall                                                        | --
+ x | film  | 2012 | The Avengers                                                   | --
+ x | film  | 2012 | The Bourne Legacy                                              | --
+ x | film  | 2012 | The Dark Knight Rises                                          | --
+ x | film  | 2012 | The Hobbit: An Unexpected Journey                              | --
+ x | film  | 2012 | The Pirates! In an Adventure with Scientists!                  | ♥
+ x | film  | 2012 | Total Recall                                                   | ♥
+ x | film  | 2013 | Blood Glacier                                                  | ♥ ★★★★ Really nice landscapes throughout.
+ x | film  | 2013 | Doctor Who: The Day of the Doctor                              | --
+ x | film  | 2013 | Elysium                                                        | ♥
+ x | film  | 2013 | Ender's Game                                                   | --
+ x | film  | 2013 | Iron Man 3                                                     | --
+ x | film  | 2013 | Jodorowsky's Dune                                              | ♥
+ x | film  | 2013 | Little Witch Academia                                          | --
+ x | film  | 2013 | Man of Steel                                                   | --
+ x | film  | 2013 | Riddick                                                        | ♥
+ x | film  | 2013 | Snowpiercer                                                    | ♥
+ x | film  | 2013 | The Hobbit: The Desolation of Smaug                            | --
+ x | film  | 2013 | The Zero Theorem                                               | ♥ ★★★ gamers rise up
+ x | film  | 2013 | Thor: The Dark World                                           | --
+ x | film  | 2014 | Captain America: The Winter Soldier                            | --
+ x | film  | 2014 | Guardians of the Galaxy                                        | --
+ x | film  | 2014 | Paddington                                                     | --
+ x | film  | 2014 | The Hobbit: The Battle of the Five Armies                      | --
+ x | film  | 2014 | The Lego Movie                                                 | --
+ x | film  | 2015 | Ant-Man                                                        | --
+ x | film  | 2015 | Avengers: Age of Ultron                                        | --
+ x | film  | 2015 | Chappie                                                        | --
+ x | film  | 2015 | Crimson Peak                                                   | --
+ x | film  | 2015 | Dope                                                           | --
+ x | film  | 2015 | Little Witch Academia: The Enchanted Parade                    | --
+ x | film  | 2015 | Mad Max: Fury Road                                             | --
+ x | film  | 2015 | Spectre                                                        | --
+ x | film  | 2015 | Star Wars: The Force Awakens                                   | --
+ x | film  | 2015 | Terminator Genisys                                             | --
+ x | film  | 2015 | Tremors 5: Bloodlines                                          | --
+ x | film  | 2016 | Captain America: Civil War                                     | --
+ x | film  | 2016 | Colossal                                                       | --
+ x | film  | 2016 | Doctor Strange                                                 | --
+ x | film  | 2016 | Finding Dory                                                   | --
+ x | film  | 2016 | Hail, Caesar!                                                  | --
+ x | film  | 2016 | Zootopia                                                       | --
+ x | film  | 2017 | Blade Runner 2049                                              | ♥
+ x | film  | 2017 | Double King                                                    | --
+ x | film  | 2017 | Ghost in the Shell                                             | --
+ x | film  | 2017 | Guardians of the Galaxy Vol. 2                                 | --
+ x | film  | 2017 | Killing Gunther                                                | ♥
+ x | film  | 2017 | Life                                                           | ♥
+ x | film  | 2017 | Murder on the Orient Express                                   | ★★ action poirot is really funny
+ x | film  | 2017 | Okja                                                           | --
+ x | film  | 2017 | Spider-Man: Homecoming                                         | --
+ x | film  | 2017 | The Endless                                                    | ♥ ★★★ It's pretty good but I wanted more spirals.
+ x | film  | 2017 | The Ritual                                                     | ♥ ★★★★ good monster
+ x | film  | 2017 | Thor: Ragnarok                                                 | ♥
+ x | film  | 2017 | Twin Peaks: The Return                                         | ♥
+ x | film  | 2018 | Black Panther                                                  | ♥
+ x | film  | 2018 | Black Water                                                    | ★ boring
+ x | film  | 2018 | High Life                                                      | ♥ ★★★★ Hope you like fluids!
+ x | film  | 2018 | The Predator                                                   | --
+ x | film  | 2019 | Doom: Annihilation                                             | --
+ x | film  | 2019 | Smash and Grab                                                 | ♥
+ x | film  | 2019 | Terminator: Dark Fate                                          | --
+ x | film  | 2019 | Triple Threat                                                  | --
+ x | film  | 2020 | Double World                                                   | ★★ Good animals but also if you're a woman in this film you're probably going to be tortured and killed.
+ x | film  | 2021 | Army of the Dead                                               | --
+ x | film  | 2022 | RRR                                                            | ♥ ★★★★ very videogames throughout, ★★★★★ for bheem half ★★★ for rama raju half
+ x | film  | 2023 | Ant-Man and the Wasp: Quantumania                              | ♥ ★★ who would win 1 killdozer or 1000 bugdozers, trick question only the bugdozers can defeat the police
+_x | anime | 2017 | BLAME!                                                         | ♥ ★★★★ bzhew
+_x | film  | 2016 | Rogue One: A Star Wars Story                                   | --
+_x | film  | 2018 | Devilman Crybaby                                               | ♥ ★★★★★
+_x | film  | 2018 | Prospect                                                       | ♥ ★★★★ Really good equipment designs, everyone has a different spacesuit.
+_x | film  | 2018 | The Ballad of Buster Scruggs                                   | ♥ ★★★★★
+_x | film  | 2019 | Knives Out                                                     | ♥
+xx | anime | 1977 | The Hobbit                                                     | --
+xx | anime | 1981 | Mobile Suit Gundam I                                           | ♥
+xx | anime | 1981 | Son of the White Mare                                          | ♥ ★★★★★ waugh
+xx | anime | 1984 | Nausicaä of the Valley of the Wind                             | ♥
+xx | anime | 1985 | The Black Cauldron                                             | ♥ ★★★★ Perfectly haphazard. Could use more animals. Skeletor has a pleasant day. https://www.youtube.com/watch?v=FyyTzkktjsI
+xx | anime | 1988 | Akira                                                          | ♥
+xx | anime | 1989 | Patlabor: The Movie                                            | ♥
+xx | anime | 1993 | Patlabor 2: The Movie                                          | ♥
+xx | anime | 1994 | The Pagemaster                                                 | ♥
+xx | anime | 1995 | Ghost in the Shell                                             | ♥ ★★★★★ a bold vision of a world where cops read books
+xx | anime | 1995 | Memories                                                       | ♥ ★★★★★
+xx | anime | 1997 | Princess Mononoke                                              | ♥
+xx | anime | 1998 | Cowboy Bebop                                                   | ♥
+xx | anime | 1998 | Kirikou and the Sorceress                                      | ♥
+xx | anime | 1998 | Serial Experiments Lain                                        | --
+xx | anime | 1999 | Jin-Roh: The Wolf Brigade                                      | ♥
+xx | anime | 2000 | FLCL                                                           | ♥
+xx | anime | 2001 | Cowboy Bebop: The Movie                                        | --
+xx | anime | 2001 | Final Fantasy: The Spirits Within                              | --
+xx | anime | 2001 | Metropolis                                                     | ★★★ mostly just looks expensive
+xx | anime | 2001 | Spirited Away                                                  | --
+xx | anime | 2002 | The Cat Returns                                                | ♥
+xx | anime | 2003 | The Animatrix                                                  | ♥
+xx | anime | 2003 | The Triplets of Belleville                                     | ♥
+xx | anime | 2004 | Paranoia Agent                                                 | ♥
+xx | anime | 2004 | Samurai Champloo                                               | ♥
+xx | anime | 2006 | A Scanner Darkly                                               | ♥ ★★★★★ Look at the person to your left, and now to your right. Both of these people are the police. You are the police.
+xx | anime | 2006 | Paprika                                                        | ♥
+xx | anime | 2007 | Vexille                                                        | ★★ not very interesting
+xx | anime | 2008 | WALL·E                                                         | ♥
+xx | anime | 2021 | Mad God                                                        | ♥ ★★★★★ tag urself i'm [is obliterated]
+xx | film  | 1950 | Harvey                                                         | ♥ ★★★ high bar for mental illness
+xx | film  | 1950 | Rashomon                                                       | ♥
+xx | film  | 1954 | Brigadoon                                                      | ♥ ★★★ harry beaton
+xx | film  | 1954 | Godzilla                                                       | --
+xx | film  | 1954 | Rear Window                                                    | ♥ ★★★★ Really good flashbulb effect.
+xx | film  | 1956 | Forbidden Planet                                               | ♥
+xx | film  | 1957 | Mayabazar                                                      | --
+xx | film  | 1957 | Throne of Blood                                                | --
+xx | film  | 1958 | The Hidden Fortress                                            | --
+xx | film  | 1960 | Swiss Family Robinson                                          | --
+xx | film  | 1963 | The Sword in the Stone                                         | ♥
+xx | film  | 1964 | Red Desert                                                     | ♥ ★★★ a two-hour migraine but in a good way
+xx | film  | 1979 | Alien                                                          | ♥
+xx | film  | 1979 | Stalker                                                        | ♥
+xx | film  | 1979 | The Black Hole                                                 | ★★ This sucks even though they go to the hell dimension.
+xx | film  | 1981 | Escape from New York                                           | --
+xx | film  | 1981 | Excalibur                                                      | ♥ ★★★★ to kill a fully armored knight you just have to clang your sword on the outside of his armor a few times
+xx | film  | 1981 | Outland                                                        | ♥ ★★★★
+xx | film  | 1981 | Time Bandits                                                   | ♥
+xx | film  | 1984 | 2010: The Year We Make Contact                                 | ♥
+xx | film  | 1984 | Dune                                                           | --
+xx | film  | 1985 | Brazil                                                         | ♥
+xx | film  | 1985 | Lifeforce                                                      | ♥ ★★★★ really funny
+xx | film  | 1986 | Aliens                                                         | ♥
+xx | film  | 1989 | DeepStar Six                                                   | ♥ ★★★★ I love high-stakes tech support.
+xx | film  | 1989 | Tetsuo: The Iron Man                                           | --
+xx | film  | 1989 | The Abyss                                                      | ★★ This isn't good, sorry. Somebody chickened out on killing the crew so they peer over the two main characters' shoulders while they do everything in the last half of the movie. Not even saying "buggo!" whenever something buggo happened could salvage my experience.
+xx | film  | 1989 | The Blood of Heroes                                            | ♥ ★★★ Everyone is very earnest and the underground city is cool. Needs a remaster.
+xx | film  | 1990 | Jacob's Ladder                                                 | ♥ ★★★★★ Heavy! Reconsider if you have back problems.
+xx | film  | 1990 | Total Recall                                                   | ♥
+xx | film  | 1990 | Tremors                                                        | --
+xx | film  | 1992 | The Lawnmower Man                                              | ♥ ★★★★ ahead of its time
+xx | film  | 1994 | In the Mouth of Madness                                        | ♥ ★★★ scooby doo isn't in this but he should be
+xx | film  | 1994 | Stargate                                                       | ♥
+xx | film  | 1994 | Street Fighter                                                 | ♥
+xx | film  | 1994 | Timecop                                                        | --
+xx | film  | 1995 | 12 Monkeys                                                     | ♥
+xx | film  | 1995 | A Kid in King Arthur's Court                                   | ♥
+xx | film  | 1995 | Batman Forever                                                 | ♥ ★★★★★ eyes wide shut 2
+xx | film  | 1995 | Four Rooms                                                     | ♥
+xx | film  | 1995 | Species                                                        | ♥ ★★ [giving off negative vibes to harm nearby empaths]
+xx | film  | 1995 | Tales from the Crypt: Demon Knight                             | ♥
+xx | film  | 1995 | The City of Lost Children                                      | ♥ ★★★ The plot moves like sludge, looks nice though.
+xx | film  | 1995 | To Wong Foo, Thanks for Everything! Julie Newmar               | --
+xx | film  | 1995 | Village of the Damned                                          | --
+xx | film  | 1995 | Waterworld                                                     | ♥ ★★★★ I could do everything Kevin Costner does in this movie, it looks easy to me. Oh nvm I forgot he had gills in this lmao
+xx | film  | 1996 | The Birdcage                                                   | ♥
+xx | film  | 1997 | Batman & Robin                                                 | ♥ ★★★★ if you give this a low rating you are bad at laser tag
+xx | film  | 1997 | Contact                                                        | ♥
+xx | film  | 1997 | Event Horizon                                                  | ♥ ★★★★★ Incomprehensible. Blood fungus space castle.
+xx | film  | 1997 | Men in Black                                                   | ♥
+xx | film  | 1997 | MouseHunt                                                      | ♥ ★★★★★ Watch a mouse run around! The perfect movie.
+xx | film  | 1997 | The Jackal                                                     | --
+xx | film  | 1998 | Blade                                                          | ♥ ★★★★ better than The Matrix
+xx | film  | 1998 | Dark City                                                      | ♥ ★★★★★
+xx | film  | 1998 | Fear and Loathing in Las Vegas                                 | --
+xx | film  | 1998 | Godzilla                                                       | ♥ ★★★★★ the best part of this movie is when they say "we're gonna have to evacuate all of manhattan" and make a big deal about it but the next scene is "ok we evacuated manhattan"
+xx | film  | 1998 | Lost in Space                                                  | --
+xx | film  | 1998 | Mercury Rising                                                 | ★
+xx | film  | 1998 | Sphere                                                         | ♥ ★★★★★
+xx | film  | 1999 | Eyes Wide Shut                                                 | --
+xx | film  | 1999 | The 13th Warrior                                               | ♥ ★★★ guys being dudes
+xx | film  | 1999 | The Matrix                                                     | --
+xx | film  | 1999 | The Mummy                                                      | ♥
+xx | film  | 1999 | The Thirteenth Floor                                           | ♥ ★★★★★ Really good. I don't know what the floor number had to do with it, I must've missed that part.
+xx | film  | 1999 | Virus                                                          | --
+xx | film  | 2000 | Battlefield Earth                                              | ★★ last of the mohicans vs invader zim
+xx | film  | 2000 | Mission to Mars                                                | ♥ ★★ I love sinister geology. Pretty listless otherwise.
+xx | film  | 2000 | Pitch Black                                                    | ♥ ★★★★★
+xx | film  | 2000 | Red Planet                                                     | ♥
+xx | film  | 2000 | The 6th Day                                                    | ♥ ★★ The best part of this movie is the cloned goon who always has phantom pain from however he died last.
+xx | film  | 2000 | The Cell                                                       | ♥
+xx | film  | 2001 | Avalon                                                         | ♥
+xx | film  | 2001 | Dagon                                                          | ♥ ★★★ Oh! The town is named Imboca because it's spanish Innsmouth. I'm going to puke.
+xx | film  | 2001 | The One                                                        | ♥
+xx | film  | 2001 | Thir13en Ghosts                                                | ★★ bizarre
+xx | film  | 2001 | Tremors 3: Back to Perfection                                  | --
+xx | film  | 2002 | 28 Days Later                                                  | ♥ ★★★★★ personally i would have escaped the jeep the moment they mentioned gender
+xx | film  | 2002 | Blade II                                                       | ♥ ★★★★ double vampire lol
+xx | film  | 2002 | Dog Soldiers                                                   | ♥ ★★★ cheesy
+xx | film  | 2002 | Hero                                                           | ♥ ★★★ A colorful documentary about history's very first centrist.
+xx | film  | 2002 | Men in Black II                                                | --
+xx | film  | 2002 | Minority Report                                                | ♥
+xx | film  | 2002 | Resident Evil                                                  | --
+xx | film  | 2002 | Road to Perdition                                              | ♥
+xx | film  | 2002 | The Bourne Identity                                            | --
+xx | film  | 2003 | Cradle 2 the Grave                                             | ♥
+xx | film  | 2003 | Ong-Bak                                                        | ♥
+xx | film  | 2003 | The Bone Snatcher                                              | ★ I watched this hoping the monster would have some good unsettling motion, but it didn't even have that. Not good.
+xx | film  | 2003 | The League of Extraordinary Gentlemen                          | ♥ ★★★ Better than Van Helsing.
+xx | film  | 2003 | The Matrix Reloaded                                            | --
+xx | film  | 2003 | The Matrix Revolutions                                         | --
+xx | film  | 2004 | Dawn of the Dead                                               | --
+xx | film  | 2004 | Immortal                                                       | ★★ the last thing you want to hear when you're in a stranger's car is "who here can die a violent death?"
+xx | film  | 2004 | Kung Fu Hustle                                                 | ♥
+xx | film  | 2004 | Resident Evil: Apocalypse                                      | --
+xx | film  | 2004 | The Bourne Supremacy                                           | --
+xx | film  | 2004 | The Chronicles of Riddick                                      | --
+xx | film  | 2005 | Æon Flux                                                       | ♥
+xx | film  | 2005 | The Cave                                                       | ♥ ★★★ spelunkny
+xx | film  | 2005 | The Protector                                                  | ♥
+xx | film  | 2006 | The Fall                                                       | ♥ ★★★★★ this movie is sadder than The Grinch but not as sad as The Shawshank Redemption
+xx | film  | 2006 | The Fountain                                                   | ♥ ★★★★ Not as stressful as it looks.
+xx | film  | 2007 | 28 Weeks Later                                                 | ♥ ★★★ stop trusting the army! too grounded to enjoy as much as the first
+xx | film  | 2007 | Eden Log                                                       | --
+xx | film  | 2007 | I Am Legend                                                    | --
+xx | film  | 2007 | Resident Evil: Extinction                                      | --
+xx | film  | 2007 | Sleuth                                                         | ♥
+xx | film  | 2007 | Sunshine                                                       | ♥
+xx | film  | 2007 | The Bourne Ultimatum                                           | --
+xx | film  | 2008 | Dante 01                                                       | ♥ ★★★ every group chat is like this
+xx | film  | 2008 | JCVD                                                           | ♥ ★★★★ 🇺🇦 📀 blockbuster exclusive 🇺🇦
+xx | film  | 2009 | Pandorum                                                       | ♥ ★★★★ Really wacky editing. Above-average buggo behavior.
+xx | film  | 2009 | Tetsuo: The Bullet Man                                         | ♥ ★★★★ It's good actually.
+xx | film  | 2010 | Beyond the Black Rainbow                                       | ★★ still really bored 20 minutes in; voted to watch le château ambulant instead. i'll finish it later
+xx | film  | 2011 | Attack the Block                                               | ♥
+xx | film  | 2012 | Prometheus                                                     | ♥
+xx | film  | 2013 | Europa Report                                                  | ♥ ★★★★★
+xx | film  | 2013 | Gravity                                                        | ♥
+xx | film  | 2013 | Oblivion                                                       | ♥
+xx | film  | 2013 | Under the Skin                                                 | ♥ ★★★★★ really good
+xx | film  | 2013 | Upstream Color                                                 | ♥
+xx | film  | 2014 | Digging Up the Marrow                                          | ♥ ★★★ This was fun.
+xx | film  | 2014 | Garm Wars: The Last Druid                                      | ♥ ★★★★ bloom and maximalism are more important than craft, imo
+xx | film  | 2014 | Godzilla                                                       | ♥
+xx | film  | 2014 | Interstellar                                                   | ♥
+xx | film  | 2014 | Over the Garden Wall                                           | ♥
+xx | film  | 2014 | Song of the Sea                                                | ♥
+xx | film  | 2015 | The Hateful Eight                                              | ♥
+xx | film  | 2015 | World of Tomorrow                                              | ♥
+xx | film  | 2016 | Arrival                                                        | --
+xx | film  | 2016 | Kedi                                                           | ♥ ★★★★★
+xx | film  | 2016 | Shin Godzilla                                                  | ♥ ★★★★★ Very realistic!
+xx | film  | 2017 | Alien: Covenant                                                | ♥
+xx | film  | 2017 | Blue Planet II                                                 | ♥
+xx | film  | 2017 | Cold Skin                                                      | ♥ ★★★ Not much happens in this. Nice landscapes.
+xx | film  | 2017 | The Mummy                                                      | ♥ ★★★
+xx | film  | 2018 | Annihilation                                                   | ♥ ★★★★★
+xx | film  | 2018 | The Meg                                                        | ♥ ★★★★ Really nice underwater landscapes and then the cast takes turns falling off a boat. Unkind to whales.
+xx | film  | 2019 | Ad Astra                                                       | ♥ ★★★ Brad Pitt dissociates in space but he doesn't get much out of it. Laconic.
+xx | film  | 2019 | The Lighthouse                                                 | ♥ ★★★★★ really good movie about how to curse someone out in sailor times. unkind to seagulls
+xx | film  | 2020 | Underwater                                                     | ♥ ★★ subnautcia

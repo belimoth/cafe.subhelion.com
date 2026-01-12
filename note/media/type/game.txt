@@ -1,0 +1,194 @@
+PROJECT           | TYPE  | YEAR | TITLE                                                          | FRANCHISE     | BY                     | TAG                      | LINK
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--                | game  | ---- | Airframe Ultra                                                 | --            | Videocult              | --                       | https://www.akuparagames.com/game/airframe-ultra
+--                | game  | ---- | Grindset T.V.                                                  | --            | --                     | fps skate                | --
+--                | game  | ---- | Hecatomb                                                       | Heretic/Hexen | Raven                  | fps 1p                   | --
+--                | game  | ---- | Of Peaks and Tides                                             | --            | --                     | --                       | --
+--                | game  | ---- | Red Faction: B.E.A.S.T.                                        | Red Faction   | Locomotive             | --                       | --
+--                | game  | ---- | Rules of Engagement: The Grey State                            | --            | --                     | --                       | --
+--                | game  | ---- | Tenebyss                                                       | --            | --                     | action adventure         | --
+--                | game  | ---- | Umigari                                                        | --            | --                     | --                       | --
+--                | game  | 1991 | Catacomb 3D                                                    | --            | id                     | fps 1p                   | --
+--                | game  | 1991 | Hovertank                                                      | --            | id                     | fps 1p                   | --
+--                | game  | 1993 | Pathways into Darkness                                         | --            | Bungie                 | fps 1p                   | --
+--                | game  | 1994 | Heretic                                                        | Heretic/Hexen | Raven                  | fps 1p                   | --
+--                | game  | 1994 | Sensory Overload                                               | --            | Reality Bytes          | fps 1p                   | --
+--                | game  | 1995 | Havoc                                                          | --            | Reality Bytes          | fps 1p                   | --
+--                | game  | 1995 | Hexen: Beyond Heretic                                          | Heretic/Hexen | Raven                  | fps 1p                   | --
+--                | game  | 1996 | Dark Vengeance                                                 | --            | Reality Bytes          | action 1p                | --
+--                | game  | 1996 | Prime Target                                                   | --            | Wizard Works           | fps 1p                   | --
+--                | game  | 1996 | Syndicate Wars                                                 | --            | --                     | strategy                 | --
+--                | game  | 1997 | Damage Incorporated                                            | --            | Reality Bytes          | fps 1p mp                | --
+--                | game  | 1997 | Excalibur: Morgana's Revenge                                   | --            | --                     | fps 1p                   | --
+--                | game  | 1997 | Hexen II                                                       | Heretic/Hexen | Raven                  | fps 1p                   | --
+--                | game  | 1997 | Quake II                                                       | Quake         | id                     | fps 1p mp                | --
+--                | game  | 1998 | Shogo: Mobile Armor Division                                   | --            | Monolith               | --                       | --
+--                | game  | 1999 | Quake III Arena                                                | Quake         | id                     | fps mp                   | --
+--                | game  | 2000 | Daikatana                                                      | --            | Ion Storm              | fps 1p rpg               | --
+--                | game  | 2000 | Deus Ex                                                        | Deus Ex       | Ion Storm              | --                       | --
+--                | game  | 2000 | GLFighters                                                     | --            | Wolfire                | --                       | --
+--                | game  | 2002 | Lightning's Shadow                                             | --            | Wolfire                | --                       | --
+--                | game  | 2003 | Deus Ex: Invisible War                                         | Deus Ex       | Ion Storm              | --                       | --
+--                | game  | 2003 | Enter The Matrix                                               | The Matrix    | Shiny                  | action adventure         | --
+--                | game  | 2004 | Breakdown                                                      | --            | --                     | action adventure         | --
+--                | game  | 2004 | Millsberry                                                     | --            | --                     | --                       | --
+--                | game  | 2004 | Thief: Deadly Shadows                                          | --            | Ion Storm              | --                       | --
+--                | game  | 2005 | Chibi-Robo!                                                    | --            | --                     | shrunk                   | --
+--                | game  | 2005 | The Matrix: Path of Neo                                        | The Matrix    | Shiny                  | action adventure         | --
+--                | game  | 2007 | Penumbra: Overture                                             | Penumbra      | Frictional             | --                       | --
+--                | game  | 2007 | Shadowrun                                                      | Shadowrun     | --                     | fps mp                   | --
+--                | game  | 2008 | Penumbra: Black Plague                                         | Penumbra      | Frictional             | --                       | --
+--                | game  | 2009 | Fuel                                                           | --            | Asobo                  | racing                   | --
+--                | game  | 2009 | Penumbra: Requiem                                              | Penumbra      | Frictional             | --                       | --
+--                | game  | 2010 | Amnesia: The Dark Descent                                      | Amnesia       | Frictional             | --                       | --
+--                | game  | 2010 | Lugaru: The Rabbit's Foot                                      | Lugaru        | Wolfire                | action aim               | --
+--                | game  | 2011 | Deus Ex: Human Revolution                                      | Deus Ex       | --                     | --                       | --
+--                | game  | 2011 | Rage                                                           | Rage          | id                     | fps 1p mp drive          | --
+--                | game  | 2012 | Desperate Gods                                                 | --            | Wolfire                | --                       | --
+--                | game  | 2013 | Amnesia: A Machine for Pigs                                    | Amnesia       | Frictional             | --                       | --
+--                | game  | 2015 | Soma                                                           | --            | Frictional             | --                       | --
+--                | game  | 2016 | Deus Ex: Mankind Divided                                       | Deus Ex       | --                     | --                       | --
+--                | game  | 2017 | Overgrowth                                                     | Lugaru        | Wolfire                | action sim               | --
+--                | game  | 2018 | Dusk                                                           | --            | New Blood              | --                       | --
+--                | game  | 2018 | Obenseuer                                                      | --            | --                     | --                       | --
+--                | game  | 2019 | Manifold Garden                                                | --            | --                     | --                       | https://manifold.garden
+--                | game  | 2019 | Rage 2                                                         | Rage          | id                     | fps 1p                   | --
+--                | game  | 2020 | Amnesia: Rebirth                                               | Amnesia       | Frictional             | --                       | --
+--                | game  | 2020 | Doom Eternal                                                   | Doom          | id                     | fps 1p mp                | --
+--                | game  | 2020 | Ultrakill                                                      | --            | New Blood              | --                       | --
+--                | game  | 2022 | Amid Evil                                                      | --            | New Blood              | --                       | --
+--                | game  | 2022 | Cultic                                                         | --            | --                     | fps 1p                   | --
+--                | game  | 2022 | Gloomwood                                                      | --            | New Blood              | --                       | --
+--                | game  | 2022 | Incision                                                       | --            | --                     | fps 1p                   | --
+--                | game  | 2022 | Iron Lung                                                      | --            | Davis Szymanski        | --                       | --
+--                | game  | 2022 | Norco                                                          | --            | Geography of Robots    | adventure                | --
+--                | game  | 2022 | Quake Champions                                                | Quake         | id                     | fps mp                   | --
+--                | game  | 2023 | Amnesia: The Bunker                                            | Amnesia       | Frictional             | --                       | --
+--                | game  | 2023 | BattleBit Remastered                                           | --            | Various                | --                       | https://joinbattlebit.com
+--                | game  | 2023 | Brick Rigs                                                     | --            | --                     | lego slop                | --
+--                | game  | 2023 | Mosa Lina                                                      | --            | --                     | --                       | --
+--                | game  | 2023 | Trepang²                                                       | --            | Trepang                | fps 1p                   | --
+--                | game  | 2024 | Aneurism IV                                                    | --            | Vellocet               | --                       | --
+--                | game  | 2024 | Animal Well                                                    | --            | --                     | --                       | --
+--                | game  | 2024 | Mouthwashing                                                   | --            | --                     | horror adventure         | --
+--                | game  | 2024 | Something Bad is on the Moon                                   | --            | --                     | --                       | https://agerdev.itch.io/something-bad-on-the-moon
+--                | game  | 2024 | Voin                                                           | --            | --                     | --                       | --
+--                | game  | 2024 | Where Winds Meet                                               | --            | --                     | --                       | https://www.wherewindsmeetgame.com
+--                | game  | 2025 | Absolum                                                        | --            | --                     | --                       | --
+--                | game  | 2025 | Death Howl                                                     | --            | The Outer Zone         | adventure strategy deck  | --
+--                | game  | 2025 | Skate Story                                                    | --            | --                     | --                       | https://skatestory.com
+--                | game  | 2025 | Summit Drive                                                   | --            | --                     | --                       | https://savoryseaweed.itch.io/summit-drive
+--                | game  | 2025 | Tempest Rising                                                 | --            | --                     | --                       | https://tempestrising.com
+--                | game  | 2025 | Urban Myth Dissolution Center                                  | --            | Hakababunko            | --                       | --
+--                | game  | 2025 | Vein                                                           | --            | --                     | --                       | --
+--                | game  | 2025 | Void/Breaker                                                   | --            | --                     | --                       | --
+--                | game  | 2025 | Yapyap                                                         | --            | --                     | --                       | --
+--                | game  | 2026 | Over the Hill                                                  | --            | --                     | drive sim                | --
+--                | game  | 2026 | The Legend of Khiimori                                         | --            | --                     | --                       | --
+draugb            | game  | ---- | In Hope Voiden                                                 | --            | --                     | fps survival horror      | --
+draugb            | game  | ---- | Ironclad                                                       | --            | --                     | --                       | --
+draugb            | game  | ---- | Post Apocalypse Courier Service                                | --            | --                     | drive survival slop      | --
+draugb            | game  | ---- | Prospice                                                       | --            | --                     | drive horror             | --
+draugb            | game  | 1992 | Wolfenstein 3D                                                 | --            | id                     | fps 1p                   | --
+draugb            | game  | 1993 | Doom                                                           | Doom          | id                     | fps 1p                   | --
+draugb            | game  | 1994 | Doom II                                                        | Doom          | id                     | fps 1p                   | --
+draugb            | game  | 1994 | Marathon                                                       | Marathon      | Bungie                 | fps 1p                   | --
+draugb            | game  | 1995 | Command & Conquer                                              | C&C           | Westwood               | rts                      | --
+draugb            | game  | 1995 | Marathon 2: Durandal                                           | Marathon      | Bungie                 | fps 1p                   | --
+draugb            | game  | 1996 | Command & Conquer: Red Alert                                   | C&C           | Westwood               | rts                      | --
+draugb            | game  | 1996 | Marathon Infinity                                              | Marathon      | Bungie                 | fps 1p                   | --
+draugb            | game  | 1996 | Quake                                                          | Quake         | id                     | fps 1p                   | --
+draugb            | game  | 1996 | ZPC; Zero Population Count                                     | --            | Zombie                 | fps 1p                   | --
+draugb            | game  | 1997 | Chasm: The Rift                                                | --            | --                     | fps 1p mp                | --
+draugb            | game  | 1997 | GoldenEye 007                                                  | --            | Rare                   | fps 1p mp                | --
+draugb            | game  | 1998 | Half Life                                                      | Half Life     | Valve                  | fps 1p                   | --
+draugb            | game  | 1999 | Command & Conquer: Tiberian Sun                                | C&C           | Westwood               | rts                      | --
+draugb            | game  | 1999 | Half Life: Opposing Force                                      | Half Life     | Valve                  | fps 1p                   | --
+draugb            | game  | 2000 | Command & Conquer: Red Alert 2                                 | C&C           | Westwood               | rts                      | --
+draugb            | game  | 2000 | Perfect Dark                                                   | --            | Rare                   | fps 1p mp                | --
+draugb            | game  | 2000 | TimeSplitters                                                  | TimeSplitters | Free Radical           | --                       | --
+draugb            | game  | 2001 | Black Shades                                                   | Black Shades  | Wolfire                | fps 1p sim               | --
+draugb            | game  | 2001 | Half Life: Blue Shift                                          | Half Life     | Valve                  | fps 1p                   | --
+draugb            | game  | 2001 | Halo: Combat Evolved                                           | Halo          | Bungie                 | fps 1p mp                | --
+draugb            | game  | 2001 | Red Faction                                                    | Red Faction   | Volition               | fps 1p mp                | --
+draugb            | game  | 2002 | Command & Conquer: Renegade                                    | C&C           | Westwood               | action strategy          | --
+draugb            | game  | 2002 | Half Life: The Specialists Mod                                 | Half Life Mod | --                     | fps 1p                   | https://www.tsmod.net
+draugb            | game  | 2002 | Red Faction II                                                 | Red Faction   | Volition               | fps 1p mp                | --
+draugb            | game  | 2002 | TimeSplitters 2                                                | TimeSplitters | Free Radical           | --                       | --
+draugb            | game  | 2004 | Doom 3                                                         | Doom          | id                     | fps 1p                   | --
+draugb            | game  | 2004 | Half Life 2                                                    | Half Life     | Valve                  | fps 1p                   | --
+draugb            | game  | 2004 | Halo 2                                                         | Halo          | Bungie                 | fps 1p mp                | --
+draugb            | game  | 2005 | Project Snowblind                                              | Deus Ex       | Crystal Dynamics       | fps 1p                   | --
+draugb            | game  | 2005 | TimeSplitters: Future Perfect                                  | TimeSplitters | Free Radical           | --                       | --
+draugb            | game  | 2007 | Halo 3                                                         | Halo          | Bungie                 | fps 1p mp                | --
+draugb            | game  | 2007 | Hard Time                                                      | --            | MDickie                | action sim  	         | https://www.mdickie.com/prev_hardtime.htm
+draugb            | game  | 2008 | Fallout 3                                                      | Fallout       | --                     | --                       | --
+draugb            | game  | 2008 | Haze                                                           | --            | Free Radical           | fps 1p mp                | --
+draugb            | game  | 2009 | Black Shades iOS                                               | Black Shades  | Wolfire                | fps 1p sim               | --
+draugb            | game  | 2009 | Shin Megami Tensei: Strange Journey                            | SMT           | --                     | --                       | --
+draugb            | game  | 2010 | Fallout: New Vegas                                             | Fallout       | --                     | --                       | --
+draugb            | game  | 2011 | Red Faction: Armageddon                                        | Red Faction   | Volition               | tps 1p                   | --
+draugb            | game  | 2011 | Red Faction: Battlegrounds                                     | Red Faction   | Volition               | car 1p                   | --
+draugb            | game  | 2012 | Receiver                                                       | Receiver      | Wolfire                | fps 1p sim gun           | --
+draugb            | game  | 2014 | NaissanceE                                                     | --            | Limasse Five           | --                       | --
+draugb            | game  | 2015 | Sylvio                                                         | --            | Stroboskop             | fps horror adventure     | --
+draugb            | game  | 2016 | Doom (2016)                                                    | Doom          | id                     | fps 1p mp                | --
+draugb            | game  | 2017 | Entropy: Zero                                                  | Half Life     | Breadmen               | fps 1p                   | --
+draugb            | game  | 2017 | Pavlov                                                         | --            | --                     | --                       | --
+draugb            | game  | 2017 | SCP: Secret Laboratory                                         | SCP           | --                     | fps horror slop free     | --
+draugb            | game  | 2020 | Black Mesa                                                     | Half Life     | --                     | fps 1p                   | --
+draugb            | game  | 2020 | G String                                                       | --            | Eyaura                 | fps 1p                   | --
+draugb            | game  | 2020 | Hardspace: Shipbreaker                                         | --            | Blackbird              | --                       | --
+draugb            | game  | 2020 | Iron Harvest                                                   | --            | King Art               | rts                      | --
+draugb            | game  | 2020 | Receiver 2                                                     | Receiver      | Wolfire                | fps 1p sim gun           | --
+draugb            | game  | 2022 | Arma Reforger                                                  | Arma          | Bohemia                | fps tps sim              | --
+draugb            | game  | 2022 | Entropy: Zero  2                                               | Half Life     | Breadmen               | fps 1p                   | --
+draugb            | game  | 2022 | Selaco                                                         | --            | --                     | --                       | https://selacogame.com
+draugb            | game  | 2022 | Signalis                                                       | --            | --                     | --                       | --
+draugb            | game  | 2023 | Hrot                                                           | --            | Spytihněv              | fps 1p                   | --
+draugb            | game  | 2023 | Lethal Company                                                 | --            | Zeekerss               | slop                     | --
+draugb            | game  | 2023 | Mik                                                            | --            | --                     | parkour                  | --
+draugb            | game  | 2024 | B.C. Piezophile                                                | --            | --                     | fps action horror        | --
+draugb            | game  | 2024 | Forever Winter                                                 | --            | --                     | --                       | --
+draugb            | game  | 2024 | Metal Garden                                                   | --            | --                     | --                       | https://tinerasoft.itch.io/metal-garden
+draugb            | game  | 2024 | Mohrta                                                         | --            | Scumhead               | fps 1p                   | https://scumhead.itch.io/mohrta-demo
+draugb            | game  | 2024 | Nuclear Nightmare                                              | --            | --                     | slop                     | --
+draugb            | game  | 2024 | Project Silverfish                                             | --            | --                     | fps survival             | https://siris-pendrake.itch.io/project-silverfish
+draugb            | game  | 2024 | R.E.P.O.                                                       | --            | --                     | slop                     | --
+draugb            | game  | 2025 | Ambrosia Sky                                                   | --            | Soft Rains             | --                       | --
+draugb            | game  | 2025 | Atomfall                                                       | --            | --                     | action survival          | --
+draugb            | game  | 2025 | Cronos: New Dawn                                               | --            | --                     | --                       | https://cronosnewdawn.com
+draugb            | game  | 2025 | Deathground                                                    | --            | --                     | dino survival slop       | --
+draugb            | game  | 2025 | Doom: The Dark Ages                                            | Doom          | id                     | fps 1p                   | --
+draugb            | game  | 2025 | Mimesis                                                        | --            | --                     | slop                     | --
+draugb            | game  | 2025 | Motorslice                                                     | --            | --                     | --                       | --
+draugb            | game  | 2025 | Peak                                                           | --            | --                     | slop                     | --
+draugb            | game  | 2025 | Pigface                                                        | --            | --                     | --                       | --
+draugb            | game  | 2025 | Psycho Patrol R                                                | --            | --                     | fps 1p                   | --
+draugb            | game  | 2025 | Routine                                                        | --            | --                     | survival horror          | --
+draugb            | game  | 2025 | TimeSplitters: Rewind                                          | TimeSplitters | --                     | --                       | --
+draugb            | game  | 2025 | White Knuckle                                                  | --            | --                     | --                       | https://whiteknuckle.net
+draugb            | game  | 2026 | Klostyn                                                        | --            | --                     | --                       | --
+draugb            | game  | 2026 | Marathon (2026)                                                | Marathon      | Bungie                 | fps mp bad               | --
+draugb            | game  | 2026 | Ontos                                                          | --            | Frictional             | --                       | --
+draugb            | game  | 2026 | Pragmata                                                       | --            | Capcom                 | action adventure         | --
+draugb            | game  | 2027 | No Walls in Heaven                                             | --            | --                     | parkour                  | --
+draugb horsewar   | game  | 2000 | Ring of Red                                                    | --            | Konami                 | strategy                 | --
+draugb raygame    | game  | 2009 | Red Faction: Guerilla                                          | Red Faction   | Volition               | tps 1p mp                | --
+draugb simir      | game  | 2014 | Spintires                                                      | Spintires     | --                     | drive sim                | --
+draugb simir      | game  | 2017 | MudRunner                                                      | Spintires     | --                     | drive sim                | --
+draugb simir      | game  | 2018 | Subnautica                                                     | Subnautica    | Unknown Worlds         | --                       | --
+draugb simir      | game  | 2021 | Outer Wilds: Echoes of the Eye                                 | Outer Wilds   | Mobius                 | --                       | --
+draugb simir      | game  | 2021 | Subnautica: Below Zero                                         | Subnautica    | Unknown Worlds         | --                       | --
+draugb simir      | game  | 2026 | Subnautica 2                                                   | Subnautica    | Unknown Worlds         | --                       | --
+raygame           | game  | 2025 | Firehawk FPV                                                   | --            | --                     | fly                      | --
+simir             | game  | 2019 | Outer Wilds                                                    | Outer Wilds   | Mobius                 | --                       | --
+simir             | game  | 2023 | Mars First Logistics                                           | --            | --                     | --                       | --
+tyrant            | game  | 1997 | Samurai Shodown RPG                                            | Samsho        | --                     | --                       | https://www.polygon.com/23982922/samurai-shodown-rpg-neogeo-snk-english-translation
+tyrant            | game  | 1998 | Guantlet: Legends                                              | Guantlet      | --                     | slash slop               | --
+tyrant            | game  | 2000 | Guantlet: Dark Legacy                                          | Guantlet      | --                     | slash slop               | --
+tyrant            | game  | 2000 | Guantlet: Seven Sorrows                                        | Guantlet      | --                     | slash slop               | --
+tyrant            | game  | 2004 | Wrath Unleashed                                                | --            | The Collective         | strategy action 1p mp    | --
+tyrant            | game  | 2008 | Kongai                                                         | --            | David Sirlin           | --                       | https://www.sirlin.net/articles/designing-kongai
+tyrant            | game  | 2015 | Mordheim: City of the Damned                                   | Warhammer     | Rogue Factor           | skirmish                 | --
+tyrant            | game  | 2019 | Samurai Shodown (2019)                                         | Samsho        | --                     | fighting                 | --
