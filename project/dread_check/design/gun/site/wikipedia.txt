@@ -15,3 +15,4 @@ YEAR | KEY              | LINK
 1994 | usa_colt_lmg     | https://en.wikipedia.org/wiki/Colt_Automatic_Rifle
 2000 | sbd_cbj_ms       | https://en.wikipedia.org/wiki/Saab_Bofors_Dynamics_CBJ-MS
 2007 | 650_25mm_cbj     | https://en.wikipedia.org/wiki/6.5×25mm_CBJ
+1964 | usa_colt_m16     | https://en.wikipedia.org/wiki/M16_rifle

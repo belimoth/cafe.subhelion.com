@@ -1,13 +1,15 @@
-SETTING       | YEAR | CLASS    | KEY              | AMMO         | NAME
---------------|------|----------|------------------|--------------|-------------------------------------------------------------
---            | 1934 | rifle    | mauser_k98k      | 8mm_mauser   | Mauser Karabiner 98 kurz
---            | 1948 | rifle    | mauser_k98k_is   | 8mm_mauser   | Mauser Karabiner 98 kurz Israeli
---            | 1986 | sniper   | faf_giat_frf2    | 762_nato     | FR F2 Sniper
-draugb_harbor | 1970 | launcher | rus_ags_17       | 30_29mm_ru   | AGS-17 Plamya
-draugb_harbor | 1975 | special  | rus_aps_special  | 566_39mm_mps | APS Special Underwater Assault Rifle
-swat_city     | 1982 | smg      | usa_colt_633_doe | 9mm_luger    | Colt Model 633 9mm SMG DOE (Department of Energy)
-swat_city     | 1982 | smg      | usa_colt_635     | 9mm_luger    | Colt Model 635 9mm SMG
-swat_city     | 1982 | smg      | usa_colt_636_dea | 9mm_luger    | Colt Model 636 9mm SMG DEA (Drug Enforcement Administration)
-swat_city     | 1990 | smg      | rus_kbp_pp_90    | 9mm_makarov  | KBP (KBP Instrument Design Bureau) PP-90 Folding SMG
-swat_city     | 1994 | saw      | usa_colt_lmg     | 556_nato     | Colt Automatic Rifle/Colt LMG
-swat_city     | 2000 | pdw      | sbd_cbj_ms       | 650_25mm_cbj | SBD (Saab Bofors Dynamics) CBJ-MS
+PERIOD | SETTING        | YEAR | CLASS    | KEY              | FORE             | AMMO         | NAME
+-------|----------------|------|----------|------------------|------------------|--------------|-------------------------------------------------------------
+  19XX |  --            | 1934 | rifle    | mauser_k98k      | --               | 8mm_mauser   | Mauser Karabiner 98 kurz
+  19XX |  --            | 1948 | rifle    | mauser_k98k_is   | mauser_k98k      | 8mm_mauser   | Mauser Karabiner 98 kurz Israeli
+  19XX |  --            | 1986 | sniper   | faf_giat_frf2    | --               | 762_nato     | FR F2 Sniper
+  19XX |  draugb_harbor | 1970 | launcher | rus_ags_17       | --               | 30_29mm_ru   | AGS-17 Plamya
+  19XX |  draugb_harbor | 1975 | special  | rus_aps_special  | --               | 566_39mm_mps | APS Special Underwater Assault Rifle
+  19XX |  swat_city     | 1982 | smg      | usa_colt_633_doe | usa_colt_635     | 9mm_luger    | Colt Model 633 9mm SMG DOE (Department of Energy)
+  19XX |  swat_city     | 1982 | smg      | usa_colt_635     | --               | 9mm_luger    | Colt Model 635 9mm SMG
+  19XX |  swat_city     | 1982 | smg      | usa_colt_636_dea | usa_colt_635     | 9mm_luger    | Colt Model 636 9mm SMG DEA (Drug Enforcement Administration)
+  19XX |  swat_city     | 1990 | smg      | rus_kbp_pp_90    | --               | 9mm_makarov  | KBP (KBP Instrument Design Bureau) PP-90 Folding SMG
+  19XX |  swat_city     | 1994 | saw      | usa_colt_lmg     | --               | 556_nato     | Colt Automatic Rifle/Colt LMG
+  20XX |  swat_city     | 2000 | pdw      | sbd_cbj_ms       | --               | 650_25mm_cbj | SBD (Saab Bofors Dynamics) CBJ-MS
+  2XXX |  swat_city     | 2170 | gpmg     | uscmc_m56a2      | nazi_mg42        | --           | --
+       |  --            | ---- | gpmg     | nazi_mg42        | --               | --           | --

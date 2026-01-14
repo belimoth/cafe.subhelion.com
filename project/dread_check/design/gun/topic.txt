@@ -1,27 +1,30 @@
-PATH                                                          | KEY                   | TITLE
---------------------------------------------------------------|-----------------------|-------------
-combat                                                        | combat                | Combat
-combat/archery                                                | archery               | Archery
-combat/arts                                                   | martial-arts          | Martial arts
-equipment                                                     | equipment             | Equipment
-equipment/clothing                                            | clothing              | Clothing
-equipment/clothing/armor                                      | armor                 | Armor
-equipment/clothing/lbe                                        | lbe                   | Load-bearing equipment (LBE)
-equipment/clothing/ppe                                        | ppe                   | Personal protective equipment (PPE)
-equipment/loadouts                                            | loadouts              | Loadouts
-equipment/weapons                                             | weapons               | Weapons
-equipment/weapons/guns                                        | guns                  | Guns
-medicine                                                      | medicine              | Medicine
-survival                                                      | survival              | Survival
-survival/evasion                                              | evasion               | Evasion
-training                                                      | training              | Training
-training/testing                                              | testing               | Testing
-training/testing/ballistics                                   | ballistics            | Ballistics
-training/testing/ballistics/0-internal-ballistics             | 0-internal-ballistics | Internal ballistics
-training/testing/ballistics/0-internal-ballistics/suppression | suppression           | Suppresion, suppressors, silencers
-training/testing/ballistics/1-external-ballistics             | 1-external-ballistics | External ballistics
-training/testing/ballistics/2-terminal-ballistics             | 2-terminal-ballistics | Terminal ballistics
-training/testing/reliability                                  | reliability           | Reliability testing
-training/shooting                                             | shooting              | Shooting
-training/shooting/shooting-drills                             | shooting-drills       | Shooting drills
-training/shooting/shooting-techs                              | shooting-techs        | Shooting techniques
+PATH                                                      | KEY                | TITLE
+----------------------------------------------------------|--------------------|-----------------------------------
+combat                                                    | combat             | Combat
+combat/archery                                            | archery            | Archery
+combat/martial_art                                        | martial_art        | Martial arts
+combat/melee                                              | melee              | Melee combat
+equipment                                                 | equipment          | Equipment
+equipment/clothing                                        | clothing           | Clothing
+equipment/clothing/armor                                  | armor              | Armor
+equipment/clothing/lbe                                    | lbe                | Load-bearing equipment (LBE)
+equipment/clothing/ppe                                    | ppe                | Personal protective equipment (PPE)
+equipment/loadout                                         | loadout            | Loadouts
+equipment/weapon                                          | weapon             | Weapons
+equipment/weapon/gun                                      | gun                | Guns
+equipment/weapon/module                                   | module             | Weapon modules, attachments, accessories
+equipment/weapon/module/optic                             | optic              | Weapon optics
+medicine                                                  | medicine           | Medicine
+survival                                                  | survival           | Survival
+survival/evasion                                          | evasion            | Evasion
+training                                                  | training           | Training
+training/shooting                                         | shooting           | Shooting
+training/shooting/shooting_drill                          | shooting_drill     | Shooting drills
+training/shooting/shooting_tech                           | shooting_tech      | Shooting techniques
+training/testing                                          | testing            | Testing
+training/testing/ballistic                                | ballistic          | Ballistics
+training/testing/ballistic/external_ballistic             | external_ballistic | External ballistics
+training/testing/ballistic/internal_ballistic             | internal_ballistic | Internal ballistics
+training/testing/ballistic/internal_ballistic/suppression | suppression        | Suppresion, suppressors, silencers
+training/testing/ballistic/terminal_ballistic             | terminal_ballistic | Terminal ballistics
+training/testing/reliability                              | reliability        | Reliability testing
