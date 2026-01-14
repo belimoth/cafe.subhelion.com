@@ -1,4 +1,10 @@
 YEAR | KEY          | NAME
------|--------------|---------------
-2007 | 650_25mm_cbj | 6.5×25mm CBJ
+-----|--------------|------------------------------------------------------------
+1902 | 9mm_luger    | 9×19mm Parabellum; 9mm Parabellum; 9mm Luger; 9mm NATO; 9mm
+1903 | 8mm_mauser   | 7.92×57mm Mauser; 8mm Mauser
 1951 | 9mm_makarov  | 9×18mm Makarov
+1954 | 762_nato     | 7.62×51mm NATO; 762 NATO
+1967 | 30_29mm_ru   | 30mm Plamya Grenade
+1975 | 566_39mm_mps | --
+1980 | 556_nato     | 5.56×45mm NATO; 556 NATO
+2007 | 650_25mm_cbj | 6.5×25mm CBJ
