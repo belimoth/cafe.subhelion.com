@@ -12,7 +12,10 @@ equipment/clothing/ppe                                    | ppe                |
 equipment/loadout                                         | loadout            | Loadouts
 equipment/weapon                                          | weapon             | Weapons
 equipment/weapon/gun                                      | gun                | Guns
+equipment/weapon/knife                                    | knife              | Knives
 equipment/weapon/module                                   | module             | Weapon modules, attachments, accessories
+equipment/weapon/module/barrel                            | barrel             | Weapon barrels and barrel attachments
+equipment/weapon/module/light                             | light              | Weapon lights
 equipment/weapon/module/optic                             | optic              | Weapon optics
 medicine                                                  | medicine           | Medicine
 survival                                                  | survival           | Survival
