@@ -1,0 +1,7 @@
+0XXXX | deep past   | red_cry
+ 1XXX | far past    | blue_monsoon
+ 19XX | near past   | draugb_harbor
+ 20XX | present     | draugb_prologue
+ 21XX | near future | draugb_colony, threefold_path
+ 2XXX | far future  | druagb_frontier, swat_city
+XXXXX | deep future | draugb_wastes, draugb_tower, draugb_draugb
