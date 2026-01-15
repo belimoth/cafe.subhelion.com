@@ -1,26 +1,43 @@
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ALL ASSETS
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-LIST | LABEL     | PROJECT                || SERVICE        | ADMIN               | SITE               | ASSET                | COST | URL                                        | DESCRIPTION
------|-----------|------------------------||----------------|---------------------|--------------------|----------------------|------|--------------------------------------------|-----------------------------
---   | SUBHELION | BELIMOTH               || aws.amazon.com | belimoth            | --                 | --                   | --   | http://aws.amazon.com                      | service
---   | SUBHELION | BELIMOTH               || bsky.social    | belimoth            | bsky.social        | belimoth.bsky.social | --   | http://bsky.app/profile/belimoth.com       | social media profile
---   | SUBHELION | BELIMOTH               || hover.com      | belimoth            | --                 | --                   | --   | http://hover.com                           | service
---   | SUBHELION | BELIMOTH               || hover.com      | belimoth            | belimoth.com       | --                   | --   | http://belimoth.com                        | forward to belimoth.itch.io
---   | SUBHELION | BELIMOTH               || itch.io        | belimoth            | belimoth.itch.io   | --                   | --   | http://belimoth.itch.io                    | site
---   | SUBHELION | DREAD CHECK            || hover.com      | belimoth            | draugb.com         | --                   | --   | http://draugb.com                          | forward to itch.io/draugb
---   | SUBHELION | DREAD CHECK            || hover.com      | belimoth            | dreadcheck.com     | --                   | --   | http://dreadcheck.com                      | forward to subhelion.itch.io
---   | SUBHELION | SUBHELION              || belimoth.com   | belimoth            | cafe.belimoth.com  | --                   | --   | http://cafe.belimoth.com                   | knowledge base
---   | SUBHELION | SUBHELION              || bsky.social    | admin@subhelion.com | bsky.social        | subhelion.bsky.social| --   | http://bsky.app/profile/subhelion.com      | social media profile
---   | SUBHELION | SUBHELION              || hover.com      | belimoth            | subhelion.com      | --                   | --   | http://subhelion.com                       | forward to subhelion.itch.io
---   | SUBHELION | SUBHELION              || hover.com      | belimoth            | subhelion.com      | admin@subhelion.com  | --   | mail://admin@subhelion.com                 | forward to belimoth
---   | SUBHELION | SUBHELION              || itch.io        | admin@subhelion.com | subhelion.itch.io  | --                   | --   | http://subhelion.itch.io                   | site
---   | SUBHELION | SUBHELION              || subhelion.com  | belimoth            | cafe.subhelion.com | --                   | --   | http://cafe.subhelion.com                  | knowledge base
-$  5 | SUBHELION | DREAD CHECK PROFILES   || itch.io        | admin@subhelion.com | subhelion.itch.io  | DREAD CHECK ZINE     | --   | http://subhelion.itch.io/zine              | art
-$ 10 | SUBHELION | DREAD CHECK            || itch.io        | admin@subhelion.com | subhelion.itch.io  | DREAD CHECK          | --   | http://subhelion.itch.io/dread-check       | desktop game gold poor
-$120 | SUBHELION | DREAD CHECK            || itch.io        | admin@subhelion.com | subhelion.itch.io  | DREAD CHECK SUPER    | --   | http://subhelion.itch.io/dread-check-super | desktop game bundle rich
-FREE | SUBHELION | DREAD CHECK            || itch.io        | admin@subhelion.com | subhelion.itch.io  | DREAD CHECK BRAVO    | --   | http://subhelion.itch.io/dread-check-bravo | desktop game beta free
-FREE | SUBHELION | DREAD CHECK            || itch.io        | belimoth            | belimoth.itch.io   | DREAD CHECK ALPHA    | --   | http://belimoth.itch.io/draugb             | desktop game alpha
-FREE | SUBHELION | DREAD CHECK PROFILES   || itch.io        | admin@subhelion.com | subhelion.itch.io  | SWAT CITY SCANNER    | --   | http://subhelion.itch.io/swat-scanner      | web game
-FREE | SUBHELION | DREAD CHECK PROFILES   || itch.io        | admin@subhelion.com | subhelion.itch.io  | SWAT CITY SKINNER    | --   | http://subhelion.itch.io/swat-skinner      | web game
-FREE | SUBHELION | DREAD CHECK PROFILES   || itch.io        | admin@subhelion.com | subhelion.itch.io  | SWAT CITY SWIMMER    | --   | http://subhelion.itch.io/swat-swimmer      | web game
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+LIST | LABEL     | PROJECT                || SERVICE        | ADMIN               | SITE               | ASSET                | COST | LINK                                           | DESCRIPTION
+-----|-----------|------------------------||----------------|---------------------|--------------------|----------------------|------|------------------------------------------------|-----------------------------
+--   | SUBHELION | BELIMOTH               || aws.amazon.com | belimoth            | --                 | --                   | --   | http://aws.amazon.com                          | service
+--   | SUBHELION | BELIMOTH               || bsky.social    | belimoth            | bsky.social        | belimoth.bsky.social | --   | http://bsky.app/profile/belimoth.com           | social media profile
+--   | SUBHELION | BELIMOTH               || hover.com      | belimoth            | --                 | --                   | --   | http://hover.com                               | service
+--   | SUBHELION | BELIMOTH               || hover.com      | belimoth            | belimoth.com       | --                   | --   | http://belimoth.com                            | forward to belimoth.itch.io
+--   | SUBHELION | BELIMOTH               || itch.io        | belimoth            | belimoth.itch.io   | --                   | --   | http://belimoth.itch.io                        | site
+--   | SUBHELION | DREAD CHECK            || hover.com      | belimoth            | draugb.com         | --                   | --   | http://draugb.com                              | forward to itch.io/draugb
+--   | SUBHELION | DREAD CHECK            || hover.com      | belimoth            | dreadcheck.com     | --                   | --   | http://dreadcheck.com                          | forward to subhelion.itch.io
+--   | SUBHELION | SUBHELION              || belimoth.com   | belimoth            | cafe.belimoth.com  | --                   | --   | http://cafe.belimoth.com                       | knowledge base
+--   | SUBHELION | SUBHELION              || bsky.social    | admin@subhelion.com | bsky.social        | subhelion.bsky.social| --   | http://bsky.app/profile/subhelion.com          | social media profile
+--   | SUBHELION | SUBHELION              || hover.com      | belimoth            | subhelion.com      | --                   | --   | http://subhelion.com                           | forward to subhelion.itch.io
+--   | SUBHELION | SUBHELION              || hover.com      | belimoth            | subhelion.com      | admin@subhelion.com  | --   | mail://admin@subhelion.com                     | forward to belimoth
+--   | SUBHELION | SUBHELION              || itch.io        | admin@subhelion.com | subhelion.itch.io  | --                   | --   | http://subhelion.itch.io                       | site
+--   | SUBHELION | SUBHELION              || subhelion.com  | belimoth            | cafe.subhelion.com | --                   | --   | http://cafe.subhelion.com                      | knowledge base
+$  5 | SUBHELION | DREAD CHECK PROFILES   || itch.io        | admin@subhelion.com | subhelion.itch.io  | DREAD CHECK ZINE     | --   | http://subhelion.itch.io/zine                  | art
+$ 10 | SUBHELION | DREAD CHECK            || itch.io        | admin@subhelion.com | subhelion.itch.io  | DREAD CHECK          | --   | http://subhelion.itch.io/dread-check           | desktop game gold poor
+$120 | SUBHELION | DREAD CHECK            || itch.io        | admin@subhelion.com | subhelion.itch.io  | DREAD CHECK SUPER    | --   | http://subhelion.itch.io/dread-check-super     | desktop game bundle rich
+FREE | SUBHELION | DREAD CHECK            || itch.io        | admin@subhelion.com | subhelion.itch.io  | DREAD CHECK BRAVO    | --   | http://subhelion.itch.io/dread-check-bravo     | desktop game beta free
+FREE | SUBHELION | DREAD CHECK            || itch.io        | belimoth            | belimoth.itch.io   | DREAD CHECK ALPHA    | --   | http://belimoth.itch.io/draugb                 | desktop game alpha
+FREE | SUBHELION | DREAD CHECK PROFILES   || itch.io        | admin@subhelion.com | subhelion.itch.io  | SWAT CITY SCANNER    | --   | http://subhelion.itch.io/swat-scanner          | web game
+FREE | SUBHELION | DREAD CHECK PROFILES   || itch.io        | admin@subhelion.com | subhelion.itch.io  | SWAT CITY SKINNER    | --   | http://subhelion.itch.io/swat-skinner          | web game
+FREE | SUBHELION | DREAD CHECK PROFILES   || itch.io        | admin@subhelion.com | subhelion.itch.io  | SWAT CITY SWIMMER    | --   | http://subhelion.itch.io/swat-swimmer          | web game
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+NEW ASSETS
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+LIST | LABEL     | PROJECT                || SERVICE        | ADMIN               | SITE               | ASSET                | COST | LINK                                           | DESCRIPTION
+-----|-----------|------------------------||----------------|---------------------|--------------------|----------------------|------|------------------------------------------------|-----------------------------
+--   | SUBHELION | BELIMOTH               || github.com     | belimoth            | --                 | --                   | --   | http://github.com                              | service
+--   | SUBHELION | BELIMOTH               || github.com     | belimoth            | belimoth           | --                   | --   | http://github.com/belimoth                     | user
+--   | SUBHELION | BELIMOTH               || github.com     | belimoth            | belimoth           | cafe.belimoth.com    | --   | http://github.com/belimoth/cafe.belimoth.com   | repo
+--   | SUBHELION | BELIMOTH               || github.com     | belimoth            | belimoth           | system               | --   | http://github.com/belimoth/system              | repo
+--   | SUBHELION | BELIMOTH               || github.com     | belimoth            | belimoth           | template             | --   | http://github.com/belimoth/template            | repo
+--   | SUBHELION | DREAD CHECK            || github.com     | belimoth            | belimoth           | draugb               | --   | http://github.com/belimoth/draugb              | repo
+--   | SUBHELION | DREAD CHECK PROFILES   || github.com     | belimoth            | subhelion          | swat_scanner         | --   | http://github.com/subhelion/swat-scanner       | repo
+--   | SUBHELION | DREAD CHECK PROFILES   || github.com     | belimoth            | subhelion          | swat_skinner         | --   | http://github.com/subhelion/swat-skinner       | repo
+--   | SUBHELION | DREAD CHECK PROFILES   || github.com     | belimoth            | subhelion          | swat_swimmer         | --   | http://github.com/subhelion/swat-swimmer       | repo
+--   | SUBHELION | SUBHELION              || github.com     | belimoth            | subhelion          | --                   | --   | http://github.com/subhelion                    | organization
+--   | SUBHELION | SUBHELION              || github.com     | belimoth            | subhelion          | cafe.subhelion.com   | --   | http://github.com/belimoth/cafe.subhelion.com  | repo
+--   | SUBHELION | SUBHELION              || github.com     | belimoth            | subhelion          | research             | --   | http://github.com/belimoth/research            | repo

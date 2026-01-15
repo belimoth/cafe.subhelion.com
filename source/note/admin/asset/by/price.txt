@@ -1,7 +1,7 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ASSETS BY LIST PRICE (PRODUCTS)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-LIST | LABEL     | PROJECT                || SERVICE        | ADMIN               | SITE               | ASSET             | COST | URL                                        | DESCRIPTION
+LIST | LABEL     | PROJECT                || SERVICE        | ADMIN               | SITE               | ASSET             | COST | LINK                                       | DESCRIPTION
 -----|-----------|------------------------||----------------|---------------------|--------------------|-------------------|------|--------------------------------------------|-----------------------------
 $  5 | SUBHELION | DREAD CHECK PROFILES   || itch.io        | admin@subhelion.com | subhelion.itch.io  | DREAD CHECK ZINE  | --   | http://subhelion.itch.io/zine              | art
 $ 10 | SUBHELION | DREAD CHECK            || itch.io        | admin@subhelion.com | subhelion.itch.io  | DREAD CHECK       | --   | http://subhelion.itch.io/dread-check       | desktop game gold poor
