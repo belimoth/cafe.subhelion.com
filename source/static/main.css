@@ -1,0 +1,517 @@
+*, *::before, *::after {
+	box-sizing: border-box;
+	margin: 0;
+	border: 0;
+	padding: 0;
+	font: inherit;
+}
+
+html, body {
+	min-height: 100%;
+
+	overflow-x: hidden;
+}
+
+html {
+	line-height: 24px;
+
+	overflow-y: scroll;
+}
+
+body {
+	max-width: 960px;
+	margin: 0 auto;
+
+	padding: 0 6px;
+	padding-left: calc( 8ch + 6px );
+
+	font-family: system-ui;
+	font-size: 16px;
+
+	color: #222;
+}
+
+@media ( max-width: 960px ) {
+	body {
+		padding-left: calc( 6ch + 6px );
+	}
+}
+
+/*  */
+
+a {
+	text-decoration: none;
+	color: #1A73E8;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:active {
+	text-decoration: underline;
+	color: #222;
+}
+
+a.new {
+	color: #D33;
+}
+
+/*  */
+
+h1 {
+	line-height: 48px;
+	font-size: 32px;
+	font-weight: 700;
+}
+
+h2 {
+	font-size: 24px;
+	font-weight: 700;
+}
+
+h3 {
+	font-size: 16px;
+	font-weight: 700;
+	border-bottom: 1px solid #222;
+}
+
+h3 + ul {
+	padding-top: 1px;
+	margin-top: 0;
+}
+
+/*  */
+
+dt {
+	float: left;
+	clear: left;
+
+	margin-right: 8px;
+
+	width: 56px;
+	width: 112px;
+
+	font-weight: 700;
+}
+
+dt::after {
+	content: "";
+}
+
+/*  */
+
+ul > li > time {
+	display: inline-block;
+
+	margin-left: -8ch;
+	margin-right: 4ch;
+
+	width: 4ch;
+}
+
+@media ( max-width: 960px ) {
+	ul > li > time {
+		margin-left: -6ch;
+		margin-right: 2ch;
+	}
+}
+
+/*  */
+
+span.initial {
+	display: inline-block;
+	text-align: center;
+	margin-left: -5ch;
+	margin-right: 4ch;
+	width: 1ch;
+}
+
+@media ( max-width: 960px ) {
+	span.initial {
+		margin-left: -3ch;
+		margin-right: 2ch;
+	}
+}
+
+/*  */
+
+h1 {
+	margin-top: 32px;
+}
+
+h2 {
+	font-size: 24px;
+	margin-top: 48px;
+}
+
+h3 {
+	margin-top: 48px;
+}
+
+h1,
+h2,
+h1 + h3,
+h1 + h3 + h3 {
+	margin-bottom: 40px;
+}
+
+ul, ol, p {
+	margin-bottom: 24px;
+}
+
+h1 + h2 {
+	margin-top: -48px;
+}
+
+h2 + h2 {
+	margin-top: -40px;
+}
+
+h1 + h3, h1 + h3 + h3, h1 + h3 + h3 {
+	margin-top: -48px;
+}
+
+dl {
+	margin: 48px 0;
+}
+
+i {
+	font-style: italic;
+}
+
+/*  */
+
+body > ul, body > ol {
+	margin-left : calc( -8ch );
+	padding-left: calc(  8ch );
+	padding-bottom: 24px;
+}
+
+@media ( max-width: 960px ) {
+	body > ul, body > ol {
+		margin-left : calc( -6ch );
+		padding-left: calc(  6ch );
+	}
+}
+
+ul {
+	list-style: none;
+}
+
+ol {
+	list-style: upper-roman;
+}
+
+ol > li {
+	padding-left: 2ch;
+	margin-left: -2ch;
+}
+
+ol ol {
+	list-style: "-";
+	margin: 0;
+	padding-left: 4ch;
+}
+
+@media ( max-width: 960px ) {
+	ol ol {
+		padding-left: 3ch;
+	}
+}
+
+ol ol > li {
+	padding-left: 3ch;
+	margin-left: -3ch;
+}
+
+
+@media ( max-width: 960px ) {
+	ol ol > li {
+		padding-left: 1ch;
+		margin-left: -2ch;
+	}
+}
+
+span.topic {
+	float: right;
+}
+
+@media ( max-width: 960px ) {
+	span.topic {
+		display: none;
+	}
+}
+
+/*  */
+
+ul ul {
+	margin : 0;
+}
+
+ul ul > li {
+	display: none;
+}
+
+ul ul > li:first-child {
+	display: block;
+}
+
+ul ul.group-expand > li {
+	display: block;
+	background :#f0f0f0;
+}
+
+/*  */
+
+li.group {
+	position: relative;
+}
+
+/* li.group > button {
+	position: absolute;
+	left : -1.5ch;
+	top  : 6px;
+	width: 14px;
+	height: 14px;
+	background: inherit;
+	line-height: 12px;
+
+	border: 1px solid currentColor;
+} */
+
+li > button {
+	display: block;
+	margin-left: 4ch;
+	background: none;
+	margin-bottom: 24px;
+}
+
+ul ul.group-expand > li:not( :last-child ) > button {
+	display: none;
+}
+
+li > button:hover::before {
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: -1;
+	width: 100%;
+	height: 24px;
+	background: #f0f0f0;
+}
+
+nav.crumbs > a {
+	display: inline-block;
+}
+
+/*  */
+
+li > button {
+	display: none;
+}
+
+
+ul ul > li {
+	display: block;
+	background :#f0f0f0;
+	margin-left: -6px;
+	padding-left: 6px;
+}
+
+span.topic {
+	margin-right: 6px;
+}
+
+ul ul > li:not( .group ) > span.topic {
+	display: none;
+}
+
+li.group {
+	margin-top: 3px;
+}
+
+ul > li {
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+
+	margin-left: calc( -8ch );
+	padding-left: calc( 8ch );
+}
+
+ol ol {
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+
+/*  */
+
+pre {
+	position: absolute;
+	left: 0;
+	width: 100vw;
+
+	padding-left: calc( 50vw - 480px );
+
+	font-family: consolas, 'courier new', monospace;
+	font-size: 16px;
+	line-height: 18px;
+}
+
+
+pre {
+	position: absolute;
+	left: 0;
+	width: 100vw;
+
+	padding-left: calc( 50vw - 480px );
+
+	background: #efefef;
+
+	font-family: consolas, 'courier new', monospace;
+	font-size: 14px;
+	line-height: 18px;
+}
+
+pre {
+	background: #1f1f1f;
+	color     : #cccccc;
+}
+
+pre ::selection {
+	background: #264f78;
+}
+
+pre ::selection:window-inactive{
+	background: #3a3d41;
+}
+
+/*  */
+
+form.toolbar {
+	margin: 32px  0;
+}
+
+select {
+	color: #1A73E8;
+}
+
+a.search {
+	float: right;
+}
+
+li {
+	position: relative;
+}
+
+/*  */
+
+div.count {
+	position: absolute;
+	right: 0;
+	top: 1px;
+	z-index: -1;
+
+	height:22px;
+
+	color: #ddd;
+
+	background: repeating-linear-gradient(
+		to left,
+		currentColor,
+		currentColor 2px,
+		transparent 2px,
+		transparent 4px
+	);
+}
+
+a:hover  + div.count {
+	color: #97d0fe;
+}
+
+/*  */
+
+ul.list-authors.hide-missing > li {
+	display: none;
+}
+
+ul.list-authors.link-to-home    > li:not([data-home   ]) > a,
+ul.list-authors.link-to-blog    > li:not([data-blog   ]) > a,
+ul.list-authors.link-to-wiki    > li:not([data-wiki   ]) > a,
+ul.list-authors.link-to-twitter > li:not([data-twitter]) > a,
+ul.list-authors.link-to-github  > li:not([data-github ]) > a,
+ul.list-authors.link-to-youtube > li:not([data-youtube]) > a,
+ul.list-authors.link-to-patreon > li:not([data-patreon]) > a {
+	color: #aaa;
+}
+
+ul.list-authors.link-to-cafe    > li,
+ul.list-authors.link-to-home    > li[data-home],
+ul.list-authors.link-to-blog    > li[data-blog],
+ul.list-authors.link-to-wiki    > li[data-wiki],
+ul.list-authors.link-to-twitter > li[data-twitter],
+ul.list-authors.link-to-github  > li[data-github ],
+ul.list-authors.link-to-patreon > li[data-patreon],
+ul.list-authors.link-to-youtube > li[data-youtube] {
+	display: block
+}
+
+ul.list-authors.hide-missing span.initial {
+	display: none;
+}
+
+/*  */
+
+form,
+span.initial,
+time {
+	user-select: none;
+}
+
+/*  */
+
+label.disabled,
+label.disabled > input,
+select[disabled],
+input[disabled],
+li[disabled],
+a[disabled] {
+	color: #aaa;
+}
+
+a[disabled] {
+	cursor: pointer;
+}
+
+input {
+	margin-right: 12px;
+}
+
+label {
+	margin-right: 24px;
+}
+
+/*  */
+
+ol.toc {
+	width: 320px;
+	border: 1px solid #444;
+	list-style-type: decimal;
+	padding-top: 24px;
+	list-style: none;
+	padding-left: 12px;
+	margin-left: 0;
+}
+
+li::marker {
+	color: inherit;
+}
+
+ul.list-authors.hide-new > li.new {
+	display: none;
+}
+
+/*  */
