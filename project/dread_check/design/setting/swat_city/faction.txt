@@ -1,83 +1,366 @@
+------------------------------------------------------------------------------------------------------------------------------------------
+GOVERNMENT AND PLOT FACTIONS
+------------------------------------------------------------------------------------------------------------------------------------------
+NAME   | HOUSE         | DESCRIPTION                                          | LOCATION
+-------|---------------|------------------------------------------------------|-----------------------------------------------------------
+GOVPOL | --            | category designation                                 | --
+-------|---------------|------------------------------------------------------|-----------------------------------------------------------
+ICEPOL | station       | the cops and immigration and animal control          | Tromsø Police Headquarters, Troms
+VERMIN | prison        | unaffiliated criminals and prisoners                 | Metropolitan Correction Center, Chicago
+-------|---------------|------------------------------------------------------|-----------------------------------------------------------
+TYPHON | mc_typhon     | endgame zombie virus nanobot sperm event             | --
+DELUGE | prison_below  | --                                                   | --
+-------|---------------|------------------------------------------------------|-----------------------------------------------------------
+BUREAU | hq_bureau     | paranormal science missions                          | --
+ICEMAL | hq_icemal     | schism-prone BUREAU subfaction protect MALICE secret | --
+EUNATO | hq_eunato     | diplomatic security missions                         | --
+KGBGRU | hq_kgbgru     | sleeper cell anti EUNATO missions and intel          | --
+SKEDAR | parliament    | alien imposters anti BUREAU missions                 | --
+-------|---------------|------------------------------------------------------|-----------------------------------------------------------
+USARMY | garrison      | military defends bases and convoys                   | --
+USNAVY | ship_navy     | military                                             | --
+USVOID | launchpad     | military air force and space force combo division    | --
+USWARC | ship_warc     | military arctic warfare cold weather division        | --
+------------------------------------------------------------------------------------------------------------------------------------------
+OFFSCREEN VILLANS
+------------------------------------------------------------------------------------------------------------------------------------------
+NAME   | HOUSE         | DESCRIPTION                                          | LOCATION
+-------|---------------|------------------------------------------------------|-----------------------------------------------------------
+ASHERA | --            | --                                                   | --
+BEEZLE | --            | --                                                   | --
+DRAUGB | 6_draugb      | --                                                   | --
+FENRIR | 3_frontier    | --                                                   | --
+GOJIRA | --            | --                                                   | --
+LILITH | prison_above  | --                                                   | --
+LUCIFE | --            | --                                                   | --
+MALICE | hq_malice     | antisentience sentience in service to BUREAU         | --
+MOLOCH | --            | --                                                   | --
+SATURN | 4_wastes      | --                                                   | --
+SCYLLA | 1_harbor      | --                                                   | --
+SKURGE | --            | --                                                   | --
+SOPHIA | 5_tower_1     | --                                                   | --
+TIAMAT | --            | --                                                   | --
+YAHWEH | 5_tower_2     | --                                                   | --
+------------------------------------------------------------------------------------------------------------------------------------------
+OFFSCREEN AMERICAN REGIONAL POWERS
+------------------------------------------------------------------------------------------------------------------------------------------
+ANTIFA | --            | usa awol                                             | --
+------------------------------------------------------------------------------------------------------------------------------------------
+ALASKA | --            | usa regional power 1 far north canada greenland      | --
+CALIFA | --            | usa regional power 2 west coast                      | --
+CHIRAQ | --            | usa regional power 3 midwest                         | --
+MEXICA | --            | usa regional power 4 southwest                       | --
+NEVADA | --            | usa regional power 5 mountains                       | --
+NEWARQ | --            | usa regional power 6 east coast                      | --
+PACIFA | --            | usa regional power 7 northwest                       | --
+------------------------------------------------------------------------------------------------------------------------------------------
+OFFSCREEN REGIONAL MILITARY POWERS
+------------------------------------------------------------------------------------------------------------------------------------------
+NAME   | HOUSE         | DESCRIPTION                                          | LOCATION
+-------|---------------|------------------------------------------------------|-----------------------------------------------------------
+WARDOG | --            | category designation                                 | --
+-------|---------------|------------------------------------------------------|-----------------------------------------------------------
+TERRAN | --            | alliance 0 pan earth                                 | --
+-------|---------------|------------------------------------------------------|-----------------------------------------------------------
+AFRICA | --            | alliance 1 pan africa                                | --
+EUNATO | --            | alliance 2 pan europe                                | --
+SOVIET | --            | alliance 3 pan russia                                | --
+ZODIAC | --            | alliance 4 pan asia                                  | --
+-------|---------------|------------------------------------------------------|-----------------------------------------------------------
+HEAVEN | --            | nomadic power 0 pan awol                             | --
+-------|---------------|------------------------------------------------------|-----------------------------------------------------------
+ISISIL | --            | nomadic power 1 isis and israel awol                 | --
+LEGION | --            | nomadic power 2 europe awol                          | --
+MARINE | --            | nomadic power 3 america awol                         | --
+WAGNER | --            | nomadic power 4 russia awol                          | --
+-------|---------------|------------------------------------------------------|-----------------------------------------------------------
+ARABIA | --            | regional power  1 asia west arabia                   | --
+ASMARA | --            | regional power  2 africa north east                  | --
+BEIJIN | --            | regional power  3 china north                        | --
+BENGAL | --            | regional power  4 indea east and bangladesh          | --
+BERLIN | --            | regional power  5 europe central                     | --
+CAIRO2 | --            | regional power  6 africa north                       | --
+CONGO2 | --            | regional power  7 africa central                     | --
+DELHI2 | --            | regional power  8 india north                        | --
+DONBAS | --            | regional power  9 ukraine east                       | --
+DORADO | --            | regional power 10 south america 1                    | --
+DURBAN | --            | regional power 11 africa south                       | --
+HABASH | --            | regional power 12 africa south east                  | --
+HEBRON | --            | regional power 14 asia west palestine 1              | --
+JABURO | --            | regional power 15 south america 2                    | --
+JAIPUR | --            | regional power 16 india north west                   | --
+KHYBER | --            | regional power 18 asia west pakistan afghanistan     | --
+LISBON | --            | regional power 19 europe west portugal               | --
+LONDON | --            | regional power 20 europe west islands                | --
+LPGPKK | --            | regional power 21 asia west kurdistan                | --
+LQAEDA | --            | regional power 23 asia west afghanistan              | --
+MADRID | --            | regional power 24 europe west spain                  | --
+MOSCOW | --            | regional power 25 russia west                        | --
+MUMBAI | --            | regional power 27 india south west                   | --
+NAMPHO | --            | regional power 26 korea                              | --
+NANJIN | --            | regional power 28 china south                        | --
+ODESSA | --            | regional power 29 ukraine west                       | --
+RUSSIA | --            | regional power 32 russia east                        | --
+SHIRAZ | --            | regional power 31 iran persia                        | --
+TAIWAN | --            | regional power 32 china fake                         | --
+TEHRAN | --            | regional power 32 iran                               | --
+TUAREG | --            | regional power 34 africa north west                  | --
+YANGON | --            | regional power 35 myanmar                            | --
+YISHUV | --            | regional power 36 asia wes palestine 2               | --
+------------------------------------------------------------------------------------------------------------------------------------------
+OFFSCREEN SOLAR MILITARY POWERS
+------------------------------------------------------------------------------------------------------------------------------------------
+NAME   | HOUSE         | DESCRIPTION                                          | LOCATION
+-------|---------------|------------------------------------------------------|-----------------------------------------------------------
+GORGON | 2_colony      | solar power -- lunar gargoyle dracula bat people     | --
+------------------------------------------------------------------------------------------------------------------------------------------
+OFFSCREEN GALACTIC MILITARY POWERS
+------------------------------------------------------------------------------------------------------------------------------------------
+NAME   | HOUSE         | DESCRIPTION                                          | LOCATION
+-------|---------------|------------------------------------------------------|-----------------------------------------------------------
+ASGARD | --            | little grey men, elvis etc                           | --
+GOAULD | --            | --                                                   | --
+WRAITH | --            | space LILITH                                         | --
+XXX121 | --            | xenomorph tyranid zerg hive; space CHITIN            | --
+------------------------------------------------------------------------------------------------------------------------------------------
+ORGANIZED CRIME
+------------------------------------------------------------------------------------------------------------------------------------------
+NAME   | HOUSE         | DESCRIPTION                                          | LOCATION
+-------|---------------|------------------------------------------------------|-----------------------------------------------------------
+GANGER | --            | ethnic gang  0 unspecified                           | --
+-------|---------------|------------------------------------------------------|-----------------------------------------------------------
+BRATVA | --            | ethnic gang  1 russian                               | --
+CANTON | --            | ethnic gang  2 chinese                               | --
+DIABLO | --            | ethnic gang  3 mexican                               | --
+FAMILY | --            | ethnic gang  4 white spicy                           | --
+HARLEM | --            | ethnic gang  5 american 1                            | --
+MAFIA2 | --            | ethnic gang  6 american 2                            | --
+NEVADA | --            | ethnic gang  7 american 3                            | --
+PICKLE | --            | ethnic gang  8 white sour                            | --
+RABBIT | --            | ethnic gang  9 white 2                               | --
+TAIWAN | --            | ethnic gang 10 chinese 2                             | --
+WAHKEE | --            | ethnic gang 11 malaysian                             | --
+YAKUZA | --            | ethnic gang 12 japanese                              | --
+------------------------------------------------------------------------------------------------------------------------------------------
+CORPORATE CRIME
+------------------------------------------------------------------------------------------------------------------------------------------
+NAME   | HOUSE         | DESCRIPTION                                          | LOCATION
+-------|---------------|------------------------------------------------------|-----------------------------------------------------------
+CORPSO | --            | corpso unpecified                                    | --
+-------|---------------|------------------------------------------------------|-----------------------------------------------------------
+BUSTER | hq_buster     | mercenary strikebuster private military corporation  | --
+PINKER | hq_pinker     | mercenary private eyes and mall cops camera watchers | --
+-------|---------------|------------------------------------------------------|-----------------------------------------------------------
+AMAZON | warehouse     | corpso vehicle convoy missions                       | --
+ARMADA | munitions     | corpso research missions                             | --
+BOEING | airstrip      | corpso research missions                             | --
+CASINO | megacasino    | corpso gambling missions                             | --
+DARPA  | research      | corpso research missions                             | --
+FUNRA  | --            | fabrique nationale herstal x unreal                  | --
+GARDA  | parking       | corpso vehicle convoy missions                       | --
+GEHIRN | hq_gehirn     | corpso research missions below                       | --
+GUNDAM | hq_gundam     | corpso research missions above                       | --
+HONDA  | --            | engine factory                                       | --
+NOCTUA | --            | cooler factory                                       | --
+NVIDIA | factory       | corpso missions                                      | --
+ORACLE | mainframe     | corpso missions minority report surveillence tech    | --
+ROBLOX | hq_roblox     | corpso combine trooper anti RUGRAT missions          | --
+TESLA  | garage        | corpso vehicle convoy missions                       | --
+WAYMO  | --            | autotaxi service                                     | --
+NESTLE | hq_nestle     | soylent food factory                                 | --
+ZYNGA  | hq_zynga      | corpso gambling missions                             | --
+------------------------------------------------------------------------------------------------------------------------------------------
+DISORGANIZED CRIME
+------------------------------------------------------------------------------------------------------------------------------------------
+NAME   | HOUSE         | DESCRIPTION                                          | LOCATION
+-------|---------------|------------------------------------------------------|-----------------------------------------------------------
+HACKER | --            | cyber gang  0 unspecified                            | --
+-------|---------------|------------------------------------------------------|-----------------------------------------------------------
+3FPATH | university    | fallout enclave graduate school death cult           | --
+BANDIT | museum        | cat burglar artifact collecting gang                 | --
+CHITIN | road_cargo    | cyber gang  1 insects                                | --
+CRASHO | road_crash    | cyber gang  2 amnesia                                | --
+CRYPTO | road_limo     | cyber gang  3 pyramid scheme gang for losers         | --
+PSYCHO | road_truck    | cyber gang  4 evil                                   | --
+REDCRY | --            | anti dinosaur volunteer expeditionary force          | --
+ROCKET | road_van      | cyber gang  5 animals                                | --
+RUGRAT | sewer         | cyber gang  6 child soldier urchin gang              | Karlsplatz Overflow Chamber, Vienna
+SCHIZO | road_sedan    | cyber gang  7 good                                   | --
+SHORTY |               | cyber faction girls only                             | --
+SPORTO | road_party    | cyber gang  8 sports                                 | --
+TURNIP | road_mecha    | cyber gang  9 mecha                                  | --
+WAUGHO | road_jeep     | cyber gang 10 activists                              | --
+WEIRDO | road_train    | cyber gang 11 larpers                                | --
+------------------------------------------------------------------------------------------------------------------------------------------
+CIVILIAN AND OTHER
+------------------------------------------------------------------------------------------------------------------------------------------
+NAME   | HOUSE         | DESCRIPTION                                          | LOCATION
+-------|---------------|------------------------------------------------------|-----------------------------------------------------------
+ITIZEN | ruins         | civilian                                             | --
+-------|---------------|------------------------------------------------------|-----------------------------------------------------------
+IDOZER | construction  | civilian construction contractors                    | --
+IHOUSE | megacasino    | civilian wage slave checkout clerk                   | --
+IMECHA | mechanic      | civilian mechanic repairmen                          | --
+IMEDIC | hospital      | civilian doctors without borders                     | --
+IMINER | dig_coal      | civilian child miner punishment field trip coal dig  | --
+INFANT | barracks      | civilian child soldier infantry battalion            | --
+IPRESS | broadcast     | civilian war correspondents and sports announcers    | --
+IROYAL | colosseum     | civilian personalities hunger games dress to impress | --
+IRSPOL | parliament    | gun control and tax enforcement with nonlethal guns  | --
+PAROLE | road_repair   | prisoners with temporary bodies for jobs outside     | --
+ICEFUN | --            | civilian charity solicitors and empire apologists    | --
+-------|---------------|------------------------------------------------------|-----------------------------------------------------------
+ARCADE | arcade        | fantasy larpers 1 gamer                              | --
+BARQUE | cathedral     | fantasy larpers 2 evil baroque bipolar baddies       | --
+CREEPY | --            | fantasy larpers 3 death electronic ghost wife        | --
+EMPATH | --            | mob psycho akira autism club                         | --
+FAIRY  | --            | fantasy larpers 4 life tinkerbell crystal magic      | --
+FREDDY | --            | fantasy larpers 5 animal puppet horror fans          | --
+GUNSHY | --            | john wick super asassin clan                         | --
+HARPY  | --            | fantasy larpers 6 classic monster fans               | --
+POPPY  | --            | drugs enthusiasts                                    | --
+RISKY  | --            | mad max x games death sports fans                    | --
+TYRANT | graveyard     | fantasy larpers 7 good medieval mmorpg fans          | --
+WIZARD | --            | fantasy larpers 8 shadow wizard money gang cash fans | --
+-------|---------------|------------------------------------------------------|-----------------------------------------------------------
+ANTHRO | convention    | animal larpers 0 pan animal                          | --
+BIRDY  | convention    | animal larpers 1 birds                               | --
+CRAWLY | convention    | animal larpers 2 worms insects etc                   | --
+DIPNY  | convention    | animal larpers 3 lobe-finned fish                    | --
+FISHY  | convention    | animal larpers 4 ray-finned fish                     | --
+FURRY  | convention    | animal larpers 5 mammals                             | --
+HERPY  | convention    | animal larpers 6 amphibians                          | --
+SANDY  | convention    | animal larpers 7 cartilaginous fish                  | --
+SAURY  | convention    | animal larpers 8 dinosaurs                           | --
+SCALY  | convention    | animal larpers 9 reptiles                            | --
+-------|----------------------------------------------------------------------|-----------------------------------------------------------
+APOLLO | alucard white mana vampires pelor the burning hate mixed relations   | --
+HUNTER | van helsing buffy watcher cult anti MONSTER missions, loves APOLLO   | --
+LILITH | vampire missions can't go outside                                    | --
+SLAYER | anti LILITH missions, hates APOLLO                                   | --
+------------------------------------------------------------------------------------------------------------------------------------------
+VIRTUAL FACTIONS
+------------------------------------------------------------------------------------------------------------------------------------------
+ANTIFA | police mission target
+BOUNTY | bounty mission target
+CONVOY | convoy mission target
+GANGER | ethnic gang member unknown affiliation
+HACKER | cyber gang member unknown affiliation
+NONONO | unknown
+PARIAH | former citizen political prisoner
+TARGET | default mission target
+URCHIN | school mission target
+VERMIN | police mission target
+------------------------------------------------------------------------------------------------------------------------------------------
+RADIO
+------------------------------------------------------------------------------------------------------------------------------------------
+_SQUAD | blank space for squad channel
+_GROUP | blank space for group channel
+ITIZEN | public social feed
+IMUSIC | public music channel
+------------------------------------------------------------------------------------------------------------------------------------------
+MEGACASINO SHOPS
+------------------------------------------------------------------------------------------------------------------------------------------
+NAME   | HOUSE         | DESCRIPTION                                          | LOCATION
+-------|---------------|------------------------------------------------------|-----------------------------------------------------------
+ARMADA | shop_armada   | future guns and cyber implants                       | --
+POWDER | show_powder   | fashion and army guns                                | --
+TESLA  | shop_tesla    | cyberjank temporary implants                         | --
+USARMY | shop_usarmy   | future armor grenades and enlistment                 | --
+-------|---------------|------------------------------------------------------|-----------------------------------------------------------
+CASINO | shop_casino   | public gambling rich                                 | --
+FOREX  | shop_forex    | pyramid scheme gambling membership club              | --
+HUSTLE | shop_hustle   | gig dispatch and job fair                            | --
+MENSA  | shop_mensa    | private gambing poor viq                             | --
+ROBLOX | shop_roblox   | mandatory gambling field trip for INFANT             | --
+SPORTS | shop_sports   | public gambling poor                                 | --
+WARDOG | shop_wardog   | private gambling rich vip                            | --
+WONKA  | shop_wonka    | candy shop                                           | --
+ZYNGA  | shop_zynga    | public gambling free                                 | --
+-------|---------------|------------------------------------------------------|-----------------------------------------------------------
+PETROL | block_petrol  | very expensive gasoline gated comunity for vip only  | --
+------------------------------------------------------------------------------------------------------------------------------------------
+MEGACASINO SHRINES
+------------------------------------------------------------------------------------------------------------------------------------------
+NAME   | HOUSE         | DESCRIPTION                                          | LOCATION
+-------|---------------|------------------------------------------------------|-----------------------------------------------------------
+ASHERA | shrine_ashera | church  0 nature                                     | --
+BEEZLE | shrine_beezle | church  1 satanism and bugs                          | --
+BRAHMA | shrine_brahma | church  2 vedic                                      | --
+DELUGE | shrine_deluge | church  3 nonsentience sentience fans                | --
+LILITH | shrine_lilith | church  4 nonvampire vampire fans, LILITH front      | --
+MARDUK | shrine_marduk | church  5 babylon good, HUNTER front                 | --
+SOPHIA | shrine_sophia | church  6 gnosticism good                            | --
+TIAMAT | shrine_tiamat | church  7 babylon and gnosticism evil                | --
+TYPHON | shrine_typhon | church  8 sentience sentience fans; containment site | --
+WAHABI | shrine_wahabi | church  9 abrahamic arabia and southeast asia        | --
+XAVIER | shrine_xavier | church 10 abrahamic new world, SLAYER front          | --
+YAHWEH | shrine_yahweh | church 11 abrahamic old world                        | --
+------------------------------------------------------------------------------------------------------------------------------------------
+FUEL SOURCES
+------------------------------------------------------------------------------------------------------------------------------------------
+VERMIN | stolen gasolione stolen nuke cell batteries and stolen devices also street-illegal devices and cyberwear from the underground
+ITIZEN | expensive nuke cell batteries to power microwave etc and one-off devices with unreplaceable batteries
+IROYAL | food on demand and free energy free replacement lithium battery wireless charging electricity for everything else
+------------------------------------------------------------------------------------------------------------------------------------------
+BUREAU | cyberjank energy cell
+SKEDAR | alien free energy cell
+USARMY | gasoline vehicles, nuclear vehicles, powder guns for employees, powder guns for customers
+USNAVY | gasoline vehicles, nuclear vehicles, powder guns for employees
+USVOID | gasoline vehicles, lithium vehicles, plasma energy cell guns for employees
+------------------------------------------------------------------------------------------------------------------------------------------
+AMAZON | lithium vehicles
+ARMADA | alien free energy cell hq, plasma energy cell guns for customers corpso customers and employees
+BOEING | gasoline vehicles
+DARPA  | cyberjank energy cell vehicles for employees, lithum energy cell prototype vehicles for corpso customers
+GARDA  | nuclear vehicles
+GEHIRN | nuclear vehicles
+GUNDAM | nuclear vehicles
+NVIDIA | lithium devices for customers, lithium vehicles for employees, lithium energy cell guns for employees
+ORACLE | lithium devices for customers, lithium vehicles for employees, lithium energy cell guns for employees
+PETROL | gasoline for customers
+ROBLOX | one-off games for customers, lithium vehicles for employees, plasma energy cell guns for employees
+TESLA  | one-off vehicles for customers
+ZYNGA  | one-off games for customers
+------------------------------------------------------------------------------------------------------------------------------------------
+SECURITY DOORS
+------------------------------------------------------------------------------------------------------------------------------------------
+BUNKER | private emergency shelter for vips only
+INFANT | children only, illegal elsewhere
+IROYAL | vips only
+ITIZEN | citizen only public shops and gambling
+GOVPOL | vips only
+ICEPOL | cops only
+WARBOY | child military squire gate, too large for adults
+------------------------------------------------------------------------------------------------------------------------------------------
+BUSTER | security employees only, dispatch and armory
+PINKER | security employees only, admin and cameras
+------------------------------------------------------------------------------------------------------------------------------------------
+IDOZER | repair employees only, job sire
+IMECHA | repair employees only, tools and supplies
+IMEDIC | pharmacy
 
-ISISIL - no notes
 
 
-POPPY - drugs gang
-RISKY - mad max death sports fans
-SHORTY cyber faction girls only
 
-GOAULD
-SKURGE
-TIAMAT
 
-LUCIFE
-HUSTLE
-FOREX pyramid scheme gambling
-name for arctic warfare division of us military
-WARBOY - child military squire gate, too large for adults
+
+
+
+
+
 
 PINKER - private investigators and mall cops
 BUSTER - strikebuster mercenary
 LAWYER - legal aid
 
-BIRDY
-HARPY
-
-AFRICA
-ASMARA
-BERLIN
-BEIJIN
-CAIRO2
-DELHI2
-DRCPLA
-DONBAS
-DURBAN
-EUNATO
-HABASH
-HEBRON
-JABURO
-JAIPUR
-KHYBER
-LISBON
-LONDON
-MADRID
-MOSCOW
-MUMBAI
-NANJIN
-ODESSA
-RUSSIA
-TAIWAN
-TEHRAN
-TUAREG
-LPGPPK
-LQAEDA
-WAGNER
-ZODIAC
-
-USNAVY
-PEACE
-MEDIC
 
 
-- ROBLOX buys its nonlethal weapons from ICEPOL
-- ZYNGA security guards patrol arcades for unrest
-- WONKA candy shop
-- NESTLE soylent food factory
-- BUNKER private emergency shelter for vips only
-- MALICE antihaos chaos god sentience in service to bureau
+
+
+
+
+
 - ICEMAL bureau unit that defends malice and site and site info, potential civil war subfaction with the rest of BUREAU, after warhammer 40k grey knights vs custodes in hypothetical terminus decree showdown
 - IZEPOL european version of ICEPOL
 - ISNZEI interpol equivalent of ICEPOL
-
-APOLLO - church of the sun, white mana vampires, pelor the burning hate, antichaos chaos faction, mixed relations with HUNTER and SLAYER factions, compare castlevania alucard, the punisher, warhammer 40k malice
-
-NOCTUA - cooler factory
-
-HONDA - engine factory
-
-BRAHMA - church
-HONDA engine factory
-WAYMO autotaxi service
-FUNRA fabrique nationale herstal x unreal
-
-YISHUV | palestine | https://en.wikipedia.org/wiki/Yishuv
