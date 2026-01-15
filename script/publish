@@ -1,0 +1,17 @@
+#!/bin/bash
+
+# set -o errexit
+#
+# scripts/build-production
+#
+# set -o noglob
+#
+# aws --profile subhelion.com s3 rm s3://cafe.subhelion.com --recursive
+#
+# aws --profile subhelion.com s3 sync local/build_production/0 s3://cafe.subhelion.com --exclude * --include *.css
+# aws --profile subhelion.com s3 sync local/build_production/0 s3://cafe.subhelion.com --exclude *.css --content-type text/html
+# aws --profile subhelion.com s3 sync local/build_production/1 s3://cafe.subhelion.com --content-type text/html
+# aws --profile subhelion.com s3 sync local/build_production/2 s3://cafe.subhelion.com --content-type text/html
+# aws --profile subhelion.com s3 sync local/build_production/3 s3://cafe.subhelion.com --content-type text/html
+#
+# aws --profile subhelion.com cloudfront create-invalidation --distribution-id E22A02UM4NUNDS --paths "/*"

@@ -1,0 +1,13 @@
+#!/bin/bash
+
+# [[ $( uname --operating-system ) == "Msys"                            ]] || { echo "error: unsupported os";         exit 1; }
+# [[ -x $( command -v python )                                          ]] || { echo "error: python not installed";   exit 1; }
+# [[ $( python -c "import sys; print( sys.version_info[0] )" ) == "3"   ]] || { echo "error: python 3 not installed"; exit 1; }
+# [[ $( python --version ) == $( cat scripts/installation/runtime.txt ) ]] || { echo "warning: python version mismatch"; }
+#
+# python -m venv local/venv
+# source scripts/activate
+# python -m pip install --upgrade pip
+# pip install --requirement scripts/installation/requirements-full.txt
+#
+# mkdir --parents local/app

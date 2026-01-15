@@ -1,0 +1,36 @@
+#!/bin/bash
+
+# development
+
+# set -o errexit
+#
+# source scripts/activate
+#
+# rm -rf local/build
+#
+# cd ./source
+#
+# python -m app.__init__
+#
+# export FLASK_FREEZER_DESTINATION=../../local/build
+#
+# python freeze.py
+#
+# python rewrite_hrefs.py
+
+# production
+
+# source scripts/activate
+#
+# rm -rf local/build_production
+#
+# cd ./source
+#
+# python -m app.__init__
+#
+# export FLASK_FREEZER_DESTINATION=../../local/build_production/0
+#
+# python freeze.py
+#
+# python rewrite_files.py
+# mv ../local/build_production/0/index ../local/build_production/0/index.html
