@@ -1,18 +1,636 @@
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+AMMO
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 YEAR | KEY              | LINK
------|------------------|----------------------------------------------------------
+-----|------------------|--------------------------------------------------------------------------------------------------------------------------------
 1902 | 9mm_luger        | https://en.wikipedia.org/wiki/9×19mm_Parabellum
 1903 | 8mm_mauser       | https://en.wikipedia.org/wiki/7.92×57mm_Mauser
+1954 | 762_nato         | https://en.wikipedia.org/wiki/7.62×51mm_NATO
+1980 | 556_nato         | https://en.wikipedia.org/wiki/5.56×45mm_NATO
+2007 | 650_25mm_cbj     | https://en.wikipedia.org/wiki/6.5×25mm_CBJ
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+GUN
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+YEAR | KEY              | LINK
+-----|------------------|--------------------------------------------------------------------------------------------------------------------------------
 1934 | mauser_k98k      | https://en.wikipedia.org/wiki/Karabiner_98k
 1948 | mauser_k98k_is   | https://en.wikipedia.org/wiki/Karabiner_98k
-1954 | 762_nato         | https://en.wikipedia.org/wiki/7.62×51mm_NATO
+1964 | usa_colt_m16     | https://en.wikipedia.org/wiki/M16_rifle
 1970 | rus_ags_17       | https://en.wikipedia.org/wiki/AGS-17
 1975 | rus_aps_special  | https://en.wikipedia.org/wiki/APS_underwater_rifle
-1980 | 556_nato         | https://en.wikipedia.org/wiki/5.56×45mm_NATO
 1982 | usa_colt_633_doe | https://en.wikipedia.org/wiki/Colt_9mm_SMG
 1982 | usa_colt_635     | https://en.wikipedia.org/wiki/Colt_9mm_SMG
 1986 | faf_giat_frf2    | https://en.wikipedia.org/wiki/FR_F2_sniper_rifle
 1990 | rus_kbp_pp_90    | https://en.wikipedia.org/wiki/PP-90
 1994 | usa_colt_lmg     | https://en.wikipedia.org/wiki/Colt_Automatic_Rifle
 2000 | sbd_cbj_ms       | https://en.wikipedia.org/wiki/Saab_Bofors_Dynamics_CBJ-MS
-2007 | 650_25mm_cbj     | https://en.wikipedia.org/wiki/6.5×25mm_CBJ
-1964 | usa_colt_m16     | https://en.wikipedia.org/wiki/M16_rifle
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+REVOLVER
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+YEAR | CLASS    | KEY                          | DESIGNATION                             | LINK
+-----|----------|------------------------------|-----------------------------------------|---------------------------------------------------------------
+---- | revolver | --                           | --                                      | https://en.wikipedia.org/wiki/List_of_revolvers
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+REVOLVER - USA
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+YEAR | CLASS    | KEY                          | DESIGNATION                             | LINK
+-----|----------|------------------------------|-----------------------------------------|---------------------------------------------------------------
+1873 | revolver | usa_colt_saa                 | Colt M1873 Single-Action Army Revolver  | https://en.wikipedia.org/wiki/Colt_Single_Action_Army
+1892 | revolver | usa_colt_m1892_revolver      | Colt M1892 Revolver                     | https://en.wikipedia.org/wiki/Colt_M1892
+1898 | revolver | usa_colt_new_service         | Colt New Service Revolver               | https://en.wikipedia.org/wiki/Colt_New_Service
+1911 | revolver | usa_colt_m1911_revolver      | Colt M1911 Revolver                     | https://en.wikipedia.org/wiki/M1911_pistol
+1917 | revolver | usa_colt_m1917_revolver      | M1917 Revolver, Colt                    | https://en.wikipedia.org/wiki/M1917_Revolver
+1917 | revolver | usa_sw_m1917_revolver        | M1917 Revolver, Smith & Wesson          | https://en.wikipedia.org/wiki/M1917_Revolver
+1978 | revolver | usa_colt_m1878_revolver      | Colt M1878 Revolver                     | https://en.wikipedia.org/wiki/Colt_M1878
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+REVOLVER - OTHER
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+YEAR | CLASS    | KEY                          | DESIGNATION                             | LINK
+-----|----------|------------------------------|-----------------------------------------|---------------------------------------------------------------
+1878 | revolver | mauser_c78                   | Mauser C78 Oberndorf "Zig-Zag"          | https://en.wikipedia.org/wiki/Mauser_C78_"zig-zag"
+1879 | revolver | mauser_m1879_revolver        | M1879 Reichsrevolver                    | https://en.wikipedia.org/wiki/M1879_Reichsrevolver
+1880 | revolver | uk_enfield_revolver          | Enfield Revolver                        | https://en.wikipedia.org/wiki/Enfield_revolver
+1932 | revolver | uk_enfield_2                 | Enfield  No. 2 Revolver                 | https://en.wikipedia.org/wiki/Enfield_No._2
+1887 | revolver | uk_webley                    | Webley Revolver                         | https://en.wikipedia.org/wiki/Webley_Revolver
+1895 | revolver | ussr_m1895_nagant            | Nagant M1895 Revolver                   | https://en.wikipedia.org/wiki/Nagant_M1895
+1901 | revolver | uk_webley_fosbery            | Webley-Fosbery Automatic Revolver       | https://en.wikipedia.org/wiki/Webley–Fosbery_Automatic_Revolver
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+PISTOL
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+YEAR | CLASS    | KEY                          | DESIGNATION                             | LINK
+-----|----------|------------------------------|-----------------------------------------|---------------------------------------------------------------
+---- | pistol   | --                           | --                                      | https://en.wikipedia.org/wiki/List_of_pistols
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+PISTOL - BORCHARDT, LUGER, MAUSERRRRRR
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+YEAR | CLASS    | KEY                          | DESIGNATION                             | LINK
+-----|----------|------------------------------|-----------------------------------------|---------------------------------------------------------------
+1893 | pistol   | borchardt_c93                | Borchardt C93 Pistol                    | https://en.wikipedia.org/wiki/Borchardt_C-93
+1896 | pistol   | mauser_c96                   | Mauser C96 "Broomhandle"                | https://en.wikipedia.org/wiki/Mauser_C96
+1900 | pistol   | luger_pistol                 | Luger P08 Pistol                        | https://en.wikipedia.org/wiki/Luger_pistol
+1920 | pistol   | mauser_c96_m1920_fr          | Mauser C96 M1920 Gendarmerie Nationale  | https://en.wikipedia.org/wiki/Mauser_C96
+1939 | pistol   | mauser_c96_m1930_de          | Mauser C96 M1930 Luftwaffe              | https://en.wikipedia.org/wiki/Mauser_C96
+1896 | carbine  | mauser_c96_m1896_carbine     | Mauser C96 M1896 Cavalry Carbine        | https://en.wikipedia.org/wiki/Mauser_C96
+1896 | pistol   | mauser_c96_m1896_compact     | Mauser C96 M1896 Compact                | https://en.wikipedia.org/wiki/Mauser_C96
+1896 | pistol   | mauser_c96_m1896_officer     | Mauser C96 M1896 Compact "Officer"      | https://en.wikipedia.org/wiki/Mauser_C96
+1898 | carbine  | mauser_c96_m1898_carbine     | Mauser C96 M1898 Carbine                | https://en.wikipedia.org/wiki/Mauser_C96
+1912 | pistol   | mauser_c96_m1912_export      | Mauser C96 M1912 Export                 | https://en.wikipedia.org/wiki/Mauser_C96
+1917 | carbine  | mauser_c96_m1917_trench      | Mauser C96 M1917 Trench Carbine         | https://en.wikipedia.org/wiki/Mauser_C96
+1920 | pistol   | mauser_c96_m1920_weimar      | Mauser C96 M1920 Weimar                 | https://en.wikipedia.org/wiki/Mauser_C96
+1920 | pistol   | mauser_c96_m1920_weimar_navy | Mauser C96 M1920 Weimar Navy            | https://en.wikipedia.org/wiki/Mauser_C96
+1921 | pistol   | mauser_c96_m1921_bolo        | Mauser C96 M1921 "Bolo"                 | https://en.wikipedia.org/wiki/Mauser_C96
+1930 | pistol   | mauser_c96_m1930             | Mauser C96 M1930                        | https://en.wikipedia.org/wiki/Mauser_C96
+1927 | pistol   | mauser_c96_m1927_es          | Mauser C96 M1927 Spanish                | https://en.wikipedia.org/wiki/Mauser_C96
+1932 | pistol   | mauser_c96_m1932_auto        | Mauser C96 M1932 "Schnellfeuer"         | https://en.wikipedia.org/wiki/Mauser_C96
+1932 | pistol   | mauser_c96_m1932_pasam       | Mauser C96 M1932 PASAM                  | https://en.wikipedia.org/wiki/Mauser_C96
+1970 | pistol   | mauser_c96_m1932_pasam_1     | Mauser C96 M1932 PASAM Arroyo MOD-1     | https://en.wikipedia.org/wiki/Mauser_C96
+1932 | pistol   | mauser_c96_m1932_pasam_2     | Mauser C96 M1932 PASAM Arroyo MOD-2     | https://en.wikipedia.org/wiki/Mauser_C96
+1912 | carbine  | mauser_c96_cn                | Mauser C96 Chinese "Box Cannon"         | https://en.wikipedia.org/wiki/Mauser_C96
+1928 | pistol   | mauser_c96_cn_shanxi         | Mauser C96 Shanxi Type 17               | Shanxi Type 17
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+PISTOL - COLT
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+YEAR | CLASS    | KEY                          | DESIGNATION                             | LINK
+-----|----------|------------------------------|-----------------------------------------|---------------------------------------------------------------
+1900 | pistol   | colt_m1900_pistol            | Colt M1900 Pistol                       | https://en.wikipedia.org/wiki/Colt_M1900
+1902 | pistol   | colt_m1902_pistol            | Colt M1902 Pistol                       | https://en.wikipedia.org/wiki/Colt_M1902
+1903 | pistol   | colt_m1903_pocket_hammer     | Colt M1903 Pocket Hammer                | https://en.wikipedia.org/wiki/Colt_Model_1903_Pocket_Hammer
+---- | pistol   | --                           | --                                      | https://en.wikipedia.org/wiki/Colt_Model_1903_Pocket_Hammerless
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+PISTOL - STEYR
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+YEAR | CLASS    | KEY                          | DESIGNATION                             | LINK
+-----|----------|------------------------------|-----------------------------------------|---------------------------------------------------------------
+1907 | pistol   | steyr_m1907_pistol           | Roth-Krnka-Steyr M1907 Pistol           | https://en.wikipedia.org/wiki/Roth–Steyr_M1907
+1912 | pistol   | steyr_m1912_pistol           | Steyr-Hahn M1912 Pistol                 | https://en.wikipedia.org/wiki/Steyr_M1912_pistol
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+PISTOL - JAPAN, NAMBU
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+YEAR | CLASS    | KEY                          | DESIGNATION                             | LINK
+-----|----------|------------------------------|-----------------------------------------|---------------------------------------------------------------
+1902 | pistol   | nambu_type_a                 | Nambu M1902 Type A "Grandpa"            | https://en.wikipedia.org/wiki/Nambu_pistol
+1909 | pistol   | nambu_type_b                 | Nambu M1909 Type B "Baby"               | https://en.wikipedia.org/wiki/Nambu_pistol
+1926 | pistol   | nambu_type_14                | Nambu M1926 Type 14 "Officer"           | https://en.wikipedia.org/wiki/Nambu_pistol
+1926 | pistol   | nambu_type_14                | Nambu M1926 Type 14 "Officer"           | https://en.wikipedia.org/wiki/Nambu_pistol
+1935 | pistol   | nambu_type_94                | Nambu Type 94 8mm Pistol                | https://en.wikipedia.org/wiki/Type_94_Nambu_pistol
+---- | pistol   | nambu_type_vn                | Viet Cong Nambu                         | https://en.wikipedia.org/wiki/Nambu_pistol
+1944 | pistol   | nambu_type_cn                | Nambu Type 19 "Manchuria"               | https://en.wikipedia.org/wiki/North_China_Type_19_handgun
+----------------------------------------------------------------------------------------------------------------------------------------------------
+PISTOL - JAPAN, OTHER
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+YEAR | CLASS    | KEY                          | DESIGNATION                             | LINK
+-----|----------|------------------------------|-----------------------------------------|---------------------------------------------------------------
+1941 | pistol   | hamada_type_1                | Hamada Type I Pistol                    | https://en.wikipedia.org/wiki/Hamada_Type_pistol
+1944 | pistol   | hamada_type_2                | Hamada Type II Pistol                   | https://en.wikipedia.org/wiki/Hamada_Type_pistol
+1945 | pistol   | sugiura_pistol               | Sugiura Pistol "Manchukuo"              | https://en.wikipedia.org/wiki/Sugiura_pistol
+----------------------------------------------------------------------------------------------------------------------------------------------------
+PISTOL - RUGER
+----------------------------------------------------------------------------------------------------------------------------------------------------
+1949 | pistol   | ruger_standard               | Ruger Standard                          | https://en.wikipedia.org/wiki/Ruger_Standard
+1950 | pistol   | ruger_standard_1_target      | Ruger Standard MK I Target              | https://en.wikipedia.org/wiki/Ruger_Standard
+1982 | pistol   | ruger_standard_2             | Ruger Standard MK II                    | https://en.wikipedia.org/wiki/Ruger_Standard
+---- | pistol   | ruger_standard_2_target      | Ruger Standard MK II Government Target  | https://en.wikipedia.org/wiki/Ruger_Standard
+---- | pistol   | ruger_standard_2_eagle       | Ruger Standard MK II Red Eagle          | https://en.wikipedia.org/wiki/Ruger_Standard
+---- | pistol   | usa_navy_awc_tm              | Navy AWC TM-Amphibian S                 | https://en.wikipedia.org/wiki/Ruger_Standard
+2004 | pistol   | ruger_standard_3             | Ruger Standard MK III Mark Three        | https://en.wikipedia.org/wiki/Ruger_Standard
+---- | pistol   | ruger_standard_3_hunter      | Ruger Standard MK III Hunter            | https://en.wikipedia.org/wiki/Ruger_Standard
+---- | pistol   | ruger_standard_3_competition | Ruger Standard MK III Competition       | https://en.wikipedia.org/wiki/Ruger_Standard
+---- | pistol   | ruger_standard_3_22_45       | Ruger Standard MK III 22/45             | https://en.wikipedia.org/wiki/Ruger_Standard
+---- | pistol   | ruger_standard_4             | Ruger Standard MK IV                    | https://en.wikipedia.org/wiki/Ruger_Standard
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+PISTOL - FN
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+YEAR | CLASS    | KEY                          | DESIGNATION                             | LINK
+-----|----------|------------------------------|-----------------------------------------|---------------------------------------------------------------
+1903 | pistol   | fn_1903_browning             | FN Model 1903 Browning Pistol           | https://en.wikipedia.org/wiki/FN_Model_1903
+1910 | pistol   | fn_m1910_browning            | FN Model 1910 Browning Pistol           | https://en.wikipedia.org/wiki/FN_Model_1910
+1922 | pistol   | fn_m1922_yu                  | FN Model 1922 Yugoslavia Pistol         | https://en.wikipedia.org/wiki/FN_Model_1910
+1910 | pistol   | fn_m1910_nl_1                | FN Model 1910 Netherlands M.25-1        | https://en.wikipedia.org/wiki/FN_Model_1910
+1910 | pistol   | fn_m1910_nl_2                | FN Model 1910 Netherlands M.25-2        | https://en.wikipedia.org/wiki/FN_Model_1910
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+PISTOL - WALTHER
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+YEAR | CLASS    | KEY                          | DESIGNATION                             | LINK
+-----|----------|------------------------------|-----------------------------------------|---------------------------------------------------------------
+---- | pistol   | --                           | --                                      | https://en.wikipedia.org/wiki/Walther_P99
+1929 | pistol   | walther_pp                   | Walther PP                              | https://en.wikipedia.org/wiki/Walther_PP
+1929 | pistol   | walther_pp_uk_l66a1          | Walther PP L66A1                        | https://en.wikipedia.org/wiki/Walther_PP
+1931 | pistol   | walther_ppk                  | Walther PPK                             | https://en.wikipedia.org/wiki/Walther_PP
+1966 | pistol   | walther_ppk                  | Walther PPK-L                           | https://en.wikipedia.org/wiki/Walther_PP
+1972 | pistol   | walther_pp_super             | Walther PP Super                        | https://en.wikipedia.org/wiki/Walther_PP
+1983 | pistol   | walther_ppk_s                | Walther PPK/S                           | https://en.wikipedia.org/wiki/Walther_PP
+2000 | pistol   | walther_ppk_e                | Walther PPK/E                           | https://en.wikipedia.org/wiki/Walther_PP
+1961 | pistol   | walther_tp                   | Walther TP                              | https://en.wikipedia.org/wiki/Walther_TPH
+1968 | pistol   | walther_tph                  | Walther TPH                             | https://en.wikipedia.org/wiki/Walther_TPH
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+PISTOL - GLOCK
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+YEAR | CLASS    | KEY                          | DESIGNATION                             | LINK
+-----|----------|------------------------------|-----------------------------------------|---------------------------------------------------------------
+---- | pistol   | --                           | --                                      | https://en.wikipedia.org/wiki/Glock
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+PISTOL - BERETTA
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+YEAR | CLASS    | KEY                          | DESIGNATION                             | LINK
+-----|----------|------------------------------|-----------------------------------------|---------------------------------------------------------------
+---- | pistol   | --                           | --                                      | https://en.wikipedia.org/wiki/Beretta_92
+---- | pistol   | --                           | --                                      | https://en.wikipedia.org/wiki/Beretta_M9
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+PISTOL - TOKAREV
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+YEAR | CLASS    | KEY                          | DESIGNATION                             | LINK
+-----|----------|------------------------------|-----------------------------------------|---------------------------------------------------------------
+---- | pistol   | --                           | --                                      | https://en.wikipedia.org/wiki/TT_pistol
+---- | pistol   | --                           | --                                      | https://en.wikipedia.org/wiki/Type_54_pistol
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+PISTOL - MAKAROV
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+YEAR | CLASS    | KEY                          | DESIGNATION                             | LINK
+-----|----------|------------------------------|-----------------------------------------|---------------------------------------------------------------
+---- | pistol   | --                           | --                                      | https://en.wikipedia.org/wiki/Makarov_pistol
+---- | pistol   | --                           | --                                      | https://en.wikipedia.org/wiki/Stechkin_automatic_pistol
+---- | pistol   | --                           | --                                      | https://en.wikipedia.org/wiki/Pistol_Md._1998
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+BOLT-ACTION RIFLE
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+YEAR | CLASS    | KEY                          | DESIGNATION                             | LINK
+-----|----------|------------------------------|-----------------------------------------|---------------------------------------------------------------
+---- | rifle    | --                           | --                                      | https://en.wikipedia.org/wiki/Mauser_Model_1871
+---- | rifle    | --                           | --                                      | https://en.wikipedia.org/wiki/Mauser-Koka
+---- | rifle    | --                           | --                                      | https://en.wikipedia.org/wiki/Kropatschek_rifle
+---- | rifle    | --                           | --                                      | https://en.wikipedia.org/wiki/Murata_rifle
+---- | rifle    | --                           | --                                      | https://en.wikipedia.org/wiki/Lebel_Model_1886_rifle
+---- | rifle    | --                           | --                                      | https://en.wikipedia.org/wiki/Gewehr_1888
+---- | rifle    | --                           | --                                      | https://en.wikipedia.org/wiki/Lee–Metford
+---- | rifle    | --                           | --                                      | https://en.wikipedia.org/wiki/Mondragón_rifle
+---- | rifle    | --                           | --                                      | https://en.wikipedia.org/wiki/Lee–Enfield
+---- | rifle    | --                           | --                                      | https://en.wikipedia.org/wiki/Gewehr_98
+---- | rifle    | --                           | --                                      | https://en.wikipedia.org/wiki/Type_30_rifle
+---- | rifle    | --                           | --                                      | https://en.wikipedia.org/wiki/Type_38_rifle
+---- | rifle    | --                           | --                                      | https://en.wikipedia.org/wiki/Type_97_sniper_rifle
+---- | rifle    | --                           | --                                      | https://en.wikipedia.org/wiki/Type_99_rifle
+---- | rifle    | --                           | --                                      | https://en.wikipedia.org/wiki/Type_99_sniper_rifle
+---- | rifle    | --                           | --                                      | https://en.wikipedia.org/wiki/AVS-36
+---- | rifle    | --                           | --                                      | https://en.wikipedia.org/wiki/Fusil_Automatique_Modèle_1917
+---- | rifle    | --                           | --                                      | https://en.wikipedia.org/wiki/Gewehr_43
+---- | rifle    | --                           | --                                      | https://en.wikipedia.org/wiki/SVT-40
+---- | rifle    | --                           | --                                      | https://en.wikipedia.org/wiki/SKS
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+SMG
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+SMG - THOMPSON
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+YEAR | CLASS    | KEY                          | DESIGNATION                             | LINK
+-----|----------|------------------------------|-----------------------------------------|---------------------------------------------------------------
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Thompson_submachine_gun
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+SMG -
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+YEAR | CLASS    | KEY                          | DESIGNATION                             | LINK
+-----|----------|------------------------------|-----------------------------------------|---------------------------------------------------------------
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Suomi_KP/-31
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+SMG - USSR
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+YEAR | CLASS    | KEY                          | DESIGNATION                             | LINK
+-----|----------|------------------------------|-----------------------------------------|---------------------------------------------------------------
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/PPD-40
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/PPSh-41
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/PPS_submachine_gun
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/KP_m/44_submachine_gun
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+SMG -
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+YEAR | CLASS    | KEY                          | DESIGNATION                             | LINK
+-----|----------|------------------------------|-----------------------------------------|---------------------------------------------------------------
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Sten
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+SMG -
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+YEAR | CLASS    | KEY                          | DESIGNATION                             | LINK
+-----|----------|------------------------------|-----------------------------------------|---------------------------------------------------------------
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Uzi
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/MAC-10
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/MAC-11
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Steyr_MPi_69
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+SMG -
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+YEAR | CLASS    | KEY                          | DESIGNATION                             | LINK
+-----|----------|------------------------------|-----------------------------------------|---------------------------------------------------------------
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/MP_18
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Arsenal_submachine_gun
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Lanchester_submachine_gun
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+SMG -
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+YEAR | CLASS    | KEY                          | DESIGNATION                             | LINK
+-----|----------|------------------------------|-----------------------------------------|---------------------------------------------------------------
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Sterling_submachine_gun
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+EARLY ASSAULT RIFLE
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+YEAR | CLASS    | KEY                          | DESIGNATION                             | LINK
+-----|----------|------------------------------|-----------------------------------------|---------------------------------------------------------------
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Maschinenkarabiner_42(H)
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+HEAVY MACHINE GUN (HMG)
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+HMG - MAXIMMMMMM
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+YEAR | CLASS    | KEY                          | DESIGNATION                             | LINK
+-----|----------|------------------------------|-----------------------------------------|---------------------------------------------------------------
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Maxim_gun
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/MG_08
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Vickers_machine_gun
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+HMG - HOTCHKISS
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+YEAR | CLASS    | KEY                          | DESIGNATION                             | LINK
+-----|----------|------------------------------|-----------------------------------------|---------------------------------------------------------------
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Hotchkiss_M1909_Benét–Mercié_machine_gun
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Hotchkiss_Mle_1914_machine_gun
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Type_3_heavy_machine_gun
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Type_92_heavy_machine_gun
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Type_1_heavy_machine_gun
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+HMG - LEWIS
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+YEAR | CLASS    | KEY                          | DESIGNATION                             | LINK
+-----|----------|------------------------------|-----------------------------------------|---------------------------------------------------------------
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Lewis_gun
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/FG_42
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Gast_gun
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+HMG - BMG
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+YEAR | CLASS    | KEY                          | DESIGNATION                             | LINK
+-----|----------|------------------------------|-----------------------------------------|---------------------------------------------------------------
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/M1895_Colt–Browning_m
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/M1917_Browning_machine_gun
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/M1919_Browning_machine_gun
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/M1921_Browning_machine_gun
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/M2_Browning
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+YEAR | CLASS    | KEY                          | DESIGNATION                             | LINK
+-----|----------|------------------------------|-----------------------------------------|---------------------------------------------------------------
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/FM_24/29_light_machine_gun
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Lmg_25
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/MG_51
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+YEAR | CLASS    | KEY                          | DESIGNATION                             | LINK
+-----|----------|------------------------------|-----------------------------------------|---------------------------------------------------------------
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/MG_13
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/MG_30
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/MG_34
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/MG_42
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/MG_51
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+YEAR | CLASS    | KEY                          | DESIGNATION                             | LINK
+-----|----------|------------------------------|-----------------------------------------|---------------------------------------------------------------
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Vickers–Berthier
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Vickers_K_machine_gun
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Hotchkiss_M1922_machine_gun
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+YEAR | CLASS    | KEY                          | DESIGNATION                             | LINK
+-----|----------|------------------------------|-----------------------------------------|---------------------------------------------------------------
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/ZB_vz._26
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Bren_light_machine_gun
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+YEAR | CLASS    | KEY                          | DESIGNATION                             | LINK
+-----|----------|------------------------------|-----------------------------------------|---------------------------------------------------------------
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Degtyaryov_machine_gun
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/PK_machine_gun
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/PKP_Pecheneg_machine_gun
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+ASSAULT RIFLE - KALASHNIKOV
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+YEAR | CLASS    | KEY                          | DESIGNATION                             | LINK
+-----|----------|------------------------------|-----------------------------------------|---------------------------------------------------------------
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Template:Kalashnikov_rifle
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/AK-47
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Type_56_assault_rifle
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Type_58_assault_rifle
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/AKM
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/RPK
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/RK_62
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/IMI_Galil
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/AK-74
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/AK-100_(rifle_family)
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/AK-101
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/AK-102
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/AK-103
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/AK-104
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/AK-105
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/RK_95_TP
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/AK-12
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/AK-203
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/AK-205
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/AK-19
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+ASSAULT RIFLE - BRITISH & BULLPUP
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+YEAR | CLASS    | KEY                          | DESIGNATION                             | LINK
+-----|----------|------------------------------|-----------------------------------------|---------------------------------------------------------------
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/EM-2_rifle
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/FN_FAL
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/L1A1_Self-Loading_Rifle
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Steyr_AUG
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/SA80
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+YEAR | CLASS    | KEY                          | DESIGNATION                             | LINK
+-----|----------|------------------------------|-----------------------------------------|---------------------------------------------------------------
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Heckler_&_Koch_G3
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+YEAR | CLASS    | KEY                          | DESIGNATION                             | LINK
+-----|----------|------------------------------|-----------------------------------------|---------------------------------------------------------------
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/AS_Val_and_VSS_Vintorez
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+YEAR | CLASS    | KEY                          | DESIGNATION                             | LINK
+-----|----------|------------------------------|-----------------------------------------|---------------------------------------------------------------
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/M60
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+YEAR | CLASS    | KEY                          | DESIGNATION                             | LINK
+-----|----------|------------------------------|-----------------------------------------|---------------------------------------------------------------
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/FN_MAG
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Ksp_58
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/M240_machine_gun
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+YEAR | CLASS    | KEY                          | DESIGNATION                             | LINK
+-----|----------|------------------------------|-----------------------------------------|---------------------------------------------------------------
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/FN_Minimi
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/M249_light_machine_gun
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+YEAR | CLASS    | KEY                          | DESIGNATION                             | LINK
+-----|----------|------------------------------|-----------------------------------------|---------------------------------------------------------------
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/M27_Infantry_Automatic_Rifle
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Heckler_&_Koch_HK416
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+AMRRRRRR
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+YEAR | CLASS    | KEY                          | DESIGNATION                             | LINK
+-----|----------|------------------------------|-----------------------------------------|---------------------------------------------------------------
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Mauser_Tankgewehr_M1918
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+# TODO
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+YEAR | CLASS    | KEY                          | DESIGNATION                             | LINK
+-----|----------|------------------------------|-----------------------------------------|---------------------------------------------------------------
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Mannlicher–Schönauer
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Berthier_rifle
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/MAS-36_rifle
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Meunier_rifle
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/MAS-49_rifle
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/FA-MAS_Type_62
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/M1_Garand
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Automatgevär_m/42
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/SVD_(rifle)
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/SVT-40
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Mosin–Nagant
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Karabiner_98k
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Vz._52_rifle
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Rasheed_carbine
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Type_63_assault_rifle
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Type_81_assault_rifle
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Winchester_rifle
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Chauchat
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+# TODO
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+YEAR | CLASS    | KEY                          | DESIGNATION                             | LINK
+-----|----------|------------------------------|-----------------------------------------|---------------------------------------------------------------
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/StG_44
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/IWI_Tavor_X95
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/M16_rifle
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/SIG_SG_510
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+# TODO
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+YEAR | CLASS    | KEY                          | DESIGNATION                             | LINK
+-----|----------|------------------------------|-----------------------------------------|---------------------------------------------------------------
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/MG_15
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/MG_17_machine_gun
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/MG_81_machine_gun
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Type_92_machine_gun
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/PKP_Pecheneg_machine_gun
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/M1895_Colt%E2%80%93Browning_machine_gun
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Villar_Perosa_aircraft_submachine_gun
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Perino_Model_1908
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Fiat%E2%80%93Revelli_Modello_1914
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Standsch%C3%BCtze_Hellriegel_M1915
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/PM_M1910
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/SG-43_Goryunov
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/MG_131_machine_gun
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Breda-SAFAT_machine_gun
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Type_2_machine_gun
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/UK_vz._59
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Vz._52_machine_gun
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Hotchkiss_machine_gun
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/RPD_machine_gun
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/AK-107
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Template:Kalashnikov_rifle
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/AS_Val_and_VSS_Vintorez
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Vepr-12
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Heckler_%26_Koch_G3
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Lahti-Saloranta_M/26
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/M1941_Johnson_machine_gun
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Maschinenkarabiner_42(H)
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+# TODO
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+YEAR | CLASS    | KEY                          | DESIGNATION                             | LINK
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/List_of_submachine_guns
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/OVP_1918
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Ribeyrolles_1918_automatic_carbine
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Beretta_M1918
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Erma_EMP
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/MP_34
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/MP35
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/MP_40
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/MP_40#MP_41
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Wimmersperg_Spz
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/MP_3008
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/M3_submachine_gun
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Beretta_Model_38
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Sa_23
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Heckler_%26_Koch_MP5
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Gepard_(submachine_gun)
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/CAR-15
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Sa_23
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/FB_Glauberyt
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+# TODO
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+YEAR | CLASS    | KEY                          | DESIGNATION                             | LINK
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/IWI_Jericho_941
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/P9RC
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Bersa_Thunder_380
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/FB_P-64
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Bergmann–Bayard_pistol
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Browning_Hi-Power
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Walther_P38
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Walther_P5
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Heckler_&_Koch_USP
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Heckler_&_Koch_P7
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/MP-443_Grach
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/CZ_75
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Udav
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Walther_P38
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Type_26_revolver
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Enfield_No._2
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Luger_pistol
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Mannlicher_M1901
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Smith_&_Wesson_Model_3
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/PB_(pistol)
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/OTs-33_Pernach
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/%C5%A0korpion
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/FB_PM-63
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/SR-3_Vikhr
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/9A-91
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/Colt_M1900
+---- | SMG      | --                           | --                                      | https://en.wikipedia.org/wiki/M1911_pistol
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+https://en.wikipedia.org/wiki/AR-57
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+# TODO
+----------------------------------------------------------------------------------------------------------------------------------------------------
+https://en.wikipedia.org/wiki/Cobray_Company
+https://en.wikipedia.org/wiki/Steyr_Arms
+https://en.wikipedia.org/wiki/Template:Steyr_Mannlicher
+https://en.wikipedia.org/wiki/Template:Colt's_Manufacturing_Company
+----------------------------------------------------------------------------------------------------------------------------------------------------
+# TODO
+----------------------------------------------------------------------------------------------------------------------------------------------------
+https://en.wikipedia.org/wiki/List_of_firearms
+https://en.wikipedia.org/wiki/Template:Firearms
+https://en.wikipedia.org/wiki/Category:Firearm_navigational_boxes
+https://en.wikipedia.org/wiki/List_of_infantry_weapons_of_World_War_I
+https://en.wikipedia.org/wiki/Submachine_gun
+https://en.wikipedia.org/wiki/List_of_submachine_guns
+----------------------------------------------------------------------------------------------------------------------------------------------------
+# TODO
+----------------------------------------------------------------------------------------------------------------------------------------------------
+https://en.wikipedia.org/wiki/Trigger_(firearms)
+https://en.wikipedia.org/wiki/Selective_fire
+https://en.wikipedia.org/wiki/Telescoping_bolt
+https://en.wikipedia.org/wiki/Firearm_malfunction
+----------------------------------------------------------------------------------------------------------------------------------------------------
+TODO
+----------------------------------------------------------------------------------------------------------------------------------------------------
+https://en.wikipedia.org/wiki/Template:Clip-fed_firearms
+https://en.wikipedia.org/wiki/Template:Multiple_barrel_firearms
+https://en.wikipedia.org/wiki/Template:Bullpup_firearms
+https://en.wikipedia.org/wiki/Template:Front-magazine_pistols
+----------------------------------------------------------------------------------------------------------------------------------------------------
+TODO
+----------------------------------------------------------------------------------------------------------------------------------------------------
+https://en.wikipedia.org/wiki/9×18mm_Makarov
+https://en.wikipedia.org/wiki/Template:.38_Caliber
+https://en.wikipedia.org/wiki/Category:Pistol_and_rifle_cartridges
+----------------------------------------------------------------------------------------------------------------------------------------------------
+TODO
+----------------------------------------------------------------------------------------------------------------------------------------------------
+https://en.wikipedia.org/wiki/Category:Lists_of_armies_(land_forces)_equipment
+https://en.wikipedia.org/wiki/Template:Military_equipment_of_Europe
+
+https://en.wikipedia.org/wiki/List_of_infantry_weapons_of_World_War_I
+
+https://en.wikipedia.org/wiki/List_of_modern_Russian_small_arms_and_light_weapons
+https://en.wikipedia.org/wiki/Template:Modern_Russian_infantry_weapons
+https://en.wikipedia.org/wiki/Template:WWIRussianArms
+
+https://en.wikipedia.org/wiki/Template:WWI_British_Empire_small_arms
+----------------------------------------------------------------------------------------------------------------------------------------------------
+TODO
+----------------------------------------------------------------------------------------------------------------------------------------------------
+https://en.wikipedia.org/wiki/List_of_the_United_States_Army_weapons_by_supply_catalog_designation
+https://en.wikipedia.org/wiki/List_of_individual_weapons_of_the_U.S._Armed_Forces
+https://en.wikipedia.org/wiki/Template:Modern_US_Infantry_Weapons
+https://en.wikipedia.org/wiki/Template:WWIUSInfWeaponsNav
+----------------------------------------------------------------------------------------------------------------------------------------------------
+TODO
+----------------------------------------------------------------------------------------------------------------------------------------------------
+https://en.wikipedia.org/wiki/List_of_modern_equipment_of_the_German_Army
+https://en.wikipedia.org/wiki/Template:WWIIGermanInfWeapons
+https://en.wikipedia.org/wiki/List_of_World_War_II_firearms_of_Germany
+----------------------------------------------------------------------------------------------------------------------------------------------------
+TODO
+----------------------------------------------------------------------------------------------------------------------------------------------------
+https://en.wikipedia.org/wiki/Template:Japanese_WWII_infantry_weapons
+----------------------------------------------------------------------------------------------------------------------------------------------------
+TODO
+----------------------------------------------------------------------------------------------------------------------------------------------------
+https://en.wikipedia.org/wiki/List_of_equipment_of_the_Israel_Defense_Forces
+----------------------------------------------------------------------------------------------------------------------------------------------------
+TODO
+----------------------------------------------------------------------------------------------------------------------------------------------------
+https://en.wikipedia.org/wiki/Comparison_of_the_AK-47_and_M16
+https://en.wikipedia.org/wiki/List_of_battle_rifles
+----------------------------------------------------------------------------------------------------------------------------------------------------
+TODO
+----------------------------------------------------------------------------------------------------------------------------------------------------
+https://en.wikipedia.org/wiki/Wildey
+https://en.wikipedia.org/wiki/PSS_silent_pistol

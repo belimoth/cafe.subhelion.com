@@ -1,0 +1,15 @@
+PERIOD | SETTING        | CLASS    | YEAR || KEY                | AMMO         || OWNER     | DESIGNATION               |
+-------|----------------|----------|------||--------------------|--------------||-----------|---------------------------|
+  19XX |  --            | rifle    | 1934 || mauser_k98k        | 8mm_mauser   || Mauser    | Karabiner 98 kurz         |
+  19XX |  --            | rifle    | 1948 || mauser_k98k_is     | 8mm_mauser   || Mauser    | Karabiner 98 kurz Israeli |
+  19XX |  --            | sniper   | 1986 || faf_giat_frf2      | 762_nato     ||           | FR F2 Sniper              |
+  19XX |  draugb_harbor | launcher | 1970 || rus_ags_17         | 30_29mm_ru   || Russia    | AGS-17 Plamya             |
+  19XX |  draugb_harbor | special  | 1975 || rus_aps_special    | 566_39mm_mps || Russia    | APS Special Underwater AR |
+  19XX |  swat_city     | smg      | 1982 || colt_633_doe       | 9mm_luger    || Colt      | Model 633 DOE             |
+  19XX |  swat_city     | smg      | 1982 || colt_635           | 9mm_luger    || Colt      | Model 635                 |
+  19XX |  swat_city     | smg      | 1982 || colt_636_dea       | 9mm_luger    || Colt      | Model 636 DEA             |
+  19XX |  swat_city     | smg      | 1990 || rus_kbp_pp_90      | 9mm_makarov  || KBP       | PP-90 Folding             |
+  19XX |  swat_city     | saw      | 1994 || colt_lmg           | 556_nato     || Colt      | Colt LMG                  |
+  20XX |  swat_city     | pdw      | 2000 || sbd_cbj_ms         | 650_25mm_cbj ||           | SBD CBJ-MS                |
+  2XXX |  swat_city     | gpmg     | 2170 || uscmc_m56a2        | --           ||           | --                        |
+       |  --            | gpmg     | ---- || nazi_mg42          | --           ||           | --                        |

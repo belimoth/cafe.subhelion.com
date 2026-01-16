@@ -1,18 +1,472 @@
-PERIOD | SETTING        | YEAR | CLASS    | KEY              | FORE             | AMMO         | NAME
--------|----------------|------|----------|------------------|------------------|--------------|-------------------------------------------------------------
-  19XX |  --            | 1934 | rifle    | mauser_k98k      | --               | 8mm_mauser   | Mauser Karabiner 98 kurz
-  19XX |  --            | 1948 | rifle    | mauser_k98k_is   | mauser_k98k      | 8mm_mauser   | Mauser Karabiner 98 kurz Israeli
-  19XX |  --            | 1986 | sniper   | faf_giat_frf2    | --               | 762_nato     | FR F2 Sniper
-  19XX |  draugb_harbor | 1970 | launcher | rus_ags_17       | --               | 30_29mm_ru   | AGS-17 Plamya
-  19XX |  draugb_harbor | 1975 | special  | rus_aps_special  | --               | 566_39mm_mps | APS Special Underwater Assault Rifle
-  19XX |  swat_city     | 1982 | smg      | usa_colt_633_doe | usa_colt_635     | 9mm_luger    | Colt Model 633 9mm SMG DOE (Department of Energy)
-  19XX |  swat_city     | 1982 | smg      | usa_colt_635     | --               | 9mm_luger    | Colt Model 635 9mm SMG
-  19XX |  swat_city     | 1982 | smg      | usa_colt_636_dea | usa_colt_635     | 9mm_luger    | Colt Model 636 9mm SMG DEA (Drug Enforcement Administration)
-  19XX |  swat_city     | 1985 | sbr      | rus_as_val       | 00               | 9x39mm       | AS VAL Rifle
-  19XX |  swat_city     | 1990 | smg      | rus_kbp_pp_90    | --               | 9mm_makarov  | KBP (KBP Instrument Design Bureau) PP-90 Folding SMG
-  19XX |  swat_city     | 1994 | saw      | usa_colt_lmg     | --               | 556_nato     | Colt Automatic Rifle/Colt LMG
-  20XX |  swat_city     | 2000 | pdw      | sbd_cbj_ms       | --               | 650_25mm_cbj | SBD (Saab Bofors Dynamics) CBJ-MS
-  20XX |  swat_city     | 2013 | sbr      | aac_honey_badger | --               | 300_blackout | AAC Honey Badger
-  20XX |  swat_city     | 2021 | sbr      | cz_600_trail     | --               | 300_blackout | CZ 600 Trail
-  2XXX |  swat_city     | 2170 | gpmg     | uscmc_m56a2      | nazi_mg42        | --           | --
-       |  --            | ---- | gpmg     | nazi_mg42        | --               | --           | --
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+TYPE | YEAR || KEY                | OWNER     | DESIGNATION               || FORE             | CHAMBER      | ACTION | NOTE
+-----|------||--------------------|-----------|---------------------------||------------------|--------------|--------|---------------------------------
+RR   | 1934 || mauser_k98k        | Mauser    | Karabiner 98 kurz         || --               | 8mm_mauser   |        |
+RR   | 1948 || mauser_k98k_is     | Mauser    | Karabiner 98 kurz Israeli || mauser_k98k      | 8mm_mauser   |        |
+RR   | 1986 || faf_giat_frf2      |           | FR F2 Sniper              || --               | 762_nato     |        |
+L    | 1970 || rus_ags_17         | Russia    | AGS-17 Plamya             || --               | 30_29mm_ru   |        |
+S    | 1975 || rus_aps_special    | Russia    | APS Special Underwater AR || --               | 566_39mm_mps |        |
+SMG  | 1982 || colt_633_doe       | Colt      | Model 633 DOE             || colt_635         | 9mm_luger    |        |
+SMG  | 1982 || colt_635           | Colt      | Model 635                 || --               | 9mm_luger    |        |
+SMG  | 1982 || colt_636_dea       | Colt      | Model 636 DEA             || colt_635         | 9mm_luger    |        |
+SMG  | 1990 || rus_kbp_pp_90      | KBP       | PP-90 Folding             || --               | 9mm_makarov  |        |
+SAW  | 1994 || colt_lmg           | Colt      | Colt LMG                  || --               | 556_nato     |        |
+PDW  | 2000 || sbd_cbj_ms         |           | SBD CBJ-MS                || --               | 650_25mm_cbj |        |
+GPMG | 2170 || uscmc_m56a2        |           | --                        || nazi_mg42        | --           |        |
+GPMG | ---- || nazi_mg42          |           | --                        || --               | --           |        |
+SBR  | 2013 || aac_honey_badger   |           | AAC Honey Badger          ||                  | 300_blackout |        |
+SBR  | 2021 || cz_600_trail       |           | CZ 600 Trail              ||                  | 300_blackout |        |
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Revolver (R)
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+TYPE | YEAR || KEY                | OWNER     | DESIGNATION               || FORE             | CHAMBER      | ACTION | NOTE
+-----|------||--------------------|-----------|---------------------------||------------------|--------------|--------|---------------------------------
+R    | 1873 || colt_1873          | Colt      | M1873 Single Action Army  ||                  |              | single | --
+R    | 1878 || colt_1878_2_20     | Colt      | M1878 (2-20 WCF)          ||                  | 2-20 WCF     | double | --
+R    | 1878 || colt_1878_38       | Colt      | M1878 (38 LC)             ||                  | 38 LC        | double | --
+R    | 1878 || colt_1878_38_40    | Colt      | M1878 (38-40 WCF)         ||                  | 38-40 WCF    | double | --
+R    | 1878 || colt_1878_41       | Colt      | M1878 (41 LC)             ||                  | 41 LC        | double | --
+R    | 1878 || colt_1878_44_40    | Colt      | M1878 (44-40 WCF)         ||                  | 44-40 WCF    | double | --
+R    | 1878 || colt_1878_455      | Colt      | M1878 (455 Webley)        ||                  | 455 Webley   | double | --
+R    | 1878 || colt_1878_45       | Colt      | M1878 (45 Colt)           ||                  | 45 Colt      | double | --
+R    | 1878 || colt_1878_476_eley | Colt      | M1878 (476 Eley)          ||                  | 476 Eley     | double | --
+R    | 1878 || mauser_78          | Mauser    | C78 Zig-Zag               ||                  |              |        | --
+R    | 1879 || reichs_1879        | Germany   | M1879 Reichsrevolver      ||                  | 106 Reichs   |        | --
+R    | 1880 || enfield            | UK        | Enfield MK I              ||                  | 422 Enfield  | double | --
+R    | 1882 || enfield_2          | UK        | Enfield MK II             ||                  | 476 Enfield  | double | --
+R    | 1887 || webley             | UK        | Webley Mk I               ||                  | 455 Webley   | double | top-break
+R    | 1892 || colt_1892          | Colt      | M1892 New Army & Navy     ||                  | 38 LC        | double | ccw
+R    | 1895 || nagant_1895_a      | Russia    | Nagant M1895 Officer      ||                  | 762 Nagant   | double | --
+R    | 1895 || nagant_1895_b      | Russia    | Nagant M1895 Private      ||                  | 762 Nagant   | single | --
+R    | 1898 || colt_1898_38_40    | Colt      | M1898 New Service (38-40) ||                  | 38-40        | double | --
+R    | 1898 || colt_1898_44_40    | Colt      | M1898 New Service (44-40) ||                  | 44-40        | double | --
+R    | 1898 || colt_1898_44_r     | Colt      | M1898 New Service (44R)   ||                  | 44 Russian   | double | --
+R    | 1898 || colt_1898_44_s     | Colt      | M1898 New Service (44S)   ||                  | 44 Special   | double | --
+R    | 1898 || colt_1898_45       | Colt      | M1898 New Service (45)    ||                  | 45 Colt      | double | --
+R    | 1898 || colt_1898_450      | Colt      | M1898 New Service (450)   ||                  | 450 Boxer    | double | --
+R    | 1898 || colt_1898_455      | Colt      | M1898 New Service (455)   ||                  | 455 Webley   | double | --
+R    | 1898 || colt_1898_476      | Colt      | M1898 New Service (476)   ||                  | 476 Enfield  | double | --
+R    | 1901 || websley_fosbery    | UK        | Webley-Fosbery            ||                  | 455 Webley   |        | --
+R    | 1908 || colt_1892_1908     | Colt      | M1892/1908                ||                  |              | double | dw
+R    | 1909 || colt_1898_1909     | US        | M1909                     ||                  | 45 Colt      | double | --
+R    | 1917 || colt_1917          | Colt      | M1917                     ||                  | 45 ACP       | double | moonclips or 45-Auto
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Pistol (P), Machine Pistol (MP)
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+TYPE | YEAR || KEY                | OWNER     | DESIGNATION               || FORE             | CHAMBER      | ACTION | NOTE
+-----|------||--------------------|-----------|---------------------------||------------------|--------------|--------|---------------------------------
+P    | 1893 || borchardt_c93      | DWM       | Borchardt C93             ||                  | 765 Borchar..|        | --
+P    | 1898 || luger              | DWM       | Luger P08                 ||                  |              |        | --
+-----|------||--------------------|-----------|---------------------------||------------------|--------------|--------|---------------------------------
+P    | 1896 || mauser_c96         | Mauser    | C96                       ||                  | 763 Mauser   | semi   | integral-magazine
+P    | 1916 || mauser_c96_1916    | Mauser    | C96 M1916 "Red 9"         ||                  | 9mm          | semi   | --
+P    | 1928 || shanxi_type_17     | Shanxi    | Type 17                   ||                  | 45 ACP       | semi   | --
+P    | 1930 || mauser_c96_1930    | Mauser    | C96 M1930 / DE M711       ||                  | 763 Mauser   | semi   | --
+MP   | 1932 || mauser_c96_1932    | Mauser    | C96 M1932                 ||                  | 763 Mauser   | select | detachable-magazine
+MP   | 1932 || m712               | Germany   | M712 Schnellfeuer         ||                  | 763 Mauser   | select | detachable-magazine
+MP   | 1980 || type_80            | China     | Type 80 Pistol            ||                  | 762 Tokarev  | select | --
+-----|------||--------------------|-----------|---------------------------||------------------|--------------|--------|---------------------------------
+P    | 1909 || roth_steyr_1907    | Austria   | Roth–Steyr M1907          ||                  | 8mm Roth     | semi   | --
+P    | 1912 || steyr_1912         | Austria   | Steyr M1912               ||                  | 9mm Steyr    | semi   | --
+MP   | 1916 || steyr_1912_p16     | Austria   | Steyr M1912/P16           ||                  | 9mm Steyr    | select | --
+P    | 1938 || p12_oe             | Germany   | P12 (ö)                   ||                  | 9mm          | semi   | --
+-----|------||--------------------|-----------|---------------------------||------------------|--------------|--------|---------------------------------
+P    | 1911 || colt_1911          | Colt      | M1911                     ||                  | 45 ACP       | semi   | --
+P    | 1942 || colt_1911a1        | Colt      | M1911A1                   ||                  | 45 ACP       | semi   | --
+-----|------||--------------------|-----------|---------------------------||------------------|--------------|--------|---------------------------------
+P    | 1904 || nambu_type_a       | Japan     | Nambu Type A              ||                  | 8mm Nambu    |        | --
+P    | 1904 || nambu_type_b       | Japan     | Nambu Type B              ||                  | 7mm Nambu    |        | --
+P    | 1926 || nambu_type_14      | Japan     | Nambu Type 14             ||                  | 8mm Nambu    |        | --
+P    | 1935 || nambu_type_94      | Japan     | Nambu Type 94             ||                  | 8mm Nambu    |        | --
+-----|------||--------------------|-----------|---------------------------||------------------|--------------|--------|---------------------------------
+P    |      || hk_mk_23           | H&K       | MK 23                     ||                  |              | semi   | --
+P    |      || us_mk_23_mod_0     | USSOCOM   | MK 23 MOD 0               ||                  |              | semi   | --
+-----|------||--------------------|-----------|---------------------------||------------------|--------------|--------|---------------------------------
+P    |      || ss_p226            | Sig Sauer | P226                      ||                  |              |        | --
+P    |      || us_mk_25           | USSOCOM   | MK 25                     ||                  |              |        | --
+-----|------||--------------------|-----------|---------------------------||------------------|--------------|--------|---------------------------------
+P    |      || sw_m_29            | S&W       | Model 29                  ||                  |              |        | --
+P    |      || us_mk_22_mod_0     | USSOCOM   | MK 22 MOD 0               ||                  |              |        | --
+-----|------||--------------------|-----------|---------------------------||------------------|--------------|--------|---------------------------------
+P    | 1903 || fn_1903            | FN        | M1903 / Browning No.2     ||                  | 9mm BL       | semi   | --
+P    | 1903 || colt_1903_phl      | Colt      | M1903 Pocket Hammerless   ||                  | 32 ACP       | semi   | --
+P    | 1903 || colt_1903_ph       | Colt      | M1903 Pocket Hammer       ||                  | 38 Auto      | semi   | --
+-----|------||--------------------|-----------|---------------------------||------------------|--------------|--------|---------------------------------
+P    | 1929 || walther_pp         | Walther   | PP (32 ACP)               ||                  | 32 ACP       | semi   | --
+P    | 1929 || walther_pp_380     | Walther   | PP (380 ACP)              ||                  | 380 ACP      | semi   | --
+P    | 1931 || walther_ppk        | Walther   | PPK (32 ACP)              ||                  | 32 ACP       | semi   | --
+P    | 1931 || walther_ppk_380    | Walther   | PPK (380 ACP)             ||                  | 380 ACP      | semi   | --
+P    | 1931 || walther_ppks_22    | Walther   | PPK/S (22 LR)             ||                  | 22 LR        | semi   | --
+P    | 1931 || walther_ppks       | Walther   | PPK/S (32 ACP)            ||                  | 32 ACP       | semi   | --
+P    | 1931 || walther_ppks_380   | Walther   | PPK/S (380 ACP)           ||                  | 380 ACP      | semi   | --
+P    | 1931 || walther_ppkl_22    | Walther   | PPK-L (22 LR)             ||                  | 22 LR        | semi   | --
+P    | 1931 || walther_ppkl       | Walther   | PPK-L (32 ACP)            ||                  | 32 ACP       | semi   | --
+P    | 1961 || walther_tp_22      | Walther   | TP (22 LR)                ||                  | 22 LR        | semi   | --
+P    | 1961 || walther_tp         | Walther   | TP (25 ACP)               ||                  | 25 ACP       | semi   | --
+P    | 1963 || feg_pa_63          | FEG       | FÉG PA-63                 ||                  | 9mm Makarov  | semi   | --
+P    | 1968 || walther_tph_22     | Walther   | TP (22 LR)                ||                  | 22 LR        | semi   | --
+P    | 1968 || walther_tph        | Walther   | TP (25 ACP)               ||                  | 25 ACP       | semi   | --
+P    | 1972 || walther_pp_super   | Walther   | PP Super                  ||                  | 9mm Ultra    | semi   | --
+P    | 1974 || l66a1              | UK        | L66A1                     ||                  | 22 LR        | semi   | --
+P    | 2000 || walther_ppke_22    | Walther   | PPK/E (22 LR)             ||                  | 22 LR        | semi   | --
+P    | 2000 || walther_ppke       | Walther   | PPK/E (32 ACP)            ||                  | 32 ACP       | semi   | --
+P    | 2000 || walther_ppke_380   | Walther   | PPK/E (380 ACP)           ||                  | 380 ACP      | semi   | --
+-----|------||--------------------|-----------|---------------------------||------------------|--------------|--------|---------------------------------
+P    | 1982 || glock_17           | Glock     | 17                        ||                  | 9mm          | semi   | ds full
+MP   | 1986 || glock_18           | Glock     | 18                        ||                  | 9mm          | select | ds full
+P    |      || glock_19           | Glock     | 19                        ||                  | 9mm          | semi   | ds compact
+P    |      || glock_26           | Glock     | 26 / US MK 26             ||                  | 9mm          | semi   | ds subcompact
+P    |      || glock_43           | Glock     | 43                        ||                  | 9mm          | semi   | ss subcompact slim
+P    |      || glock_44           | Glock     | 44                        ||                  | 22 LR        | semi   | compact
+-----|------||--------------------|-----------|---------------------------||------------------|--------------|--------|---------------------------------
+P    | 1976 || beretta_92         | Beretta   |                           ||                  | 9mm          | semi   | --
+P    | 1985 || beretta_92FS       | Beretta   | 92FS                      ||                  | 9mm          | semi   | --
+P    |      || us_m9_pistol       | US        | M9 Pistol                 ||                  | 9mm          | semi   | --
+-----|------||--------------------|-----------|---------------------------||------------------|--------------|--------|---------------------------------
+P    | 1997 || walther_p99        | Walther   | P99 (9mm)                 ||                  | 9mm          | semi   | --
+P    | 1997 || walther_p99_40     | Walther   | P99 (40)                  ||                  | 40 S&W       | semi   | --
+-----|------||--------------------|-----------|---------------------------||------------------|--------------|--------|---------------------------------
+P    | 1930 || tt_30              | Russia    | Tokarev TT-30             ||                  | 762 Tokarev  | semi   | --
+P    | 1933 || tt_33              | Russia    | Tokarev TT-33             ||                  | 762 Tokarev  | semi   | --
+P    | 1933 || p615_r             | Germany   | P615(r)                   ||                  | 762 Tokarev  | semi   | --
+P    | 1949 || tt_33_1949         | Russia    | Tokarev TT-33 (1949)      ||                  | 762 Tokarev  | manual | slide-mounted-silencer
+P    | 1951 || type_51            | China     | Type 51 Pistol            ||                  | 762 Tokarev  | semi   | --
+P    | 1954 || type_54            | China     | Type 54 Pistol            ||                  | 762 Tokarev  | semi   | --
+P    |      || tokarev_213        | China     | Tokarev Model 213         ||                  | 9mm          | semi   | --
+-----|------||--------------------|-----------|---------------------------||------------------|--------------|--------|---------------------------------
+P    | 1951 || pm                 | Russia    | PM Makarov                ||                  | 9mm Makarov  | semi   | --
+MP   | 1951 || aps                | Russia    | APS Stechkin              ||                  | 9mm Makarov  | select | detachable-stock
+P    | 1967 || pb                 | Russia    | PB                        ||                  | 9mm Makarov  | semi   | integrally-suppressed
+MP   | 1972 || apb                | Russia    | APB                       ||                  | 9mm Makarov  | select | detachable-stock suppressed
+MP   | 1998 || dracula            | Romania   | Pistol M1998 "Dracula"    ||                  | 9mm          | select | spare magazine attached to front as grip
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+RIFLE; SINGLE-SHOT RIFLE (SSR), REPEATING RIFLE (RR), SEMI-AUTOMATIC RIFLE (SAR)
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+TYPE | YEAR || KEY                | OWNER     | DESIGNATION               || FORE             | CHAMBER      | ACTION | NOTE
+-----|------||--------------------|-----------|---------------------------||------------------|--------------|--------|-----------------------
+SSR  | 1872 || mauser_1871        | Germany   | Mauser M1871 / Gewehr 71  ||                  | 11mm Mauser  | bolt   | --
+RR   | 1878 || kropatschek        | France    | Kropatschek               ||                  | 11mm Gras    | bolt   | --
+SSR  | 1880 || murata_type_13     | Japan     | Murata Type 13            ||                  | 11x60mmR     | bolt   | --
+SSR  | 1881 || mauser_koka        | Serbia    | Mauser-Koka M78/80        ||                  | 10.15×63mm   | bolt   | --
+RR   | 1884 || gewehr_1871_84     | Germany   | Gewehr 1871/84            ||                  | 11mm Mauser  | bolt   | --
+SSR  | 1885 || murata_type_16     | Japan     | Murata Type 16            ||                  | 11x60mmR     | bolt   | --
+SSR  | 1885 || murata_type_18     | Japan     | Murata Type 18            ||                  | 11x60mmR     | bolt   | --
+RR   | 1886 || lebel_1886         | France    | Lebel M1886               ||                  | 8mm Lebel    | bolt   | --
+RR   | 1888 || gewehr_1888        | Germany   | Gewehr 1888               ||                  | Patrone 88   | bolt   | --
+RR   | 1888 || lee_metford        | UK        | Lee-Metford               ||                  | 303 British  | bolt   | --
+SSR  | 1889 || murata_type_22     | Japan     | Murata Type 22            ||                  | 11x60mmR     | bolt   | --
+RR   | 1893 || lebel_1886_93      | France    | Lebel M1886-93            ||                  | 8mm Lebel    | bolt   | --
+RR   | 1893 || mondragon_1893     | Mexico    | Mondragón M1893 (6.5mm)   ||                  | 6.5×48mm     | bolt   | straight-pull slamfire
+RR   | 1893 || mondragon_1893-b   | Mexico    | Mondragón M1893 (5.2mm)   ||                  | 5.2x68mm     | bolt   | straight-pull slamfire
+SAR  | 1894 || mondragon_1894     | Mexico    | Mondragón M1894           ||                  | 6.5×48mm     | semi   | --
+RR   | 1895 || lee_enfield        | UK        | Lee-Enfield               ||                  | 303 British  | bolt   | --
+RR   | 1898 || gewehr_1898        | Germany   | Gewehr 1898               ||                  | 792 Mauser   | bolt   | --
+RR   | 1899 || arisaka_type_30    | Japan     | Arisaka Type 30           ||                  | 65 Arisaka   | bolt   | --
+     | 1902 || arisaka_type_35    | Japan     | Arisaka Type 35           ||                  |              |        | --
+RR   | 1906 || arisaka_type_38    | Japan     | Arisaka Type 38           ||                  | 65 Arisaka   | bolt   | --
+RR   | 1905 || gewehr_1888_05     | Germany   | Gewehr 1888/05            ||                  | 792 Mauser   | bolt   | --
+RR   | 1907 || mauser_koka_duric  | Serbia    | Mauser-Koka-Đurić M80/07  ||                  | 7mm Mauser   | bolt   | --
+RR   |      || g_223_j            | Germany   | Gewehr 223 (j)            ||                  | 7mm Mauser   | bolt   | --
+SAR  | 1917 || rsc_1917           | France    | RSC M1917                 ||                  | 8mm Lebel    | semi   | --
+BR   | 1936 || avs_36             | Russia    | AVS-36                    ||                  | 7.62×54mmR   | select | --
+SR   | 1937 || arisaka_type_97    | Japan     | Type 97 Sniper            ||                  | 65 Arisaka   | bolt   | --
+RR   | 1939 || arisaka_type_99    | Japan     | Arisaka Type 99           ||                  | 77 Arisaka   | bolt   | --
+RR   | 1942 || arisaka_type_99_cn | China     | Arisaka Type 99 (NRA)     ||                  | 792 Mauser   | bolt   | --
+RR   | 1942 || arisaka_type_99_ko | Korea     | Arisaka Type 99 (Korea)   ||                  | 30-06        | bolt   | --
+SR   | 1942 || sniper_type_99     | Japan     | Type 99 Sniper            ||                  | 77 Arisaka   | bolt   | --
+BR   | 1938 || svt_38             | Russia    | SVT-38                    ||                  | 7.62×54mmR   | semi   | compatible with mosin-nagant stripper clips
+BR   | 1940 || svt_40             | Russia    | SVT-40                    ||                  | 7.62×54mmR   | semi   | --
+SAR  | 1941 || g41                | Germany   | Gewehr G41                ||                  | 792 Mauser   | semi   | --
+BR   | 1942 || avt_42             | Russia    | AVT-42                    ||                  | 7.62×54mmR   | select | --
+SAR  | 1943 || g43                | Germany   | Gewehr G43 / K43          ||                  | 792 Mauser   | semi   | --
+SAR  | 1949 || sks                | Russia    | SKS                       ||                  | 762 Russian  | semi   | --
+SAR  | 1956 || type_56_carbine    | China     | Type 56 Carbine           ||                  | 762 Russian  | semi   | --
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Submachine Gun (SMG)
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Submachine Gun (SMG) - Thompson
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+TYPE | YEAR || KEY                | OWNER     | DESIGNATION               || FORE             | CHAMBER      | ACTION | NOTE
+-----|------||--------------------|-----------|---------------------------||------------------|--------------|--------|---------------------------------
+SMG  | 1921 || thompson           | US        | Thompson                  ||                  | 45 ACP       |        |
+SMG  | 1927 || m1928              | USN       | Thompson M1928 (Navy)     ||                  | 45 ACP       |        |
+SMG  | 1928 || m1928_a1           | US        | Thompson M1928A1          ||                  | 45 ACP       |        |
+SMG  |      || kp_40              | Sweden    | KP M/40                   ||                  | 45 ACP       |        |
+SMG  | 1942 || m1                 | US        | M1 Thompson               ||                  | 45 ACP       |        |
+SMG  | 1928 || m1a1               | US        | M1928A1 Thompson          ||                  | 45 ACP       |        |
+-----|------||--------------------|-----------|---------------------------||------------------|--------------|--------|---------------------------------
+SMG  | 1931 || suomi_kp_31        | Finland   | Suomi KP M/31             ||                  |              |        |
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Submachine Gun (SMG) - PPD, PPSh, PPS
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+TYPE | YEAR || KEY                | OWNER     | DESIGNATION               || FORE             | CHAMBER      | ACTION | NOTE
+-----|------||--------------------|-----------|---------------------------||------------------|--------------|--------|---------------------------------
+SMG  | 1938 || ppd_33_38          | Russia    | PPD-33/38                 ||                  |              |        |
+SMG  | 1938 || mp_715_r           | Germany   | MP 715(r)                 ||                  |              |        |
+SMG  | 1940 || ppd_40             | Russia    | PPD-40                    ||                  |              |        |
+SMG  | 1940 || mp_716_r           | Germany   | MP 716(r)                 ||                  |              |        |
+SMG  | 1941 || ppsh_41            | Russia    | PPSh-41                   ||                  | 762 Tokarev  | select | OBB
+SMG  | 1941 || mp717_r            | Germany   | MP717(r)                  ||                  | 762 Tokarev  | select | OBB
+SMG  | 1941 || mp41_r             | Germany   | MP41(r)                   ||                  | 9mm          | select | OBB
+SMG  | 1942 || pps_42             | Russia    | PPS-42                    ||                  | 762 Tokarev  | full   | OBB detachable-magazine
+SMG  | 1943 || pps_43             | Russia    | PPS-43                    ||                  | 762 Tokarev  | full   | OBB detachable-magazine
+SMG  | 1944 || smg_44             | Finland   | M/44 SMG                  ||                  | 9mm          |        |
+SMG  | 1945 || ppsh_45            | Russia    | PPSh-45                   ||                  | 762 Tokarev  | full   |
+SMG  | 1944 || kp_44              | Finland   | KP/-44                    ||                  |              |        |
+SMG  | 1946 || pps_wz_43          | Poland    | PPS wz. 43                ||                  | 762 Tokarev  |        |
+SMG  | 1950 || type_50            | China     | Type 50                   ||                  | 762 Tokarev  | select |
+SMG  | 1952 || pps_wz_43_52       | Poland    | PPS wz. 43/52             ||                  | 762 Tokarev  |        |
+SMG  | 1954 || type_54_smg        | China     | Type 54 SMG               ||                  | 762 Tokarev  |        |
+SMG  | 1958 || k_50m              | Vietnam   | K-50M                     ||                  |              |        |
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Submachine Gun (SMG) - Sten
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+TYPE | YEAR || KEY                | OWNER     | DESIGNATION               || FORE             | CHAMBER      | ACTION | NOTE
+-----|------||--------------------|-----------|---------------------------||------------------|--------------|--------|---------------------------------
+SMG  | 1941 || sten               | UK        | Sten Mark I               ||                  | 9mm          | select | OBB
+SMG  | 1941 || mp_748_e           | Germany   | MP 748(e)                 ||                  | 9mm          | select | OBB
+SMG  | 1941 || sten_1_1           | UK        | Sten Mark I*              ||                  | 9mm          | select | OBB
+SMG  | 1941 || sten_2             | UK        | Sten Mark II              ||                  | 9mm          | select | OBB
+SMG  | 1941 || mp_749_e           | Germany   | MP 749(e)                 ||                  | 9mm          | select | OBB
+SMG  | 1942 || sten_2_ca          | Canada    | Sten Mark II Canadian     ||                  | 9mm          | select | OBB
+SMG  | 1942 || m38                | China     | M38 (9mm)                 ||                  | 9mm          | full   | OBB
+SMG  | 1942 || m38_762            | China     | M38 (762 Tokarev)         ||                  | 762 Tokarev  | full   | OBB
+SMG  | 1942 || sten_3             | UK        | Sten Mark III             ||                  | 9mm          | select | OBB
+SMG  | 1942 || mp750_e            | Germany   | MP 750(e)                 ||                  | 9mm          | select | OBB
+SMG  | 1942 || sten_5             | UK        | Sten Mark V               ||                  | 9mm          | select | OBB
+SMG  | 1943 || sten_2_s           | UK        | Sten Mark II(S)           ||                  | 9mm          | select | OBB integral-silencer
+SMG  | 1943 || mp_751_e           | Germany   | MP 751(e)                 ||                  | 9mm          | select | OBB integral-silencer
+SMG  | 1943 || sten_6             | UK        | Sten Mark VI              ||                  | 9mm          | select | OBB integral-silencer
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Submachine Gun (SMG) - Telescoping bolt
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+TYPE | YEAR || KEY                | OWNER     | DESIGNATION               || FORE             | CHAMBER      | ACTION | NOTE
+-----|------||--------------------|-----------|---------------------------||------------------|--------------|--------|---------------------------------
+SMG  | 1948 || sa_23              | CZ        | Sa 23                     ||                  | 9mm          |        | telescoping-bolt
+SMG  | 1948 || sa_25              | CZ        | Sa 25                     ||                  | 9mm          |        | telescoping-bolt
+SMG  | 1952 || sa_24              | CZ        | Sa 24                     ||                  | 762 Tokarev  |        | telescoping-bolt
+SMG  | 1952 || sa_26              | CZ        | Sa 26                     ||                  | 762 Tokarev  |        | telescoping-bolt
+SMG  | 1954 || uzi                | Israel    | Uzi (9mm)                 ||                  | 9mm          | select | telescoping-bolt
+SMG  | 1954 || uzi_45             | Israel    | Uzi (45 ACP)              ||                  | 45 ACP       | select | telescoping-bolt
+SMG  | 1959 || de_mp2             | Germany   | MP2                       ||                  | 9mm          | select | telescoping-bolt
+SMG  | 1969 || steyr_mpi_69       | Steyr     | MPi 69                    ||                  | 9mm          |        | telescoping-bolt
+SMG  | 1980 || mini_uzi           | Israel    | Mini Uzi (9mm)            ||                  | 9mm          | select | telescoping-bolt
+SMG  | 1980 || mini_uzi_45        | Israel    | Mini Uzi (45 ACP)         ||                  | 45 ACP       | select | telescoping-bolt
+SMG  | 1981 || steyr_mpi_81       | Steyr     | MPi 81                    ||                  | 9mm          |        | telescoping-bolt
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+TYPE | YEAR || KEY                | OWNER     | DESIGNATION               || FORE             | CHAMBER      | ACTION | NOTE
+-----|------||--------------------|-----------|---------------------------||------------------|--------------|--------|---------------------------------
+SMG  | 1918 || mp_18              | Germany   | Schmeisser MP-18/I        ||                  |              | full   | OBB
+SMG  | 1920 || bergman_1920       | SIG       | Bergmann 1920             ||                  | 30 Luger     | full   | OBB
+SMG  | 1920 || bergman_1920_763   | SIG       | Bergmann 1920 (763)       ||                  | 763 Mauser   | full   | OBB
+SMG  | 1927 || arsenal_m23        | Estonia   | Arsenal M23 SMG           ||                  | 9mm BL       | full   | OBB
+SMG  | 1928 || mp_28              | Germany   | Schmeisser MP-28/II       ||                  |              | select | OBB DSSF
+SMG  | 1933 || avispero           | Spain     | Avispero                  ||                  | 9mm Largo    | select |
+SMG  | 1940 || lanchester         | UK        | Lanchester SMG Mark I     ||                  | 9mm          | select | OBB
+SMG  | 1941 || lanchester         | UK        | Lanchester SMG Mark I*    ||                  | 9mm          | full   | OBB
+-----|------||--------------------|-----------|---------------------------||------------------|--------------|--------|---------------------------------
+SMG  | 1943 || patchett           | UK        | Patchett Machine Carbine  ||                  | 9mm          |        |
+SMG  | 1944 || sterling_l2_a1     | UK        | Sterling L2A1             ||                  | 9mm          |        |
+todo
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Heavy Machine Gun (HMG)
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+TYPE | YEAR || KEY                | OWNER     | DESIGNATION               || FORE             | CHAMBER      | ACTION | NOTE
+-----|------||--------------------|-----------|---------------------------||------------------|--------------|--------|---------------------------------
+HMG  | 1862 || gatling            |           | Gatling                   || --               | --           | --     | --
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Heavy Machine Gun (HMG) - Maxim
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+TYPE | YEAR || KEY                | OWNER     | DESIGNATION               || FORE             | CHAMBER      | ACTION | NOTE
+-----|------||--------------------|-----------|---------------------------||------------------|--------------|--------|---------------------------------
+HMG  | 1886 || maxim              |           | Maxim                     ||                  | 792 Mauser   |        |
+HMG  | 1904 || maxim_1904         | US        | Maxim M1904               ||                  | 30-06        |        |
+HMG  | 1908 || mg_08              | Germany   | MG 08                     ||                  | 792 Mauser   |        | belt-fed
+HMG  |      || mg_09              | Germany   | MG 09                     ||                  |              |        |
+HMG  | 1911 || mg_11              | Swiss     | MG 11                     ||                  | 75 Swiss     |        |
+HMG  | 1912 || vickers            | UK        | Vickers                   ||                  | 303 British  |        |
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Heavy Machine Gun (HMG) - Browning Machine Gun (BMG)
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+TYPE | YEAR || KEY                | OWNER     | DESIGNATION               || FORE             | CHAMBER      | ACTION | NOTE
+-----|------||--------------------|-----------|---------------------------||------------------|--------------|--------|---------------------------------
+HMG  | 1895 || bmg_1895_6mm       | Colt      | BMG M1895 (6mm Navy)      ||                  | 6mm Navy     |        | --
+HMG  | 1895 || bmg_1895_krag      | Colt      | BMG M1895 (30-40)         ||                  | 30-40 Krag   |        | --
+HMG  | 1895 || bmg_1895_7mm       | Colt      | BMG M1895 (7mm)           ||                  | 7mm Mauser   |        | --
+HMG  | 1914 || bmg_1895_30_06     | Colt      | BMG M1895/14 (30-06)      ||                  | 30-06        |        | --
+HMG  | 1914 || bmg_1895_303       | Colt      | BMG M1985/14 (303)        ||                  | 303 British  |        | --
+HMG  | 1914 || bmg_1895_762       | Colt      | BMG M1895/14 (762)        ||                  | 7.62×54mmR   |        | --
+HMG  | 1917 || bmg_1917           | US        | BMG M1917                 ||                  | 30-06        |        | belt-fed
+MMG  | 1919 || bmg_1919           | US        | BMG M1919                 ||                  | 30-06        |        | belt-fed
+MMG  |      || usn_mk_21_mod_0    | USN       | MK 21 MOD 0               ||                  | 762 NATO     |        | --
+HMG  | 1921 || bmg_1921           | US        | BMG M1921                 ||                  | 50 BMG       |        | --
+HMG  | 1930 || bmg_1921a1         | US        | BMG M1921A1               ||                  | 50 BMG       |        | --
+HMG  | 1933 || bmg_m2             | US        | BMG M2                    ||                  | 50 BMG       |        | --
+-----|------||--------------------|-----------|---------------------------||------------------|--------------|--------|---------------------------------
+     | 1909 || hotchkiss-1909     | Hotchkiss | M1909 Benét–Mercié        ||                  |              |        |
+HMG  | 1914 || hotchkiss-1914     | Hotchkiss | M1914                     ||                  | 8mm Lebel    |        |
+HMG  | 1914 || hmg_type_3         | Japan     | Type 3                    ||                  | 65 Arisaka   |        |
+HMG  | 1920 || hmg_type_3_1920    | Chile     | M1920                     ||                  | 7mm Mauser   |        |
+HMG  | 1932 || hmg_type_92        | Japan     | Type 92                   ||                  | 77 Arisaka   |        |
+HMG  | 1942 || hmg_type_1         | Japan     | Type 1                    ||                  | 77 Arisaka   |        |
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Light Machine Gun (LMG), Aircraft Machine Gun (AMG)
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+TYPE | YEAR || KEY                | OWNER     | DESIGNATION               || FORE             | CHAMBER      | ACTION | NOTE
+LMG  | 1915 || lewis              | UK        | Lewis Mark I              ||                  | 303 British  |        |
+AMG  | 1916 || lewis_2            | UK        | Lewis Mark II             ||                  | 303 British  |        |
+AMG  | 1917 || lewis_1917         | US        | Lewis M1917               ||                  | 30-06        |        |
+AMG  | 1917 || lewis_6            | USN       | Lewis Mark VI             ||                  | 30-06        |        |
+AMG  |      || lewis_6_1          | USN       | Lewis Mark VI MOD 1       ||                  | 30-06        |        |
+AMG  | 1918 || lewis_2_1          | UK        | Lewis Mark II*            ||                  | 303 British  |        |
+AMG  | 1918 || lewis_3            | UK        | Lewis Mark III            ||                  | 303 British  |        |
+AMG  | 1918 || lewis_1919         | US        | Lewis M1918               ||                  | 30-06        |        |
+LMG  | 1940 || lewis_3_1          | UK        | Lewis Mark III*           ||                  | 30-06        |        |
+LMG  | 1940 || lewis_3_2          | UK        | Lewis Mark III**          ||                  | 303 British  |        |
+LMG  | 1940 || lewis_3_dems       | UK        | Lewis Mark III DEMS       ||                  | 303 British  |        |
+LMG  | 1940 || lewis_4            | UK        | Lewis Mark IV             ||                  | 303 British  |        |
+LMG  | 1940 || mg_137_e           | Germany   | MG 137(e)                 ||                  | 303 British  |        |
+LMG  | 1940 || mg_100_h           | Germany   | MG 100(h)                 ||                  | 65x535mmR    |        |
+-----|------||--------------------|-----------|---------------------------||------------------|--------------|--------|---------------------------------
+LMG  | 1916 || gast               |           | Gast                      |                   | 792 Mauser   |        | twin-barrels
+-----|------||--------------------|-----------|---------------------------||------------------|--------------|--------|---------------------------------
+LMG  | 1933 || vickers_berthier   | India     | Vickers-berthier          ||                  | 303 British  |        |
+-----|------||--------------------|-----------|---------------------------||------------------|--------------|--------|---------------------------------
+LMG  | 1938 || bren               | UK        | Bren                      ||                  | 303 British  |        |
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Machine Rifle (MR)
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+TYPE | YEAR || KEY                | OWNER     | DESIGNATION               || FORE             | CHAMBER      | ACTION | NOTE
+-----|------||--------------------|-----------|---------------------------||------------------|--------------|--------|---------------------------------
+MR   | 1915 || fm_chauchat        | France    | FM Chauchat               ||                  | 8mm Lebel    |        |
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Machine Rifle (MR) - BAR
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+TYPE | YEAR || KEY                | OWNER     | DESIGNATION               || FORE             | CHAMBER      | ACTION | NOTE
+-----|------||--------------------|-----------|---------------------------||------------------|--------------|--------|---------------------------------
+MR   | 1918 || bar                | US        | BAR M1918                 ||                  | 30-06        |        |
+     |      || --                 |           | KG M/21                   ||                  |              |        |
+MR   | 1935 || mg_35_36           | Germany   | MG-35/36                  ||                  | 792 Mauser   |        |
+MR   | 1941 || kg_40              | Holland   | KG M/40                   ||                  | 6.5mm Swede  |        |
+-----|------||--------------------|-----------|---------------------------||------------------|--------------|--------|---------------------------------
+MR   | 1943 || fg_42              | Germany   | FG 42                     ||                  | 792 Mauser   | select |
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Assault Rifle (AR), Personal Defense Weapon (PDW), Carbine Assault Rifle (CAR)
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Assault Rifle (AR) - Kalashnikov
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+TYPE | YEAR || KEY                | OWNER     | DESIGNATION               || FORE             | CHAMBER      | ACTION | NOTE
+-----|------||--------------------|-----------|---------------------------||------------------|--------------|--------|---------------------------------
+AR   | 1949 || ak_47              | Russia    | AK-47                     ||                  | 762 Russian  |        |
+AR   | 1956 || type_56            | China     | Type 56                   ||                  | 762 Russian  |        | fixed-stock folding-spike-bayonet
+AR   | 1958 || type_58            | China     | Type 58                   ||                  | 762 Russian  |        |
+AR   | 1959 || akm                | Russia    | AKM                       ||                  | 762 Russian  |        |
+LMG  | 1961 || rpk                | Russia    | RPK                       ||                  | 762 Russian  |        |
+LMG  |      || rpks               | Russia    | RPKS                      ||                  | 762 Russian  |        | folding-stock
+AR   | 1962 || rk_62              | Finland   | RK 62                     ||                  | 762 Russian  |        |
+AR   | 1972 || imi_galil          | Israel    | IMI Galil                 ||                  | 556 NATO     |        |
+AR   | 1974 || ak_74              | Russia    | AK-74                     ||                  | 545 Russian  |        |
+LMG  | 1974 || rpk_74             | Russia    | RPK-74                    ||                  | 545 Russian  |        |
+LMG  |      || rpks_74            | Russia    | RPKS-74                   ||                  | 545 Russian  |        | folding-stock
+PDW  | 1979 || aks_74u            | Russia    | AKS-74U                   ||                  | 545 Russian  |        | folding-stock
+PDW  |      || aks_74ub           | Russia    | AKS-74UB                  ||                  | 545 Russian  |        | folding-stock suppressed
+AR   | 1980 || type_56_2          | China     | Type 56-2 Rifle           ||                  | 762 Russian  |        | folding-stock bakelite-furniture
+AR   | 1991 || ak_74m             | Russia    | AK-74M                    ||                  | 545 Russian  |        |
+AR   | 1994 || ots_14_groza       | Russia    | OTs-14 Groza              ||                  | 9×39mm       | select | bullpup
+AR   | 1994 || ak_101             | Russia    | AK-101                    ||                  | 556 NATO     |        |
+CAR  | 1994 || ak_102             | Russia    | AK-102                    ||                  | 556 NATO     |        |
+AR   | 1994 || ak_103             | Russia    | AK-103                    ||                  | 762 Russian  |        |
+CAR  | 1994 || ak_104             | Russia    | AK-104                    ||                  | 762 Russian  |        |
+CAR  | 1994 || ak_105             | Russia    | AK-105                    ||                  | 545 Russian  |        |
+AR   | 1995 || rk_95_tp           | Finland   | RK 95 TP                  ||                  | 762 Russian  |        |
+AR   | 1994 || ots_14_1a_groza    | Russia    | OTs-14-1A Groza           ||                  | 762 Russian  | select | bullpup
+AR   | 2007 || ak_9               | Russia    | AK-9                      ||                  | 9×39mm       |        | suppressed
+AR   | 2012 || ak_12              | Russia    | AK-12                     ||                  | 545 Russian  |        |
+AR   | 2015 || ak_15              | Russia    | AK-15                     ||                  | 762 Russian  |        |
+LMG  | 2016 || rpk_16             | Russia    | RPK-16                    ||                  | 545 Russian  |        |
+AR   | 2017 || ak_200             | Russia    | AK-200                    ||                  | 545 Russian  |        |
+AR   | 2017 || ak_201	            | Russia    | AK-201                    ||                  | 556 NATO     |        |
+AR   | 2017 || ak_202	            | Russia    | AK-202                    ||                  | 556 NATO     |        |
+AR   | 2017 || ak_203             | Russia    | AK-203                    ||                  | 762 Russian  |        |
+CAR  | 2017 || ak_204             | Russia    | AK-204                    ||                  | 762 Russian  |        |
+CAR  | 2017 || ak_205             | Russia    | AK-205                    ||                  | 545 Russian  |        |
+AR   | 2018 || ak_308             | Russia    | AK-308                    ||                  | 762 NATO     |        |
+AR   | 2019 || ak_19              | Russia    | AK-19                     ||                  | 556 NATO     |        |
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Assault Rifle (AR) - British, Bullpup
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+TYPE | YEAR || KEY                | OWNER     | DESIGNATION               || FORE             | CHAMBER      | ACTION | NOTE
+-----|------||--------------------|-----------|---------------------------||------------------|--------------|--------|---------------------------------
+AR   | 1951 || em_2               | UK        | EM-2                      ||                  | 280 British  | select | bullpup
+BR   | 1953 || fn_fal             | FN        | FAL                       ||                  | 762 NATO     | select |
+BR   | 1954 || l1a1               | UK        | L1A1                      ||                  | 762 NATO     | semi   |
+BR   | 1958 || stg_58             | Austria   | StG 58                    ||                  | 762 NATO     | select |
+AR   | 1977 || aug                | Steyr     | AUG A1                    ||                  | 556 NATO     | select | bullpup integral-optic
+AR   | 1977 || stg_77             | Austria   | StG 77                    ||                  | 556 NATO     | select | bullpup
+AR   | 1985 || l85a1              | UK        | L85A1                     ||                  | 556 NATO     | select | bullpup
+SAW  | 1986 || l86a1              | UK        | L86A1                     ||                  | 556 NATO     | select | bullpup
+CAR  | 1987 || l98a1              | UK        | L98A1                     ||                  | 556 NATO     | select | bullpup
+SMG  | 1988 || aug_9mm            | Steyr     | AUG 9mm                   ||                  | 9mm          | select | bullpup
+AR   | 1997 || aug_2              | Steyr     | AUG A2                    ||                  | 556 NATO     | select | bullpup detachable-optic
+AR   | 2000 || l85a2              | UK        | L85A2                     ||                  | 556 NATO     | select | bullpup
+CAR  | 2003 || l22                | UK        | L22 Carbine               ||                  | 556 NATO     | select | bullpup
+C    | 2009 || l98a2              | UK        | L98A2                     ||                  | 556 NATO     | semi   | bullpup
+AR   | 2018 || l85a3              | UK        | L85A3                     ||                  | 556 NATO     | select | bullpup
+     | 2022 || l402a1             | UK        | L402A1                    ||                  | 22 LR        |        | bullpup
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Assault Rifle (AR) -
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+TYPE | YEAR || KEY                | OWNER     | DESIGNATION               || FORE             | CHAMBER      | ACTION | NOTE
+-----|------||--------------------|-----------|---------------------------||------------------|--------------|--------|---------------------------------
+SR   | 1983 || vss_vintorez       | Russia    | VSS Vintorez              ||                  | 9×39mm       | select | integral-silencer
+AR   | 1985 || as_val             | Russia    | AS Val                    ||                  | 9×39mm       | select | integral-silencer
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Universal Machine Gun (UMG), Squad Automatic Weapon (SAW)
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+TYPE | YEAR || KEY                | OWNER     | DESIGNATION               || FORE             | CHAMBER      | ACTION | NOTE
+-----|------||--------------------|-----------|---------------------------||------------------|--------------|--------|---------------------------------
+LMG  | 1925 || fm_24_29           | France    | FM MAC 1924 M29           ||                  | 75 French    |        |
+LMG  | 1925 || lmg_25             | Swiss     | LMG 25                    ||                  | 75 Swiss     |        |
+UMG  | 1951 || mg_51              | Swiss     | MG 51                     ||                  | 75 Swiss     |        |
+-----|------||--------------------|-----------|---------------------------||------------------|--------------|--------|---------------------------------
+LMG  | 1928 || dp_27              | Russia    | DP-27                     ||                  | 7.62×54mmR   |        |
+LMG  | 1943 || dpm                | Russia    | DPM                       ||                  | 7.62×54mmR   |        |
+LMG  | 1946 || rp_46              | Russia    | RP-46                     ||                  | 7.62×54mmR   |        | belt-fed
+LMG  |      || type_53            | China     | Type 53                   ||                  |              |        |
+UMG  | 1961 || pk                 | Russia    | PK                        ||                  | 7.62×54mmR   |        | belt-fed
+UMG  | 1969 || pkm                | Russia    | PKM                       ||                  | 7.62×54mmR   |        |
+UMG  | 2001 || pkp                | Russia    | PKP Pecheneg              ||                  | 7.62×54mmR   |        |
+-----|------||--------------------|-----------|---------------------------||------------------|--------------|--------|---------------------------------
+LMG  | 1930 || mg_13              | Germany   | MG 13                     ||                  |              | select | double-crescent-trigger
+LMG  | 1930 || mg_30              | Germany   | MG 30                     ||                  | 792 Mauser   | select | progressive-trigger
+LMG  | 1930 || 2s_200             | Sweden    | Solothurn 2S-200          ||                  |              |        |
+LMG  | 1931 || 31_m               | Hungary   | Solothurn 31-M            ||                  |              |        |
+UMG  | 1936 || mg_34              | Germany   | MG 34                     ||                  | 792 Mauser   | select | double-crescent-trigger
+UMG  | 1942 || mg_42              | Germany   | MG 42                     ||                  | 792 Mauser   | select |
+UMG  | 1951 || mg_51              | Swiss     | MG 51                     ||                  | 75 Swiss     | select |
+UMG  | 1959 || mg_3               | Germany   | MG 3                      ||                  | 762 NATO     | select |
+-----|------||--------------------|-----------|---------------------------||------------------|--------------|--------|---------------------------------
+UMG  | 1957 || m60                | US        | M60                       ||                  | 762 NATO     |        | belt-fed
+LMG  | 1986 || m60e3              | USMC      | M60E3                     ||                  | 762 NATO     |        | belt-fed
+-----|------||--------------------|-----------|---------------------------||------------------|--------------|--------|---------------------------------
+UMG  | 1958 || fn_mag             | FN        | MAG                       ||                  | 762 NATO     |        |
+UMG  | 1958 || ksp_58             | Sweden    | KSP 58                    ||                  | 65 Swedish   |        |
+UMG  | 1959 || l7a1               | UK        | L7A1                      ||                  | 762 NATO     |        |
+UMG  | 1977 || m240               | US        | M240                      ||                  | 762 NATO     |        |
+-----|------||--------------------|-----------|---------------------------||------------------|--------------|--------|---------------------------------
+SAW  | 1980 || fn_minimi          | FN        | Minimi                    ||                  | 556 NATO     |        |
+SAW  | 1984 || m249_saw           | US        | M249 SAW                  ||                  | 556 NATO     |        |
+-----|------||--------------------|-----------|---------------------------||------------------|--------------|--------|---------------------------------
+     | 2010 || m27_iar            | USMC      | M27 IAR                   ||                  |              |        |
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+Anti-Materiel Rifle (AMR)
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+TYPE | YEAR || KEY                | OWNER     | DESIGNATION               || FORE             | CHAMBER      | ACTION | NOTE
+-----|------||--------------------|-----------|---------------------------||------------------|--------------|--------|---------------------------------
+AMR  | 1918 || mauser_1918_amr    | Germany   | Mauser M1918 AMR          || AMR              | 13.2mm TuF   | bolt   | --
+>>>>>>> Stashed changes

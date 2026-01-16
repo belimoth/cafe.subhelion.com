@@ -339,28 +339,14 @@ PINKER | security employees only, admin and cameras
 IDOZER | repair employees only, job sire
 IMECHA | repair employees only, tools and supplies
 IMEDIC | pharmacy
-
-
-
-
-
-
-
-
-
-
-
+------------------------------------------------------------------------------------------------------------------------------------------
+NOTE
+------------------------------------------------------------------------------------------------------------------------------------------
 PINKER - private investigators and mall cops
 BUSTER - strikebuster mercenary
 LAWYER - legal aid
-
-
-
-
-
-
-
-
+------------------------------------------------------------------------------------------------------------------------------------------
 - ICEMAL bureau unit that defends malice and site and site info, potential civil war subfaction with the rest of BUREAU, after warhammer 40k grey knights vs custodes in hypothetical terminus decree showdown
 - IZEPOL european version of ICEPOL
 - ISNZEI interpol equivalent of ICEPOL
+- ICEMAL mod/surge wam gives infinite ammo and accelerated shield/condition regeneration
