@@ -1,4 +1,3 @@
-
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -114,6 +113,10 @@ P    | 1974 || l66a1              | UK        | L66A1                     ||    
 P    | 2000 || walther_ppke_22    | Walther   | PPK/E (22 LR)             ||                  | 22_lr        | semi   | --
 P    | 2000 || walther_ppke       | Walther   | PPK/E (32 ACP)            ||                  | 32_acp       | semi   | --
 P    | 2000 || walther_ppke_380   | Walther   | PPK/E (380 ACP)           ||                  | 380_acp      | semi   | --
+https://en.wikipedia.org/wiki/Walther_P99
+https://en.wikipedia.org/wiki/Template:Walther_firearms
+https://en.wikipedia.org/wiki/Bersa_Thunder_380
+https://en.wikipedia.org/wiki/Vz._50
 -----|------||--------------------|-----------|---------------------------||------------------|--------------|--------|---------------------------------
 P    | 1982 || glock_17           | Glock     | 17                        ||                  | 9mm          | semi   | ds full
 MP   | 1986 || glock_18           | Glock     | 18                        ||                  | 9mm          | select | ds full
@@ -399,7 +402,8 @@ CAR  | 2017 || ak_205             | Russia    | AK-205                    ||    
 AR   | 2018 || ak_308             | Russia    | AK-308                    ||                  | 762_nato     |        |
 AR   | 2019 || ak_19              | Russia    | AK-19                     ||                  | 556_nato     |        |
 --------------------------------------------------------------------------------------------------------------------------------------------------------
-Assault Rifle (AR) -
+Assault Rifle (AR) - FAL
+TODO https://en.wikipedia.org/wiki/FN_FAL
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 BR   | 1953 || fn_fal             | FN        | FAL                       ||                  | 762_nato     | select |
 BR   | 1958 || stg_58             | Austria   | StG 58                    ||                  | 762_nato     | select |
@@ -420,6 +424,7 @@ AR   | 2018 || uk_l85a3           | UK        | L85A3                     ||    
      | 2022 || uk_l402a1          | UK        | L402A1                    ||                  | 22_lr        |        | bullpup
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 Assault Rifle (AR) - Bullpup - AUG
+TODO https://en.wikipedia.org/wiki/Steyr_AUG
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 AR   | 1977 || steyr_aug          | Steyr     | AUG A1                    ||                  | 556_nato     | select | bullpup integral-optic
 AR   | 1977 || stg_77             | Austria   | StG 77                    ||                  | 556_nato     | select | bullpup
@@ -432,7 +437,6 @@ SAW  |      || steyr_aug_hbar     | Steyr     | AUG HBAR                  ||    
 SAW  |      || steyr_aug_hbar_t   | Steyr     | AUG HBAR-T                ||                  | 300_blackout | select | bullpup integral-optic
 SMG  |      || steyr_aug_3_9mm_xs | Steyr     | AUG A3 XS                 ||                  | 9mm          | select | bullpup
 SMG  |      || steyr_aug_3_40     | Steyr     | AUG A3 40 (40 S&W)        ||                  | 40_sw        | select | bullpup
-     |      ||
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 Assault Rifle (AR) -
 --------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -484,3 +488,23 @@ Anti-Materiel Rifle (AMR)
 TYPE | YEAR || KEY                | OWNER     | DESIGNATION               || FORE             | CHAMBER      | ACTION | NOTE
 -----|------||--------------------|-----------|---------------------------||------------------|--------------|--------|---------------------------------
 AMR  | 1918 || mauser_1918_amr    | Germany   | Mauser M1918 AMR          || AMR              | 13.2mm TuF   | bolt   | --
+
+https://en.wikipedia.org/wiki/Template:Japanese_WWII_infantry_weapons
+https://en.wikipedia.org/wiki/Enfield_No._2
+https://en.wikipedia.org/wiki/Pieper_M1893
+https://en.wikipedia.org/wiki/Maschinenkarabiner_42(H)
+https://en.wikipedia.org/wiki/MP_18
+https://en.wikipedia.org/wiki/Bergmann%E2%80%93Bayard_pistol
+https://en.wikipedia.org/wiki/Luger_pistol#Lange_Pistole_08_(Artillery_Luger)
+https://en.wikipedia.org/wiki/Type_80_(pistol)
+https://en.wikipedia.org/wiki/Astra_Model_900
+https://en.wikipedia.org/wiki/Colt_M1900
+https://en.wikipedia.org/wiki/Roth%E2%80%93Steyr_M1907
+https://en.wikipedia.org/wiki/Nambu_pistol#CITEREFWalter2023
+https://en.wikipedia.org/wiki/Type_26_revolver
+https://en.wikipedia.org/wiki/FN_M1900
+
+https://en.wikipedia.org/wiki/Ruger_M77#M77_Mark_II
+https://en.wikipedia.org/wiki/Ruger_Standard
+https://en.wikipedia.org/wiki/Colt_Woodsman
+https://en.wikipedia.org/wiki/AMT_Lightning_pistol
