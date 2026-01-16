@@ -1,5 +1,9 @@
 #!/bin/bash
 
+set -o errexit
+
 cd source
 
 python -m http.server
+
+start "http://localhost:8000"
