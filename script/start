@@ -10,4 +10,6 @@ export HISTFILE=/a/local/.bash_history
 export PATH=/a/script:$PATH
 [[ -z $PROFILE ]] || export PATH=/a/script/profile/$PROFILE:$PATH
 
+git fetch && git-check && git merge --ff-only && git push || true
+
 code /a --reuse-window
