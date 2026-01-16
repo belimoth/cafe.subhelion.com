@@ -1,0 +1,17 @@
+YEAR | ARTIST                                 | TITLE                                                                            | LINK
+-----|----------------------------------------|----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------
+2000 | Thee Silver Mt Zion Memorial Orchestra | He Has Left Us Alone But Shafts Of Light Sometimes Grace The Corner Of Our Rooms | https://theesilvermtzion.bandcamp.com/album/he-has-left-us-alone-but-shafts-of-light-sometimes-grace-the-corner-of-our-rooms
+2006 | James Holden                           | The Idiots Are Winning                                                           | https://jamesholden.bandcamp.com/album/the-idiots-are-winning
+2013 | DJ Rozwell                             | NONE OF THIS IS REAL                                                             | https://djrozwell.bandcamp.com/album/none-of-this-is-real
+2014 | Mega Drive                             | 198XAD                                                                           | https://megadrive.bandcamp.com/album/198xad-2
+2014 | Nmesh                                  | Dream Sequins®                                                                   | https://nmesh.bandcamp.com/album/dream-sequins
+2018 | DJ Seinfeld                            | Sakura EP                                                                        | https://djseinfeld.bandcamp.com/album/sakura-ep
+2018 | Locked Club                            | ЛОМАЙ EP                                                                         | https://lockedclub.bandcamp.com/album/ep
+2018 | Manni Dee                              | The Residue                                                                      | https://tresorberlin.bandcamp.com/album/the-residue
+2018 | Ross From Friends                      | Family Portrait                                                                  | https://rossfromfriends.bandcamp.com/album/family-portrait-2
+2019 | Blawan                                 | Many Many Pings                                                                  | https://ternesc.bandcamp.com/album/many-many-pings
+2019 | Karenn                                 | Grapefruit Regret                                                                | https://karenn.bandcamp.com/album/grapefruit-regret
+2019 | Locked Club                            | Irak                                                                             | https://lockedclub.bandcamp.com/album/irak
+2021 | Any Act                                | Ne Boyat'sya EP                                                                  | https://neboyatsya.bandcamp.com/album/ne-boyatsya-ep
+2021 | James Grant & Jody Wisternoff          | Anjunadeep 12                                                                    | https://anjunadeep.bandcamp.com/album/anjunadeep-12
+2025 | Blawan                                 | Sick Elixer                                                                      | https://blawan.bandcamp.com/album/sickelixir

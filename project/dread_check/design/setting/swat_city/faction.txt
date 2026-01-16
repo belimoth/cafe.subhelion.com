@@ -12,8 +12,9 @@ TYPHON | mc_typhon     | endgame zombie virus nanobot sperm event             | 
 DELUGE | prison_below  | --                                                   | --
 -------|---------------|------------------------------------------------------|-----------------------------------------------------------
 BUREAU | hq_bureau     | paranormal science missions                          | --
-ICEMAL | hq_icemal     | schism-prone BUREAU subfaction protect MALICE secret | --
 EUNATO | hq_eunato     | diplomatic security missions                         | --
+ICEMAL | hq_icemal     | schism-prone BUREAU unit protects MALICE secret      | --
+IZEPOL | hq_izepol     | EUNATO version of ICEPOL                             | --
 KGBGRU | hq_kgbgru     | sleeper cell anti EUNATO missions and intel          | --
 SKEDAR | parliament    | alien imposters anti BUREAU missions                 | --
 -------|---------------|------------------------------------------------------|-----------------------------------------------------------
@@ -28,19 +29,19 @@ NAME   | HOUSE         | DESCRIPTION                                          | 
 -------|---------------|------------------------------------------------------|-----------------------------------------------------------
 ASHERA | --            | --                                                   | --
 BEEZLE | --            | --                                                   | --
-DRAUGB | 6_draugb      | --                                                   | --
-FENRIR | 3_frontier    | --                                                   | --
+DRAUGB | 6_draugb      | TERRAN antipatron                                    | --
+FENRIR | 3_frontier    | BUREAU patron evil venus                             | --
 GOJIRA | --            | --                                                   | --
-LILITH | prison_above  | --                                                   | --
-LUCIFE | --            | --                                                   | --
+LILITH | prison_above  | antihuman predation touched by GORGON                | --
+LUCIFE | --            | HUNTER patron touched by SATURN                      | --
 MALICE | hq_malice     | antisentience sentience in service to BUREAU         | --
 MOLOCH | --            | --                                                   | --
-SATURN | 4_wastes      | --                                                   | --
-SCYLLA | 1_harbor      | --                                                   | --
+SATURN | 4_wastes      | TERRAN patron neutral mars                           | --
+SCYLLA | 1_harbor      | fish people hybrid factory touched by EUROPA         | --
 SKURGE | --            | --                                                   | --
-SOPHIA | 5_tower_1     | --                                                   | --
+SOPHIA | 5_tower_1     | TERRAN patron good jupiter                           | --
 TIAMAT | --            | --                                                   | --
-YAHWEH | 5_tower_2     | --                                                   | --
+YAHWEH | 5_tower_2     | TERRAN patron evil sol                               | --
 ------------------------------------------------------------------------------------------------------------------------------------------
 OFFSCREEN AMERICAN REGIONAL POWERS
 ------------------------------------------------------------------------------------------------------------------------------------------
@@ -112,7 +113,8 @@ OFFSCREEN SOLAR MILITARY POWERS
 ------------------------------------------------------------------------------------------------------------------------------------------
 NAME   | HOUSE         | DESCRIPTION                                          | LOCATION
 -------|---------------|------------------------------------------------------|-----------------------------------------------------------
-GORGON | 2_colony      | solar power -- lunar gargoyle dracula bat people     | --
+EUROPA | --            | solar power  1 europa report aquatic aliens          | --
+GORGON | 2_colony      | solar power  2 lunar gargoyle dracula bat people     | --
 ------------------------------------------------------------------------------------------------------------------------------------------
 OFFSCREEN GALACTIC MILITARY POWERS
 ------------------------------------------------------------------------------------------------------------------------------------------
@@ -284,14 +286,14 @@ MEGACASINO SHRINES
 ------------------------------------------------------------------------------------------------------------------------------------------
 NAME   | HOUSE         | DESCRIPTION                                          | LOCATION
 -------|---------------|------------------------------------------------------|-----------------------------------------------------------
-ASHERA | shrine_ashera | church  0 nature                                     | --
-BEEZLE | shrine_beezle | church  1 satanism and bugs                          | --
+ASHERA | shrine_ashera | church  0 nature prolife                             | --
+BEEZLE | shrine_beezle | church  1 satanism and bugs anticity                 | --
 BRAHMA | shrine_brahma | church  2 vedic                                      | --
 DELUGE | shrine_deluge | church  3 nonsentience sentience fans                | --
 LILITH | shrine_lilith | church  4 nonvampire vampire fans, LILITH front      | --
-MARDUK | shrine_marduk | church  5 babylon good, HUNTER front                 | --
+MARDUK | shrine_marduk | church  5 babylon good, HUNTER front, procity        | --
 SOPHIA | shrine_sophia | church  6 gnosticism good                            | --
-TIAMAT | shrine_tiamat | church  7 babylon and gnosticism evil                | --
+TIAMAT | shrine_tiamat | church  7 babylon and gnosticism evil antilife       | --
 TYPHON | shrine_typhon | church  8 sentience sentience fans; containment site | --
 WAHABI | shrine_wahabi | church  9 abrahamic arabia and southeast asia        | --
 XAVIER | shrine_xavier | church 10 abrahamic new world, SLAYER front          | --
