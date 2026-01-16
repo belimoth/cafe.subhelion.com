@@ -1,0 +1,91 @@
+-----------------------------------------------------------------------------------------------
+ASK - NO
+-----------------------------------------------------------------------------------------------
+ASK  | DEPT    | GENRE  | NAME                | LINK
+-----|---------|--------|---------------------|------------------------------------------------
+no   | --      | --     | --                  | --
+-----------------------------------------------------------------------------------------------
+ASK - WAIT
+-----------------------------------------------------------------------------------------------
+ASK  | DEPT    | GENRE  | NAME                | LINK
+-----|---------|--------|---------------------|------------------------------------------------
+wait |         |        |                     | https://www.tiktok.com/@_twistedt
+wait |         |        |                     | https://www.tiktok.com/@aaron___edward
+wait |         |        |                     | https://www.tiktok.com/@advicefromlouisreloaded
+wait |         |        |                     | https://www.tiktok.com/@agirlthatexistsyes
+wait |         |        |                     | https://www.tiktok.com/@all.gouda
+wait |         |        |                     | https://www.tiktok.com/@bigtugg
+wait |         |        |                     | https://www.tiktok.com/@ckwon117
+wait |         |        |                     | https://www.tiktok.com/@dianamistique
+wait |         |        |                     | https://www.tiktok.com/@madeline_pendleton
+wait |         |        |                     | https://www.tiktok.com/@odessa.azion
+wait |         |        |                     | https://www.tiktok.com/@okpeach
+wait |         |        |                     | https://www.tiktok.com/@saint.stirling
+wait |         |        |                     | https://www.tiktok.com/@thebrokepopstar
+wait |         |        |                     | https://www.tiktok.com/@x4tonno
+wait |         |        |                     | https://www.tiktok.com/@zero.woolfe
+wait |         |        | boogierae           | https://www.tiktok.com/@booogierae
+wait |         |        | bryce_estelle       | https://www.tiktok.com/@blackryanseacrest
+wait |         |        | cashgrabber9000     | https://www.tiktok.com/@holdenwindsoronline
+wait |         |        | investigator_slater | https://www.tiktok.com/@investigatorslater
+wait |         |        | jake_xo             | https://www.tiktok.com/@jake.xo
+wait |         |        | nephie              | https://www.tiktok.com/@queennephi
+wait |         |        | think_slavic        | https://www.tiktok.com/@think.slavic
+wait |         | --     |                     | https://www.tiktok.com/@_carmaxlla_
+wait |         | --     |                     | https://www.tiktok.com/@badbittyontheblock
+wait |         | --     |                     | https://www.tiktok.com/@chloe.longname
+wait |         | --     |                     | https://www.tiktok.com/@dutifulxdolly
+wait |         | --     |                     | https://www.tiktok.com/@jennmelon
+wait |         | --     |                     | https://www.tiktok.com/@kaelynn_vp
+wait |         | --     |                     | https://www.tiktok.com/@lyracr0wo
+wait |         | --     |                     | https://www.tiktok.com/@reinknite
+wait |         | --     |                     | https://www.tiktok.com/@runabyt3
+wait |         | --     |                     | https://www.tiktok.com/@scifiandswords
+wait |         | --     |                     | https://www.tiktok.com/@the8thvault
+wait |         | --     |                     | https://www.tiktok.com/@xstinamendez
+wait | music   | --     | chisadamgaming      | https://www.tiktok.com/@chrisadamgaming
+wait | writing | --     | joever              | https://www.tiktok.com/@freshcoralblast
+wait | writing | comedy | clarey              | https://www.tiktok.com/@eclared
+wait | writing | comedy | miss_demeanour      | https://www.tiktok.com/@themissdemeanour
+wait |         |        |                     | https://www.tiktok.com/@nowahwhyse
+wait |         |        |                     | https://www.tiktok.com/@adamnwhodeywant
+wait |         |        |                     | https://www.tiktok.com/@puderschmude
+wait |         |        |                     | https://www.tiktok.com/@nairabills
+wait |         |        |                     | https://www.tiktok.com/@cypher.j
+wait |         |        |                     | https://www.tiktok.com/@feldfrog
+-----------------------------------------------------------------------------------------------
+ASK - YES
+-----------------------------------------------------------------------------------------------
+ASK  | DEPT    | GENRE  | NAME                | LINK
+-----|---------|--------|---------------------|------------------------------------------------
+yes  | art     | --     | xander              | https://www.tiktok.com/@xanderartcraft
+yes  | music   | --     | atarimatt           | https://www.tiktok.com/@atarimatt
+yes  | music   | --     | chasexusa           | https://www.tiktok.com/@chasexusa
+yes  | music   | comedy | bronco_lane         | https://www.tiktok.com/@boibronco
+yes  | writing | --     | billfromunicef      | https://www.tiktok.com/@billfromunicef
+yes  | writing | --     | celeste             | https://www.tiktok.com/@cele2t3
+yes  | writing | --     | dewwwdropzzz        | https://www.tiktok.com/@dewwwdropzzz
+yes  | writing | --     | donttagrob          | https://www.tiktok.com/@donttagrob
+yes  | writing | --     | giovanna            | https://www.tiktok.com/@g2i2o2v2a2n2n2a2
+yes  | writing | --     | khaos_punk          | https://www.tiktok.com/@khaospunk999
+yes  | writing | --     | massivemouse        | https://www.tiktok.com/@massivemouse
+yes  | writing | --     | mochayaps           | https://www.tiktok.com/@mochayappuccino2.0
+yes  | writing | --     | snatxton            | https://www.tiktok.com/@snaxtonofficial
+yes  | writing | --     | solomonica          | https://www.tiktok.com/@iamsolomonica
+yes  | writing | --     | zebadiah_collins    | https://www.tiktok.com/@z.ebb
+yes  | writing | comedy | billy_myers_3       | https://www.tiktok.com/@mrbillymyers3
+yes  | writing | comedy | boss_hoggins        | https://www.tiktok.com/@boss.hoggins
+yes  | writing | comedy | delamomanny         | https://www.tiktok.com/@delamomanny
+yes  | writing | comedy | drew_staats         | https://www.tiktok.com/@drewstaatsx
+yes  | writing | comedy | eelfeel             | https://www.tiktok.com/@eelfeel
+yes  | writing | comedy | gigachadgirlwife    | https://www.tiktok.com/@gigagirlchadwife
+yes  | writing | comedy | joan                | https://www.tiktok.com/@justpeers
+yes  | writing | comedy | jojoblacco          | https://www.tiktok.com/@jojoblacco
+yes  | writing | comedy | luckycarderik       | https://www.tiktok.com/@luckycarderik
+yes  | writing | comedy | mayor_wren          | https://www.tiktok.com/@mayor_wren
+yes  | writing | comedy | mr_psychology       | https://www.tiktok.com/@misterpsychology
+yes  | writing | comedy | nate_carney         | https://www.tiktok.com/@gaptooth._
+yes  | writing | comedy | nomdecoom           | https://www.tiktok.com/@nomdecoom
+yes  | writing | comedy | pawgsauce           | https://www.tiktok.com/@pawgsauce
+yes  | writing | comedy | pineapple_honeydew  | https://www.tiktok.com/@pineapple.honeydew
+yes  | writing | comedy | rain_man            | https://www.tiktok.com/@rbkabe

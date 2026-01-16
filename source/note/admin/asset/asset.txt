@@ -38,6 +38,8 @@ LIST | LABEL     | PROJECT                || SERVICE        | ADMIN             
 --   | SUBHELION | DREAD CHECK PROFILES   || github.com     | belimoth            | subhelion          | swat_scanner         | --   | http://github.com/subhelion/swat-scanner       | repo
 --   | SUBHELION | DREAD CHECK PROFILES   || github.com     | belimoth            | subhelion          | swat_skinner         | --   | http://github.com/subhelion/swat-skinner       | repo
 --   | SUBHELION | DREAD CHECK PROFILES   || github.com     | belimoth            | subhelion          | swat_swimmer         | --   | http://github.com/subhelion/swat-swimmer       | repo
+--   | SUBHELION | SUBHELION              || discord.com    | belimoth            | dread-check        | --                   | --   | http://discord.com/dread-check                 | chat
+--   | SUBHELION | SUBHELION              || discord.com    | belimoth            | subhelion          | --                   | --   | http://discord.com/subhelion                   | chat
 --   | SUBHELION | SUBHELION              || github.com     | belimoth            | subhelion          | --                   | --   | http://github.com/subhelion                    | organization
 --   | SUBHELION | SUBHELION              || github.com     | belimoth            | subhelion          | cafe.subhelion.com   | --   | http://github.com/belimoth/cafe.subhelion.com  | repo
 --   | SUBHELION | SUBHELION              || github.com     | belimoth            | subhelion          | research             | --   | http://github.com/belimoth/research            | repo
