@@ -8,3 +8,4 @@ YEAR | KEY          | NAME
 1975 | 566_39mm_mps | --
 1980 | 556_nato     | 5.56×45mm NATO; 556 NATO
 2007 | 650_25mm_cbj | 6.5×25mm CBJ
+2009 | 300_blackout | .300 Blackout

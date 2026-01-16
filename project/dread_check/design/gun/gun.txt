@@ -11,5 +11,7 @@ PERIOD | SETTING        | YEAR | CLASS    | KEY              | FORE             
   19XX |  swat_city     | 1990 | smg      | rus_kbp_pp_90    | --               | 9mm_makarov  | KBP (KBP Instrument Design Bureau) PP-90 Folding SMG
   19XX |  swat_city     | 1994 | saw      | usa_colt_lmg     | --               | 556_nato     | Colt Automatic Rifle/Colt LMG
   20XX |  swat_city     | 2000 | pdw      | sbd_cbj_ms       | --               | 650_25mm_cbj | SBD (Saab Bofors Dynamics) CBJ-MS
+  20XX |  swat_city     | 2013 | sbr      | aac_honey_badger | --               | 300_blackout | AAC Honey Badger
+  20XX |  swat_city     | 2021 | sbr      | cz_600_trail     | --               | 300_blackout | CZ 600 Trail
   2XXX |  swat_city     | 2170 | gpmg     | uscmc_m56a2      | nazi_mg42        | --           | --
        |  --            | ---- | gpmg     | nazi_mg42        | --               | --           | --
