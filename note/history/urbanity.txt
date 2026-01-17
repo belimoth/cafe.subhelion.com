@@ -1,0 +1,49 @@
+urgan agglomerations, asia
+
+1	1	Tokyo	 Japan	37,977,000	8,230	4,614
+2	2	Jakarta	 Indonesia	34,540,000	3,540	9,758
+3	3	Delhi	 India	29,617,000	2,232	13,269
+4	4	Manila	 Philippines	28,250,517	8,100	3,488
+5	5	Mumbai	 India	23,355,000	944	24,740
+6	6	Shanghai	 China	22,120,000	4,068	5,437
+7	8	Seoul	 South Korea	21,794,000	2,768	7,873
+8	10	Guangzhou-Foshan	 China	20,902,000	4,342	4,814
+9	12	Beijing	 China	19,433,000	4,172	4,658
+10	14	Kolkata	 India	17,560,000	1,351	12,994
+11	16	Bangkok	 Thailand	17,066,000	3,199	5,336
+12	18	Shenzhen	 China	15,929,000	1,803	8,836
+13	19	Dhaka	 Bangladesh	15,443,000	456	33,852
+14	23	Osaka-Kobe-Kyoto	 Japan	14,977,000	3,019	4,961
+15	24	Karachi	 Pakistan	14,835,000	1,044	14,210
+16	25	Bengaluru	 India	13,707,000	1,205	11,378
+17	26	Tehran	 Iran	13,633,000	1,704	8,002
+18	28	Ho Chi Minh City	 Vietnam	13,312,000	1,638	8,127
+19	29	Chennai	 India	11,324,000	1,049	10,800
+20	30	Chengdu	 China	11,309,000	1,828	6,188
+21	32	Lahore	 Pakistan	11,021,000	853	12,916
+22	35	Tianjin	 China	10,800,000	2,813	3,839
+23	37	Hyderabad	 India	9,746,000	1,273	7,654
+24	40	Nagoya	 Japan	9,113,000	3,704	2,460
+25	42	Wuhan	 China	8,962,000	1,646	5,444
+26	43	Taipei	 Taiwan	8,918,000	1,076	8,289
+27	45	Kuala Lumpur	 Malaysia	8,285,000	2,162	3,833
+28	46	Dongguan	 China	7,981,000	1,755	4,546
+29	47	Pune	 India	7,764,000	649	11,956
+30	48	Chongqing	 China	7,739,000	1,537	5,036
+31	50	Nanjing	 China	7,496,000	1,613	4,649
+32	51	Ahmedabad	 India	7,410,000	359	20,622
+33	52	Hong Kong	 Hong Kong	7,347,000	291	25,254
+34	55	Shenyang-Fushun	 China	7,105,000	1,515	4,690
+35	56	Bandung	 Indonesia	7,065,000	487	14,510
+36	58	Riyadh	 Saudi Arabia	6,881,000	1,672	4,115
+37	61	Zhengzhou	 China	6,765,000	1,656	4,085
+38	63	Xi'an	 China	6,680,000	1,094	6,105
+39	64	Hanoi	 Vietnam	6,576,000	963	6,828
+40	65	Surabaya	 Indonesia	6,499,000	911	7,131
+41	68	Hangzhou	 China	6,446,000	1,446	4,458
+42	63	Quanzhou	 China	6,345,000	2,090	3,036
+43	70	Yangon	 Myanmar	6,314,000	603	10,474
+44	74	Dubai	 United Arab Emirates	6,036,000	1,508	4,004
+45	77	Qingdao	 China	5,911,000	1,656	3,569
+46	78	Surat	 India	5,807,000	238	24,378
+47	79	Baghdad	 Iraq	5,796,000	693	8,365
