@@ -13,9 +13,10 @@ DELUGE | prison_below  | --                                                   | 
 -------|---------------|------------------------------------------------------|-----------------------------------------------------------
 BUREAU | hq_bureau     | paranormal science missions                          | --
 EUNATO | hq_eunato     | diplomatic security missions                         | --
+ICEFED | hg_icefed     | secret service chain of command security BUREAU unit | --
 ICEMAL | hq_icemal     | schism-prone BUREAU unit protects MALICE secret      | --
 IZEPOL | hq_izepol     | EUNATO version of ICEPOL                             | --
-KGBGRU | hq_kgbgru     | sleeper cell anti EUNATO missions and intel          | --
+KGBGRU | hq_kgbgru     | sleeper cell anti EUNATO missions anti USARMY intel  | --
 SKEDAR | parliament    | alien imposters anti BUREAU missions                 | --
 -------|---------------|------------------------------------------------------|-----------------------------------------------------------
 USARMY | garrison      | military defends bases and convoys                   | --
@@ -352,6 +353,4 @@ BUSTER - strikebuster mercenary
 LAWYER - legal aid
 ------------------------------------------------------------------------------------------------------------------------------------------
 - ICEMAL bureau unit that defends malice and site and site info, potential civil war subfaction with the rest of BUREAU, after warhammer 40k grey knights vs custodes in hypothetical terminus decree showdown
-- IZEPOL european version of ICEPOL
-- ISNZEI interpol equivalent of ICEPOL
 - ICEMAL mod/surge wam gives infinite ammo and accelerated shield/condition regeneration
