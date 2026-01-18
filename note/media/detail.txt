@@ -1,0 +1,8 @@
+film  |      | Boy Kills World - Character - June 27                          | --                 | --                     | --                       | --
+tv    |      | Dr. Who S10.E2 Smile - Character - Emojibot                    | --                 | --                     | --                       | --
+game  | 2002 | TimeSplitters 2 - Mission 1 - Siberia                          | Perfect Dark       |                        |                          |
+anime | 1992 | FernGully: The Last Rainforest - Character - Hexxus            | --                 | --                     | --                       | --
+anime | 1994 | The Pagemaster - Scene - Library 1/2                           | --                 | --                     | --                       | https://www.youtube.com/watch?v=oE9X3T_2eGc
+anime | 1994 | The Pagemaster - Scene - Library 2/2                           | --                 | --                     | --                       | https://www.youtube.com/watch?v=g0B9rK3wpYw
+anime |      | WALL-E - Character - EVE                                       | --                 | --                     | --                       | --
+tv    |      | Ghost in the Shell: Stand-Alone Complex S2.E4 Natural Enemy    | GITS SAC           | --                     | --                       | https://www.adultswim.com/videos/ghost-in-the-shell/natural-enemy

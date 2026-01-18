@@ -1,0 +1,617 @@
+---------------------------------------------------------------------------------------------
+PICK
+---------------------------------------------------------------------------------------------
+PICK - DREAD CHECK
+---------------------------------------------------------------------------------------------
+dread_check     | game  | 2012 | Receiver
+dread_check     | game  | 2002 | TimeSplitters 2
+dread_check     | game  | 2000 | Perfect Dark
+dread_check     | game  | 2008 | Call of Duty: World at War
+dread_check     | game  | 2013 | Payday 2
+---------------------------------------------------------------------------------------------
+PICK - DREAD CHECK CHAPTERS - ALIEN INTEL
+---------------------------------------------------------------------------------------------
+SETTING         | TYPE  | YEAR | TITLE
+----------------|-------|------|-------------------------------------------------------------
+alien_intel     | comic | 2000 | Perfect Dark: Graduation Day
+alien_intel     | comic | 2000 | Perfect Dark: Hunting Season
+alien_intel     | comic | 2005 | Perfect Dark: Hong Kong Sunrise
+alien_intel     | comic | 2007 | Perfect Dark: Janus' Tears
+alien_intel     | film  | 2005 | Perfect Dark: Initial Vector
+alien_intel     | film  | 2007 | Perfect Dark: Second Front
+alien_intel     | game  | 1997 | GoldenEye 007
+alien_intel     | game  | 2000 | Perfect Dark
+alien_intel     | game  | 2000 | Perfect Dark (GBA)
+alien_intel     | game  | 2002 | TimeSplitters 2 - Mission 1 - Siberia
+alien_intel     | game  | 2005 | Perfect Dark Zero
+alien_intel     | game  | 2010 | Perfect Dark (2010)
+---------------------------------------------------------------------------------------------
+PICK - DREAD CHECK CHAPTERS - BLOOD FLUSH
+---------------------------------------------------------------------------------------------
+SETTING         | TYPE  | YEAR | TITLE
+----------------|-------|------|-------------------------------------------------------------
+draugb          | film  | 1998 | Blade
+draugb          | film  | 2002 | Blade II
+---------------------------------------------------------------------------------------------
+PICK - DREAD CHECK CHAPTERS - DRAUGB
+---------------------------------------------------------------------------------------------
+SETTING         | TYPE  | YEAR | TITLE
+----------------|-------|------|-------------------------------------------------------------
+draugb          | anime | 1985 | Angel's Egg
+draugb          | anime | 1988 | Gunbuster
+draugb          | anime | 1991 | Æon Flux
+draugb          | anime | 1992 | X-Men (TV)
+draugb          | anime | 1994 | ReBoot (TV)
+draugb          | anime | 1995 | Memories
+draugb          | anime | 1997 | Virus Buster Serge
+draugb          | anime | 1998 | Kirikou and the Sorceress
+draugb          | anime | 1999 | Futurama
+draugb          | anime | 2001 | Atlantis: The Lost Empire
+draugb          | anime | 2001 | Cowboy Bebop: The Movie
+draugb          | anime | 2001 | Final Fantasy: The Spirits Within
+draugb          | anime | 2001 | Osmosis Jones
+
+draugb          | anime | 2003 | The Animatrix
+
+draugb          | anime | 2004 | Gunbuster 2: Diebuster
+draugb          | anime | 2009 | The Secret of Kells
+draugb          | anime | 2015 | Gate
+draugb          | anime | 2016 | Dead Hand - 2 - Last Day of War
+draugb          | anime | 2019 | Ling Cage
+draugb          | anime | 2019 | Love, Death & Robots: Beyond the Aquila Rift
+draugb          | anime | 2021 | Mad God
+draugb          | anime | 2023 | Gargoyles: Dark Ages
+draugb          | anime | 2025 | War of Lights (Short)
+draugb          | book  | 2007 | Unwind
+draugb          | book  | 2021 | Project Hail Mary
+draugb          | film  | 1957 | The Monolith Monsters
+draugb          | film  | 1958 | Invention for Destruction
+draugb          | film  | 1960 | Swiss Family Robinson
+draugb          | film  | 1964 | Red Desert
+draugb          | film  | 1967 | Viy
+draugb          | film  | 1968 | Night of the Living Dead
+draugb          | film  | 1971 | The Andromeda Strain
+draugb          | film  | 1971 | The Omega Man
+draugb          | film  | 1976 | Assault on Precinct 13
+draugb          | film  | 1977 | Alternative 3
+draugb          | film  | 1977 | The Gauntlet
+draugb          | film  | 1979 | Alien
+draugb          | film  | 1979 | Stalker
+draugb          | film  | 1980 | The Fog
+draugb          | film  | 1981 | Escape from New York
+draugb          | film  | 1981 | Outland
+draugb          | film  | 1982 | The Thing
+draugb          | film  | 1983 | Videodrome
+draugb          | film  | 1984 | Dune
+draugb          | film  | 1984 | Nausicaä of the Valley of the Wind
+draugb          | film  | 1984 | Threads
+draugb          | film  | 1985 | Come and See
+draugb          | film  | 1985 | Lifeforce
+draugb          | film  | 1986 | Aliens
+draugb          | film  | 1987 | Prince of Darkness
+draugb          | film  | 1987 | Walker
+draugb          | film  | 1988 | Oil Gobblers
+draugb          | film  | 1988 | On the Silver Globe
+draugb          | film  | 1988 | They Live
+draugb          | film  | 1989 | Elephant
+draugb          | film  | 1989 | Tetsuo: The Iron Man
+draugb          | film  | 1990 | Home Alone
+draugb          | film  | 1990 | Jacob’s Ladder
+draugb          | film  | 1990 | Tremors
+draugb          | film  | 1992 | Tetsuo II: Body Hammer
+draugb          | film  | 1994 | In the Mouth of Madness
+draugb          | film  | 1994 | Stargate
+draugb          | film  | 1994 | Timecop
+draugb          | film  | 1995 | 12 Monkeys
+draugb          | film  | 1995 | Gargoyles the Movie
+draugb          | film  | 1995 | Mechanical Violator Hakaider
+draugb          | film  | 1995 | Se7en
+draugb          | film  | 1995 | Tales from the Crypt: Demon Knight
+draugb          | film  | 1995 | Twelve Monkeys
+draugb          | film  | 1995 | Waterworld
+draugb          | film  | 1996 | Escape from L.A.
+draugb          | film  | 1996 | Star Trek: First Contact
+draugb          | film  | 1997 | Event Horizon
+draugb          | film  | 1997 | Mimic
+draugb          | film  | 1998 | Godzilla
+draugb          | film  | 1998 | The Faculty
+draugb          | film  | 1999 | The 13th Warrior
+draugb          | film  | 2000 | Pitch Black
+draugb          | film  | 2001 | Avalon
+draugb          | film  | 2001 | Dagon
+draugb          | film  | 2001 | Evolution
+draugb          | film  | 2001 | Ghosts of Mars
+draugb          | film  | 2001 | Tremors 3: Back to Perfection
+draugb          | film  | 2002 | 28 Days Later
+draugb          | film  | 2002 | Resident Evil
+draugb          | film  | 2003 | The Matrix Reloaded
+draugb          | film  | 2003 | The Matrix Revolutions
+draugb          | film  | 2004 | AVP: Alien vs. Predator
+draugb          | film  | 2004 | Dawn of the Dead
+draugb          | film  | 2004 | Immortal
+draugb          | film  | 2004 | R-Point
+draugb          | film  | 2004 | Resident Evil: Apocalypse
+draugb          | film  | 2004 | The Chronicles of Riddick
+draugb          | film  | 2004 | The Matrix Revolutions
+draugb          | film  | 2005 | The Cave
+draugb          | film  | 2005 | The Descent
+draugb          | film  | 2005 | The Fog (2005)
+draugb          | film  | 2007 | Eden Log
+draugb          | film  | 2007 | I Am Legend
+draugb          | film  | 2007 | Resident Evil: Extinction
+draugb          | film  | 2007 | Sunshine
+draugb          | film  | 2007 | The Mist
+draugb          | film  | 2008 | Dante 01
+draugb          | film  | 2008 | Doomsday
+draugb          | film  | 2008 | Tokyo Gore Police
+draugb          | film  | 2009 | District 9
+draugb          | film  | 2009 | Gamer
+draugb          | film  | 2009 | Moon
+draugb          | film  | 2009 | Pandorum
+draugb          | film  | 2009 | Tetsuo: The Bullet Man
+draugb          | game  | 1997 | GoldenEye 007
+draugb          | film  | 2012 | Dead Mine
+draugb          | film  | 2013 | Riddick
+draugb          | film  | 2014 | Garm Wars: The Last Druid
+draugb          | film  | 2014 | Over the Garden Wall
+draugb          | film  | 2016 | Arrival
+draugb          | film  | 2016 | Shin Godzilla
+draugb          | film  | 2017 | Alien: Covenant
+draugb          | film  | 2017 | Attraction
+draugb          | film  | 2017 | The Mummy
+draugb          | film  | 2018 | Annihilation
+draugb          | film  | 2018 | Prospect
+draugb          | film  | 2019 | The Blackout
+draugb          | film  | 2020 | The Empty Man
+draugb          | film  | 2021 | Dune
+draugb          | film  | 2021 | Mad God
+draugb          | film  | 2021 | The Matrix Resurrections
+draugb          | film  | 2022 | All Quiet on the Western Front
+draugb          | film  | 2022 | Nope
+draugb          | film  | 2023 | Boy Kills World
+draugb          | film  | 2024 | Monkey Man
+draugb          | film  | 2024 | Sixty Minutes
+draugb          | film  | 2025 | 28 Years Later
+draugb          | film  | 2025 | Mission Impossible: The Final Reckoning
+draugb          | film  | 2026 | 28 Years Later: The Bone Temple
+draugb          | game  |      | Roblox - Entry Point
+draugb          | game  |      | Roblox - Low Octane
+draugb          | game  |      | Roblox - Realistic Boiling Water Reacter (RBWR)
+draugb          | game  |      | Roblox - Traumatic Descent
+draugb          | game  | ---- | In Hope Voiden
+draugb          | game  | ---- | Ironclad
+draugb          | game  | ---- | Post Apocalypse Courier Service
+draugb          | game  | ---- | Prospice
+draugb          | game  | 1992 | Wolfenstein 3D
+draugb          | game  | 1993 | Doom
+draugb          | game  | 1994 | Doom II
+draugb          | game  | 1994 | Marathon
+draugb          | game  | 1995 | Command & Conquer
+draugb          | game  | 1995 | Marathon 2: Durandal
+draugb          | game  | 1996 | Command & Conquer: Red Alert
+draugb          | game  | 1996 | Marathon Infinity
+draugb          | game  | 1996 | Quake
+draugb          | game  | 1996 | ZPC; Zero Population Count
+draugb          | game  | 1997 | Chasm: The Rift
+draugb          | game  | 1998 | Half Life
+draugb          | game  | 1999 | Command & Conquer: Tiberian Sun
+draugb          | game  | 1999 | Half Life: Opposing Force
+draugb          | game  | 2000 | Command & Conquer: Red Alert 2
+draugb          | game  | 2000 | Ring of Red
+draugb          | game  | 2000 | Soldier of Fortune
+draugb          | game  | 2000 | TimeSplitters
+draugb          | game  | 2001 | Half Life: Blue Shift
+draugb          | game  | 2001 | Halo: Combat Evolved
+draugb          | game  | 2001 | Red Faction
+draugb          | game  | 2002 | Command & Conquer: Renegade
+draugb          | game  | 2002 | Half Life: The Specialists Mod
+draugb          | game  | 2002 | Red Faction II
+draugb          | game  | 2002 | TimeSplitters 2
+draugb          | game  | 2004 | Doom 3
+draugb          | game  | 2004 | Half Life 2
+draugb          | game  | 2004 | Halo 2
+draugb          | game  | 2004 | Metal Gear Solid 3: Snake Eater
+draugb          | game  | 2005 | Project Snowblind
+draugb          | game  | 2005 | Resident Evil 4
+draugb          | game  | 2005 | TimeSplitters: Future Perfect
+draugb          | game  | 2007 | Bioshock
+draugb          | game  | 2007 | Halo 3
+draugb          | game  | 2007 | Hard Time
+draugb          | game  | 2007 | Medal of Honor: Airborne
+draugb          | game  | 2008 | Dead Space
+draugb          | game  | 2008 | Fallout 3
+draugb          | game  | 2009 | Left 4 Dead 2
+draugb          | game  | 2009 | Shin Megami Tensei: Strange Journey
+draugb          | game  | 2010 | Fallout: New Vegas
+draugb          | game  | 2010 | Lost Planet 2
+draugb          | game  | 2010 | MAG
+draugb          | game  | 2011 | Red Faction: Armageddon
+draugb          | game  | 2011 | Red Faction: Battlegrounds
+draugb          | game  | 2012 | Natural Selection 2
+draugb          | game  | 2013 | Arma II: DayZ Mod
+draugb          | game  | 2014 | Alien: Isolation
+draugb          | game  | 2014 | Sir, You Are Being Hunted
+draugb          | game  | 2014 | Spintires
+draugb          | game  | 2015 | Sylvio
+draugb          | game  | 2016 | Doom (2016)
+draugb          | game  | 2017 | Entropy: Zero
+draugb          | game  | 2017 | MudRunner
+draugb          | game  | 2017 | Pavlov
+draugb          | game  | 2017 | PUBG: Battlegrounds
+draugb          | game  | 2017 | SCP: Secret Laboratory
+draugb          | game  | 2018 | Generation Zero
+draugb          | game  | 2018 | Subnautica
+draugb          | game  | 2018 | The Forest
+draugb          | game  | 2019 | Void Bastards
+draugb          | game  | 2020 | Black Mesa
+draugb          | game  | 2020 | G String
+draugb          | game  | 2020 | Hardspace: Shipbreaker
+draugb          | game  | 2020 | Iron Harvest
+draugb          | game  | 2020 | Receiver 2
+draugb          | game  | 2021 | Outer Wilds: Echoes of the Eye
+draugb          | game  | 2021 | Subnautica: Below Zero
+draugb          | game  | 2022 | Arma Reforger
+draugb          | game  | 2022 | Babbdi
+draugb          | game  | 2022 | Entropy: Zero  2
+draugb          | game  | 2022 | Selaco
+draugb          | game  | 2022 | Signalis
+draugb          | game  | 2023 | Hrot
+draugb          | game  | 2023 | Lethal Company
+draugb          | game  | 2023 | Mik
+draugb          | game  | 2024 | B.C. Piezophile
+draugb          | game  | 2024 | Forever Winter
+draugb          | game  | 2024 | Metal Garden
+draugb          | game  | 2024 | Mohrta
+draugb          | game  | 2024 | Nuclear Nightmare
+draugb          | game  | 2024 | Project Silverfish
+draugb          | game  | 2024 | R.E.P.O.
+draugb          | game  | 2025 | Abiotic Factor
+draugb          | game  | 2025 | Ambrosia Sky
+draugb          | game  | 2025 | Atomfall
+draugb          | game  | 2025 | Cronos: New Dawn
+draugb          | game  | 2025 | Deathground
+draugb          | game  | 2025 | Doom: The Dark Ages
+draugb          | game  | 2025 | Mimesis
+draugb          | game  | 2025 | Motorslice
+draugb          | game  | 2025 | Pigface
+draugb          | game  | 2025 | Psycho Patrol R
+draugb          | game  | 2025 | Routine
+draugb          | game  | 2025 | Tiberian Sun: Reborn
+draugb          | game  | 2025 | TimeSplitters: Rewind
+draugb          | game  | 2025 | White Knuckle
+draugb          | game  | 2026 | Klostyn
+draugb          | game  | 2026 | Marathon (2026)
+draugb          | game  | 2026 | Ontos
+draugb          | game  | 2026 | Pragmata
+draugb          | game  | 2026 | Subnautica 2
+draugb          | game  | 2027 | No Walls in Heaven
+draugb          | tv    | 2007 | Primeval (TV)
+draugb          | tv    | 2020 | Raised by Wolves
+draugb          | tv    | 2021 | Foundation (TV)
+draugb          | tv    | 2024 | Time Bandits (TV)
+---------------------------------------------------------------------------------------------
+PICK - DREAD CHECK CHAPTERS - DRAUGB 0 PROLOGUE
+---------------------------------------------------------------------------------------------
+SETTING         | TYPE  | YEAR | TITLE
+----------------|-------|------|-------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------
+PICK - DREAD CHECK CHAPTERS - DRAUGB 1 HARBOR
+---------------------------------------------------------------------------------------------
+SETTING         | TYPE  | YEAR | TITLE
+----------------|-------|------|-------------------------------------------------------------
+draugb_harbor   | film  | 1978 | Warlords of Atlantis
+draugb_harbor   | film  | 1989 | DeepStar Six
+draugb_harbor   | film  | 1989 | The Abyss
+draugb_harbor   | film  | 1997 | Insomnia
+draugb_harbor   | film  | 1998 | Sphere
+draugb_harbor   | film  | 1998 | The Faculty
+draugb_harbor   | film  | 1999 | Virus
+draugb_harbor   | film  | 2001 | Dagon
+draugb_harbor   | film  | 2011 | Mermaids: The Body Found
+draugb_harbor   | film  | 2013 | Megalodon: The Monster Shark Lives
+draugb_harbor   | film  | 2017 | Cold Skin
+draugb_harbor   | film  | 2018 | The Meg
+draugb_harbor   | film  | 2019 | The Lighthouse
+draugb_harbor   | film  | 2020 | Underwater
+draugb_harbor   | game  | 2008 | Call of Duty: World at War
+draugb_harbor   | tv    | 2017 | Oats Studio - Volume 1 - Rakka
+---------------------------------------------------------------------------------------------
+PICK - DREAD CHECK CHAPTERS - DRAUGB 2 COLONY
+---------------------------------------------------------------------------------------------
+SETTING         | TYPE  | YEAR | TITLE
+----------------|-------|------|-------------------------------------------------------------
+draugb_colony   | film  | 2019 | Ad Astra
+---------------------------------------------------------------------------------------------
+PICK - DREAD CHECK CHAPTERS - DRAUGB 3 FRONTIER
+---------------------------------------------------------------------------------------------
+SETTING         | TYPE  | YEAR | TITLE
+----------------|-------|------|-------------------------------------------------------------
+draugb_frontier | anime | 1992 | FernGully: The Last Rainforest
+draugb_frontier | film  | 2002 | Dog Soldiers
+---------------------------------------------------------------------------------------------
+PICK - DREAD CHECK CHAPTERS - DRAUGB 4 WASTES
+---------------------------------------------------------------------------------------------
+SETTING         | TYPE  | YEAR | TITLE
+----------------|-------|------|-------------------------------------------------------------
+draugb_wastes   | film  | 2011 | Source Code
+---------------------------------------------------------------------------------------------
+PICK - DREAD CHECK CHAPTERS - DRAUGB 5 TOWER
+---------------------------------------------------------------------------------------------
+SETTING         | TYPE  | YEAR | TITLE
+----------------|-------|------|-------------------------------------------------------------
+draugb_tower    | anime | 2017 | BLAME!
+---------------------------------------------------------------------------------------------
+PICK - DREAD CHECK CHAPTERS - DRAUGB 6 DRAUGB
+---------------------------------------------------------------------------------------------
+SETTING         | TYPE  | YEAR | TITLE
+----------------|-------|------|-------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------
+PICK - DREAD CHECK CHAPTERS - HORSE WAR
+---------------------------------------------------------------------------------------------
+SETTING         | TYPE  | YEAR | TITLE
+----------------|-------|------|-------------------------------------------------------------
+horse_war       | anime | 1981 | Mobile Suit Gundam I
+horse_war       | anime | 1982 | Blue Gale Xabungle
+horse_war       | anime | 1989 | Five Star Stories
+horse_war       | anime | 1989 | Patlabor: The Movie
+horse_war       | anime | 1993 | Patlabor 2: The Movie
+horse_war       | anime | 2007 | Gurenn Lagann
+horse_war       | game  | 2000 | Ring of Red
+---------------------------------------------------------------------------------------------
+PICK - DREAD CHECK CHAPTERS - SWAT CITY
+---------------------------------------------------------------------------------------------
+SETTING         | TYPE  | YEAR | TITLE
+----------------|-------|------|-------------------------------------------------------------
+swat_city       | anime | 1989 | Patlabor: The Movie
+swat_city       | anime | 1993 | Patlabor 2: The Movie
+swat_city       | anime | 1998 | Serial Experiments Lain
+swat_city       | anime | 2004 | Ghost in the Shell 2: Innocence
+swat_city       | anime | 2005 | Mega Man Maverick Hunter X - The Day of Sigma
+swat_city       | anime | 2006 | A Scanner Darkly
+swat_city       | book  | 1977 | Ophiuchi Hotline
+swat_city       | film  | 1949 | The Third Man
+swat_city       | film  | 1985 | Brazil
+swat_city       | film  | 1991 | Terminator 2: Judgment Day
+swat_city       | film  | 1991 | Zëiram
+swat_city       | film  | 1994 | Zëiram 2
+swat_city       | film  | 1995 | Batman Forever
+swat_city       | film  | 1995 | Four Rooms
+swat_city       | film  | 1997 | Men in Black
+swat_city       | film  | 1999 | The Thirteenth Floor
+swat_city       | film  | 2002 | Men in Black II
+swat_city       | film  | 2002 | Minority Report
+swat_city       | film  | 2005 | Æon Flux
+swat_city       | film  | 2011 | The Raid
+swat_city       | film  | 2025 | Mickey 17
+swat_city       | game  | 2000 | Perfect Dark
+swat_city       | game  | 2014 | NaissanceE
+---------------------------------------------------------------------------------------------
+PICK - DREAD CHECK CHAPTERS - SWAT CITY - REPLOID FAUNA; APHIDS, BIRDS, DOGS, FISH
+---------------------------------------------------------------------------------------------
+swat_city       | game  | 1993 | Mega Man X
+---------------------------------------------------------------------------------------------
+PICK - DREAD CHECK CHAPTERS - SWAT CITY - ATMS, VENDING MACHINES, SECURITY SYSTEMS, ETC
+---------------------------------------------------------------------------------------------
+swat_city       | film  | 1990 | Total Recall
+swat_city       | film  | 1993 | Demolition Man
+---------------------------------------------------------------------------------------------
+PICK - DREAD CHECK CHAPTERS - SWAT CITY - CONCEPT - CRIME AND GANG VIOLENCE
+---------------------------------------------------------------------------------------------
+swat_city       | film  | 1995 | Heat
+swat_city       | game  | 2001 | Black Shades
+swat_city       | game  | 2009 | Black Shades iOS
+swat_city       | game  | 2010 | Kane & Lynch 2: Dog Days
+swat_city       | game  | 2012 | Sub Rosa
+swat_city       | game  | 2013 | Payday 2
+swat_city       | game  | 2025 | Skin Deep
+swat_city       | film  | 2001 | A.I. Artificial Intelligence
+swat_city       | film  | 1997 | Batman & Robin
+swat_city       | film  | 1984 | The Terminator
+swat_city       | film  | 1999 | The Matrix
+---------------------------------------------------------------------------------------------
+PICK - DREAD CHECK CHAPTERS - SWAT CITY - CONCEPT - CYBER IMPLANTS
+---------------------------------------------------------------------------------------------
+swat_city       | game  | 2005 | Project Snowblind
+swat_city       | game  | 2011 | E.Y.E: Divine Cybermancy
+---------------------------------------------------------------------------------------------
+PICK - DREAD CHECK CHAPTERS - SWAT CITY - CONCEPT - SENTIENCE JUICE
+---------------------------------------------------------------------------------------------
+swat_city       | anime | 1992 | FernGully: The Last Rainforest - Character - Hexxus
+swat_city       | game  | 2008 | Haze
+---------------------------------------------------------------------------------------------
+PICK - DREAD CHECK CHAPTERS - SWAR CITY - CONCEPT - SURVEILLANCE, PINKERS AND BUSTERS
+---------------------------------------------------------------------------------------------
+swat_city       | film  | 1993 | Demolition Man
+---------------------------------------------------------------------------------------------
+PICK - DREAD CHECK CHAPTERS - SWAT CITY - CONCEPT - WEAPONS
+---------------------------------------------------------------------------------------------
+swat_city       | anime | 2002 | Lilo & Stitch - Detail - Plasma Projectiles
+swat_city       | game  | 2000 | Perfect Dark - Detail - CMP-150 Smart Gun Autoaim
+swat_city       | life  | 2025 | Birmingham Fireworks Riot
+swat_city       | life  | 2025 | Styropyro's "World's Strongest Handheld Laser"
+---------------------------------------------------------------------------------------------
+PICK - DREAD CHECK CHAPTERS - SWAT CITY - CONCEPT - WASP COPTER COPBOT AND ICEPOL FLEET
+---------------------------------------------------------------------------------------------
+swat_city       | film  | 2013 | Oblivion
+swat_city       | tv    | 2003 | Ghost in the Shell Stand-Alone Complex - S2.E4 Natural Enemy
+swat_city       | game  | 1993 | Mega Man X - Enemy - Bee Blader
+swat_city       | anime | 1997 | G-Police - Trailer
+---------------------------------------------------------------------------------------------
+PICK - DREAD CHECK CHAPTERS - SWAT CITY - CONCEPT - DROID FACE
+---------------------------------------------------------------------------------------------
+swat_city       | anime | 2008 | WALL-E - Character - EVE
+swat_city       | film  | 2023 | Boy Kills World - Character - June 27
+swat_city       | toy   | 2016 | Cozmo the Robot
+swat_city       | tv    | 2017 | Dr. Who S10.E2 Smile - Character - Emojibot
+---------------------------------------------------------------------------------------------
+PICK - DREAD CHECK CHAPTERS - SWAT CITY - CONCEPT - ENGRAM JUICE CORPSE DROID ICEPOL HEAD
+---------------------------------------------------------------------------------------------
+swat_city       | game  | 2026 | Star Citizen 4.6 - Character - Azrael Helmet
+swat_city       | game  | 2015 | Kojima Productions Logo and Mascot "Ludens"
+swat_city       | life  | 1860 | Mary Magdalene's Skull and Golden Reliquary
+---------------------------------------------------------------------------------------------
+PICK - DREAD CHECK CHAPTERS - SWAT CITY - CONCEPT - TYPHON EVENT
+---------------------------------------------------------------------------------------------
+swat_city       | film  | 2007 | 28 Weeks Later
+---------------------------------------------------------------------------------------------
+PICK - DREAD CHECK CHAPTERS - SWAT CITY - LOCATION
+---------------------------------------------------------------------------------------------
+PICK - DREAD CHECK CHAPTERS - SWAT CITY - LOCATION - LIBRARY
+---------------------------------------------------------------------------------------------
+swat_city       | anime | 1994 | The Pagemaster - Scene - Library 1/2
+swat_city       | anime | 1994 | The Pagemaster - Scene - Library 2/2
+---------------------------------------------------------------------------------------------
+PICK - DREAD CHECK CHAPTERS - SWAT CITY - LOCATION - CITY
+---------------------------------------------------------------------------------------------
+swat_city       | anime | 1988 | Akira
+swat_city       | anime | 1992 | Batman (TV)
+swat_city       | anime | 1994 | Gargoyles (TV)
+swat_city       | anime | 1995 | Ghost in the Shell
+swat_city       | anime | 1999 | Batman Beyond
+swat_city       | film  | 1998 | Dark City
+swat_city       | film  | 2011 | Attack the Block
+swat_city       | life  | ---- | Architecture of Birmingham
+swat_city       | table | 1995 | Necromunda
+---------------------------------------------------------------------------------------------
+PICK - DREAD CHECK CHAPTERS - SWAT CITY - LOCATION - SEWER
+---------------------------------------------------------------------------------------------
+swat_city       | anime | 1999 | Jin-Roh: The Wolf Brigade
+---------------------------------------------------------------------------------------------
+PICK - DREAD CHECK SHORTIES
+---------------------------------------------------------------------------------------------
+PICK - DREAD CHECK SHORTIES - BLUE MONSOON
+---------------------------------------------------------------------------------------------
+SETTING         | TYPE  | YEAR | TITLE
+----------------|-------|------|-------------------------------------------------------------
+blue_monsoon    | film  | 1947 | Black Narcissus
+blue_monsoon    | film  | 1977 | Sorceror
+blue_monsoon    | film  | 2023 | Boy Kills World - Scene - Buddha head boulder training
+blue_monsoon    | game  | 2025 | Peak
+---------------------------------------------------------------------------------------------
+PICK - DREAD CHECK SHORTIES - RED CRY
+---------------------------------------------------------------------------------------------
+SETTING         | TYPE  | YEAR | TITLE
+----------------|-------|------|-------------------------------------------------------------
+red_cry         | anime | 1988 | The Land Before Time
+red_cry         | anime | 2015 | Gate
+red_cry         | anime | 2019 | Genndy Tartakovsky's Primal
+red_cry         | film  | 2001 | Cats & Dogs
+red_cry         | game  | 2001 | Red Alert 2 Yuri's Revenge - Mission - Soviet 1 "Time Shift"
+red_cry         | game  | 2008 | Turok (PS3)
+red_cry         | game  | 2010 | Metal Gear Solid Peace Walker - Mission - Rathalos Hunt
+red_cry         | game  | 2014 | Dark Souls 2 - Character - Sweet Shalquoir
+red_cry         | game  | 2016 | Far Cry: Primal
+red_cry         | game  | 2018 | Metal Gear Survive
+red_cry         | game  | 2018 | Monster Hunter World - Character - Felyne Chefs
+red_cry         | game  | 2025 | Deathground
+red_cry         | game  | 2026 | Jurassic Park: Survival
+---------------------------------------------------------------------------------------------
+PICK - DREAD CHECK SHORTIES - THREEFOLD PATH
+---------------------------------------------------------------------------------------------
+SETTING         | TYPE  | YEAR | TITLE
+----------------|-------|------|-------------------------------------------------------------
+threefold_path  | film  | 1998 | Ronin
+threefold_path  | game  | 2009 | Red Faction: Guerilla
+threefold_path  | game  | 2025 | Firehawk FPV
+---------------------------------------------------------------------------------------------
+PICK - SIMIR
+---------------------------------------------------------------------------------------------
+SETTING         | TYPE  | YEAR | TITLE
+----------------|-------|------|-------------------------------------------------------------
+simir           | anime | 2008 | WALL·E
+simir           | anime | 2023 | Scavengers Reign
+simir           | book  | 2011 | The Martian
+simir           | book  | 2021 | Project Hail Mary
+simir           | film  | 1968 | 2001: A Space Odyssey
+simir           | film  | 1981 | Outland
+simir           | film  | 1984 | 2010: The Year We Make Contact
+simir           | film  | 2000 | Mission to Mars
+simir           | film  | 2000 | Pitch Black
+simir           | film  | 2000 | Red Planet
+simir           | film  | 2009 | Moon
+simir           | film  | 2013 | Europa Report
+simir           | film  | 2013 | Gravity
+simir           | film  | 2013 | Oblivion
+simir           | film  | 2014 | Interstellar
+simir           | film  | 2016 | Kedi
+simir           | film  | 2017 | Blue Planet II
+simir           | film  | 2018 | The Meg
+simir           | film  | 2019 | Ad Astra
+simir           | film  | 2023 | Landscape with Invisible Hand
+simir           | game  | 2018 | Subnautica
+simir           | game  | 2019 | Outer Wilds
+simir           | game  | 2021 | Outer Wilds: Echoes of the Eye
+simir           | game  | 2023 | Mars First Logistics
+simir           | short | 2016 | Scavengers
+---------------------------------------------------------------------------------------------
+PICK - SIMIR - CONCEPT - ANOMALOUS HAZARD
+---------------------------------------------------------------------------------------------
+simir           | film  | 2018 | Annihilation
+---------------------------------------------------------------------------------------------
+PICK - SIMIR - CONCEPT - BIOLOGICAL HAZARD
+---------------------------------------------------------------------------------------------
+simir           | film  |      | Riddick - Creature - Cave Scorpion
+simir           | anime | 1988 | The Land Before Time
+simir           | film  | 2025 | Mickey 17
+simir           | film  | 2018 | Annihilation
+---------------------------------------------------------------------------------------------
+PICK - SIMIR - CONCEPT - GEOLOGICAL AND CLIMATOLOGICAL HAZARD
+---------------------------------------------------------------------------------------------
+simir           | anime | 1988 | The Land Before Time
+simir           | film  | 2025 | Mickey 17
+---------------------------------------------------------------------------------------------
+PICK - SIMIR - CONCEPT - TERRAIN AND VEHICLES
+---------------------------------------------------------------------------------------------
+simir           | game  | 1983 | Star Wars: Return of the Jedi - Vehicle - Desert Skiff
+simir           | game  | 2014 | Spintires
+simir           | game  | 2017 | MudRunner
+simir           | game  | 2021 | Subnautica: Below Zero
+simir           | game  | 2026 | Subnautica 2
+simir           | game  | 1996 | A-10 Cuba!
+---------------------------------------------------------------------------------------------
+PICK - TYRANT ENGINE
+---------------------------------------------------------------------------------------------
+SETTING         | TYPE  | YEAR | TITLE
+----------------|-------|------|-------------------------------------------------------------
+tyrant_engine   | anime | 1985 | The Black Cauldron
+tyrant_engine   | anime | 1988 | Oliver & Company
+tyrant_engine   | anime | 1989 | All Dogs Go to Heaven
+tyrant_engine   | anime | 1994 | Samurai Shodown: The Movie
+tyrant_engine   | anime | 1997 | Revolutionary Girl Utena
+tyrant_engine   | anime | 2001 | Claymore
+tyrant_engine   | anime | 2021 | Ranking of Kings
+tyrant_engine   | anime | 2023 | Gargoyles: Dark Ages
+tyrant_engine   | film  | 1981 | Excalibur
+tyrant_engine   | film  | 1986 | The Name of the Rose
+tyrant_engine   | film  | 1991 | Robin Hood: Prince of Thieves
+tyrant_engine   | film  | 1992 | Bram Stoker's Dracula
+tyrant_engine   | film  | 1993 | Homeward Bound: The Incredible Journey
+tyrant_engine   | film  | 1996 | Dragonheart
+tyrant_engine   | film  | 1998 | Babe: Pig in the City
+tyrant_engine   | film  | 2074 | Play for Today - Penda's Fen
+tyrant_engine   | game  | 1997 | Samurai Shodown RPG
+tyrant_engine   | game  | 1998 | Guantlet: Legends
+tyrant_engine   | game  | 2000 | Guantlet: Dark Legacy
+tyrant_engine   | game  | 2000 | Guantlet: Seven Sorrows
+tyrant_engine   | game  | 2004 | Wrath Unleashed
+tyrant_engine   | game  | 2008 | Kongai
+tyrant_engine   | game  | 2015 | Mordheim: City of the Damned
+tyrant_engine   | game  | 2019 | Samurai Shodown (2019)
+tyrant_engine   | table | 1475 | Chess
+tyrant_engine   | table | 1999 | Mordheim
+tyrant_engine   | game  | 2005 | Shadow the Hedgehog
+tyrant_engine   | game  | 2005 | Grow RPG
+tyrant_engine   | table | 2025 | Pilgrims of the Murk Dome
+tyrant_engine   | game  | 1983 | Archon: The Light and the Dark
+tyrant_engine   | game  | 1984 | Archon II: Adept
+tyrant_engine   | game  | 1994 | Archon Ultra
+tyrant_engine   | game  |      | Archon: Evolution
+tyrant_engine   | game  |      | Fire Emblem
+tyrant_engine   | game  |      | Fire Emblem : The Sacred Stones
+tyrant_engine   | game  | 2017 | For Honor
+tyrant_engine   | game  |      | Castlevania Aria of Sorrow
+tyrant_engine   | game  |      | Chaos Reborn
+tyrant_engine   | game  | 1994 | Dark Legions
+tyrant_engine   | game  | 1998 | The Unholy War
