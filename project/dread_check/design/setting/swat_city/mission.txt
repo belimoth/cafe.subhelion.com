@@ -1,14 +1,26 @@
 ------------------------------------------------------------------------------------------------------------------------------------
-MISSION - ICEPOL
+MISSION - FARMER
 ------------------------------------------------------------------------------------------------------------------------------------
 WHO              | WHERE                | NAME            | WHAT
 -----------------|----------------------|-----------------|-------------------------------------------------------------------------
 ICEPOL VS FARMER | STATION -> FARM      | HARVEST         | animal control tag and sedate escaped zoo animals for aphid drone pickup
 FARMER           | FARM                 | HERD            | recapture escaped animals before ICEPOL harvests them
 FARMER VS ITIZEN | FARM    -> RUINS     | WARKET          | --
-PINKER VS FARMER | STATION -> RUINS     | BUST_WARKET     | --
-BUSTER VS FARMER | STATION -> RUINS     | BUST_WARKET     | --
-ICEPOL VS FARMER | STATION -> RUINS     | BUST_WARKET     | --
+PINKER VS FARMER | STATION -> RUINS     | BUST_WARKET     | track farmers and vegetables to locate warket
+BUSTER VS FARMER | STATION -> RUINS     | BUST_WARKET     | break up warket
+ICEPOL VS FARMER | STATION -> RUINS     | BUST_WARKET     | eliminate warket resistance
+----------------------------------------------------------------------------------------------------------------------------------
+NOTE - HARVEST
+----------------------------------------------------------------------------------------------------------------------------------
+- some animals are dangerous and have to be sedated or they will attack aphids
+- some animals are large and require more than one aphid to airlift
+- aphids are a limited resource that can be tied up and dead locked
+- farmer nps with shotguns will shoot officers and drones
+- status can be one of:
+- - already happened before election week; farm is empty and some animals are still loose and undetected
+- - happens during election week due to system malfunction
+- - happens during election week due to scheduled system sabotage (jurassic park)
+- - doesn't happen during election week but can be triggered by a player gang to distract ICEPOL
 ------------------------------------------------------------------------------------------------------------------------------------
 MISSION - ITIZEN
 ------------------------------------------------------------------------------------------------------------------------------------
@@ -26,15 +38,3 @@ IROYAL VS ITIZEN | RUINS  -> CONVENTION | RAVE_CONVENTION | --
 IROYAL VS LILITH | --                   | RAVE_BLOOD      | --
 IROYAL VS GOVPOL | --                   | RAVE_ELECTION   | --
 IROYAL VS IROYAL | --                   | RAVE_MASQUERADE | --
-----------------------------------------------------------------------------------------------------------------------------------
-NOTE - HARVEST
-----------------------------------------------------------------------------------------------------------------------------------
-- some animals are dangerous and have to be sedated or they will attack aphids
-- some animals are large and require more than one aphid to airlift
-- aphids are a limited resource that can be tied up and dead locked
-- farmer nps with shotguns will shoot officers and drones
-- status can be one of:
-- - already happened before election week; farm is empty and some animals are still loose and undetected
-- - happens during election week due to system malfunction
-- - happens during election week due to scheduled system sabotage (jurassic park)
-- - doesn't happen during election week but can be triggered by a player gang to distract ICEPOL
