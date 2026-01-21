@@ -1,0 +1,67 @@
+-----------------------------------------------------------------------------------------------
+ASK - A
+-----------------------------------------------------------------------------------------------
+VOTE | BEHEMOTH          | PARTNERS | ----- | ALIEN HOMINID         | --          | --
+VOTE | BEHEMOTH          | PARTNERS | ----- | BATTLEBLOCK THEATER   | --          | --
+VOTE | BEHEMOTH          | PARTNERS | ----- | CASTLE CRASHERS       | --          | --
+VOTE | BEHEMOTH          | PARTNERS | ----- | PIT PEOPLE            | --          | --
+VOTE | DENNATON          | PARTNERS | ----- | HOTLINE MIAMI         | --          | --
+VOTE | DODGEROLL         | PARTNERS | ----- | ENTER THE GUNGEON     | --          | --
+VOTE | SUBSET            | PARTNERS | ----- | FASTER THAN LIGHT     | --          | --
+VOTE | SUBSET            | PARTNERS | ----- | INTO THE BREACH       | --          | --
+VOTE | VLAMBEER          | PARTNERS | ----- | GUN GODZ              | --          | --
+VOTE | VLAMBEER          | PARTNERS | ----- | LUFTRAUSERS           | --          | --
+VOTE | VLAMBEER          | PARTNERS | ----- | NUCLEAR THRONE        | --          | --
+VOTE | VLAMBEER          | PARTNERS | ----- | RIDICULOUS FISHING    | --          | --
+VOTE | VLAMBEER          | PARTNERS | ----- | SUPER CRATE BOX       | --          | --
+VOTE | VLAMBEER          | PARTNERS | ----- | ULTRABUGS             | --          | --
+-----------------------------------------------------------------------------------------------
+ASK - AA
+-----------------------------------------------------------------------------------------------
+VOTE | DIGITAL EXTREMES  | PARTNERS | ----- | DARK SECTOR           | --          | --
+VOTE | DIGITAL EXTREMES  | PARTNERS | ----- | WARFRAME              | --          | --
+VOTE | GHOST SHIP        | PARTNERS | ----- | DEEP ROCK GALACTIC    | --          | --
+VOTE | GIANT SQUID       | PARTNERS | ----- | ABZÛ                  | --          | --
+VOTE | GIANT SQUID       | PARTNERS | ----- | SWORD OF THE SEA      | --          | --
+VOTE | GIANT SQUID       | PARTNERS | ----- | THE PATHLESS          | --          | --
+VOTE | HELLO GAMES       | PARTNERS | ----- | LIGHT NO FIRE         | --          | --
+VOTE | HELLO GAMES       | PARTNERS | ----- | NO MAN'S SKY          | --          | --
+VOTE | SANDLOT           | PARTNERS | ----- | ROBOT ALCHEMIC DRIVE  | --          | --
+VOTE | THAT GAME COMPANY | PARTNERS | ----- | JOURNEY               | --          | --
+VOTE | THAT GAME COMPANY | PARTNERS | ----- | SKY                   | --          | --
+VOTE | UNKNOWN WORLDS    | PARTNERS | ----- | SUBNAUTICA            | --          | --
+VOTE | UNKNOWN WORLDS    | PARTNERS | ----- | SUBNAUTICA 2          | --          | --
+VOTE | UNKNOWN WORLDS    | PARTNERS | ----- | SUBNAUTICA BELOW ZERO | --          | --
+-----------------------------------------------------------------------------------------------
+ASK - AAA
+-----------------------------------------------------------------------------------------------
+VOTE | CREATIVE ASSEMBLY | PARTNERS | ----- | ALIEN ISOLATION       | --          | --
+VOTE | ID/ION/ROMERO     |
+-----------------------------------------------------------------------------------------------
+ASK - ROSEMARY
+-----------------------------------------------------------------------------------------------
+ASK  | ROSEMARY          | SHORTIES | ----- | GUN SHY               | TEGIMINIS   | --
+ASK  | --                | CHAPTERS | ----- | ACCIDENTAL DISCHARGE  | TEGIMINIS   | --
+ASK  | VICAR AMELIA      | CHAPTERS | ----- | VEAR                  | TEGIMINIS   | --
+ASK  | --                | CHAPTERS | ----- | FIRST PERSON SHOE     | JOSEPH S    | --
+ASK  | --                | CHAPTERS | XXXXX | DEAD HAND             | SCUT        | --
+-----------------------------------------------------------------------------------------------
+ASK - YES
+-----------------------------------------------------------------------------------------------
+ASK  | LABEL             | TEAM     | ERA   | CAMPAIGN              | DIRECTOR    | NOTE
+-----|-------------------|----------|-------|-----------------------|-------------|------------
+YES  | SUBHELION         | CHAPTERS |  19XX | DRAUGB - HARBOR       | BELIMOTH    | --
+YES  | SUBHELION         | CHAPTERS |  19XX | HOWLING COMMANDOS     | JOSEPH S    | --
+YES  | SUBHELION         | CHAPTERS |  20XX | DRAUGB - PROLOGUE     | BELIMOTH    | --
+YES  | SUBHELION         | CHAPTERS |  21XX | ALIEN INTEL           | BELIMOTH    | --
+YES  | SUBHELION         | CHAPTERS |  21XX | DRAUGB - COLONY       | BELIMOTH    | --
+YES  | SUBHELION         | CHAPTERS |  21XX | HORSE WAR             | BELIMOTH    | --
+YES  | SUBHELION         | CHAPTERS |  2XXX | COLD HAUL BUFFALO     | CAPNTASTIC  | --
+YES  | SUBHELION         | CHAPTERS |  2XXX | SWAT CITY             | BELIMOTH    | --
+YES  | SUBHELION         | CHAPTERS | 2XXXX | DRAUGB - FRONTIER     | BELIMOTH    | --
+YES  | SUBHELION         | CHAPTERS | XXXXX | DRAUGB - DRAUGB       | BELIMOTH    | --
+YES  | SUBHELION         | CHAPTERS | XXXXX | DRAUGB - TOWER        | BELIMOTH    | --
+YES  | SUBHELION         | CHAPTERS | XXXXX | DRAUGB - WASTES       | BELIMOTH    | --
+YES  | SUBHELION         | SHORTIES |  1XXX | BLUE MONSOON          | MITHRAEA    | --
+YES  | SUBHELION         | SHORTIES |  21XX | THREEFOLD PATH        | SGTDOGWATER | --
+YES  | SUBHELION         | SHORTIES | 0XXXX | RED CRY               | TEGIMINIS   | --

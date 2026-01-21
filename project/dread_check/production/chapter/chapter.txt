@@ -1,0 +1,57 @@
+---------------------------------------------------------------------------------
+CHAPTER - FICTION
+---------------------------------------------------------------------------------
+FOLDER  | GENRE     | MODE       | YEAR  | CHAPTER             | DIRECTOR    | --
+--------|-----------|------------|-------|---------------------|-------------|---
+FICTION | ADVENTURE | CAMPAIGN   | 0XXXX | DRAUGB - 6 DRAUGB   | BELIMOTH    | --
+FICTION | ADVENTURE | CAMPAIGN   |  19XX | DRAUGB - 1 HARBOR   | BELIMOTH    | --
+FICTION | ADVENTURE | CAMPAIGN   |  20XX | DRAUGB - 0 PROLOGUE | BELIMOTH    | --
+FICTION | ADVENTURE | CAMPAIGN   |  21XX | DRAUGB - 2 COLONY   | BELIMOTH    | --
+FICTION | ADVENTURE | CAMPAIGN   |  2XXX | DRAUGB - 3 FRONTIER | BELIMOTH    | --
+FICTION | ADVENTURE | CAMPAIGN   |  4XXX | DRAUGB - 4 WASTES   | BELIMOTH    | --
+FICTION | ADVENTURE | CAMPAIGN   | XXXXX | DRAUGB - 5 TOWER    | BELIMOTH    | --
+--------|-----------|------------|-------|---------------------|-------------|---
+FICTION | ADVENTURE | SURVIVAL   | 0XXXX | GATE QUAKE 0        | BELIMOTH    | --
+FICTION | ADVENTURE | SURVIVAL   |  19XX | GATE QUAKE          | BELIMOTH    | --
+FICTION | ADVENTURE | SURVIVAL   |  4XXX | GATE QUAKE X        | BELIMOTH    | --
+--------|-----------|------------|-------|---------------------|-------------|---
+FICTION | ADVENTURE | MYSTERY    |  1XXX | BLOOD FLUSH 1000    | BELIMOTH    | --
+FICTION | ADVENTURE | MYSTERY    |  19XX | BLOOD FLUSH 1900    | BELIMOTH    | --
+FICTION | ADVENTURE | MYSTERY    |  20XX | BLOOD FLUSH         | BELIMOTH    | --
+FICTION | ADVENTURE | MYSTERY    |  2XXX | BLOOD FLUSH X       | BELIMOTH    | --
+--------|-----------|------------|-------|---------------------|-------------|---
+FICTION | ADVENTURE | MYSTERY    |  19XX | ALIEN INTEL CLASSIC | JOSEPH S    | --
+FICTION | ADVENTURE | MYSTERY    |  21XX | ALIEN INTEL         | JOSEPH S    | --
+FICTION | ADVENTURE | MYSTERY    |  3XXX | ALIEN INTEL X       | BELIMOTH    | --
+--------|-----------|------------|-------|---------------------|-------------|---
+FICTION | ACTION    | STRATEGY   |  19XX | HORSE WAR 0         | BELIMOTH    | --
+FICTION | ACTION    | STRATEGY   |  21XX | HORSE WAR           | BELIMOTH    | --
+FICTION | ACTION    | STRATEGY   |  3XXX | HORSE WAR X         | BELIMOTH    | --
+FICTION | ACTION    | STRATEGY   |  4XXX | COLD HAUL BUFFALO   | BELIMOTH    | --
+--------|-----------|------------|-------|---------------------|-------------|---
+FICTION | ADVENTURE | STRATEGY   |  0XXX | UNTITLED 0XXX       | --          | --
+FICTION | ADVENTURE | STRATEGY   |  1XXX | UNTITLED 1XXX       | --          | --
+FICTION | ACTION    | MYSTERY    |  19XX | BLUE MONSOON        | MITHRAEA    | --
+FICTION | ADVENTURE | STRATEGY   |  19XX | HOWLING COMMANDOS   | JOSEPH S    | --
+FICTION | ADVENTURE | STRATEGY   |  20XX | HOWLING COMMANDOS 2 | JOSEPH S    | --
+--------|-----------|------------|-------|---------------------|-------------|---
+FICTION | ADVENTURE | STRATEGY   | 0XXXX | RED CRY A           | TEGIMINIS   | --
+FICTION | ADVENTURE | SURVIVAL   |  20XX | THREEFOLD PATH      | SGTDOGWATER | --
+FICTION | ADVENTURE | SURVIVAL   |  21XX | SWAT CITY           | BELIMOTH    | --
+FICTION | ADVENTURE | SURVIVAL   |  2XXX | SWAT CITY X         | BELIMOTH    | --
+FICTION | ADVENTURE | STRATEGY   |  21XX | RED CRY B           | TEGIMINIS   | --
+--------------------|------------|-----------------------------------------------
+FICTION | ADVENTURE | --         |  20XX | PRIMITIVE STREAK    | CAPNTASTIC  | --
+FICTION | ADVENTURE | ANIMAL     |  21XX | CONCRETE JUNGLE     | BELIMOTH    | --
+FICTION | ADVENTURE | ANIMAL     |  3XXX | CONCRETE JUNGLE X   | BELIMOTH    | --
+---------------------------------------------------------------------------------
+CHAPTER - HISTORY
+---------------------------------------------------------------------------------
+FOLDER  | GENRE     | MODE       | YEAR  | CHAPTER             | DIRECTOR    | --
+--------|-----------|------------|-------|---------------------|-------------|---
+HISTORY | --        | --         |  1600 | SANTORINI           | BELIMOTH    | --
+HISTORY | --        | --         |  1914 | SARAJEVO            | BELIMOTH    | --
+HISTORY | --        | --         |  1986 | PRIPYAT             | BELIMOTH    | --
+HISTORY | --        | --         |  2001 | NEW YORK CITY       | BELIMOTH    | --
+HISTORY | --        | --         |  2011 | FUKUSHIMA           | BELIMOTH    | --
+HISTORY | --        | --         |  2021 | SUEZ                | BELIMOTH    | --
