@@ -1,12 +1,104 @@
-YEAR | KEY          | NAME
------|--------------|------------------------------------------------------------
-1902 | 9mm_luger    | 9×19mm Parabellum; 9mm Parabellum; 9mm Luger; 9mm NATO; 9mm
-1903 | 8mm_mauser   | 7.92×57mm Mauser; 8mm Mauser
-1951 | 9mm_makarov  | 9×18mm Makarov
-1954 | 762_nato     | 7.62×51mm NATO; 762 NATO
-1967 | 30_29mm_ru   | 30mm Plamya Grenade
-1975 | 566_39mm_mps | --
-1980 | 556_nato     | 5.56×45mm NATO; 556 NATO
-2007 | 650_25mm_cbj | 6.5×25mm CBJ
-2009 | 300_blackout | .300 Blackout
-1980 | 9x39mm       | 9x39mm
+TYPE   | YEAR | KEY           | NAME
+-------|------|---------------|----------------------------------------------------------------
+       | 1902 | 9mm_luger     | 9×19mm Parabellum; 9mm Parabellum; 9mm Luger; 9mm NATO; 9mm
+       | 1903 | 8mm_mauser    | 7.92×57mm Mauser; 8mm Mauser
+       | 1951 | 9mm_makarov   | 9×18mm Makarov
+       | 1954 | 762_nato      | 7.62×51mm NATO; 762 NATO
+       | 1967 | 30_29mm_ru    | 30mm Plamya Grenade
+       | 1975 | 566_39mm_mps  | --
+       | 1980 | 556_nato      | 5.56×45mm NATO; 556 NATO
+       | 2007 | 650_25mm_cbj  | 6.5×25mm CBJ
+       | 2009 | 300_blackout  | .300 Blackout
+       | 1980 | 9x39mm        | 9x39mm
+-----------------------------------------------------------------------------------------------
+TYPE   | YEAR | KEY           | NAME
+-------|------|---------------|----------------------------------------------------------------
+HMG    | 1918 | 132mm_tuF     | 13.2×92mmSR; 13.2mm Mauser TuF "Tank und Flieger"
+Cowboy | 1882 | 32_wcf        | 7.94x33mmR; .32-20 Winchester; .32 WCF "Winchester Center Fire"
+       |      | 25_40mm       | 25×40mm XM25 Grenade (low-velocity)
+       |      | 25mm_ocsw     | 25×59mm OCSW Grenade (high-velocity)
+       |      | 20mm          |
+       |      | 22_lr         |
+       |      | 22_wmr        |
+       |      | 25_acp        |
+       |      | 280_british   |
+       |      | 30_06         |
+       |      | 30_29mm_ru    |
+       |      | 30_40_krag    |
+       |      | 30_luger      |
+       |      | 300_blackout  |
+       |      | 303_british   |
+       |      | 308_win       |
+       |      | 32_acp        |
+       |      | 327_federal   |
+       |      | 357_magnum    |
+       |      | 38_40         |
+       |      | 38_40_wcf     |
+       |      | 38_auto       |
+       |      | 38_lc         |
+       |      | 380_acp       |
+       |      | 40_sw         |
+       |      | 40mm          |
+       |      | 41_lc         |
+       |      | 410_bore      |
+       |      | 422_enfield   |
+       |      | 44_40         |
+       |      | 44_40_wcf     |
+       |      | 44_russian    |
+       |      | 44_special    |
+       |      | 45_acp        |
+       |      | 45_colt       |
+       |      | 450_boxer     |
+       |      | 455_webley    |
+       |      | 46_30mm       |
+       |      | 46_40mm_ap    |
+       |      | 473_33mm_g11  |
+       |      | 476_eley      |
+       |      | 476_enfield   |
+       |      | 50_bmg        |
+       |      | 52_68mm       |
+       |      | 545_russian   |
+       |      | 556_nato      |
+       |      | 566_39mm_mps  |
+       |      | 57_28mm       |
+       |      | 6_5mm_swede   |
+       |      | 65_48mm       |
+       |      | 65_535mm_r    |
+       |      | 65_arisaka    |
+       |      | 65_swedish    |
+       |      | 650_25mm_cbj  |
+       |      | 6mm_navy      |
+       |      | 75_french     |
+       |      | 75_swiss      |
+       |      | 762_54mm_r    |
+       |      | 762_nagant    |
+       |      | 762_nato      |
+       |      | 762_russian   |
+       |      | 762_tokarev   |
+       |      | 763_mauser    |
+       |      | 765_borchardt |
+       |      | 77_arisaka    |
+       |      | 792_mauser    |
+       |      | 7mm_mauser    |
+       |      | 7mm_nambu     |
+       |      | 8mm_lebel     |
+       |      | 8mm_mauser    |
+       |      | 8mm_nambu     |
+       |      | 8mm_roth      |
+       |      | 9_39mm        |
+       |      | 9mm           |
+       |      | 9mm_7h21      |
+       |      | 9mm_bl        |
+       |      | 9mm_bl        |
+       |      | 9mm_largo     |
+       |      | 9mm_makarov   |
+       |      | 9mm_steyr     |
+       |      | 9mm_ultra     |
+       |      | patrone_88    |
+Pistol | 1879 | 106_25mm_3_r  | 10.6×25mmR German Ordnance; 10.6mm Reichs; 10.55mm German
+Pistol | 1983 | 10mm_auto     | 10mm Auto
+Rifle  | 1871 | 11mm_mauser   | 11×60mmR Mauser; 11mm Mauser
+Rifle  | 1874 | 11mm_gras     | 11×59mmR Gras; 11mm Vickers
+Rifle  | 1876 | 11mm_murata   | 11x60mmR Murata
+Rifle  | 1881 | 1015_63mm     | 10.15×61mmR
+Shot   | 1866 | 12_gauge      | 12 gauge shotshell
