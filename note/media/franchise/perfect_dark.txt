@@ -3,9 +3,9 @@ https://en.wikipedia.org/wiki/List_of_Perfect_Dark_media
 -----------------------------------------------------------------------------------------------------------------------------
 TYPE  | YEAR | TITLE                                 | LINK
 ------|------|---------------------------------------|-----------------------------------------------------------------------
-comic | 2000 | Perfect Dark: Graduation Day          | --
-comic | 2000 | Perfect Dark: Hunting Season          | --
-comic | 2005 | Perfect Dark: Hong Kong Sunrise       | --
+book  | 2000 | Perfect Dark: Graduation Day          | --
+book  | 2000 | Perfect Dark: Hunting Season          | --
+book  | 2005 | Perfect Dark: Hong Kong Sunrise       | --
 comic | 2007 | Perfect Dark: Janus' Tears            | --
 film  | 2005 | Perfect Dark: Initial Vector          | --
 film  | 2007 | Perfect Dark: Second Front            | --
@@ -14,5 +14,6 @@ game  | 2000 | Perfect Dark                          | --
 game  | 2000 | Perfect Dark                          | https://en.wikipedia.org/wiki/Perfect_Dark_(Game_Boy_Color_video_game)
 game  | 2001 | Velvet Dark (Cancelled)               | --
 game  | 2005 | Perfect Dark Zero                     | https://en.wikipedia.org/wiki/Perfect_Dark_Zero
+game  | 2005 | Perfect Dark Core (Cancelled)         | --
 game  | 2010 | Perfect Dark (2010)                   | https://en.wikipedia.org/wiki/Perfect_Dark_(2010_video_game)
-game  | 2025 | Perfect Dark Initiatice (Cancelled)   | --
+game  | 2025 | Perfect Dark Initiative (Cancelled)   | --
