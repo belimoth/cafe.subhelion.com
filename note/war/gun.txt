@@ -1,0 +1,104 @@
+-------------------------------------------------------------------------------------------------------------------------------------
+http://en.wikipedia.org/wiki/List_of_firearms
+-------------------------------------------------------------------------------------------------------------------------------------
+PATH                                                         | TITLE
+-------------------------------------------------------------|-----------------------------------------------------------------------
+gun/gun-by-caliber                                           | Guns by caliber
+gun/gun-by-caliber/177-bore                                  | .177; 4.5mm
+gun/gun-by-caliber/22-bore                                   | .22 caliber; 5.6mm
+gun/gun-by-caliber/22-bore/0-22-rimfire                      | .22 caliber rimfire
+gun/gun-by-manufacturer                                      | Guns by manufacturer
+gun/gun-by-service                                           | Guns by service
+gun/gun-by-caliber/22-bore/0-22-rimfire/22-short             | .22 Short (Revolver)
+gun/gun-by-caliber/22-bore/0-22-rimfire/22-long              | .22 Long (Revolver)
+gun/gun-by-caliber/22-bore/0-22-rimfire/22-long-rifle        | .22 Long Rifle (LR) (Revolver)
+gun/gun-by-caliber/22-bore/0-22-rimfire/22-wrf               | .22 Winchester Rimfire (WRF) / .22 Remington Special (Revolver)
+gun/gun-by-caliber/22-bore/0-22-rimfire/22-wmr               | .22 Winchester Magnum Rimfire (WMR) (Revolver)
+-------------------------------------------------------------------------------------------------------------------------------------
+# Bullet diameter  .222 in (5.6 mm)
+# Case type        Rimmed, straight
+# Neck diameter    .226 in (5.7 mm)
+# Base diameter    .226 in (5.7 mm)
+# Rim diameter     .278 in (7.1 mm)
+# Rim thickness    .043 in (1.1 mm)
+# Case length      .421 in (10.7 mm)
+# Overall length   .695 in (17.7 mm)
+# Rifling twist    1-20" or 1-24"
+# Primer type      Rimfire
+# Maximum pressure 21,000 psi (140 MPa)
+-------------------------------------------------------------------------------------------------------------------------------------
+gun/gun-by-caliber/22-bore/1-22-centerfire                   | .22 caliber centerfire
+gun/gun-by-caliber/22-bore/1-22-centerfire/556               | --
+-------------------------------------------------------------------------------------------------------------------------------------
+PATH                                                         | TITLE
+-------------------------------------------------------------|-----------------------------------------------------------------------
+gun/gun-by-format                                            | Guns by format
+gun/gun-by-format/hand-gun                                   | Hand gun
+gun/gun-by-format/hand-gun/pistol                            | Pistol
+gun/gun-by-format/hand-gun/pistol/machine-pistol             | Machine pistol
+gun/gun-by-format/hand-gun/revolver                          | Revolver
+gun/gun-by-format/long-gun                                   | Long gun
+gun/gun-by-format/long-gun/0-rifle                           | Rifle
+gun/gun-by-format/long-gun/0-rifle/auto-rifle                | Automatic rifle
+gun/gun-by-format/long-gun/0-rifle/auto-rifle/assault-rifle  | Assault rifle
+gun/gun-by-format/long-gun/0-rifle/auto-rifle/battle-rifle   | Battle rifle
+gun/gun-by-format/long-gun/0-rifle/auto-rifle/machine-rifle  | Machine rifle
+gun/gun-by-format/long-gun/0-rifle/carbine                   | Carbine
+gun/gun-by-format/long-gun/0-rifle/carbine/pcc               | Pistol-caliber carbine (PCC)
+gun/gun-by-format/long-gun/0-rifle/carbine/sbr               | Short-barreled rifle (SBR)
+gun/gun-by-format/long-gun/0-rifle/carbine/smg               | Submachine gun (SMG), machine carbine
+gun/gun-by-format/long-gun/0-rifle/carbine/smg/pdw           | Personal defense weapon (PDW)
+gun/gun-by-format/long-gun/0-rifle/sniper-rifle              | Sniper rifle
+gun/gun-by-format/long-gun/0-rifle/sniper-rifle/amr          | Anti-materiel rifle (AMR)
+gun/gun-by-format/long-gun/0-rifle/sniper-rifle/dmr          | Dedicated marksman rifle (DMR)
+gun/gun-by-format/long-gun/1-shotgun                         | Shotgun
+gun/gun-by-format/long-gun/2-mg                              | Machine gun (MG)
+gun/gun-by-format/long-gun/2-mg/lmg                          | Light machine gun (LMG)
+gun/gun-by-format/long-gun/2-mg/lmg/gpmg                     | General-purpose machine gun (GPMG)
+gun/gun-by-format/long-gun/2-mg/lmg/saw                      | Squad automatic weapon (SAW)
+gun/gun-by-format/long-gun/2-mg/hmg                          | Heavy machine gun (HMG)
+gun/gun-by-format/long-gun/2-mg/hmg/mmg                      | Medium machine gun (MMG)
+-------------------------------------------------------------------------------------------------------------------------------------
+# http://www.browning.com/support/date-your-firearm.html
+# http://www.browning.com/support/owners-manuals.html
+-------------------------------------------------------------------------------------------------------------------------------------
+PATH                                                         | TITLE
+-------------------------------------------------------------|-----------------------------------------------------------------------
+gun/gun-by-manufacturer/beretta                              | Beretta
+gun/gun-by-manufacturer/browning                             | Browning
+gun/gun-by-manufacturer/colt                                 | Colt
+gun/gun-by-manufacturer/fn                                   | Fabrique Nationale (FN)
+gun/gun-by-manufacturer/glock                                | Glock
+gun/gun-by-manufacturer/hk                                   | Heckler & Koch (HK)
+gun/gun-by-manufacturer/kalashnikov                          | Kalashnikov
+gun/gun-by-manufacturer/mauser                               | Mauser
+gun/gun-by-manufacturer/mossberg                             | Mossberg
+gun/gun-by-manufacturer/norinco                              | Norinco
+gun/gun-by-manufacturer/remington                            | Remington
+gun/gun-by-manufacturer/ruger                                | Ruger
+gun/gun-by-manufacturer/sig-sauer                            | Sig Sauer
+gun/gun-by-manufacturer/springfield                          | Springfield
+gun/gun-by-manufacturer/steyr                                | Steyr
+gun/gun-by-manufacturer/sw                                   | Smith & Wesson (SW)
+gun/gun-by-manufacturer/walther                              | Walther
+-------------------------------------------------------------------------------------------------------------------------------------
+PATH                                                         | TITLE
+-------------------------------------------------------------|-----------------------------------------------------------------------
+gun-by-service/de                                            | Germany
+gun-by-service/fr                                            | France
+gun-by-service/uk                                            | United Kingdom
+gun-by-service/ru                                            | Russia
+gun/gun-by-service/us/us-dod                                 | United States (US)
+gun/gun-by-service/us/us-dod                                 | United States Department of Defense (DOD); United States Armed Forces
+gun/gun-by-service/us/us-dod/us-da                           | United States Department of the Army (DA)
+gun/gun-by-service/us/us-dod/us-da/us-army                   | United States Army (USA) [1775 --]
+gun/gun-by-service/us/us-dod/us-da/us-army/us-cavalry        | Cavalry Branch [1775 -- 1950]
+gun/gun-by-service/us/us-dod/us-da/us-army/us-infantry       | Infantry Branch
+gun/gun-by-service/us/us-dod/us-daf                          | Department of the Air Force (DAF)
+gun/gun-by-service/us/us-dod/us-daf/us-usaf                  | United States Air Force (USAF) [1947 --]
+gun/gun-by-service/us/us-dod/us-daf/us-ussf                  | United States Space Force (USSF) [2019 --]
+gun/gun-by-service/us/us-dod/us-don                          | Department of the Navy (DON)
+gun/gun-by-service/us/us-dod/us-usn                          | United States Navy (USN)
+gun/gun-by-service/us/us-dod/us-usmc                         | United States Marine Corps (USMC)
+gun/gun-by-service/us/us-dod/us-uscg                         | United States Coast Guard (USCG)
+gun/gun-by-service/us/us-doe                                 | United States Department of Energy (DOE)
