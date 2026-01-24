@@ -1,0 +1,29 @@
+LIFE          | KEY                  | LINK
+--------------|----------------------|----------------------------------------------------------------------------------------------------
+1933 --       | jay_matternes        | http://web.archive.org/web/20231116040059/http://www.jay-matternes.com
+1947 --       | mark_hallett         | http://hallettpaleoart.com
+1949 --       | douglas_henderson    | http://douglashendersonehi.com
+1954 --       | gregory_paul         | http://gspauldino.com/index.html
+1954 --       | ray_troll            | http://www.trollart.com
+1957 --       | peter_schouten       | http://web.archive.org/web/20211225224656/http://www.studioschouten.com.au
+1958 --       | james_gurney         | http://jamesgurney.com
+1960 -- 2024  | michael_trcic        | http://www.trcicstudio.com
+1961 --       | mauricio_anton       | http://mauricioanton.wordpress.com
+1968 --       | velizar_simeonovski  | http://wildnatureart.net/about
+1975 --       | robert_nicholls      | http://paleocreations.com
+1980 --       | andrey_atuchin       | http://dinoart1.narod.ru
+---- --       | cm_koseman           | http://cmkosemen.com
+---- --       | danielle_dufault     | http://www.ddufault.com
+---- --       | david_krentz         | http://web.archive.org/web/20190729145209/http://www.davidkrentz.com/davidkrentz/David_Krentz.html
+---- --       | davide_bonadonna     | http://www.davidebonadonna.it
+---- --       | john_conway          | http://johnconway.art
+---- --       | john_sibbick         | http://www.johnsibbick.com
+---- --       | julius_csotonyi      | http://www.csotonyi.com
+---- --       | karen_carr           | http://www.karencarr.com
+---- --       | mark_whitton         | http://www.markwitton.co.uk
+---- --       | michael_skrepnick    | http://www.dinosaursinart.com
+---- --       | nellie_pease         | http://gondwanarama.com
+---- --       | nobu_tamura          | http://spinops.blogspot.com
+---- --       | raul_martin          | http://www.raulmartin-paleoart.com
+---- --       | todd_marshall        | http://marshalls-art.com
+---- --       | wayne_barlowe        | http://waynebarlowe.com

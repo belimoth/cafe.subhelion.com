@@ -1,0 +1,35 @@
+LIFE         | KEY                 | LINK
+-------------|---------------------|-----------------------------------------------------
+1858 -- 1935 | heinrich_harder     | http://en.wikipedia.org/wiki/Heinrich_Harder
+1859 -- 1946 | gerhard_heilmann    | http://en.wikipedia.org/wiki/Gerhard_Heilmann
+1874 -- 1953 | charles_r_knight    | http://en.wikipedia.org/wiki/Charles_R._Knight
+1905 -- 1981 | zdenek_burian       | http://en.wikipedia.org/wiki/Zdeněk_Burian
+1919 -- 1995 | rudolf_zallinger    | http://en.wikipedia.org/wiki/Rudolph_Zallinger
+1924 -- 2014 | eleanor_kish        | http://en.wikipedia.org/wiki/Eleanor_Kish
+1933 --      | jay_matternes       | http://en.wikipedia.org/wiki/Jay_Matternes
+1945 --      | robert_bakker       | http://en.wikipedia.org/wiki/Robert_T._Bakker
+1947 --      | mark_hallett        | http://en.wikipedia.org/wiki/Mark_Hallett_(artist)
+1949 --      | douglas_henderson   | http://en.wikipedia.org/wiki/Doug_Henderson_(artist)
+1949 --      | william_stout       | http://en.wikipedia.org/wiki/William_Stout
+1951 -- 2015 | stephen_czerkas     | http://en.wikipedia.org/wiki/Stephen_A._Czerkas
+1954 --      | gregory_paul        | http://en.wikipedia.org/wiki/Gregory_S._Paul
+1954 --      | ray_troll           | http://en.wikipedia.org/wiki/Ray_Troll
+1955 --      | luis_rey            | http://en.wikipedia.org/wiki/Luis_Rey
+1957 --      | peter_schouten      | http://en.wikipedia.org/wiki/Peter_Schouten
+1960 -- 2024 | michael_trcic       | http://en.wikipedia.org/wiki/Michael_Trcic
+1961 --      | mauricio_anton      | http://en.wikipedia.org/wiki/Mauricio_Antón
+1968 --      | velizar_simeonovski | http://en.wikipedia.org/wiki/Velizar_Simeonovski
+1980 --      | andrey_atuchin      | http://en.wikipedia.org/wiki/Andrey_Atuchin
+-------------|---------------------|-----------------------------------------------------
+---- --      | danielle_dufault    | http://en.wikipedia.org/wiki/Danielle_Dufault
+---- --      | david_krentz        | http://en.wikipedia.org/wiki/David_Krentz
+---- --      | davide_bonadonna    | http://en.wikipedia.org/wiki/Davide_Bonadonna
+---- --      | john_sibbick        | http://en.wikipedia.org/wiki/John_Sibbick
+---- --      | julius_csotonyi     | http://en.wikipedia.org/wiki/Julius_T._Csotonyi
+---- --      | karen_carr          | http://en.wikipedia.org/wiki/Karen_Carr
+---- --      | mark_whitton        | http://en.wikipedia.org/wiki/Mark_P._Witton
+---- --      | michael_skrepnick   | http://en.wikipedia.org/wiki/Michael_Skrepnick
+---- --      | nobu_tamura         | http://en.wikipedia.org/wiki/Nobu_Tamura
+---- --      | raul_martin         | http://en.wikipedia.org/wiki/Raúl_Martín_(artist)
+---- --      | todd_marshall       | http://en.wikipedia.org/wiki/Todd_Marshall_(artist)
+---- --      | wayne_barlowe       | http://en.wikipedia.org/wiki/Wayne_Barlowe
