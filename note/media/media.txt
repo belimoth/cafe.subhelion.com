@@ -681,7 +681,7 @@ film  | 1997 | The Jackal                                                     | 
 film  | 1997 | Titanic                                                        | --                 | --                     | --                       | --
 film  | 1998 | Armageddon                                                     | --                 | --                     | --                       | --
 film  | 1998 | Babe: Pig in the City                                          | --                 | --                     | --                       | --
-film  | 1998 | Blade                                                          | --                 | --                     | --                       | --
+film  | 1998 | Blade                                                          | Blade              | --                     | --                       | --
 film  | 1998 | Dark City                                                      | --                 | --                     | --                       | --
 film  | 1998 | Fear and Loathing in Las Vegas                                 | --                 | Terry Gillam           | --                       | --
 film  | 1998 | Godzilla                                                       | --                 | --                     | --                       | --
@@ -792,7 +792,6 @@ film  | 2003 | The Lord of the Rings: The Return of the King                  | 
 film  | 2003 | The Matrix Reloaded                                            | The Matrix         | The Wachowskis         | --                       | --
 film  | 2003 | The Matrix Revolutions                                         | --                 | --                     | --                       | --
 film  | 2003 | Underworld                                                     | --                 | --                     | --                       | --
-film  | 2004 | AVP: Alien vs. Predator                                        | --                 | --                     | --                       | --
 film  | 2004 | AVP: Alien vs. Predator                                        | Alien              | --                     | --                       | --
 film  | 2004 | Blade: Trinity                                                 | --                 | --                     | --                       | --
 film  | 2004 | Casshern                                                       | --                 | --                     | --                       | --
@@ -900,7 +899,6 @@ film  | 2009 | Avatar                                                         | 
 film  | 2009 | Black Dynamite                                                 | --                 | --                     | --                       | --
 film  | 2009 | Daybreakers                                                    | --                 | --                     | --                       | --
 film  | 2009 | District 9                                                     | --                 | --                     | --                       | --
-film  | 2009 | District 9                                                     | --                 | --                     | --                       | --
 film  | 2009 | Dragonball Evolution                                           | --                 | --                     | --                       | --
 film  | 2009 | Gamer                                                          | --                 | --                     | --                       | --
 film  | 2009 | Inglourious Basterds                                           | --                 | --                     | --                       | --
@@ -929,7 +927,6 @@ film  | 2010 | Shutter Island                                                 | 
 film  | 2010 | The Last Airbender                                             | --                 | --                     | --                       | --
 film  | 2010 | The Ward                                                       | --                 | John Carpenter         | --                       | --
 film  | 2010 | Uncle Boonmee Who Can Recall His Past Lives                    | --                 | --                     | --                       | --
-film  | 2011 | Attack the Block                                               | --                 | --                     | --                       | --
 film  | 2011 | Attack the Block                                               | --                 | --                     | --                       | --
 film  | 2011 | Captain America: The First Avenger                             | --                 | --                     | --                       | --
 film  | 2011 | Conan the Barbarian                                            | --                 | --                     | --                       | --
@@ -978,9 +975,7 @@ film  | 2013 | Jodorowsky's Dune                                              | 
 film  | 2013 | Little Witch Academia                                          | --                 | --                     | --                       | --
 film  | 2013 | Man of Steel                                                   | --                 | --                     | --                       | --
 film  | 2013 | Megalodon: The Monster Shark Lives                             | --                 | --                     | mock                     | --
-film  | 2013 | Oblivion                                                       | --                 | --                     | --                       | --
 film  | 2013 | Oblivion                                                       | --                 | Joseph Kosinski        | scifi                    | --
-film  | 2013 | Riddick                                                        | --                 | --                     | --                       | --
 film  | 2013 | Riddick                                                        | Riddick            | --                     | --                       | --
 film  | 2013 | Snowpiercer                                                    | --                 | --                     | --                       | --
 film  | 2013 | The Hobbit: The Desolation of Smaug                            | --                 | --                     | --                       | --
@@ -1031,7 +1026,6 @@ film  | 2017 | Blade Runner 2049                                              | 
 film  | 2017 | BLAME!                                                         | --                 | --                     | --                       | --
 film  | 2017 | Blue Planet II                                                 | --                 | --                     | --                       | --
 film  | 2017 | Cold Skin                                                      | --                 | --                     | --                       | --
-film  | 2017 | Cold Skin                                                      | --                 | --                     | --                       | --
 film  | 2017 | Double King                                                    | --                 | --                     | --                       | --
 film  | 2017 | Ghost in the Shell                                             | --                 | --                     | --                       | --
 film  | 2017 | Guardians of the Galaxy Vol. 2                                 | --                 | --                     | --                       | --
@@ -1056,7 +1050,6 @@ film  | 2018 | Prospect                                                       | 
 film  | 2018 | The Ballad of Buster Scruggs                                   | --                 | --                     | --                       | --
 film  | 2018 | The Man Who Killed Don Quixote                                 | --                 | Terry Gillam           | --                       | --
 film  | 2018 | The Meg                                                        | --                 | --                     | --                       | --
-film  | 2018 | The Meg                                                        | --                 | --                     | --                       | --
 film  | 2018 | The Predator                                                   | --                 | --                     | --                       | --
 film  | 2019 | Ad Astra                                                       | --                 | --                     | --                       | --
 film  | 2019 | Doom: Annihilation                                             | --                 | --                     | --                       | --
@@ -1080,7 +1073,6 @@ film  | 2022 | Nope                                                           | 
 film  | 2022 | RRR                                                            | --                 | --                     | --                       | --
 film  | 2023 | Ant-Man and the Wasp: Quantumania                              | --                 | --                     | --                       | --
 film  | 2023 | Boy Kills World                                                | --                 | --                     | --                       | --
-film  | 2023 | Boy Kills World - Scene - Buddha head boulder training         | --                 | --                     | --                       | --
 film  | 2023 | Landscape with Invisible Hand                                  | --                 | --                     | scifi comedy             | --
 film  | 2023 | Mission Impossible: Dead Reckoning                             | Mission Impossible | --                     | spy action               | --
 film  | 2023 | The Gullspång Miracle                                          | --                 | --                     | mock                     | --
@@ -1431,7 +1423,7 @@ game  | 2021-04-09 | say_no_more               | Say No More                   |
 game  | 2016-11-21 | ossian                    | Birthplace of Ossian          | Connor Sherlock                    | --
 game  | ---------- | subway_adventure          | --                            | Increpare                          | --
 game  | ---------- | slave_of_god              | --                            | Increpare                          | --
-game  | ---------- | mirrors_edge              | --                            | Increpare                          | --
+game  | ---------- | mirrors_edge              | --                            | --                                 | --
 game  | ---------- | disco_elysium             | --                            | --                                 | --
 game  | ---------- | fibrillation              | --                            | --                                 | --
 game  | ---------- | lifeless_planet           | --                            | --                                 | --

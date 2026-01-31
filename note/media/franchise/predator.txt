@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------
+TYPE  | YEAR | TITLE
+------|------|--------------------------------------------------------------------------
+film  | 1987 | Predator
+film  | 1990 | Predator 2
+film  | 2010 | Predators
+film  | 2018 | The Predator
+film  | 2022 | Prey
+film  | 2025 | Predator: Killer of Killers
+film  | 2025 | Predator: Badlands
+------|------|--------------------------------------------------------------------------
+film  | 2004 | Alien vs. Predator
+film  | 2007 | Aliens vs. Predator: Requiem
+------|------|--------------------------------------------------------------------------
+film  | 2010 | The Chosen (Short)
+film  | 2010 | Moments of Extraction (Short)
+film  | 2010 | Crucified (Short)
+film  | 2016 | Predator vs. Colonial Marines (Short)
+film  | 2018 | The Predator Holiday Special (Short)
+----------------------------------------------------------------------------------------
+https://en.wikipedia.org/wiki/List_of_Alien,_Predator,_and_Alien_vs._Predator_games

@@ -1,0 +1,14 @@
+----------------------------------------------------------------------------------------
+TYPE  | YEAR | TITLE
+------|------|--------------------------------------------------------------------------
+film  | 1998 | Blade
+film  | 2002 | Blade II
+film  | 2004 | Blade: Trinity
+film  | 2006 | Blade: The Series (TV)
+film  | 2008 | Blade prequel trilogy (Cancelled)
+film  | 2016 | Blade/Underworld crossover film (Cancelled)
+film  | 2025 | Blade (MCU) (Cancelled)
+------|------|--------------------------------------------------------------------------
+game  | 2000 | Blade (Game)
+game  | 2002 | Blade II (Game)
+game  | 2004 | Blade: Trinity (Mobile game)

@@ -1,0 +1,20 @@
+----------------------------------------------------------------------
+https://en.wikipedia.org/wiki/The_Chronicles_of_Riddick_(franchise)
+----------------------------------------------------------------------
+TYPE  | YEAR | TITLE
+------|------|--------------------------------------------------------
+anime | 2000 | Pitch Black: Slam City (Animatic)
+anime | 2004 | The Chronicles of Riddick: Dark Fury (Peter Chung)
+anime | 2013 | Riddick: Blindsided (Animatic)
+book  | 2000 | Pitch Black (Novelization)
+book  | 2004 | The Chronicles of Riddick (Novelization)
+film  | 2000 | Into Pitch Black (TV)
+film  | 2000 | Pitch Black
+film  | 2004 | Riddick: Kyra (TV) (Cancelled)
+film  | 2004 | The Chronicles of Riddick
+film  | 2013 | Riddick
+film  | 2015 | Riddick: Merc City (TV) (Cancelled)
+film  | TBA  | Riddick: Furya
+game  | 2004 | The Chronicles of Riddick: Escape from Butcher Bay
+game  | 2009 | he Chronicles of Riddick: Assault on Dark Athena
+game  | 2013 | Riddick: The Merc Files

@@ -1,0 +1,7 @@
+----------------------------------------------------------------------------------------
+TYPE  | YEAR | TITLE
+------|------|--------------------------------------------------------------------------
+comic | 2008 | Cloverfield: Kishin (Manga)
+film  | 2008 | Cloverfield
+film  | 2016 | 10 Cloverfield Lane
+film  | 2018 | The Cloverfield Paradox

@@ -1,0 +1,53 @@
+----------------------------------------------------------------------------------------
+TYPE  | YEAR | TITLE
+------|------|--------------------------------------------------------------------------
+anime | 2009 | Terminator: Salvation: The Machinima Series
+anime | 2024 | Terminator: Zero
+film  | 1984 | The Terminator
+film  | 1991 | Terminator 2: Judgment Day
+film  | 2003 | Terminator 3: Rise of the Machines
+film  | 2008 | Terminator: The Sarah Connor Chronicles (TV)
+film  | 2009 | Terminator: Salvation
+film  | 2015 | Terminator: Genisys
+film  | 2015 | Terminator: Genisys: The YouTube Chronicles
+film  | 2019 | Terminator: Dark Fate
+game  | 1991 | Terminator 2
+game  | 1991 | Terminator 2 (Game Boy)
+game  | 1991 | Terminator 2: Judgment Day (Arcade)
+game  | 1991 | Terminator 2: Judgment Day (Pinball)
+game  | 1991 | The Terminator (DOS)
+game  | 1992 | Terminator 2 (8-bit)
+game  | 1992 | The Terminator (NES)
+game  | 1992 | The Terminator (Sega)
+game  | 1992 | The Terminator 2029
+game  | 1993 | RoboCop Versus The Terminator
+game  | 1993 | Terminator 2 (16-bit)
+game  | 1993 | Terminator 2: Judgment Day: Chess Wars
+game  | 1993 | The Terminator (Sega CD)
+game  | 1993 | The Terminator (SNES)
+game  | 1995 | The Terminator: Future Shock
+game  | 1996 | The Terminator: Skynet
+game  | 2002 | The Terminator: Dawn of Fate
+game  | 2003 | Terminator 3: Rise of the Machines (Game)
+game  | 2003 | Terminator 3: Rise of the Machines (Pinball)
+game  | 2003 | Terminator 3: War of the Machines
+game  | 2003 | The Terminator (Mobile)
+game  | 2004 | The Terminator: I'm Back!
+game  | 2006 | Terminator Revenge
+game  | 2009 | Terminator: Salvation (Game)
+game  | 2010 | Terminator: Salvation (Arcade)
+game  | 2014 | Terminator 2: Judgment Day (Slots)
+game  | 2015 | Terminator: Genisys: Revolution
+game  | 2017 | Terminator: Genisys: Future War
+game  | 2019 | Terminator: Dark Fate (Game)
+game  | 2019 | Terminator: Dark Fate: Guardian of Fate
+game  | 2019 | Terminator: Resistance
+game  | 2024 | Terminator: Dark Fate: Defiance
+game  | 2025 | Terminator 2D: No Fate
+game  | 2029 | The Terminator: Rampage
+game  | TBS  | Terminator: Survivors
+park  | 1996 | T2-3D: Battle Across Time
+park  | 2009 | Terminator X: A Laser Battle for Salvation
+park  | 2009 | Terminator: Salvation: The Ride
+table | 2000 | The Terminator CCG
+table | 2022 | The Terminator RPG

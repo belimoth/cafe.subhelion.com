@@ -1,0 +1,14 @@
+----------------------------------------------------------------------------------------
+TYPE  | YEAR | TITLE
+------|------|--------------------------------------------------------------------------
+film  | 1990 | Tremors
+film  | 1996 | Tremors 2: Aftershocks
+film  | 1996 | Tremors 2: Aftershocks – The Lost Monsters (TV) (Cancelled)
+film  | 2001 | Tremors 3: Back to Perfection
+film  | 2004 | Tremors 4: The Legend Begins
+film  | 2015 | Tremors 5: Bloodlines
+film  | 2018 | Tremors: A Cold Day in Hell
+film  | 2020 | Tremors: Shrieker Island
+game  | 2002 | Tremors: The Game (Cancelled)
+game  | 2004 | Tremors 4: The Legend Begins: Dirt Dragons (Browser)
+game  | 2010 | Tremerz (Browser)
