@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-             | YEAR | NAME                                           | WHERE                      | LINK
+KEY          | YEAR | NAME                                           | WHERE                      | LINK
 -------------|------|------------------------------------------------|----------------------------|---------------------------------------------------------------------------------------------
  --          | 1937 | Westinghouse Atom Smasher                      | Forest Hills, Pennsylvania | https://en.wikipedia.org/wiki/Westinghouse_Atom_Smasher
  --          | 1964 | Habitat 67                                     | Montreal, Quebec           | https://en.wikipedia.org/wiki/Habitat_67
@@ -52,3 +52,7 @@ sibley breaker
 Speicherstadt, hamburg
 westin bonaventure hotel and suites
 https://en.wikipedia.org/wiki/The_Stanley_Hotel
+https://en.wikipedia.org/wiki/Manufacture_d%27armes_de_Saint-Étienne
+https://en.wikipedia.org/wiki/Architecture_of_Malta
+https://en.wikipedia.org/wiki/Los_Angeles_City_Hall
+Los Angeles City Hall as seen in Black Eagle (1988)
