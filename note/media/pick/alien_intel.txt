@@ -75,8 +75,8 @@ game  | 2000 | Perfect Dark (N64) - Character - Elvis the Alien
 ----------------------------------------------------------------------------------------
 PICK - ALIEN INTEL - CHARACTER - THE ALBINO
 ----------------------------------------------------------------------------------------
-film  | 1997 | Tomorrow Never Dies - Character - Richard Stamper (Götz Otto)
-film  | 2003 | The Matrix Reloaded - The Twins
+film  | 1997 | 007: Tomorrow Never Dies - Character - Richard Stamper (Götz Otto)
+film  | 2003 | The Matrix Reloaded - Character - The Twins
 game  | 2000 | Perfect Dark (N64) - Character - Mr Blonde
 life  | ---- | Peacock Mantis Shrimp
 toy   |      | praying mantis alien
