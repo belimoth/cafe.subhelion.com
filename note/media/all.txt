@@ -64,14 +64,14 @@ anime | 1964 | Rudolph the Red-Nosed Reindeer                                 | 
 anime | 1969 | Frosty the Snowman                                             | Christmas          | Rankin & Bass          | --                       | --
 anime | 1977 | The Hobbit                                                     | --                 | Rankin & Bass          | --                       | --
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-MEDIA - ANIME - BAKSHI
+MEDIA - ANIME - RALPH BAKSHI
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 TYPE  | YEAR | TITLE                                                          | FRANCHISE          | BY                     | TAG                      | LINK
 ------|------|----------------------------------------------------------------|--------------------|------------------------|--------------------------|-----------------------------------------------------------------------------------------------
 anime | 1977 | Wizards                                                        | --                 | Ralph Bakshi           | --                       | --
 anime | 1978 | The Lord of the Rings                                          | --                 | Ralph Bakshi           | --                       | --
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-MEDIA - ANIME - GHIBLI
+MEDIA - ANIME - STUDIO GHIBLI
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 TYPE  | YEAR | TITLE                                                          | FRANCHISE          | BY                     | TAG                      | LINK
 ------|------|----------------------------------------------------------------|--------------------|------------------------|--------------------------|-----------------------------------------------------------------------------------------------
@@ -124,7 +124,7 @@ anime | 2007 | Vexille                                                        | 
 anime | 2012 | Psycho-Pass                                                    | --                 | --                     | scifi psycho thriller    | --
 anime | 2017 | BLAME!                                                         | --                 | --                     | --                       | --
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-MEDIA - ANIME - CYBERPUNK - CHUNG
+MEDIA - ANIME - CYBERPUNK - PETER CHUNG
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 TYPE  | YEAR | TITLE                                                          | FRANCHISE          | BY                     | TAG                      | LINK
 ------|------|----------------------------------------------------------------|--------------------|------------------------|--------------------------|-----------------------------------------------------------------------------------------------
@@ -229,7 +229,6 @@ anime | 2011 | Winnie the Pooh                                                | 
 anime | 2013 | Ghost Stories - The Jump (Short)                               | LNWC               | Charles Huettner       | --                       | https://www.youtube.com/watch?v=o6fRZvCZSkY
 anime | 2013 | The Elephant's Garden                                          | --                 | --                     | --                       | --
 anime | 2015 | Gate                                                           | Gate               | Takumi Yanai           | fantasy                  | --
-anime | 2015 | TIE Fighter (Short)                                            | Star Wars          | Paul Johnson           | --                       | https://www.youtube.com/watch?v=PN_CP4SuoTU
 anime | 2016 | Dead Hand - 2 - Last Day of War                                | Dead Hand          | Dima Fedotov           | --                       | https://www.youtube.com/watch?v=oKKr0bkuYuo
 anime | 2016 | Moana                                                          | --                 | --                     | --                       | --
 anime | 2016 | Scavengers                                                     | Scavengers         | Charles Huettner       | scifi                    | https://www.youtube.com/watch?v=1TRzemJbUsw
@@ -268,18 +267,32 @@ anime | 2019 | Love, Death & Robots: When the Yogurt Took Over (Short)        | 
 anime | 2019 | Love, Death & Robots: Zima Blue (Short)                        | --                 | --                     | --                       | --
 anime | 2025 | War of Lights (Short)                                          | --                 | --                     | --                       | https://www.youtube.com/watch?v=z0AUrwl3-DI
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-MEDIA - BOOK
+MEDIA - ANY - STAR WARS
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+anime | 2015 | TIE Fighter (Short)                                            | Star Wars          | Paul Johnson           | --                       | https://www.youtube.com/watch?v=PN_CP4SuoTU
+film  | 1977 | Star Wars                                                      | Star Wars           | --                     | --                       | --
+film  | 1999 | Star Wars: Episode I - The Phantom Menace                      | Star Wars           | --                     | --                       | --
+film  | 2002 | Star Wars: Episode II – Attack of the Clones                   | Star Wars           | --                     | --                       | --
+film  | 2005 | Star Wars: Episode III – Revenge of the Sith                   | Star Wars           | --                     | --                       | --
+film  | 2015 | Star Wars: The Force Awakens                                   | Star Wars           | --                     | --                       | --
+film  | 2016 | Star Wars: Rogue One                                           | Star Wars           | --                     | --                       | --
+film  | 2022 | Star Wars: Andor (TV)                                          | Star Wars           | --                     | --                       | --
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+MEDIA - BOOK - UNSORTED
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 TYPE  | YEAR | TITLE                                                          | FRANCHISE          | BY                     | TAG                      | LINK
 ------|------|----------------------------------------------------------------|--------------------|------------------------|--------------------------|-----------------------------------------------------------------------------------------------
 book  | 1970 | Tau Zero                                                       | --                 | Poul Anderson          |                          | --
-book  | 2005 | Perfect Dark: Initial Vector                                   | Perfect Dark       |                        |                          | --
-book  | 2007 | Perfect Dark: Second Front                                     | Perfect Dark       |                        |                          | --
 book  | 2007 | Unwind                                                         | --                 | Neal Shusterman        | scifi dystopia adventure | --
 book  | 2011 | The Martian                                                    | --                 | Andy Weir              | scifi                    | --
 book  | 2016 | Dark Matter                                                    | --                 | Blake Crouch           | scifi thriller           | --
 book  | 2017 | Artemis                                                        | --                 | Andy Weir              | scifi                    | --
 book  | 2021 | Project Hail Mary                                              | --                 | Andy Weir              | scifi                    | --
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+MEDIA - BOOK - VIDEO GAME ADAPTATION
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+book  | 2005 | Perfect Dark: Initial Vector                                   | Perfect Dark       |                        |                          | --
+book  | 2007 | Perfect Dark: Second Front                                     | Perfect Dark       |                        |                          | --
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 MEDIA - COMIC
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -347,7 +360,6 @@ film  | 1964 | Dr. Strangelove                                                | 
 film  | 1964 | Kwaidan; "Ghost Stories"                                       | --                 | --                     | myth horror anthology    | --
 film  | 1964 | Mary Poppins                                                   | --                 | --                     | --                       | --
 film  | 1964 | Mothra vs. Godzilla                                            | --                 | --                     | --                       | --
-film  | 1964 | Red Desert                                                     | --                 | --                     | --                       | --
 film  | 1964 | Red Desert                                                     | --                 | Michelangelo Antonioni | drama                    | --
 film  | 1965 | For a Few Dollars More                                         | --                 | --                     | --                       | --
 film  | 1965 | The Sound of Music                                             | --                 | --                     | --                       | --
@@ -368,7 +380,6 @@ film  | 1969 | The Italian Job                                                | 
 film  | 1970 | El Topo                                                        | --                 | --                     | --                       | --
 film  | 1971 | Shaft                                                          | --                 | --                     | --                       | --
 film  | 1971 | The Andromeda Strain                                           | --                 | --                     | --                       | --
-film  | 1971 | The Omega Man                                                  | --                 | --                     | --                       | --
 film  | 1971 | The Omega Man                                                  | --                 | --                     | --                       | --
 film  | 1971 | THX 1138                                                       | --                 | --                     | --                       | --
 film  | 1972 | Silent Running                                                 | --                 | --                     | --                       | --
@@ -392,7 +403,6 @@ film  | 1975 | Dog Day Afternoon                                              | 
 film  | 1975 | Mirror                                                         | --                 | --                     | --                       | --
 film  | 1975 | Monty Python and the Holy Grail                                | --                 | --                     | --                       | --
 film  | 1975 | One Flew Over the Cuckoo's Nest                                | --                 | --                     | --                       | --
-film  | 1976 | Assault on Precinct 13                                         | --                 | --                     | --                       | --
 film  | 1976 | Assault on Precinct 13                                         | --                 | John Carpenter         | --                       | --
 film  | 1976 | Logan's Run                                                    | --                 | --                     | --                       | --
 film  | 1977 | Alternative 3                                                  | --                 | --                     | mock                     | --
@@ -402,7 +412,6 @@ film  | 1977 | House                                                          | 
 film  | 1977 | Jabberwocky                                                    | --                 | Terry Gillam           | --                       | --
 film  | 1977 | Pete's Dragon                                                  | --                 | --                     | --                       | --
 film  | 1977 | Sorceror                                                       | --                 | William Friedkin       | action thriller          | --
-film  | 1977 | Star Wars                                                      | --                 | --                     | --                       | --
 film  | 1977 | Stroszek                                                       | --                 | --                     | --                       | --
 film  | 1977 | The Gauntlet                                                   | --                 | --                     | --                       | --
 film  | 1977 | The Hills Have Eyes                                            | --                 | --                     | --                       | --
@@ -619,7 +628,6 @@ film  | 1995 | Lumière & Company                                              |
 film  | 1995 | Mechanical Violator Hakaider                                   | --                 | --                     | --                       | --
 film  | 1995 | Mortal Kombat                                                  | --                 | --                     | --                       | --
 film  | 1995 | Se7en                                                          | --                 | --                     | --                       | --
-film  | 1995 | Se7en                                                          | --                 | --                     | --                       | --
 film  | 1995 | Species                                                        | --                 | --                     | --                       | --
 film  | 1995 | Tales from the Crypt: Demon Knight                             | --                 | --                     | --                       | --
 film  | 1995 | The City of Lost Children                                      | --                 | --                     | --                       | --
@@ -630,9 +638,7 @@ film  | 1995 | To Wong Foo, Thanks for Everything! Julie Newmar               | 
 film  | 1995 | Twelve Monkeys                                                 | --                 | --                     | --                       | --
 film  | 1995 | Village of the Damned                                          | --                 | John Carpenter         | --                       | --
 film  | 1995 | Waterworld                                                     | --                 | --                     | --                       | --
-film  | 1996 | DragonHeart                                                    | --                 | --                     | --                       | --
 film  | 1996 | Dragonheart                                                    | --                 | Rob Cohen              | fantasy adventure        | --
-film  | 1996 | Escape from L.A.                                               | --                 | --                     | --                       | --
 film  | 1996 | Escape from L.A.                                               | --                 | John Carpenter         | --                       | --
 film  | 1996 | Fargo                                                          | --                 | --                     | --                       | --
 film  | 1996 | From Dusk Till Dawn                                            | --                 | --                     | --                       | --
@@ -647,7 +653,6 @@ film  | 1996 | Mission Impossible                                             | 
 film  | 1996 | Muppet Treasure Island                                         | --                 | --                     | --                       | --
 film  | 1996 | Sling Blade                                                    | --                 | --                     | --                       | --
 film  | 1996 | Space Jam                                                      | --                 | --                     | --                       | --
-film  | 1996 | Star Trek: First Contact                                       | --                 | --                     | --                       | --
 film  | 1996 | Star Trek: First Contact                                       | --                 | --                     | --                       | --
 film  | 1996 | The Birdcage                                                   | --                 | --                     | --                       | --
 film  | 1996 | The Hunchback of Notre Dame                                    | --                 | --                     | --                       | --
@@ -692,7 +697,6 @@ film  | 1998 | Ronin                                                          | 
 film  | 1998 | Small Soldiers                                                 | --                 | --                     | --                       | --
 film  | 1998 | Sphere                                                         | --                 | --                     | --                       | --
 film  | 1998 | The Big Lebowski                                               | --                 | --                     | --                       | --
-film  | 1998 | The Faculty                                                    | --                 | --                     | --                       | --
 film  | 1998 | The Faculty                                                    | --                 | Robert Rodriguez       | scifi horror             | --
 film  | 1998 | The Parent Trap                                                | --                 | --                     | --                       | --
 film  | 1998 | Vampires                                                       | --                 | John Carpenter         | --                       | --
@@ -704,7 +708,6 @@ film  | 1999 | Fight Club                                                     | 
 film  | 1999 | Inspector Gadget                                               | --                 | --                     | --                       | --
 film  | 1999 | October Sky                                                    | --                 | --                     | --                       | --
 film  | 1999 | Sleepy Hollow                                                  | --                 | --                     | --                       | --
-film  | 1999 | Star Wars: Episode I - The Phantom Menace                      | --                 | --                     | --                       | --
 film  | 1999 | Stuart Little                                                  | --                 | --                     | --                       | --
 film  | 1999 | The 13th Warrior                                               | --                 | --                     | --                       | --
 film  | 1999 | The Boondock Saints                                            | --                 | --                     | --                       | --
@@ -736,7 +739,6 @@ film  | 2001 | A.I. Artificial Intelligence                                   | 
 film  | 2001 | Avalon                                                         | --                 | --                     | --                       | --
 film  | 2001 | Cats & Dogs                                                    | --                 | --                     | --                       | --
 film  | 2001 | Dagon                                                          | --                 | --                     | --                       | --
-film  | 2001 | Dagon                                                          | --                 | --                     | --                       | --
 film  | 2001 | Donnie Darko                                                   | --                 | --                     | --                       | --
 film  | 2001 | Evolution                                                      | --                 | --                     | --                       | --
 film  | 2001 | Ghosts of Mars                                                 | --                 | John Carpenter         | --                       | --
@@ -755,25 +757,24 @@ film  | 2001 | The Princess Diaries                                           | 
 film  | 2001 | Thir13en Ghosts                                                | --                 | --                     | --                       | --
 film  | 2001 | Tremors 3: Back to Perfection                                  | --                 | --                     | --                       | --
 film  | 2002 | 28 Days Later                                                  | 28 Days Later      | --                     | --                       | --
-film  | 2002 | Blade II                                                       | --                 | --                     | --                       | --
+film  | 2002 | Blade II                                                       | Blade              | --                     | --                       | --
 film  | 2002 | Catch Me If You Can                                            | --                 | --                     | --                       | --
 film  | 2002 | City of God                                                    | --                 | --                     | crime history            | --
 film  | 2002 | Dog Soldiers                                                   | --                 | --                     | --                       | --
 film  | 2002 | Gangs of New York                                              | --                 | --                     | --                       | --
-film  | 2002 | Harry Potter and the Chamber of Secrets                        | --                 | --                     | --                       | --
+film  | 2002 | Harry Potter and the Chamber of Secrets                        | Harry Potter       | --                     | --                       | --
 film  | 2002 | Hero                                                           | --                 | --                     | --                       | --
-film  | 2002 | Men in Black II                                                | --                 | --                     | --                       | --
+film  | 2002 | Men in Black II                                                | Men in Black       | --                     | --                       | --
 film  | 2002 | Minority Report                                                | --                 | --                     | --                       | --
 film  | 2002 | Rabbits                                                        | --                 | --                     | --                       | --
 film  | 2002 | Red Dragon                                                     | --                 | --                     | --                       | --
-film  | 2002 | Resident Evil                                                  | --                 | --                     | --                       | --
+film  | 2002 | Resident Evil                                                  | Resident Evil Film | --                     | --                       | --
 film  | 2002 | Road to Perdition                                              | --                 | --                     | --                       | --
-film  | 2002 | Scooby-Doo                                                     | --                 | --                     | --                       | --
-film  | 2002 | Spider-Man                                                     | --                 | --                     | --                       | --
-film  | 2002 | Star Wars: Episode II – Attack of the Clones                   | --                 | --                     | --                       | --
-film  | 2002 | The Bourne Identity                                            | --                 | --                     | --                       | --
-film  | 2002 | The Lord of the Rings: The Two Towers                          | --                 | --                     | --                       | --
-film  | 2002 | The Scorpion King                                              | --                 | --                     | --                       | --
+film  | 2002 | Scooby-Doo                                                     | Scooby-Doo         | --                     | --                       | --
+film  | 2002 | Spider-Man                                                     | Spider-Man         | --                     | --                       | --
+film  | 2002 | The Bourne Identity                                            | Bourne             | --                     | --                       | --
+film  | 2002 | The Lord of the Rings: The Two Towers                          | Lord of the Rings  | --                     | --                       | --
+film  | 2002 | The Scorpion King                                              | The Mummy          | --                     | --                       | --
 film  | 2003 | Angels in America                                              | --                 | --                     | --                       | --
 film  | 2003 | Cradle 2 the Grave                                             | --                 | --                     | --                       | --
 film  | 2003 | Elf                                                            | --                 | --                     | --                       | --
@@ -782,24 +783,24 @@ film  | 2003 | House of 1000 Corpses                                          | 
 film  | 2003 | Hulk                                                           | --                 | --                     | --                       | --
 film  | 2003 | Inspector Gadget 2                                             | --                 | --                     | --                       | --
 film  | 2003 | Ong-Bak                                                        | --                 | --                     | --                       | --
-film  | 2003 | Pirates of the Caribbean: The Curse of the Black Pearl         | --                 | --                     | --                       | --
-film  | 2003 | Terminator 3: Rise of the Machines                             | --                 | --                     | --                       | --
+film  | 2003 | Pirates of the Caribbean: The Curse of the Black Pearl         | Pirates            | --                     | --                       | --
+film  | 2003 | Terminator 3: Rise of the Machines                             | Terminator         | --                     | --                       | --
 film  | 2003 | The Animatrix                                                  | The Matrix         | --                     | --                       | --
 film  | 2003 | The Bone Snatcher                                              | --                 | --                     | --                       | --
 film  | 2003 | The Core                                                       | --                 | --                     | --                       | --
 film  | 2003 | The League of Extraordinary Gentlemen                          | --                 | --                     | --                       | --
-film  | 2003 | The Lord of the Rings: The Return of the King                  | --                 | --                     | --                       | --
+film  | 2003 | The Lord of the Rings: The Return of the King                  | Lord of the Rings  | --                     | --                       | --
 film  | 2003 | The Matrix Reloaded                                            | The Matrix         | The Wachowskis         | --                       | --
 film  | 2003 | The Matrix Revolutions                                         | --                 | --                     | --                       | --
-film  | 2003 | Underworld                                                     | --                 | --                     | --                       | --
+film  | 2003 | Underworld                                                     | Underworld         | --                     | --                       | --
 film  | 2004 | AVP: Alien vs. Predator                                        | Alien              | --                     | --                       | --
-film  | 2004 | Blade: Trinity                                                 | --                 | --                     | --                       | --
+film  | 2004 | Blade: Trinity                                                 | Blade              | --                     | --                       | --
 film  | 2004 | Casshern                                                       | --                 | --                     | --                       | --
 film  | 2004 | Dawn of the Dead                                               | --                 | --                     | --                       | --
 film  | 2004 | Ella Enchanted                                                 | --                 | --                     | --                       | --
 film  | 2004 | Finding Neverland                                              | --                 | --                     | --                       | --
-film  | 2004 | Harry Potter and the Prisoner of Azkaban                       | --                 | --                     | --                       | --
-film  | 2004 | Hellboy                                                        | --                 | --                     | --                       | --
+film  | 2004 | Harry Potter and the Prisoner of Azkaban                       | Harry Potter       | --                     | --                       | --
+film  | 2004 | Hellboy                                                        | Hellboy            | --                     | --                       | --
 film  | 2004 | I, Robot                                                       | --                 | --                     | --                       | --
 film  | 2004 | Immortal                                                       | --                 | --                     | --                       | --
 film  | 2004 | Kung Fu Hustle                                                 | --                 | --                     | --                       | --
@@ -808,27 +809,26 @@ film  | 2004 | National Treasure                                              | 
 film  | 2004 | Ocean's Twelve                                                 | --                 | --                     | --                       | --
 film  | 2004 | Primer                                                         | --                 | --                     | --                       | --
 film  | 2004 | R-Point                                                        | --                 | --                     | psycho horror war        | --
-film  | 2004 | Resident Evil: Apocalypse                                      | --                 | --                     | --                       | --
-film  | 2004 | The Bourne Supremacy                                           | --                 | --                     | --                       | --
+film  | 2004 | Resident Evil: Apocalypse                                      | Resident Evil Film | --                     | --                       | --
+film  | 2004 | The Bourne Supremacy                                           | Bourne             | --                     | --                       | --
 film  | 2004 | The Chronicles of Riddick                                      | Riddick            | --                     | --                       | --
 film  | 2004 | The Day After Tomorrow                                         | --                 | --                     | --                       | --
 film  | 2004 | The Ladykillers                                                | --                 | --                     | --                       | --
 film  | 2004 | The Matrix Revolutions                                         | The Matrix         | The Wachowskis         | --                       | --
 film  | 2004 | The Phantom of the Opera                                       | --                 | --                     | --                       | --
 film  | 2004 | The Princess Diaries 2: Royal Engagement                       | --                 | --                     | --                       | --
-film  | 2004 | Tremors 4: The Legend Begins                                   | --                 | --                     | --                       | --
+film  | 2004 | Tremors 4: The Legend Begins                                   | Tremors            | --                     | --                       | --
 film  | 2004 | Van Helsing                                                    | --                 | --                     | --                       | --
-film  | 2005 | Æon Flux                                                       | --                 | --                     | --                       | --
+film  | 2005 | Aeon Flux "Æon Flux"                                           | --                 | Peter Chung            | --                       | --
 film  | 2005 | Batman Begins                                                  | --                 | --                     | --                       | --
 film  | 2005 | Charlie and the Chocolate Factory                              | --                 | --                     | --                       | --
 film  | 2005 | Constantine                                                    | --                 | --                     | --                       | --
 film  | 2005 | Fantastic Four                                                 | --                 | --                     | --                       | --
 film  | 2005 | Harry Potter and the Goblet of Fire                            | --                 | --                     | --                       | --
 film  | 2005 | King Kong                                                      | --                 | --                     | --                       | --
-film  | 2005 | Star Wars: Episode III – Revenge of the Sith                   | --                 | --                     | --                       | --
 film  | 2005 | The Brothers Grimm                                             | --                 | Terry Gillam           | --                       | --
 film  | 2005 | The Cave                                                       | --                 | --                     | --                       | --
-film  | 2005 | The Chronicles of Narnia: The Lion, the Witch and the Wardrobe | --                 | --                     | --                       | --
+film  | 2005 | The Chronicles of Narnia: The Lion, the Witch and the Wardrobe | Narnia             | --                     | --                       | --
 film  | 2005 | The Descent                                                    | --                 | --                     | --                       | --
 film  | 2005 | The Devil's Rejects                                            | --                 | --                     | --                       | --
 film  | 2005 | The Fog (2005)                                                 | --                 | Rupert Wainwright      | --                       | --
@@ -847,7 +847,7 @@ film  | 2006 | Casino Royale                                                  | 
 film  | 2006 | Eragon                                                         | --                 | --                     | --                       | --
 film  | 2006 | Mission Impossible 3                                           | Mission Impossible | --                     | spy action               | --
 film  | 2006 | Pan's Labyrinth                                                | --                 | --                     | --                       | --
-film  | 2006 | Pirates of the Caribbean: Dead Man's Chest                     | --                 | --                     | --                       | --
+film  | 2006 | Pirates of the Caribbean: Dead Man's Chest                     | Pirates            | --                     | --                       | --
 film  | 2006 | Superman Returns                                               | --                 | --                     | --                       | --
 film  | 2006 | The Black Dahlia                                               | --                 | --                     | --                       | --
 film  | 2006 | The Departed                                                   | --                 | --                     | --                       | --
@@ -856,19 +856,19 @@ film  | 2006 | The Fountain                                                   | 
 film  | 2006 | The Illusionist                                                | --                 | --                     | --                       | --
 film  | 2006 | The Prestige                                                   | --                 | --                     | --                       | --
 film  | 2007 | 28 Weeks Later                                                 | 28 Days Later      | --                     | --                       | --
-film  | 2007 | Aliens vs Predator: Requiem                                    | --                 | --                     | --                       | --
+film  | 2007 | Aliens vs Predator: Requiem                                    | Aliens vs Predator | --                     | --                       | --
 film  | 2007 | Beowulf                                                        | --                 | --                     | --                       | --
 film  | 2007 | Eden Log                                                       | --                 | --                     | --                       | --
-film  | 2007 | Harry Potter and the Order of the Phoenix                      | --                 | --                     | --                       | --
+film  | 2007 | Harry Potter and the Order of the Phoenix                      | Harry Potter       | --                     | --                       | --
 film  | 2007 | I Am Legend                                                    | --                 | --                     | --                       | --
 film  | 2007 | No Country for Old Men                                         | --                 | --                     | --                       | --
 film  | 2007 | Ocean's Thirteen                                               | --                 | --                     | --                       | --
-film  | 2007 | Pirates of the Caribbean: At World's End                       | --                 | --                     | --                       | --
-film  | 2007 | Resident Evil: Extinction                                      | --                 | --                     | --                       | --
+film  | 2007 | Pirates of the Caribbean: At World's End                       | Pirates            | --                     | --                       | --
+film  | 2007 | Resident Evil: Extinction                                      | Resident Evil Film | --                     | --                       | --
 film  | 2007 | Sleuth                                                         | --                 | --                     | --                       | --
 film  | 2007 | Sunshine                                                       | --                 | --                     | --                       | --
 film  | 2007 | Sweeney Todd: The Demon Barber of Fleet Street                 | --                 | --                     | --                       | --
-film  | 2007 | The Bourne Ultimatum                                           | --                 | --                     | --                       | --
+film  | 2007 | The Bourne Ultimatum                                           | Bourne             | --                     | --                       | --
 film  | 2007 | The Mist                                                       | --                 | --                     | --                       | --
 film  | 2007 | There Will Be Blood                                            | --                 | --                     | --                       | --
 film  | 2007 | Transformers                                                   | --                 | --                     | --                       | --
@@ -876,9 +876,8 @@ film  | 2008 | 10,000 BC                                                      | 
 film  | 2008 | Cloverfield                                                    | --                 | --                     | --                       | --
 film  | 2008 | Dante 01                                                       | --                 | --                     | --                       | --
 film  | 2008 | Doomsday                                                       | --                 | --                     | --                       | --
-film  | 2008 | Doomsday                                                       | --                 | --                     | --                       | --
 film  | 2008 | Get Smart                                                      | --                 | --                     | --                       | --
-film  | 2008 | Ghost in the Shell 2.0                                         | --                 | --                     | --                       | --
+film  | 2008 | Ghost in the Shell 2.0                                         | Ghost in the Shell | --                     | --                       | --
 film  | 2008 | Ip Man                                                         | --                 | --                     | --                       | --
 film  | 2008 | Iron Man                                                       | --                 | --                     | --                       | --
 film  | 2008 | JCVD                                                           | --                 | --                     | --                       | --
@@ -915,7 +914,7 @@ film  | 2009 | The Imaginarium of Doctor Parnassus                            | 
 film  | 2009 | Watchmen                                                       | --                 | --                     | --                       | --
 film  | 2009 | Zombieland                                                     | --                 | --                     | --                       | --
 film  | 2010 | Beyond the Black Rainbow                                       | --                 | --                     | --                       | --
-film  | 2010 | Harry Potter and the Deathly Hallows: Part 1                   | --                 | --                     | --                       | --
+film  | 2010 | Harry Potter and the Deathly Hallows: Part 1                   | Harry Potter       | --                     | --                       | --
 film  | 2010 | Inception                                                      | --                 | --                     | --                       | --
 film  | 2010 | Insidious                                                      | --                 | --                     | --                       | --
 film  | 2010 | Ip Man 2                                                       | --                 | --                     | --                       | --
@@ -931,7 +930,7 @@ film  | 2011 | Attack the Block                                               | 
 film  | 2011 | Captain America: The First Avenger                             | --                 | --                     | --                       | --
 film  | 2011 | Conan the Barbarian                                            | --                 | --                     | --                       | --
 film  | 2011 | Cowboys & Aliens                                               | --                 | --                     | --                       | --
-film  | 2011 | Harry Potter and the Deathly Hallows: Part 2                   | --                 | --                     | --                       | --
+film  | 2011 | Harry Potter and the Deathly Hallows: Part 2                   | Harry Potter       | --                     | --                       | --
 film  | 2011 | Jiro Dreams of Sushi                                           | --                 | --                     | --                       | --
 film  | 2011 | Mermaids: The Body Found                                       | --                 | --                     | mock                     | --
 film  | 2011 | Mission Impossible: Ghost Protocol                             | Mission Impossible | --                     | spy action               | --
@@ -954,7 +953,7 @@ film  | 2012 | Looper                                                         | 
 film  | 2012 | Men in Black 3                                                 | --                 | --                     | --                       | --
 film  | 2012 | Moonrise Kingdom                                               | --                 | --                     | --                       | --
 film  | 2012 | Prometheus                                                     | --                 | --                     | --                       | --
-film  | 2012 | Resident Evil: Retribution                                     | --                 | --                     | --                       | --
+film  | 2012 | Resident Evil: Retribution                                     | Resident Evil Film | --                     | --                       | --
 film  | 2012 | Siege Lord 2: Day of the Siege                                 | --                 | --                     | --                       | --
 film  | 2012 | Skyfall                                                        | --                 | --                     | --                       | --
 film  | 2012 | The Avengers                                                   | --                 | --                     | --                       | --
@@ -992,7 +991,7 @@ film  | 2014 | Interstellar                                                   | 
 film  | 2014 | Over the Garden Wall                                           | --                 | --                     | --                       | --
 film  | 2014 | Paddington                                                     | --                 | --                     | --                       | --
 film  | 2014 | Song of the Sea                                                | --                 | --                     | --                       | --
-film  | 2014 | The Hobbit: The Battle of the Five Armies                      | --                 | --                     | --                       | --
+film  | 2014 | The Hobbit: The Battle of the Five Armies                      | Lord of the Rings  | --                     | --                       | --
 film  | 2014 | The Lego Movie                                                 | --                 | --                     | --                       | --
 film  | 2015 | Anomalisa                                                      | --                 | Charlie Kaufman        | psycho drama             | --
 film  | 2015 | Ant-Man                                                        | --                 | --                     | --                       | --
@@ -1005,7 +1004,6 @@ film  | 2015 | Little Witch Academia: The Enchanted Parade                    | 
 film  | 2015 | Mad Max: Fury Road                                             | --                 | --                     | --                       | --
 film  | 2015 | Mission Impossible: Rogue Nation                               | Mission Impossible | --                     | spy action               | --
 film  | 2015 | Spectre                                                        | --                 | --                     | --                       | --
-film  | 2015 | Star Wars: The Force Awakens                                   | --                 | --                     | --                       | --
 film  | 2015 | Terminator Genisys                                             | --                 | --                     | --                       | --
 film  | 2015 | The Hateful Eight                                              | --                 | --                     | --                       | --
 film  | 2015 | Tremors 5: Bloodlines                                          | --                 | --                     | --                       | --
@@ -1017,17 +1015,16 @@ film  | 2016 | Doctor Strange                                                 | 
 film  | 2016 | Finding Dory                                                   | --                 | --                     | --                       | --
 film  | 2016 | Hail, Caesar!                                                  | --                 | --                     | --                       | --
 film  | 2016 | Kedi                                                           | --                 | --                     | --                       | --
-film  | 2016 | Rogue One: A Star Wars Story                                   | --                 | --                     | --                       | --
 film  | 2016 | Shin Godzilla                                                  | --                 | --                     | --                       | --
 film  | 2016 | Zootopia                                                       | --                 | --                     | --                       | --
-film  | 2017 | Alien: Covenant                                                | --                 | --                     | --                       | --
+film  | 2017 | Alien: Covenant                                                | Alien              | --                     | --                       | --
 film  | 2017 | Attraction                                                     | --                 | --                     | scifi action             | --
-film  | 2017 | Blade Runner 2049                                              | --                 | --                     | --                       | --
-film  | 2017 | BLAME!                                                         | --                 | --                     | --                       | --
+film  | 2017 | Blade Runner 2049                                              | Blade Runnter      | --                     | --                       | --
+film  | 2017 | BLAME!                                                         | Blame              | --                     | --                       | --
 film  | 2017 | Blue Planet II                                                 | --                 | --                     | --                       | --
 film  | 2017 | Cold Skin                                                      | --                 | --                     | --                       | --
 film  | 2017 | Double King                                                    | --                 | --                     | --                       | --
-film  | 2017 | Ghost in the Shell                                             | --                 | --                     | --                       | --
+film  | 2017 | Ghost in the Shell                                             | Ghost in the Shell | --                     | --                       | --
 film  | 2017 | Guardians of the Galaxy Vol. 2                                 | --                 | --                     | --                       | --
 film  | 2017 | Killing Gunther                                                | --                 | --                     | --                       | --
 film  | 2017 | Life                                                           | --                 | --                     | --                       | --
@@ -1046,11 +1043,10 @@ film  | 2018 | Devilman Crybaby                                               | 
 film  | 2018 | High Life                                                      | --                 | --                     | --                       | --
 film  | 2018 | Mission Impossible: Fallout                                    | Mission Impossible | --                     | spy action               | --
 film  | 2018 | Prospect                                                       | --                 | --                     | --                       | --
-film  | 2018 | Prospect                                                       | --                 | --                     | --                       | --
 film  | 2018 | The Ballad of Buster Scruggs                                   | --                 | --                     | --                       | --
 film  | 2018 | The Man Who Killed Don Quixote                                 | --                 | Terry Gillam           | --                       | --
 film  | 2018 | The Meg                                                        | --                 | --                     | --                       | --
-film  | 2018 | The Predator                                                   | --                 | --                     | --                       | --
+film  | 2018 | The Predator                                                   | Predator           | --                     | --                       | --
 film  | 2019 | Ad Astra                                                       | --                 | --                     | --                       | --
 film  | 2019 | Doom: Annihilation                                             | --                 | --                     | --                       | --
 film  | 2019 | Knives Out                                                     | --                 | --                     | --                       | --
@@ -1126,7 +1122,6 @@ game  | 1997 | Damage Incorporated                                            | 
 MEDIA - GAME - FPS 2ND GENERATION
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 game  | 1997 | GoldenEye 007                                                  | --                 | Rare                   | fps 1p mp                | --
-game  | 1997 | GoldenEye 007                                                  | Perfect Dark       |                        |                          |
 game  | 1997 | Quake II                                                       | Quake              | id                     | fps 1p mp                | --
 game  | 1998 | Half Life                                                      | Half Life          | Valve                  | fps 1p                   | --
 game  | 1998 | Shogo: Mobile Armor Division                                   | --                 | Monolith               | --                       | --
@@ -1134,8 +1129,7 @@ game  | 1999 | Half Life: Opposing Force                                      | 
 game  | 1999 | Quake III Arena                                                | Quake              | id                     | fps mp                   | --
 game  | 2000 | Daikatana                                                      | --                 | Ion Storm              | fps 1p rpg               | --
 game  | 2000 | Deus Ex                                                        | Deus Ex            | Ion Storm              | --                       | --
-game  | 2000 | Perfect Dark                                                   | --                 | Rare                   | fps 1p mp                | --
-game  | 2000 | Perfect Dark                                                   | Perfect Dark       |                        |                          | https://en.wikipedia.org/wiki/Perfect_Dark_(Game_Boy_Color_video_game)
+game  | 2000 | Perfect Dark                                                   | Perfect Dark       | Rare                   | fps 1p mp                | --
 game  | 2000 | Soldier of Fortune                                             | --                 | --                     | --                       | --
 game  | 2000 | TimeSplitters                                                  | TimeSplitters      | Free Radical           | --                       | --
 game  | 2001 | Half Life: Blue Shift                                          | Half Life          | Valve                  | fps 1p                   | --
@@ -1227,6 +1221,7 @@ game  | 1997 | Hexen II                                                       | 
 game  | 1997 | Samurai Shodown RPG                                            | Samsho             | --                     | --                       | --
 game  | 1998 | Dark Vengeance                                                 | --                 | Reality Bytes          | action 1p                | --
 game  | 1998 | Guantlet: Legends                                              | Guantlet           | --                     | slash slop               | --
+game  | 2000 | Perfect Dark (GBC)                                             | Perfect Dark       | --                     | --                       | https://en.wikipedia.org/wiki/Perfect_Dark_(Game_Boy_Color_video_game)
 game  | 2000 | GLFighters                                                     | --                 | Wolfire                | --                       | --
 game  | 2000 | Guantlet: Dark Legacy                                          | Guantlet           | --                     | slash slop               | --
 game  | 2000 | Guantlet: Seven Sorrows                                        | Guantlet           | --                     | slash slop               | --
