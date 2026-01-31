@@ -1,0 +1,8 @@
+
+-------------------------------------------------------------------------------------------------------------------
+walking through a black doorway causes you to cease; 10 seconds of darkness then your computer shuts down
+walking through a shining door disconnects your wifi and separates you from your actor who walks into the distance,
+you can only return through the now dark doorway to cease
+when you are being chased by an enemy of fairy the fairy can use magic to activate runes around the door,
+for a brief glowing moment this leads you into a dark shortcut that doesn't kill you
+the door fades quickly leading enemies into oblivion
