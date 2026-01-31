@@ -14,6 +14,19 @@ CLASS    | ERA   | TEAM   || YEAR | KEY                       | AMMO          ||
 ---------|-------|--------||------|---------------------------|---------------||-----------|---------------------------|
 Launcher |  19XX | SOVIET || 1970 | rus_ags_17                | 30_29mm_ru    || Russia    | AGS-17 Plamya             |
 Special  |  19XX | SOVIET || 1975 | rus_aps_special           | 566_39mm_mps  || Russia    | APS Special Underwater AR |
+Special  |       |        || 1961 | gyrojet_lancejet          | lancejet      || Gyrojet   | Lancejet Underwater       |
+------------------------------------------------------------------------------------------------------------------------
+GUN - PICK - DRAUGB 2 COLONY
+------------------------------------------------------------------------------------------------------------------------
+CLASS    | ERA   | TEAM   || YEAR | KEY                       | AMMO          || OWNER     | DESIGNATION               |
+---------|-------|--------||------|---------------------------|---------------||-----------|---------------------------|
+Special  |       |        || 1962 | gyrojet_pistol            | 13mm_gyrojet  || Gyrojet   | Mark I                    |
+Special  |       |        || 1962 | gyrojet_assault           | 6mm_microjet  || Gyrojet   | Assault Rifle             |
+Special  |       |        || 1962 | gyrojet_carbine_a         | 6mm_microjet  || Gyrojet   | Carbine Model A           |
+Special  |       |        || 1962 | gyrojet_carbine_b         | 6mm_microjet  || Gyrojet   | Carbine Model B           |
+Special  |       |        || 1962 | gyrojet_carbine_b         | 6mm_microjet  || Gyrojet   | LMG (Theoretical)         |
+Special  |       |        || 197X | gyrojet_survival_2000     | 13mm_gyrojet* || Gyrojet   | Survival 2000 Derringer   |
+Special  |       |        || 197X | gyrojet_survival_2001     | 13mm_gyrojet  || Gyrojet   | Survival 2001 Derringer   |
 ------------------------------------------------------------------------------------------------------------------------
 GUN - PICK - SWAT CITY
 ------------------------------------------------------------------------------------------------------------------------
