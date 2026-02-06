@@ -1,12 +1,12 @@
-ERA   | CAMPAIGN ADVENTURE  | STRATEGY ADVENTURE  | SURVIVAL ADVENTURE  | MYSTERY ADVENTURE   | STRATEGY ACTION     | MYSTERY ACTION      | ANIMAL ADVENTURE    |
-------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|
-0XXXX | DRAUGB DRAUGB       | RED CRY A           | GATE QUAKE 0        | --                  | --                  | --                  | --
- 0XXX | --                  | UNTITLED 0XXX       | --                  | --                  | --                  | --                  | --
- 1XXX | --                  | UNTITLED 1XXX       | --                  | BLOOD FLUSH 0       | --                  | --                  | --
- 19XX | DRAUGB HARBOR       | HOWLING COMMANDOS   | GATE QUAKE          | ALIEN INTEL CLASSIC | HORSE WAR 0         | BLUE MONSOON        | --
- 20XX | DRAUGB PROLOGUE     | HOWLING COMMANDOS 2 | --                  | BLOOD FLUSH         | --                  | --                  | --
- 21XX | DRAUGB COLONY       | --                  | THREEFOLD PATH      | ALIEN INTEL         | HORSE WAR           | --                  | CONCRETE JUNGLE
- 2XXX | DRAUGB FRONTIER     | RED CRY B           | SWAT CITY           | BLOOD FLUSH X       | --                  | --                  | --
- 3XXX | --                  | --                  | SWAT CITY X         | ALIEN INTEL X       | HORSE WAR X         | --                  | CONCRETE JUNGLE X
- 4XXX | DRAUGB WASTES       | --                  | GATE QUAKE X        | --                  | COLD HAUL BUFFALO   | --                  | --
-XXXXX | DRAUGB TOWER        | --                  | --                  | --                  | --                  | --                  | --
+ERA   | ## | CAMPAIGN ADVENTURE  | STRATEGY ADVENTURE  | STRATEGY ACTION     | SURVIVAL ADVENTURE  | SURVIVAL ADVENTURE  | MYSTERY ADVENTURE   | MYSTERY ACTION      | ARCADE ACTION       | ANIMAL ADVENTURE    |
+------|----|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|---------------------|
+0XXXX |  3 | DRAUGB DRAUGB       | --                  | --                  | --                  | RED CRY A           | --                  | --                  | --                  | CONCRETE JUNGLE 0   |
+ 0XXX |  1 | --                  | --                  | --                  | --                  | UNTITLED SNOW 0XXX  | --                  | --                  | --                  | --                  |
+ 1XXX |  3 | --                  | UNTITLED 1XXX       | --                  | --                  | --                  | BLOOD FLUSH 0       | --                  | FULL METAL EXPRESS  | --                  |
+ 19XX |  7 | DRAUGB HARBOR       | HOWLING COMMANDOS   | HORSE WAR 0         | GATE QUAKE          | --                  | ALIEN INTEL 0       | BLUE MONSOON        | ROUTE 66            | --                  |
+ 20XX |  3 | DRAUGB PROLOGUE     | HOWLING COMMANDOS 2 | --                  | --                  | --                  | BLOOD FLUSH         | --                  | --                  | --                  |
+ 21XX |  5 | DRAUGB COLONY       | --                  | HORSE WAR           | THREEFOLD PATH      | --                  | ALIEN INTEL         | --                  | --                  | CONCRETE JUNGLE     |
+ 2XXX |  5 | DRAUGB FRONTIER     | PLASTIC PLATOON     | --                  | SWAT CITY           | CRYOSHOCK           | BLOOD FLUSH X       | --                  | --                  | --                  |
+ 3XXX |  6 | --                  | HAZARD COMPANY      | HORSE WAR X         | SWAT CITY X         | RED CRY B           | ALIEN INTEL X       | --                  | --                  | CONCRETE JUNGLE X   |
+ 4XXX |  4 | DRAUGB WASTES       | --                  | COLD HAULER BUFFALO | GATE QUAKE X        | --                  | BLOOD FLUSH X2      | --                  | --                  | --                  |
+XXXXX |  1 | DRAUGB TOWER        | --                  | PRIMITIVE STREAK    | --                  | --                  | --                  | --                  | --                  | --                  |
