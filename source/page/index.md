@@ -1,3 +1,73 @@
+<html lang="en-us"><head>
+<meta charset="utf-8">
+<title>cafe.subhelion.com</title>
+<meta name="viewport" content="width=device-width initial-scale=1">
+<link rel="stylesheet" href="/static/main.css">
+<style>ul > li > ul { padding-left: 40px; }</style>
+<body>
+
+<nav class="crumbs"><a href="/">cafe.subhelion.com</a></nav>
+<br>
+<p>Our notes and bookmarks.</p>
+
+<h3>Links</h3>
+<ul>
+<li><a href=/profile>Profile</a> - Artists, authors, directors, editors, workers
+<li><a href=/shelf  >Shelf  </a> - Index of offline works
+<li><a href=/site   >Site   </a> - Index of online works
+</ul>
+
+<h3>Notes</h3>
+<ul>
+<li><a class=new href=/art    >Art    </a> - Visual art, photography, sculpture
+<li><a class=new href=/fiction>Fiction</a> - Story, speculation, lore, myth
+<li><a class=new href=/history>History</a> - ...
+<li><a           href=/media  >Media  </a> - Films, TV shows, anime, manga, comics
+<li><a           href=/music  >Music  </a> - ...
+<li><a           href=/nature >Nature </a> - Earth science and biology
+<li><a class=new href=/tech   >Tech   </a> - ...
+<li><a           href=/war    >War    </a> - Weapons, equipment, vehicles
+</ul>
+
+<h3>Projects</h3>
+<ul>
+<li><a class=new href=/boss-guts    >Boss Guts     </a> -
+<li><a class=new href=/clay         >Clay          </a> -
+<li><a class=new href=/dread-check  >Dread Check   </a> -
+	<ul>
+	<li>Dread Check Chapters
+		<ul>
+		<li><a           href="/dread-check/chapter/draugb">Draugb           </a>
+		<li><a class=new href=/horse-war                   >Horse War        </a>
+		<li><a class=new href="/dread-check/chapter/howl"  >Howling Commandos</a>
+		<li><a           href="/dread-check/chapter/swat"  >Swat City        </a>
+		</ul>
+	</li>
+	<li>Dread Check Profiles
+		<ul>
+		<li><a href="/dread-check/chapter/swat-scanner">Swat City Scanner</a>
+		<li><a href="/dread-check/chapter/swat-skinner">Swat City Skinner</a>
+		<li><a href="/dread-check/chapter/swat-swimmer">Swat City Swimmer</a>
+		</ul>
+	</li>
+	<li>Dread Check Shorties
+		<ul>
+		<li><a href="/dread-check/chapter/blue-monsoon"  >Blue Monsoon</a>
+		<li><a href="/dread-check/chapter/red-cry"       >Red Cry</a>
+		<li><a href="/dread-check/chapter/threefold-path">Threefold Path</a>
+		</ul>
+	</li>
+	</ul>
+</li>
+<li><a class=new href=/fantasy_game >"Fantasy Game"</a>
+<li><a class=new href=/history_game >"History Game"</a>
+<li><a class=new href=/simir        >Simir         </a>
+<li><a class=new href=/tyrant-engine>Tyrant Engine </a>
+</ul>
+
+
+# Index
+
 ## Projects
 
 1. [Code ](#code)
@@ -68,16 +138,16 @@ Technical goals:
 
 ##### DREAD CHECK CHAPTERS
 
-|                                                |                                                                                                               |
-|------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
-| [ALIEN INTEL       ](dread_check//alien_intel) | Zach and Joe's campaign that remixes Perfect Dark; Lays important foundations for the rest of the DRAUGBVERSE |
-| [ALIEN INTEL X     ]                           | --                                                                                                            |
-| [DRAUGB            ](dread_check/draugb)       | Zach's supernatural cold war survival campaign that is the original basis for DREAD CHECK; multiple chapters  |
-| [GATE QUAKE        ](dread_check/gate_quake)   | Action-focused campaign that remixes Doom, Quake, etc                                                         |
-| [HOWLING COMMANDOS]()                          |                                                                                                               |
-| [HORSE WAR    ](dread_check/horse_war)         | Mechanized combat and battlefield strategy; Originally a separate title                                       |
-| [SWAT CITY    ](dread_check/swat_city)         | Cybergoth gang violence; Zach's current chapter in development                                                |
-| [SWAT CITY X  ]                                | --                                                                                                            |
+|                                               |                                                                                                               |
+|-----------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| [ALIEN INTEL      ](dread_check//alien_intel) | Zach and Joe's campaign that remixes Perfect Dark; Lays important foundations for the rest of the DRAUGBVERSE |
+| [ALIEN INTEL X    ]                           | --                                                                                                            |
+| [DRAUGB           ](dread_check/draugb)       | Zach's supernatural cold war survival campaign that is the original basis for DREAD CHECK; multiple chapters  |
+| [GATE QUAKE       ](dread_check/gate_quake)   | Action-focused campaign that remixes Doom, Quake, etc                                                         |
+| [HOWLING COMMANDOS]()                         |                                                                                                               |
+| [HORSE WAR        ](dread_check/horse_war)    | Mechanized combat and battlefield strategy; Originally a separate title                                       |
+| [SWAT CITY        ](dread_check/swat_city)    | Cybergoth gang violence; Zach's current chapter in development                                                |
+| [SWAT CITY X      ]                           | --                                                                                                            |
 
 Other chapters without much work done beyond a name and a concept:
 
@@ -95,6 +165,16 @@ Shorties are short self-contained chapters made by guest directors from other st
 | [RED CRY         ](dread_check/red_cry)          | James's campaign |
 | [THREEFOLD PATH  ](dread_check/threefold_path)   | Ray's campaign   |
 
+#### DREAD CHECK PROFILES
+
+Profiles are stand-alone web games to promote related titles
+
+|                                         |  |
+|-----------------------------------------|--|
+| DREAD CHECK PROFILES: SWAT CITY SCANNER |  |
+| DREAD CHECK PROFILES: SWAT CITY SKINNER |  |
+| DREAD CHECK PROFILES: SWAT CITY STADIUM |  |
+| DREAD CHECK PROFILES: SWAT CITY SWIMMER |  |
 
 ### Other Subhelion Games
 
@@ -164,6 +244,16 @@ Hybrid turn-based tactics and fighting game in a dark fantasy setting.
 | [forge.subhelion.com  ](/project/site/cafe.subhelion.com)    | Asset library          | https://forge.subhelion.com            | https://github.com/subhelion/forge.subhelion.com |
 | [subhelion.bsky.app   ](/project/site/subhelion.bsky.app)    | Subhelion social media | https://bsky.app/profile/subhelion.com | --                                               |
 | [subhelion.discord.com](/project/site/subhelion.discord.com) | Subhelion chat         | https://discord.gg/tABmNbQVz9          | --                                               |
+
+#### SUBHELION.ITCH.IO
+
+|                                         |  |
+|-----------------------------------------|--|
+| DREAD CHECK BRAVO                       |  |
+| DREAD CHECK PRIME                       |  |
+| DREAD CHECK SUPER                       |  |
+| DREAD CHECK MEGAZINE                    |  |
+| DREAD CHECK PROFILES: SWAT CITY SCANNER |  |
 
 ### Teams
 
