@@ -1,0 +1,14 @@
+# ROUTE 66
+
+## NOTES
+
+### 2026-02-04
+
+burning man does red dead redemption on route 66 in the 1960's
+cowboy ammunition revolvers and lever-actions; up to and including dirty harry
+i think you are on the run from gangsters and you and the gangsters are on the run from the police
+continue to do heists but hurry to stay on the road; can share maps with threefold path
+
+### 2026-02-05
+
+everytime the gangsters catch up to you there's a shootout and local cops join the cop convoy chasing you

@@ -1,0 +1,12 @@
+| ERA   | WHEN         | ## | CHAPTER                                                                                          |
+|-------|--------------|----|--------------------------------------------------------------------------------------------------|
+| 0XXXX | deep past    | 3  | draugb_draugb, red_cry_a, concrete_jungle_0                                                      |
+| 0XXX  | far past 1   | 1  | untitled_snow_0XXX                                                                               |
+| 1XXX  | far past 2   | 3  | untitled_1XXX, blood_flush_0, full_metal_express                                                 |
+| 19XX  | near past    | 7  | alien_intel_0, blue_monsoon, draugb_harbor, gate_quake, horse_war_0, howling_commandos, route_66 |
+| 20XX  | present      | 3  | blood_flush, draugb_prologue, howling_commandos_2                                                |
+| 21XX  | near future  | 5  | alien_intel, draugb_colony, horse_war, threefold_path, concrete_jungle                           |
+| 2XXX  | far future 1 | 5  | blood_flush_x, cryoshock, druagb_frontier, swat_city, plastic_platoon                            |
+| 3XXX  | far future 2 | 6  | alien_intel_x, concrete_jungle_x, hazard_company, horse_war_x, red_cry_b, swat_city_x,           |
+| 4XXX  | far future 3 | 4  | blood_flush_x2, cold_hauler_buffalo, gate_quake_x, draugb_wastes                                 |
+| XXXXX | deep future  | 1  | draugb_tower, primitive_streak                                                                   |

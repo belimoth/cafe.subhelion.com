@@ -1,0 +1,149 @@
+# GUN - PICK
+
+| CLASS  | ERA  | TEAM | YEAR | KEY            | AMMO       | OWNER  | DESIGNATION               |
+|--------|------|------|------|----------------|------------|--------|---------------------------|
+| UMG    |      |      |      | nazi_mg42      |            |        |                           |
+| Rifle  | 19XX |      | 1934 | mauser_k98k    | 8mm_mauser | Mauser | Karabiner 98 kurz         |
+| Rifle  | 19XX |      | 1948 | mauser_k98k_is | 8mm_mauser | Mauser | Karabiner 98 kurz Israeli |
+| Sniper | 19XX |      | 1986 | faf_giat_frf2  | 762_nato   |        | FR F2 Sniper              |
+
+## GUN - PICK - DRAUGB 1 HARBOR
+
+| CLASS    | ERA  | TEAM   | YEAR | KEY              | AMMO         | OWNER   | DESIGNATION               |
+|----------|------|--------|------|------------------|--------------|---------|---------------------------|
+| Launcher | 19XX | SOVIET | 1970 | rus_ags_17       | 30_29mm_ru   | Russia  | AGS-17 Plamya             |
+| Special  | 19XX | SOVIET | 1975 | rus_aps_special  | 566_39mm_mps | Russia  | APS Special Underwater AR |
+| Special  |      |        | 1961 | gyrojet_lancejet | lancejet     | Gyrojet | Lancejet Underwater       |
+
+## GUN - PICK - DRAUGB 2 COLONY
+
+| CLASS   | ERA | TEAM | YEAR | KEY                   | AMMO          | OWNER   | DESIGNATION             |
+|---------|-----|------|------|-----------------------|---------------|---------|-------------------------|
+| Special |     |      | 1962 | gyrojet_pistol        | 13mm_gyrojet  | Gyrojet | Mark I                  |
+| Special |     |      | 1962 | gyrojet_assault       | 6mm_microjet  | Gyrojet | Assault Rifle           |
+| Special |     |      | 1962 | gyrojet_carbine_a     | 6mm_microjet  | Gyrojet | Carbine Model A         |
+| Special |     |      | 1962 | gyrojet_carbine_b     | 6mm_microjet  | Gyrojet | Carbine Model B         |
+| Special |     |      | 1962 | gyrojet_carbine_b     | 6mm_microjet  | Gyrojet | LMG (Theoretical)       |
+| Special |     |      | 197X | gyrojet_survival_2000 | 13mm_gyrojet* | Gyrojet | Survival 2000 Derringer |
+| Special |     |      | 197X | gyrojet_survival_2001 | 13mm_gyrojet  | Gyrojet | Survival 2001 Derringer |
+
+## GUN - PICK - SWAT CITY
+
+| CLASS    | ERA  | TEAM   | YEAR | KEY                   | AMMO          | OWNER   | DESIGNATION              |
+|----------|------|--------|------|-----------------------|---------------|---------|--------------------------|
+| HMG      | 2XXX | USARMY | --   | usa_m2_bmg_bfa_plasma | 50_bmg_plasma | USA     | M2 BMG BFA Plasma        |
+| HMG      | 2XXX | USARMY | 2170 | uscmc_m56a2           | 762_nato      | "USCMC" | M56A2 Smart              |
+| Revolver | 20XX | BUREAU | 2009 | ruger_lcr_327         | 327_federal   | Ruger   | LCR (327 Federal)        |
+|          |      |        |      |                       |               |         |                          |
+| SAW      | 19XX | ICEPOL | 1994 | colt_lmg              | 556_nato      | Colt    | Colt LMG                 |
+| SMG      | 19XX | ICEFED | 1982 | colt_633_doe          | 9mm           | Colt    | Model 633 DOE            |
+| SMG      | 19XX | ICEMAL | 1982 | colt_636_dea          | 9mm           | Colt    | Model 636 DEA            |
+| SMG      | 19XX | ICEPOL | 1982 | colt_635              | 9mm           | Colt    | Model 635                |
+|          |      |        |      |                       |               |         |                          |
+| pistol   | 2XXX | VERMIN | --   | kel_tec_pr57          | 57_28mm       | Kel-Tec | PR57                     |
+|          |      |        |      |                       |               |         |                          |
+| SMG      | 19XX | VERMIN | 1992 | vladas_1992           | 9mm_makarov   | Vladas  | Model 1992               |
+| PDW      | 20XX | VERMIN | 2000 | kbp_pp_200            | 9mm_7h21      | KBP     | PP-2000 (9x19mm 7N21 AP) |
+| PDW      | 20XX | VERMIN | 2000 | sbd_cbj_ms            | 650_25mm_cbj  |         | SBD CBJ-MS               |
+| SMG      | 19XX | VERMIN | 1990 | rus_kbp_pp_90         | 9mm_makarov   | KBP     | PP-90 Folding            |
+
+## GUN - PICK - ALIEN INTEL
+
+| CLASS | ERA | TEAM   | YEAR | KEY                       | AMMO           |  | OWNER    | DESIGNATION               |
+|-------|-----|--------|------|---------------------------|----------------|--|----------|---------------------------|
+|       | --  |        |      | hk_msg90_a1               | 762_nato       |  | H&K      | MSG90 A1                  |
+|       | --  |        |      | hk_msg90_a2               | 762_nato       |  | H&K      | MSG90 A2                  |
+|       | --  |        |      | hk_msg90_sdn              | 762_nato       |  | H&K      | MSG90 SDN                 |
+|       | --  |        |      | hk_sl8                    | 556_nato       |  | H&K      | SL8                       |
+|       | --  |        |      | hk_sl9_sd                 | 300_blackout   |  | H&K      | SL9-SD                    |
+|       | --  |        | 1972 | hk_msg90                  | 762_nato       |  | H&K      | MSG90                     |
+|       | --  |        | 1972 | hk_psg1                   | 762_nato       |  | H&K      | PSG1                      |
+|       | --  |        | 1972 | hk_psg1_a1                | 762_nato       |  | H&K      | PSG1 A1                   |
+|       | --  |        | 1966 | hk_mp5                    |                |  | H&K      | MP5                       |
+|       | --  |        | 1976 | hk_mp5_k                  |                |  | H&K      | MP5-K                     |
+|       | --  |        | 1976 | hk_p11                    |                |  | H&K      | P11 Underwater            |
+|       | --  |        | 1982 | hk_caws                   | 12_gauge       |  | H&K      | CAWS                      |
+|       | --  |        | 1992 | hk_gmg                    | 40mm           |  | H&K      | GMG                       |
+|       | --  |        | 2004 | hk_xm27_oicw              | 46_30mm/20mm   |  | H&K      | XM27 OICW (MP7)           |
+|       | --  |        | 2004 | hk_xm29_oicw              | 556_nato/20mm  |  | H&K      | XM29 OICW (G36)           |
+|       | --  |        | 2010 | hk_xm25_cdte              | 20mm           |  | H&K      | XM25 CDTE                 |
+|       | --  |        | 2010 | hk_xm8                    | 556_nato       |  | H&K      | XM8                       |
+|       |     |        |      |                           |                |  |          |                           |
+|       | --  |        |      | fn_57                     | 57_28mm        |  | FN       | Five-seveN                |
+|       | --  |        |      | ruger_57                  | 57_28mm        |  | Ruger    | 5.7                       |
+|       | --  |        | 1990 | fn_p90                    |                |  | FN       | P90 "RCP-45"              |
+| PDW   | --  |        | 2008 | ar_57                     | 57_28mm        |  | --       | AR-57                     |
+|       |     |        |      |                           |                |  |          |                           |
+|       | --  | ARMADA |      | ai_benelli_m3_s90_t       | 12_gauge       |  | Benelli  | M3 Super 90 Tactical      |
+|       | --  | ICESPY | 1990 | ai_fn_p90_rcp_120         | 57_28mm        |  | FN       | P90 "RCP-120"             |
+|       | --  | ICESPY |      | ai_fr_famas_ar_34         | 556_nato       |  | France   | FAMAS "AR-34"             |
+|       | --  | ARMADA | --   | ai_beretta_m93r_ag_auto_9 | 9mm            |  | Beretta  | M93R-AG Auto 9 "MagSec 4" |
+|       | --  | ARMADA | --   | colt_python               | 357_magnum     |  | Colt     | Python                    |
+|       | --  | ARMADA | --   | colt_python_gold          | 357_magnum     |  | Colt     | Python "Gold"             |
+|       | --  | ARMADA | --   | ai_hk_gmg_devastator      |                |  | H&K      | GMG "Devastator"          |
+|       | --  | ARMADA | --   | ai_hk_g36_e_dragon        | 556_nato       |  | H&K      | G36-E "Dragon"            |
+|       | --  | ARMADA | --   | ai_hk_xm29_oicw           | 556_nato/20mm  |  | H&K      | XM29 OICW "Super Dragon"  |
+|       | --  | ARMADA | --   | ai_steyr_tmp_cmp_150      | 9mm            |  | Steyr    | TMP "CMP-150"             |
+|       | --  | ARMADA | --   | ai_steyr_ssg_08           | 308_winchester |  | Steyr    | SSG 08                    |
+|       | --  | ARMADA | --   | ai_hk_mp7                 | 46_40mm_ap     |  | HK       | MP7 "K7 Avenger"          |
+|       | --  | ICEFED | --   | ai_hk_g11_cyclone         | 473_33mm_g11   |  | H&K      | G11 "Cyclone"             |
+|       | --  | ICESPY | --   | ai_colt_double_eagle      | 45_acp         |  | Colt     | Double Eagle "Falcon 2"   |
+|       | --  | ICESPY | --   | ai_crossbow               | unique         |  | --       | "Crossbow"                |
+|       | --  |        |      |                           |                |  |          |                           |
+|       | --  | ASGARD | --   | ai_maiar_callisto         | --             |  | "Maiar"  | "Callisto NTG"            |
+|       | --  | ASGARD | --   | ai_maiar_farsight         | --             |  | "Maiar"  | "FarSight XR-20"          |
+|       | --  | ASGARD | --   | ai_maiar_phoenix          | --             |  | "Maiar"  |                           |
+|       | --  | SKEDAR | --   | ai_skedar_mauler          | unique         |  | "Skedar" | "Mauler"                  |
+|       | --  | SKEDAR | --   | ai_skedar_reaper          | unique         |  | "Skedar" | "Reaper"                  |
+|       | --  | SKEDAR | --   | ai_skedar_slayer          | unique         |  | "Skedar" | "Slayer"                  |
+|       | --  |        |      |                           |                |  |          |                           |
+|       | --  | ARMADA | --   | ai_dd_rocket_launcher     | unique         |  | --       | "Rocket Launcher"         |
+|       | --  | ICESPY | --   | ai_laptop_gun             | 57_28mm        |  | --       | "Laptop Gun"              |
+|       | --  |        | --   | ai_neutron_bomb           | unique         |  | --       | "Neutron Bomb"            |
+|       | --  |        | --   | ai_nsa_psychosis_gun      | unique         |  | --       | "Psychosis Gun"           |
+|       | --  |        | --   | ai_walther_wa_2000        |                |  | Walther  | WA 2000 "Sniper"          |
+|       | --  |        | --   | ai_knife                  | unique         |  | --       | "Combat Knife"            |
+|       | --  |        | --   | ai_proximity_mine         | unique         |  | --       | "Proximity Mine"          |
+|       | --  |        | --   | ai_remote_mine            | unique         |  | --       | "Remote Mine"             |
+
+## GUN - PICK - ALIEN INTEL X
+
+| CLASS | ERA    | TEAM |      | YEAR          | KEY      | AMMO |       | OWNER              | DESIGNATION |
+|-------|--------|------|------|---------------|----------|------|-------|--------------------|-------------|
+| 2XXX  | USVOID |      | 2170 | uscmc_m56_a2  | 762_nato |      | USCMC | M56A2 Smart        |             |
+| 2XXX  | USVOID |      | --   | uscmc_m41_ae2 |          |      | USCMC | M41AE2 Heavy Pulse |             |
+| 2XXX  | USVOID |      | --   | uscmc_m41_am2 |          |      | USCMC | M41A Pulse MK2     |             |
+| 2XXX  | USVOID |      | --   | uscmc_m41_a2  |          |      | USCMC | M41A2 Pulse        |             |
+| 2XXX  | USVOID |      | --   | uscmc_m41_a3  |          |      | USCMC | M41A3 Burst        |             |
+| 2XXX  | USVOID |      | --   | uscmc_m42_a2s |          |      | USCMC | M42A2 Scout        |             |
+| 2XXX  | USVOID |      | --   | uscmc_m41_as2 |          |      | USCMC | M41A/2 Pulse       |             |
+| 2XXX  | USVOID |      | --   | uscmc_m41_e   |          |      | USCMC | M41E Pulse         |             |
+| 2XXX  | USVOID |      | --   | uscmc_m41_e3  |          |      | USCMC | M41E3 Heavy Pulse  |             |
+| 2XXX  | USVOID |      | --   | uscmc_m41_e4  |          |      | USCMC | M41E4 Heavy Pulse  |             |
+
+## GUN - PICK - ALIEN INTEL CLASSIC
+
+| CLASS | ERA | TEAM | YEAR                   | KEY | AMMO |         | OWNER            | DESIGNATION |
+|-------|-----|------|------------------------|-----|------|---------|------------------|-------------|
+|       | --  |      | ai_us_m16_a2_ar_53     |     |      | USA     | M16A2 "AR-53"    |             |
+|       | --  |      | ai_fn_p90              |     |      | FN      | P90 "RCP-45"     |             |
+|       | --  |      | ai_hk_mp5k_dmc         |     |      | H&K     | MP5K "Deutsche"  |             |
+|       | --  |      | ai_tokarev_tt_33_cc_13 |     |      | Tokarev | TT-33 "Dostovei" |             |
+|       | --  |      | ai_walther_ppk_pp9i    |     |      | Walther | PPK "PP7"        |             |
+
+## GUN - PICK - THREEFOLD PATH
+
+| CLASS | ERA  | TEAM | YEAR | KEY              | AMMO         | OWNER | DESIGNATION      |
+|-------|------|------|------|------------------|--------------|-------|------------------|
+| SBR   | 20XX |      | 2013 | aac_honey_badger | 300_blackout |       | AAC Honey Badger |
+| SBR   | 20XX |      | 2021 | cz_600_trail     | 300_blackout |       | CZ 600 Trail     |
+
+## GUN - PICK - THREEFOLD PATH ZACH
+
+| CLASS | ERA | TEAM | YEAR              | KEY   | AMMO |       | OWNER                    | DESIGNATION |
+|-------|-----|------|-------------------|-------|------|-------|--------------------------|-------------|
+|       |     |      | american_180      | 22_lr |      | Voere | American-180             |             |
+|       |     |      | american_180_quad | 22_lr |      | Voere | American-180 ILARCO Quad |             |
+|       |     |      | american_180_twin | 22_lr |      | Voere | American-180 ILARCO Twin |             |
+|       |     |      | rossi_gallery     | 22_lr |      | Rossi | Gallery                  |             |
+|       |     |      | ruger_standard    | 22_lr |      | Ruger | Standard                 |             |

@@ -1,39 +1,45 @@
------------------------------------------------------------------------------------------------------------------------
-THREEFOLD PATH
------------------------------------------------------------------------------------------------------------------------
-CHAT
------------------------------------------------------------------------------------------------------------------------
-2026-01-05
------------------------------------------------------------------------------------------------------------------------
-sgtdogwater
-https://youtube.com/shorts/yLx1DGO1H54?si=_b3AwHV-dTCLWPYh Guns Badassery - AR  Belt-Fed Gatling Gun
+
+# THREEFOLD PATH
+
+## CHAT
+
+## 2026-01-05
+
+### sgtdogwater
+https://youtube.com/shorts/yLx1DGO1H54?si=_b3AwHV-dTCLWPYh
+```
+Guns Badassery - AR  Belt-Fed Gatling Gun
+```
 Group of bandits whose entire armory comes from raiding a shot show exhibition hall
 They only have garbage like this
------------------------------------------------------------------------------------------------------------------------
-2026-01-06
------------------------------------------------------------------------------------------------------------------------
-sgtdogwater
+
+## 2026-01-06
+
+### sgtdogwater
 Trying to think of the smallest scale of overworld map
 while still being convincingly large enough for a Oregon trail type gameplay loop
 Considering also road infrastructure is unmaintained, there’s checkpoints on highways for the different faction borders
 of which there could be multiple within one state, you’re a convoy of multiple cars and have to stop for gas etc
 It took two guys in 1903 63 days to drive from nyc to sf using the poor interstate infrastructure back then
------------------------------------------------------------------------------------------------------------------------
+
 https://en.wikipedia.org/wiki/Horatio_Nelson_Jackson
+```
 Horatio Nelson Jackson (March 25, 1872 – January 14, 1955) was a Canadian-American physician, Army medical officer,
 businessman, and automobile pioneer. In 1903, he and his hired mechanic and driving partner Sewall K. Crocker became
 the first people to drive an automobile across the United States, a road trip from San Francisco to New York City...
------------------------------------------------------------------------------------------------------------------------
+```
+
 The car they drove went to a max speed of 70mph
 Assuming infrastructure degrades by this much in threefold path America, plus political instability and frequent stops,
 carrying a ton of shit in a convoy of slow moving armored trucks, it maybe takes longer?
 Zach exists in this game and he has a weird 22lr based armory
 Backpack that is only filled with loose ammo
------------------------------------------------------------------------------------------------------------------------
-2026-01-11
------------------------------------------------------------------------------------------------------------------------
-belimoth
+
+## 2026-01-11
+
+### belimoth
 https://bsky.app/profile/beetlemoses.bsky.social/post/3mccuzvkfec2y
+```
 Three panel comic.
 Panel one: a person introducing two friends at a party. He points to one and says "this is Wyatt.
 He’s from an upper dimension." Wyatt is a humanoid celestial being.
@@ -41,76 +47,85 @@ Panel 2: Wyatt says "oh, haha. I wouldn’t say 'upper'…" while doing a hand g
 He accidentally bumps a girls drink standing next to him.
 Panel three: the girl says "my drink!" And the solo cup appears to be tweaking through multiple dimensions.
 Wyatt stands awkwardly with his hands drawn back.
------------------------------------------------------------------------------------------------------------------------
+```
+
 https://x.com/belimoth/status/1091424238257520640
------------------------------------------------------------------------------------------------------------------------
-2026-01-18
------------------------------------------------------------------------------------------------------------------------
-belimoth
+
+## 2026-01-18
+
+### belimoth
 i have written down three or four potential asteroid impacts as potential draugbverse plot points and rather than try
 and fix the timelines so it works as a single event i'm just gonna say that asteroid impacts are constantly happening
 maybe one of them fucked up the moon cowboy bebop style so secondary and tertiary impact events from moon fragments
 happen for a few centuries; it would suck if shattering the cosmic feminine had consequences for future generations
------------------------------------------------------------------------------------------------------------------------
-sgtdogwater
+
+### sgtdogwater
 All the armored trucks are self driving which is why you can hang out in the back with the stash while staring at your
 field laptop; You’re on one of these guys [image]
------------------------------------------------------------------------------------------------------------------------
-2026-01-20
------------------------------------------------------------------------------------------------------------------------
-sgtdogwater
+
+## 2026-01-20
+
+### sgtdogwater
 https://bsky.app/profile/dim0kq.bsky.social/post/3mcvehqtp4s2t
------------------------------------------------------------------------------------------------------------------------
-2026-01-21
------------------------------------------------------------------------------------------------------------------------
-sgtdogwater
+
+## 2026-01-21
+
+### sgtdogwater
 Horses were an actual widespread option for hauling shit and transport during wwii bc a lot of countries had limited
 capacity for mechanized/automotive transport, mostly the nazis and USSR
 Even more pronounced in Germany which had neither oil nor automobile capacity
 Meanwhile there’s like a centuries old built up capacity for producing, employing, and feeding horses
 The legendary mechanized Germans with advanced engineering spent it all on needlessly heavy tanks and inventing the
 assault rifle meanwhile everything was transported by horses
------------------------------------------------------------------------------------------------------------------------
-belimoth
+
+### belimoth
 horse war real...
------------------------------------------------------------------------------------------------------------------------
-2026-01-23
------------------------------------------------------------------------------------------------------------------------
-kron
+
+## 2026-01-23
+
+### kron
 i dunno why but it brought to mind the old soviet analog tech aesthetic, even tho it's digital
-https://www.youtube.com/shorts/89-HcFtpycs Ordnance - Cold War Soviet Army 2K12 Kub Surface-to-Air Missile Seeker
+
+https://www.youtube.com/shorts/89-HcFtpycs
+```
+Ordnance - Cold War Soviet Army 2K12 Kub Surface-to-Air Missile Seeker
+```
+
 which is basically alchemy to me
------------------------------------------------------------------------------------------------------------------------
-belimoth
+
+### belimoth
 basically the same thing as an heirloom mechanical watch movement
 my grandpa left me this gps module, he was a soviet 2k12 kub surface-to-air missile
------------------------------------------------------------------------------------------------------------------------
-kron
+
+### kron
 Haha yeah
 I love seeing the little radar dishes inside the nose cones on old missiles and jets
 I know it's aerodynamics but it always looks like they are hiding some embarrassing feature behind cosmetics 💅
------------------------------------------------------------------------------------------------------------------------
-sgtdogwater
+
+### sgtdogwater
 What was that saying again
 Why do you need a memory allocator in a cruise missile or something
------------------------------------------------------------------------------------------------------------------------
-kron
+
+### kron
 Thanks Google; [image]; I just wanted to find the quote
 Earlier today Google photos REFUSED to search for a gif from SOMA for me
 All because I said it was of fisting an alien sphincter
------------------------------------------------------------------------------------------------------------------------
-sgtdogwater
+
+### sgtdogwater
 https://devblogs.microsoft.com/oldnewthing/20180228-00/?p=98125
+```
 The Old New Thing
 Raymond Chen
 An amusing story about a practical use of the null garbage collecto...
 The computer itself ceases to exist.
 An amusing story about a practical use of the null garbage collecto...
------------------------------------------------------------------------------------------------------------------------
-kron
+```
+
+### kron
 I feel like 2018 is going to be remembered as the Pinnacle of computing
------------------------------------------------------------------------------------------------------------------------
-sgtdogwater
+
+### sgtdogwater
+```
 "This sparked an interesting memory for me. I was once working with a customer who was producing on-board software for
 a missile. In my analysis of the code, I pointed out that they had a number of problems with storage leaks. Imagine my
 surprise when the customers chief software engineer said "Of course it leaks". He went on to point out that they had
@@ -118,89 +133,90 @@ calculated the amount of memory the application would leak in the total possible
 doubled that number. They added this much additional memory to the hardware to "support" the leaks. Since the missile
 will explode when it hits its target or at the end of its flight, the ultimate in garbage collection is performed
 without programmer intervention."
------------------------------------------------------------------------------------------------------------------------
-sgtdogwater
+```
+
+### sgtdogwater
 Of course now RAM is expensive so you might want to save a few bucks on onboard memory
------------------------------------------------------------------------------------------------------------------------
-2026-01-24
------------------------------------------------------------------------------------------------------------------------
-sgtdogwater
+
+## 2026-01-24
+
+### sgtdogwater
 Image
 All my notes for every topic are in one notepad
------------------------------------------------------------------------------------------------------------------------
+
 Why is the US consistently in the Old Testament or book of revelations
 Don’t even need to make up an alien presence to set Stalker in the US
------------------------------------------------------------------------------------------------------------------------
-belimoth
+
+### belimoth
 "no one can tell the difference between anomalies and climate change" seems good
 our heros have destroyed the artifact and saved the town,
 but not from the flaming tornados as previously hoped thosewere natural it turns out
------------------------------------------------------------------------------------------------------------------------
-sgtdogwater
+
+### sgtdogwater
 What are stealth robotics
 "I'm recruiting for a Founding Simulation Factory Lead at a stealth robotics company. They're building a simulation
 engine that generates training data for robots at a scale that's never been possible before."
------------------------------------------------------------------------------------------------------------------------
+
 https://bsky.app/profile/abeardedpanda.bsky.social/post/3md7febqb522o
 https://fixupx.com/i/status/2014904349739094502 Soundgarten of BanBan (@AnimeSerbia) - "The vtuber I have been watching
 has been leaving me encoded messages in her streams that only I can understand. Tomorrow I'm going to carry out her
 plan and go to the Bass Pro Pyramid and stick my hand directly in the cash register."
------------------------------------------------------------------------------------------------------------------------
-2026-01-25
------------------------------------------------------------------------------------------------------------------------
+
+## 2026-01-25
+
 https://youtu.be/t3H9-C8XO78?si=Pd6Ud1Icp2Fux1G- Drumcorps - Better Days
 https://youtu.be/RVcPG0xvQAs?si=WQu_3c995K4I0308 Blank Face - How To Climb Any Fence
 https://youtu.be/E6PWWVt7wH4?si=P7MvZh0YMy5W7qMI Drumcorps - The Importance of Stealth
 https://youtu.be/D6Oa1UAdYG0?si=OjV1-6TkXHoUPeHA Drumcorps - Citizen Consumer
------------------------------------------------------------------------------------------------------------------------
-2026-01-26
------------------------------------------------------------------------------------------------------------------------
+
+## 2026-01-26
+
 https://bsky.app/profile/jpbrammer.bsky.social/post/3mddpvpymls2h
 I have had "a giant MALE mystical sea creature" stuck in my dome all day like I can't stop thinking it
 "So let me get this right, the government created a FAKE snowstorm so that Leviathan ( a giant MALE mystical sea
 creature similar to Godzilla but way stronger and bigger allegedly) from the Bible does not fully thaw out. If it does
 thaw it will destroy the world because only God can defeat this creature like he did the female so that she didn’t
 reproduce. Did I get it right 🤧😭 👀"
------------------------------------------------------------------------------------------------------------------------
-sgtdogwater
+
+### sgtdogwater
 Threefold path apocalypse could either be stalker-esque unknowable alien Occurrence or literally a giant snake the size of hawaii
------------------------------------------------------------------------------------------------------------------------
-belimoth
+
+### belimoth
 really good; watch video in swat city; reposting; [video]
 fucking, falun gong tried to warn us about the snake via interpretive dance but we didn't listen
------------------------------------------------------------------------------------------------------------------------
+
 we killed the giant snake because we thought it was causing the flaming tornados
 big quest because of an urban legend
 the institute thanks you for your service now go away while we catalogue all of this snake meat
------------------------------------------------------------------------------------------------------------------------
-sgtdogwater
+
+### sgtdogwater
 Insert quote from art of war
 Yeah but the Fear zone manifests all this shit as real
 Zone where the Secret is real but only if it’s unhinged conspiracy theories
 Can’t tell if it’s the Institute enabling rubes or its the Fear Zone
 (The Fear Zone matches exactly to the 2025 state borders of Ohio)
 Not sure how it affects lebrons legacy rn
------------------------------------------------------------------------------------------------------------------------
-belimoth
+
+### belimoth
 institute mandatory "public can't know about this stuff" rule because the public knowing abojt stuff is what makes it
 real enough to escape containment
------------------------------------------------------------------------------------------------------------------------
-kron
+
+### kron
 Horrifying
 Sounds very much like Facebook during COVID
------------------------------------------------------------------------------------------------------------------------
-sgtdogwater
+
+### sgtdogwater
 Threefold path world is designed by god to make you lose arguments with facebook grandpas
 Abrahamic god probably
 Or a stalker-like unknowable space entity. Doesn’t matter you’re losing that argument
------------------------------------------------------------------------------------------------------------------------
-belimoth
+
+### belimoth
 tired reasonable guy with common sense surrounded by inbred idiots who are always more correct than him
 data center full of monkeys generating ai videos of innocent ice officers brutalizing protestors unfortunately it has
 a lot of source material to train the model on
------------------------------------------------------------------------------------------------------------------------
-2026-01-27
------------------------------------------------------------------------------------------------------------------------
+
+## 2026-01-27
+
 https://bsky.app/profile/winterk.bsky.social/post/3kpqfzoktxz2w
 winter (@winterk.bsky.social)
 panel 1: guy rushing in says "MY FAMICOM CARTS!!
@@ -209,76 +225,75 @@ panel 2: guy, gathering cart pieces, says " how could you, these are irreplaceab
 mouse says " dead world"
 panel 3: mouse says: artifacts of the dead world will weaken us
 panel 4: guy shouts " hey! " as mouse knocks over world of nintendo display kiosk. mouse says: I'm growing stronger.
------------------------------------------------------------------------------------------------------------------------
-sgtdogwater
+
+### sgtdogwater
 Sgt Dogwater was manifested as a harbinger of change and loss of the old world
 Fortnite skin mascot turned into flesh and blood
------------------------------------------------------------------------------------------------------------------------
-belimoth
+
+### belimoth
 like batty from fern gully
 paranoia agent but the populace has been reading too much ai news trained on splatoon lore
------------------------------------------------------------------------------------------------------------------------
-2026-01-29
------------------------------------------------------------------------------------------------------------------------
+
+## 2026-01-29
+
 https://youtube.com/shorts/oc8Hm7uLJbE?si=jYs72GIBfobb1mbt Civilian Tactical - NEW Holosun Thermal Optic From *HALO*
------------------------------------------------------------------------------------------------------------------------
-2026-01-30
------------------------------------------------------------------------------------------------------------------------
+
+## 2026-01-30
+
 https://bsky.app/profile/captainfubar.bsky.social/post/3mdnsk7hwac23
 A Russian soldier assigned to anti-drone duty wears FPV goggles outfitted with a thermal camera salvaged from a drone
 and haphazardly secured with duct tape. This setup gives him thermal vision for spotting incoming Ukrainian drones
------------------------------------------------------------------------------------------------------------------------
-sgtdogwater
+
+### sgtdogwater
 Speaking of VATS; I love this juxtaposed with a plain ak74
------------------------------------------------------------------------------------------------------------------------
-belimoth
+
+### belimoth
 various robot masks from defeated enemies
------------------------------------------------------------------------------------------------------------------------
-sgtdogwater
+
+### gtdogwater
 That’s later raids in the progression I think
 Definitely a mechanic for the player too, various HUDs and drones
------------------------------------------------------------------------------------------------------------------------
+
 https://youtu.be/v_BPcqIL0KY?si=Hsx47Akk33AYO0AJ National Geographic - Preventative Avalanche
------------------------------------------------------------------------------------------------------------------------
-2026-02-01
------------------------------------------------------------------------------------------------------------------------
+
+## 2026-02-01
+
 https://bsky.app/profile/kinofabino.bsky.social/post/3mdtazhvie22w
 https://bsky.app/profile/cheflubu.bsky.social/post/3mdupxb2pj22y
------------------------------------------------------------------------------------------------------------------------
-2026-02-02
------------------------------------------------------------------------------------------------------------------------
-belimoth
+
+## 2026-02-02
+
+### belimoth
 3fp you should be able to find actual nerf guns
------------------------------------------------------------------------------------------------------------------------
-sgtdogwater
+
+### sgtdogwater
 I love ididathing; Did you see his chain axe
 There should be tons of 3d printed garbage too
 lower end of gun upgrades includes grips or handguards made of PLA or nerf parts
------------------------------------------------------------------------------------------------------------------------
-belimoth
+
+### belimoth
 you can shoot nerf darts to pull agro or nitro canisters or a real bullet exacy once and the gun explodes into pieces
 handle and scope and foregrip still usable after failure
------------------------------------------------------------------------------------------------------------------------
-sgtdogwater
+
+### sgtdogwater
 Fisher price holo sight
------------------------------------------------------------------------------------------------------------------------
-belimoth
+
+### belimoth
 ya it just ruins your view; no parallax; better than nothing? (no)
------------------------------------------------------------------------------------------------------------------------
+
 https://youtu.be/SaynRhIIzNs?si=aqjA2KK4GWM5Qs0J GamersPrey - COR3 Reveal Trailer 4K
------------------------------------------------------------------------------------------------------------------------
-yricher
+
+### yricher
 Vatnik bros are making vatniks in space
------------------------------------------------------------------------------------------------------------------------
+
 https://www.tiktok.com/t/ZP8ucwtJG
------------------------------------------------------------------------------------------------------------------------
-2026-02-05
------------------------------------------------------------------------------------------------------------------------
+
+## 2026-02-05
+
 https://bsky.app/profile/natclayton.bsky.social/post/3me4x5c4r2k25
 "Deep in the South American jungle, four men come together to deliver a dangerous cargo. Playing both online or through
 Nintendo GameShare, you and up to three friends will balance, ford, and drive their trucks through perilous landscapes
 when SORCERER launches on Nintendo Switch Systems."
------------------------------------------------------------------------------------------------------------------------
-yricher
+
+### yricher
 I love sorceror so much
------------------------------------------------------------------------------------------------------------------------

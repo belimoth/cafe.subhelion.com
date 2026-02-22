@@ -1,8 +1,6 @@
------------------------------------------------------------------------------------------------------------------------
-SWAT CITY
------------------------------------------------------------------------------------------------------------------------
-2026-01-02
------------------------------------------------------------------------------------------------------------------------
+# SWAT CITY
+
+## 2026-01-02
 
 creepy or skedar - dead sun by british murder boys
 
@@ -22,21 +20,15 @@ and with different interruptions like a highway cutting through at a random elev
 golden girls -> four witches coven in the woods
 dick van dyke -> very tall clown jester lawyer last minute defense attorney
 
------------------------------------------------------------------------------------------------------------------------
-2026-01-03
------------------------------------------------------------------------------------------------------------------------
+## 2026-01-03
 
 swat city pda web miniproduct
 
------------------------------------------------------------------------------------------------------------------------
-2026-01-03
------------------------------------------------------------------------------------------------------------------------
+## 2026-01-03
 
 eyes wide shut party where vips (GOVPOL, IROYAL, GANGER) play point at a victim to elect a new PARIAH and then human hunt thru the gala mansion
 
------------------------------------------------------------------------------------------------------------------------
-2026-01-04
------------------------------------------------------------------------------------------------------------------------
+## 2026-01-04
 
 dr who second doctor episode storytelling fictional characters coming to life from various time settings and planets
 
@@ -82,9 +74,7 @@ helmets scan id implants one (1) letter/digit at a time and not vey fast; ICEPOL
 
 sewers have ladder drops that are too high for a child to jump but an adult can handle it (real reasons for kids to avoid urbex) also children have lower lung capacity without implants
 
------------------------------------------------------------------------------------------------------------------------
-2026-01-06
------------------------------------------------------------------------------------------------------------------------
+## 2026-01-06
 
 pool cleaner activity with skimmer net
 
@@ -92,9 +82,7 @@ future hacking activity/captcha = origami folding to match a shape
 
 fluid game but you have to also steer the fluid around to push levers
 
------------------------------------------------------------------------------------------------------------------------
-2026-01-06
------------------------------------------------------------------------------------------------------------------------
+## 2026-01-06
 
 *** ai brains attached to mainframes that run npc missions for the factions and can be shot to turn them off
 *** brains can be picked up and moved to other brain stations
@@ -114,9 +102,7 @@ PDA
 > LIVE: (broadcast media events)
 > MAP
 
------------------------------------------------------------------------------------------------------------------------
-2026-01-08
------------------------------------------------------------------------------------------------------------------------
+## 2026-01-08
 
 craig ferguson late late show dialog for swat city scanner
 
@@ -126,9 +112,7 @@ any liquid ai can csubhorn any other via drip dilution titration, weaker ais nea
 
 ais can subhorn their own derivatives easily
 
------------------------------------------------------------------------------------------------------------------------
-2026-01-09
------------------------------------------------------------------------------------------------------------------------
+## 2026-01-09
 
 charmed multi-armed person hindu guy episode
 
@@ -140,9 +124,7 @@ examples:
 
 star wars battlefront style hero spawn that anyone can claim: federal agent mr beast; always plays and broadcasts the federal agent mr beast song; any criminal can tune in to this station to gaing L4D2 character outline of mr beast thru walls; many vs one pvp mission always
 
------------------------------------------------------------------------------------------------------------------------
-2026-01-09
------------------------------------------------------------------------------------------------------------------------
+## 2026-01-09
 
 CRYPTO mission abduct randos to turn them into CRASHOs and dump them in a random ruins or sewer cell; they can use captured business fronts to do this easily to solo customers; they frequently do it to their own gang members as a hazing ritual; 50% of new members get the crasho treatment and a small percentage of those find their way back to the gang
 
@@ -176,9 +158,8 @@ swat city engram machine sucks essens out through root chakra in the crotch, see
 
 maybe different future engram machines pull from one or more different chakra points
 
------------------------------------------------------------------------------------------------------------------------
-2026-01-11
------------------------------------------------------------------------------------------------------------------------
+## 2026-01-11
+
 MISCELLANEOUS
 
 IDENTIFICATION COLORS
@@ -191,34 +172,30 @@ factions with expensive broadcast tech and airwave superiority can download heal
 
 king in yellow
 
------------------------------------------------------------------------------------------------------------------------
-2026-01-13
------------------------------------------------------------------------------------------------------------------------
+## 2026-01-13
 
 *** makeup application as minigame not character creator
 
 see sims pet creator coat pattern texture shifts along body control
 see marathon short film girl X lipstick and checkerboard eyebrows
 
------------------------------------------------------------------------------------------------------------------------
-2026-01-27
------------------------------------------------------------------------------------------------------------------------
-sgtdogwater
+## 2026-01-27
+
+### sgtdogwater
 Unlocking 25 year old trauma watching hexxus take over a bulldozer or whatever
------------------------------------------------------------------------------------------------------------------------
-belimoth
+
+### belimoth
 owned; it's happening again in a swat city side mission
 more than one robot rebellion to worry about that one is black sludge gas powered vehicle rebellion
------------------------------------------------------------------------------------------------------------------------
-sgtdogwater
+
+### sgtdogwater
 Sludge robot symbiosis
------------------------------------------------------------------------------------------------------------------------
-belimoth
+
+### belimoth
 ben 10 alien that merges with a crane
 but also one of the older satans
 many satans, take your pick
------------------------------------------------------------------------------------------------------------------------
-sgtdogwater
+
+### sgtdogwater
 Demon of Teleology
 "My computer hates me" yeah it does, for real now
------------------------------------------------------------------------------------------------------------------------
