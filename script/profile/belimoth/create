@@ -1,0 +1,5 @@
+#!/bin/bash
+
+set -o errexit
+
+aws s3 mb s3://cafe.subhelion.com --region us-west-2
