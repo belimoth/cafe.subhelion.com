@@ -15,8 +15,8 @@ edit  cafe.subhelion.com
 with system
 
 ```sh
-clone subhelion/cafe.subhelion.com
-edit  subhelion/cafe.subhelion.com
+code-clone subhelion/cafe.subhelion.com
+code-edit  subhelion/cafe.subhelion.com
 ```
 
 without system
