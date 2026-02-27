@@ -10,6 +10,8 @@
 <br>
 <p>Our notes and bookmarks.</p>
 
+# Index
+
 <h3>Links</h3>
 <ul>
 <li><a href=/profile>Profile</a> - Artists, authors, directors, editors, workers
@@ -65,8 +67,24 @@
 <li><a class=new href=/tyrant-engine>Tyrant Engine </a>
 </ul>
 
+# Overview
 
-# Index
+## Notes
+
+|                                    |                                                                        |                                                                   |
+|------------------------------------|------------------------------------------------------------------------|-------------------------------------------------------------------|
+| https://cafe.subhelion.com/art     | Visual art, photography, sculpture; concept style and inspiration      | https://github.com/subhelion/cafe.subhelion.com/tree/main/art     |
+| https://cafe.subhelion.com/code    | Programming and video game development                                 | https://github.com/subhelion/cafe.subhelion.com/tree/main/code    |
+| https://cafe.belimoth.com/code     | Programming and video game development                                 | https://github.com/belimoth/cafe.belimoth.com/tree/main/code      |
+| https://cafe.subhelion.com/fiction | Story, speculation, lore, myth; concept setting and inspiration        | https://github.com/subhelion/cafe.subhelion.com/tree/main/fiction |
+| https://cafe.subhelion.com/history | History                                                                | https://github.com/subhelion/cafe.subhelion.com/tree/main/history |
+| https://cafe.subhelion.com/media   | Films, TV shows, anime, manga, comics                                  | https://github.com/subhelion/cafe.subhelion.com/tree/main/media   |
+| https://cafe.subhelion.com/monster | Aliens, creatures, devils, dinosaurs; symbolic and speculative biology | https://github.com/subhelion/cafe.subhelion.com/tree/main/monster |
+| https://cafe.subhelion.com/music   | Music                                                                  | https://github.com/subhelion/cafe.subhelion.com/tree/main/music   |
+| https://cafe.subhelion.com/nature  | Earth science and biology                                              | https://github.com/subhelion/cafe.subhelion.com/tree/main/nature  |
+| https://cafe.belimoth.com/earth    | Earth science and biology                                              | https://github.com/belimoth/cafe.belimoth.com/tree/main/earth     |
+| https://cafe.subhelion.com/war     | Weapons, equipment, vehicles                                           | https://github.com/subhelion/cafe.subhelion.com/tree/main/war     |
+| https://cafe.belimoth.com/make     | Hobbies and handicraft                                                 | https://github.com/belimoth/cafe.belimoth.com/tree/main/make      |
 
 ## Projects
 
@@ -167,7 +185,7 @@ Shorties are short self-contained chapters made by guest directors from other st
 
 #### DREAD CHECK PROFILES
 
-Profiles are stand-alone web games to promote related titles
+Profiles are stand-alone web games to promote related titles.
 
 |                                         |  |
 |-----------------------------------------|--|
@@ -175,6 +193,8 @@ Profiles are stand-alone web games to promote related titles
 | DREAD CHECK PROFILES: SWAT CITY SKINNER |  |
 | DREAD CHECK PROFILES: SWAT CITY STADIUM |  |
 | DREAD CHECK PROFILES: SWAT CITY SWIMMER |  |
+
+Also include in PROFILES is the DREAD CHECK MEGAZINE, a zip of pdfs of any and all concept art, illustration, short stories, and comics that have been written for DREAD CHECK or onboarded as guest setting.
 
 ### Other Subhelion Games
 
@@ -210,27 +230,6 @@ Hybrid turn-based tactics and fighting game in a dark fantasy setting.
 | [clay/font ](/project/tool/clay/font)  | Pixel font generator and utilities |
 | [clay/world](/project/tool/clay/world) | Level editor                       |
 
-
-
-### Notes
-
-|                                    |                                                                        |                                                                   |
-|------------------------------------|------------------------------------------------------------------------|-------------------------------------------------------------------|
-| https://cafe.subhelion.com/art     | Visual art, photography, sculpture; concept style and inspiration      | https://github.com/subhelion/cafe.subhelion.com/tree/main/art     |
-| https://cafe.subhelion.com/code    | Programming and video game development                                 | https://github.com/subhelion/cafe.subhelion.com/tree/main/code    |
-| https://cafe.belimoth.com/code     | Programming and video game development                                 | https://github.com/belimoth/cafe.belimoth.com/tree/main/code      |
-| https://cafe.subhelion.com/fiction | Story, speculation, lore, myth; concept setting and inspiration        | https://github.com/subhelion/cafe.subhelion.com/tree/main/fiction |
-| https://cafe.subhelion.com/history | History                                                                | https://github.com/subhelion/cafe.subhelion.com/tree/main/history |
-| https://cafe.subhelion.com/media   | Films, TV shows, anime, manga, comics                                  | https://github.com/subhelion/cafe.subhelion.com/tree/main/media   |
-| https://cafe.subhelion.com/monster | Aliens, creatures, devils, dinosaurs; symbolic and speculative biology | https://github.com/subhelion/cafe.subhelion.com/tree/main/monster |
-| https://cafe.subhelion.com/music   | Music                                                                  | https://github.com/subhelion/cafe.subhelion.com/tree/main/music   |
-| https://cafe.subhelion.com/nature  | Earth science and biology                                              | https://github.com/subhelion/cafe.subhelion.com/tree/main/nature  |
-| https://cafe.belimoth.com/earth    | Earth science and biology                                              | https://github.com/belimoth/cafe.belimoth.com/tree/main/earth     |
-| https://cafe.subhelion.com/war     | Weapons, equipment, vehicles                                           | https://github.com/subhelion/cafe.subhelion.com/tree/main/war     |
-| https://cafe.belimoth.com/make     | Hobbies and handicraft                                                 | https://github.com/belimoth/cafe.belimoth.com/tree/main/make      |
-
-
-
 ### Sites
 
 |                                                              |                        |                                        |                                                  |
@@ -257,10 +256,10 @@ Hybrid turn-based tactics and fighting game in a dark fantasy setting.
 
 ### Teams
 
-|                                |       |
-|--------------------------------|-------|
-| SUBHELION                      | label |
-| SUBHELION/DREAD CHECK/PROFILES | team  |
-| SUBHELION/DREAD CHECK/CHAPTERS | team  |
-| SUBHELION/DREAD CHECK/SHORTIES | team  |
-| SUBHELION/DREAD CHECK/PRODUCTS | team  |
+|                                |       |                                                                                         |
+|--------------------------------|-------|-----------------------------------------------------------------------------------------|
+| SUBHELION                      | label | --                                                                                      |
+| SUBHELION/DREAD CHECK/PROFILES | team  | Concept artists illustrators and writers that freelance or publish under their own name |
+| SUBHELION/DREAD CHECK/CHAPTERS | team  | Designers and programmers; core content team                                            |
+| SUBHELION/DREAD CHECK/SHORTIES | team  | Designers and programmers; guest content team                                           |
+| SUBHELION/DREAD CHECK/PRODUCTS | team  | Support and production                                                                  |
