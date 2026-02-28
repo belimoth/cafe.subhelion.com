@@ -5,90 +5,83 @@
 <br>
 <p>Our notes and bookmarks.</p>
 
-| Links               |                                               |
+## Links
+
+|                     |                                               |
 | ------------------- | --------------------------------------------- |
 | [Profile](/profile) | Artists, authors, directors, editors, workers |
 | [Shelf  ](/shelf  ) | Index of offline works                        |
 | [Site   ](/site   ) | Index of online works                         |
 
-| Notes                                  |                                                                        |
-| -------------------------------------- | ---------------------------------------------------------------------- |
-| <a class=new href=/art    >Art    </a> | Visual art, photography, sculpture                                     |
-| <a class=new href=/code   >Code   </a> | Programming and video game development                                 |
-| <a class=new href=/fiction>Fiction</a> | Story, speculation, lore, myth                                         |
-| <a class=new href=/history>History</a> | History                                                                |
-| <a           href=/media  >Media  </a> | Films, TV shows, anime, manga, comics                                  |
-| <a           href=/monster>Monster</a> | Aliens, creatures, devils, dinosaurs; symbolic and speculative biology |
-| <a           href=/music  >Music  </a> | Music                                                                  |
-| <a           href=/nature >Nature </a> | Earth science and biology                                              |
-| <a class=new href=/tech   >Tech   </a> | Technology                                                             |
-| <a           href=/war    >War    </a> | Weapons, equipment, vehicles                                           |
+## Notes
 
-| Projects                                                       | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |                                                 |
-| -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------- |
-| Code projects                                                  |                                                                                                                                      |                                                 |
-| [Boss Guts](/project/boss-guts)                                | Reverse-engineering and decompilation library                                                                                        | [Source](https://github.com/belimoth/boss-guts) |
-| [Engine   ](/project/engine)                                   | Function library                                                                                                                     | [Source](https://github.com/subhelion/engine  ) |
-| [System   ](/project/system)                                   | Script library                                                                                                                       | [Source](https://github.com/subhelion/system  ) |
-| [Template ](/project/template)                                 | Project template library                                                                                                             | [Source](https://github.com/subhelion/template) |
-| Game projects                                                  |                                                                                                                                      |                                                 |
-| [DREAD CHECK](/project/dread-check)                            | --                                                                                                                                   |
-| Dread Check Chapters                                           | --                                                                                                                                   |
-| [Draugb              ](/project/dread-check/draugb)            | --                                                                                                                                   |
-| [Horse War           ](/project/dread-check/horse-war)         | --                                                                                                                                   |
-| [Howling Commandos   ](/project/dread-check/howling-commandos) | --                                                                                                                                   |
-| [Swat City           ](/project/dread-check/swat-city)         | --                                                                                                                                   |
-| Dread Check Profiles                                           | --                                                                                                                                   |
-| [Horse War Rally  ](/project/dread-check/horse-war-rally)      | --                                                                                                                                   |
-| [Swat City Scanner](/project/dread-check/swat-city-scanner)    | --                                                                                                                                   |
-| [Swat City Skinner](/project/dread-check/swat-city-skinner)    | --                                                                                                                                   |
-| [Swat City Swimmer](/project/dread-check/swat-city-swimmer)    | --                                                                                                                                   |
-| Dread Check Shorties                                           | --                                                                                                                                   |
-| [Blue Monsoon  ](/project/dread-check/blue-monsoon)            | --                                                                                                                                   |
-| [Red Cry       ](/project/dread-check/red-cry)                 | --                                                                                                                                   |
-| [Threefold Path](/project/dread-check/threefold-path)          | --                                                                                                                                   |
-| Other games                                                    | --                                                                                                                                   |
-| [Untitled Fantasy Game](project/untitled-fantasy-game)         | --                                                                                                                                   |
-| [Untitled History Game](project/untitled-history-game)         | --                                                                                                                                   |
-| [Simir                ](project/simir)                         | --                                                                                                                                   |
-| [Tyrant Engine        ](project/tyrant-engine)                 | Hybrid turn-based tactics and fighting game in a dark fantasy setting                                                                |
-| Tool projects                                                  |                                                                                                                                      |
-| [CLAY      ](/project/clay)                                    | Game development framework                                                                                                           |
-| [clay/bot  ](/project/clay/bot)                                | --                                                                                                                                   |
-| [clay/color](/project/clay/color)                              | Color and palette utilities                                                                                                          |
-| [clay/data ](/project/clay/data)                               | --                                                                                                                                   |
-| [clay/font ](/project/clay/font)                               | Pixel font generator and utilities                                                                                                   |
-| [clay/model](/project/clay/model)                              | 3D art editor                                                                                                                        |
-| [clay/paint](/project/clay/paint)                              | 2D art editor                                                                                                                        |
-| [clay/pfx  ](/project/clay/pfx)                                | --                                                                                                                                   |
-| [clay/sfx  ](/project/clay/sfx)                                | --                                                                                                                                   |
-| [clay/vfx  ](/project/clay/vfx)                                | --                                                                                                                                   |
-| [clay/world](/project/clay/world)                              | Level editor                                                                                                                         |
+<table>
+<tr><td><a class=new href=/art    >Art    </a><td>Visual art, photography, sculpture
+<tr><td><a class=new href=/code   >Code   </a><td>Programming and video game development
+<tr><td><a class=new href=/fiction>Fiction</a><td>Story, speculation, lore, myth
+<tr><td><a class=new href=/history>History</a><td>History
+<tr><td><a           href=/media  >Media  </a><td>Films, TV shows, anime, manga, comics
+<tr><td><a           href=/monster>Monster</a><td>Aliens, creatures, devils, dinosaurs; symbolic and speculative biology
+<tr><td><a           href=/music  >Music  </a><td>Music
+<tr><td><a           href=/nature >Nature </a><td>Earth science and biology
+<tr><td><a class=new href=/tech   >Tech   </a><td>Technology
+<tr><td><a           href=/war    >War    </a><td>Weapons, equipment, vehicles
+</table>
 
-| Sites                                                           |                        |                                                           |
-| --------------------------------------------------------------- | ---------------------- | --------------------------------------------------------- |
-| [belimoth.com         ](http://belimoth.com)                    | Zach's portfolio       | [Source](https://github.com/belimoth/belimoth.com)        |
-| [subhelion.com        ](http://subhelion.com)                   | Team's portfolio       | [Source](https://github.com/subhelion/subhelion.com)      |
-| [belimoth.itch.io     ](http://belimoth.itch.io)                | Zach's prototypes      | --                                                        |
-| [subhelion.itch.io    ](http://subhelion.itch.io)               | Team's products        | --                                                        |
-| [cafe.belimoth.com    ](http://cafe.belimoth.com)               | Zach's notes and links | [Source](https://github.com/belimoth/cafe.belimoth.com  ) |
-| [cafe.subhelion.com   ](http://cafe.subhelion.com)              | Team's notes and links | [Source](https://github.com/subhelion/cafe.subhelion.com) |
-| data.subhelion.com                                              | Data server            | [Source](https://github.com/subhelion/data.subhelion.com) |
-| [subhelion.bsky.app   ](https://bsky.app/profile/subhelion.com) | Subhelion social media | --                                                        |
-| [subhelion.discord.com](https://discord.gg/tABmNbQVz9)          | Subhelion chat         | --                                                        |
+## Projects
 
-| SUBHELION.ITCH.IO                       |      |
-| --------------------------------------- | ---- |
-| DREAD CHECK BRAVO                       | todo |
-| DREAD CHECK PRIME                       | todo |
-| DREAD CHECK SUPER                       | todo |
-| DREAD CHECK MEGAZINE                    | todo |
-| DREAD CHECK PROFILES: SWAT CITY SCANNER | todo |
+<table>
+<tr><td colspan=3><h3>Code projects</h3>
+<tr><td><a class=new href=/project/boss-guts>Boss Guts                          </a><td>Reverse-engineering and decompilation library                         <td><a href=https://github.com/belimoth/boss-guts>Source</a>
+<tr><td><a class=new href=/project/engine   >Engine                             </a><td>Function library                                                      <td><a href=https://github.com/subhelion/engine  >Source</a>
+<tr><td><a class=new href=/project/system   >System                             </a><td>Script library                                                        <td><a href=https://github.com/subhelion/system  >Source</a>
+<tr><td><a class=new href=/project/template >Template                           </a><td>Project template library                                              <td><a href=https://github.com/subhelion/template>Source</a>
+<tr><td colspan=3><h3>Game projects</h3>
+<tr><td><a href=/project/dread-check>DREAD CHECK                                </a><td> --                                                                   <td>--
+<tr><td colspan=3>Dread Check Chapters
+<tr><td><li><a href=/project/dread-check/draugb           >Draugb               </a><td> --                                                                   <td>--
+<tr><td><li><a href=/project/dread-check/horse-war        >Horse War            </a><td> --                                                                   <td>--
+<tr><td><li><a href=/project/dread-check/howling-commandos>Howling Commandos    </a><td> --                                                                   <td>--
+<tr><td><li><a href=/project/dread-check/swat-city        >Swat City            </a><td> --                                                                   <td>--
+<tr><td colspan=3>Dread Check Profiles
+<tr><td><li><a href=/project/dread-check/horse-war-rally  >Horse War Rally      </a><td> --                                                                   <td>--
+<tr><td><li><a href=/project/dread-check/swat-city-scanner>Swat City Scanner    </a><td> --                                                                   <td>--
+<tr><td><li><a href=/project/dread-check/swat-city-skinner>Swat City Skinner    </a><td> --                                                                   <td>--
+<tr><td><li><a href=/project/dread-check/swat-city-swimmer>Swat City Swimmer    </a><td> --                                                                   <td>--
+<tr><td colspan=3>Dread Check Shorties
+<tr><td><li><a class=new href=/project/dread-check/blue-monsoon  >Blue Monsoon  </a><td>--                                                                   <td>--
+<tr><td><li><a class=new href=/project/dread-check/red-cry       >Red Cry       </a><td>--                                                                   <td>--
+<tr><td><li><a class=new href=/project/dread-check/threefold-path>Threefold Path</a><td>--                                                                   <td>--
+<tr><td colspan=3><h5>Other games</h5>
+<tr><td><a class=new href=project/untitled-fantasy-game>Untitled Fantasy Game   </a><td>--                                                                   <td>--
+<tr><td><a class=new href=project/untitled-history-game>Untitled History Game   </a><td>--                                                                   <td>--
+<tr><td><a class=new href=project/simir                >Simir                   </a><td>--                                                                   <td>--
+<tr><td><a class=new href=project/tyrant-engine        >Tyrant Engine           </a><td>Hybrid turn-based tactics and fighting game in a dark fantasy setting<td>--
+<tr><td colspan=3><h3>Tool projects
+<tr><td><a href=/project/clay>CLAY                                              </a><td>Game development framework                                            <td>--
+<tr><td><li><a class=new href=/project/clay/bot  >clay/bot                      </a><td>--                                                                    <td>--
+<tr><td><li><a class=new href=/project/clay/color>clay/color                    </a><td>Color and palette utilities                                           <td>--
+<tr><td><li><a class=new href=/project/clay/data >clay/data                     </a><td>--                                                                    <td>--
+<tr><td><li><a class=new href=/project/clay/font >clay/font                     </a><td>Pixel font generator and utilities                                    <td>--
+<tr><td><li><a class=new href=/project/clay/model>clay/model                    </a><td>3D art editor                                                         <td>--
+<tr><td><li><a class=new href=/project/clay/paint>clay/paint                    </a><td>2D art editor                                                         <td>--
+<tr><td><li><a class=new href=/project/clay/pfx  >clay/pfx                      </a><td>--                                                                    <td>--
+<tr><td><li><a class=new href=/project/clay/sfx  >clay/sfx                      </a><td>--                                                                    <td>--
+<tr><td><li><a class=new href=/project/clay/vfx  >clay/vfx                      </a><td>--                                                                    <td>--
+<tr><td><li><a class=new href=/project/clay/world>clay/world                    </a><td>Level editor                                                          <td>--
+</tbody>
+</table>
 
-| Teams                          |       |                                               |
-| ------------------------------ | ----- | --------------------------------------------- |
-| SUBHELION                      | label | --                                            |
-| SUBHELION/DREAD CHECK/PROFILES | team  | Concept artists illustrators and writers      |
-| SUBHELION/DREAD CHECK/CHAPTERS | team  | Designers and programmers; core content team  |
-| SUBHELION/DREAD CHECK/SHORTIES | team  | Designers and programmers; guest content team |
-| SUBHELION/DREAD CHECK/PRODUCTS | team  | Support and production                        |
+## Sites
+
+<table>
+<tr><td><a href=http://belimoth.com      >belimoth.com                      </a><td>Zach's portfolio      <td><a href=https://github.com/belimoth/belimoth.com       >Source</a>
+<tr><td><a href=http://subhelion.com     >subhelion.com                     </a><td>Team's portfolio      <td><a href=https://github.com/subhelion/subhelion.com     >Source</a>
+<tr><td><a href=http://belimoth.itch.io  >belimoth.itch.io                  </a><td>Zach's prototypes     <td>--
+<tr><td><a href=http://subhelion.itch.io >subhelion.itch.io                 </a><td>Team's products       <td>--
+<tr><td><a href=http://cafe.belimoth.com >cafe.belimoth.com                 </a><td>Zach's notes and links<td><a href=https://github.com/belimoth/cafe.belimoth.com  >Source</a>
+<tr><td><a href=http://cafe.subhelion.com>cafe.subhelion.com                </a><td>Team's notes and links<td><a href=https://github.com/subhelion/cafe.subhelion.com>Source</a>
+<tr><td>data.subhelion.com                                                      <td>Data server           <td><a href=https://github.com/subhelion/data.subhelion.com>Source</a>
+<tr><td><a href=https://bsky.app/profile/subhelion.com>subhelion.bsky.app   </a><td>Subhelion social media<td>--
+<tr><td><a href=https://discord.gg/tABmNbQVz9         >subhelion.discord.com</a><td>Subhelion chat        <td>--
+</table>
