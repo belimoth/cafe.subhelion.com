@@ -63,3 +63,26 @@ Profiles are stand-alone web games to promote related titles.
 | DREAD CHECK PROFILES: SWAT CITY SWIMMER |     |
 
 Also include in PROFILES is the DREAD CHECK MEGAZINE, a zip of pdfs of any and all concept art, illustration, short stories, and comics that have been written for DREAD CHECK or onboarded as guest setting.
+
+
+#### SUBHELION.ITCH.IO
+
+<table>
+<tr><td><a href=https://subhelion.itch.io/swat-city-scanner   >DREAD CHECK PROFILES: SWAT CITY SCANNER
+<tr><td><a href=https://subhelion.itch.io/swat-city-skinner   >DREAD CHECK PROFILES: SWAT CITY SKINNER
+<tr><td><a href=https://subhelion.itch.io/swat-city-swimmer   >DREAD CHECK PROFILES: SWAT CITY SWIMMER
+<tr><td><a href=https://subhelion.itch.io/dread-check-megazine>DREAD CHECK MEGAZINE
+<tr><td><a href=https://subhelion.itch.io/dread-check-bravo   >DREAD CHECK BRAVO
+<tr><td><a href=https://subhelion.itch.io/dread-check         >DREAD CHECK PRIME
+<tr><td><a href=https://subhelion.itch.io/dread-check-super   >DREAD CHECK SUPER
+<tr><td><a href=https://subhelion.itch.io/dread-check-forum   >DREAD CHECK FORUM
+</table>
+
+
+#### Teams
+
+<tr><td>PROFILES<td>Concept artists, illustrators, writers
+<tr><td>CHAPTERS<td>Designers, programmers; core content team
+<tr><td>SHORTIES<td>Designers, programmers; guest content team
+<tr><td>PRODUCTS<td>Support, production
+</table>
