@@ -1,6 +1,0 @@
-KEY            | LINK
----------------|---------------------------------
-jake_wyatt     | http://twitter.com/jakewyattriot
-jan_buragay    | http://twitter.com/buragay_jan
-pascal_blanche | http://twitter.com/pascalblanche
-robh_ruppel    | http://twitter.com/robhrr

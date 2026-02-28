@@ -1,0 +1,58 @@
+| LIFE         | KEY                  | NAME                 | FULL                                    | NATIVE                       |
+| ------------ | -------------------- | -------------------- | --------------------------------------- | ---------------------------- |
+| 1828 -- 1905 | jules_verne          | Jules Verne          | Jules Gabriel Verne                     | --                           |
+| 1835 -- 2910 | mark_twain           | Mark Twain           | Samuel Langhorne Clemens                | --                           |
+| 1865 -- 1936 | rudyard_kipling      | Rudyard Kipling      | Joseph Rudyard Kipling                  | --                           |
+| 1866 -- 1946 | hg_wells             | H.G. Wells           | Herbert George Wells                    | --                           |
+| 1874 -- 1915 | jerzy_zulawski       | Jerzy Żuławski       | --                                      | --                           |
+| 1876 -- 1945 | david_lindsay        | David Lindsay        | --                                      | --                           |
+| 1886 -- 1950 | olaf_stapledon       | Olaf Stapledon       | William Olaf Stapledon                  | --                           |
+| 1890 -- 1937 | hp_lovecraft         | H.P. Lovecraft       | Howard Phillips Lovecraft               | --                           |
+| 1892 -- 1973 | jrr_tolkien          | J.R.R. Tolkien       | John Ronald Reuel Tolkien               | --                           |
+| 1894 -- 1963 | aldous_huxley        | Aldous Huxley        | Aldous Leonard Huxley                   | --                           |
+| 1898 -- 1963 | cs_lewis             | C.S. Lewis           | Clive Staples Lewis                     | --                           |
+| 1903 -- 1969 | john_wyndham         | John Wyndham         | John Wyndham Parkes Lucas Beynon Harris | --                           |
+| 1907 -- 1988 | robert_heinlein      | Robert A. Heinlein   | Robert Anson Heinlen                    | --                           |
+| 1912 -- 2000 | ae_van_vogt          | A.E. van Vogt        | Alfred Elton van Vogt                   | --                           |
+| 1915 -- 1987 | james_tiptree_jr     | James Tiptree Jr.    | Alice Bradley Sheldon                   | --                           |
+| 1917 -- 2008 | arthur_c_clarke      | Arthur C. Clarke     | Sir Arthur Charles Clarke               | --                           |
+| 1918 -- 2009 | philip_jose_farmer   | Philip José Farmer   | --                                      | --                           |
+| 1919 -- 2013 | frederik_pohl        | Frederik Pohl        | Frederik George Pohl Jr.                | --                           |
+| 1920 -- 1986 | frank_herbert        | Frank Herbert        | Franklin Patrick Herbert Jr.            | --                           |
+| 1920 -- 1992 | isaac_asimov         | Isaac Asimov         | --                                      | --                           |
+| 1920 -- 2012 | ray_bradbury         | Ray Bradbury         | Ray Douglas Bradbury                    | --                           |
+| 1921 -- 2006 | stanislaw_lem        | Stanisław Lem        | Stanisław Herman Lem                    | --                           |
+| 1922 -- 2003 | hal_clement          | Hal Clement          | Harry Clement Stubbs                    | --                           |
+| 1922 -- 2007 | kurt_vonnegut        | Kurt Vonnegut        | Kurt Vonnegut Jr.                       | --                           |
+| 1925 -- 2017 | brian_aldiss         | Brian Aldiss         | Brian Wilson Aldiss                     | --                           |
+| 1926 -- 2001 | poul_anderson        | Poul Anderson        | --                                      | --                           |
+| 1925 -- 1991 | arkady_strugatsky    | Arkady Strugatsky    | Arkady Natanovich Strugatsky            | Аркадий Натанович Стругацкий |
+| 1933 -- 2012 | boris_strugatsky     | Boris Strugatsky     | Boris Natanovich Strugatsky             | Борис Натанович Стругацкий   |
+| 1928 -- 1982 | philip_k_dick        | Philip K. Dick       | Philip Kindred Dick                     | --                           |
+| 1929 -- 2018 | ursula_k_le_guin     | Ursula K. Le Guin    | Ursula Kroeber Le Guin                  | --                           |
+| 1930 -- 2009 | jg_ballard           | J.G. Ballard         | James Graham Ballard                    | --                           |
+| 1931 -- 2019 | gene_wolfe           | Gene Wolfe           | Gene Rodman Wolfe                       | --                           |
+| 1934 -- 2018 | harlan_ellison       | Harlan Ellison       | Harlan Jay Ellison                      | --                           |
+| 1937 -- 1995 | roger_zelazny        | Roger Zelazny        | Roger Joseph Zelazny                    | --                           |
+| 1938 --      | larry_niven          | Larry Niven          | --                                      | --                           |
+| 1939 --      | margaret_atwood      | Margaret Atwood      | --                                      | --                           |
+| 1941 --      | gregory_benford      | Gregory Benford      | --                                      | --                           |
+| 1942 -- 2008 | michael_crichton     | Michael Crichton     | John Michael Crichton                   | --                           |
+| 1942 -- 2020 | mike_resnick         | Mike Resnick         | Michael Diamond Resnick                 | --                           |
+| 1947 --      | brian_herbert        | Brian Herbert        | Brian Patrick Herbert                   | --                           |
+| 1947 --      | john_varley          | John Varley          | John Herbert Varley                     | --                           |
+| 1948 --      | dan_simmons          | Dan Simmons          | --                                      | --                           |
+| 1948 -- 2015 | terry_pratchett      | Terry Pratchett      | --                                      | --                           |
+| 1948 --      | william_gibson       | William Gibson       | --                                      | --                           |
+| 1951 -- 2022 | greg_bear            | Greg Bear            | Gregory Dale Bear                       | --                           |
+| 1951 --      | orson_scott_card     | Orson Scott Card     | --                                      | --                           |
+| 1952 --      | kim_stanley_robinson | Kim Stanley Robinson | --                                      | --                           |
+| 1954 -- 2013 | iain_banks           | Iain M. Banks        | --                                      | --                           |
+| 1957 --      | stephen_baxter       | Stephen Baxter       | --                                      | --                           |
+| 1959 --      | neal_stephenson      | Neal Stephenson      | Neal Town Stephenson                    | --                           |
+| 1961 --      | greg_egan            | Greg Egan            | --                                      | --                           |
+| 1962 --      | jane_lindskold       | Jane Lindskold       | --                                      | --                           |
+| 1962 --      | kevin_j_anderson     | Kevin J. Anderson    | --                                      | --                           |
+| 1964 --      | eric_nylund          | Eric Nylund          | Eric S. Nylund                          | --                           |
+| 1968 --      | jeff_vandermeer      | Jeff VanderMeer      | --                                      | --                           |
+| 1971 --      | elizabeth_bear       | Elizabeth Bear       | Sarah Bear Elizabeth Wishnevsky         | --                           |

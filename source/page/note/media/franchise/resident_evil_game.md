@@ -1,0 +1,38 @@
+| TYPE  | YEAR | KEY                               | TITLE                                     |
+| ----- | ---- | --------------------------------- | ----------------------------------------- |
+| game  | 1996 | resident_evil                     | Resident Evil                             |
+| game  | 1998 | resident_evil_2                   | Resident Evil 2                           |
+| game  | 1999 | resident_evil_3                   | Resident Evil 3: Nemesis                  |
+| game  | 2000 | resident_evil_code_veronica       | Resident Evil – Code: Veronica            |
+| game  | 2000 | resident_evil_survivor            | Resident Evil Survivor                    |
+| game  | 2001 | resident_evil_gaiden              | Resident Evil Gaiden                      |
+| game  | 2001 | resident_evil_survivor_2          | Resident Evil Survivor 2 – Code: Veronica |
+| game  | 2002 | resident_evil_1_remake            | Resident Evil (Remake)                    |
+| game  | 2002 | resident_evil_zero                | Resident Evil Zero                        |
+| game  | 2003 | resident_evil_dead_aim            | Resident Evil: Dead Aim                   |
+| game  | 2003 | resident_evil_outbreak            | Resident Evil Outbreak                    |
+| game  | 2004 | resident_evil_outbreak_2          | Resident Evil Outbreak: File #2           |
+| game  | 2005 | resident_evil_4                   | Resident Evil 4                           |
+| game  | 2007 | resident_evil_umbrella_chronicles | Resident Evil: The Umbrella Chronicles    |
+| game  | 2009 | resident_evil_5                   | Resident Evil 5                           |
+| game  | 2009 | resident_evil_darkside_chronicles | Resident Evil: The Darkside Chronicles    |
+| game  | 2011 | resident_evil_mercenaries         | Resident Evil: The Mercenaries 3D         |
+| game  | 2012 | resident_evil_6                   | Resident Evil 6                           |
+| game  | 2012 | resident_evil_racoon_city         | Resident Evil: Operation Raccoon City     |
+| game  | 2012 | resident_evil_revelations         | Resident Evil: Revelations                |
+| game  | 2015 | resident_evil_revelations_2       | Resident Evil: Revelations 2              |
+| game  | 2016 | resident_evil_umbrella_corps      | Resident Evil: Umbrella Corps             |
+| game  | 2017 | resident_evil_7                   | Resident Evil 7: Biohazard                |
+| game  | 2019 | resident_evil_2_remake            | Resident Evil 2 (Remake)                  |
+| game  | 2020 | resident_evil_3_remake            | Resident Evil 3 (Remake)                  |
+| game  | 2020 | resident_evil_resistance          | Resident Evil: Resistance                 |
+| game  | 2021 | resident_evil_village             | Resident Evil Village                     |
+| game  | 2022 | resident_evil_reverse             | Resident Evil Re:Verse                    |
+| game  | 2023 | resident_evil_4_remake            | Resident Evil 4 (Remake)                  |
+| game  | 2026 | resident_evil_requiem             | Resident Evil Requiem                     |
+|       |      |                                   |                                           |
+| anime | 2000 | resident_evil_4d_executer         | Biohazard: 4D-Executer                    |
+| anime | 2008 | resident_evil_degeneration        | Resident Evil: Degeneration               |
+| anime | 2012 | resident_evil_damnation           | Resident Evil: Damnation                  |
+| anime | 2017 | resident_evil_vendetta            | Resident Evil: Vendetta                   |
+| anime | 2023 | resident_evil_death_island        | Resident Evil: Death Island               |
