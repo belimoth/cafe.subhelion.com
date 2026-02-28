@@ -9,7 +9,6 @@ for root, dirs, files in os.walk( build_path ):
 	depth = root.count( os.sep ) - root_count + 1
 
 	for file in files:
-		print( file )
 		path = os.path.abspath( os.path.join( root, file ) )
 		( name, ext ) = os.path.splitext( path )
 
