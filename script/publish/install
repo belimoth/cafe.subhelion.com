@@ -1,11 +1,7 @@
 #!/bin/bash
 
-[[ $( uname --operating-system ) == "Msys"                          ]] || { echo "error: unsupported os";         exit 1; }
-[[ -x $( command -v python )                                        ]] || { echo "error: python not installed";   exit 1; }
-[[ $( python -c "import sys; print( sys.version_info[0] )" ) == "3" ]] || { echo "error: python 3 not installed"; exit 1; }
-[[ $( python --version ) == $( cat /a/runtime.txt )                 ]] || { echo "warning: python version mismatch"; }
+set -o errexit
 
-python -m venv /a/local/venv
-script/activate
-python -m pip install --upgrade pip
-pip install --requirement /a/requirements-full.txt
+[[ $( uname --operating-system ) == "Msys" ]] || { echo "error: unsupported os"; exit 1; }
+
+scoop install pandoc

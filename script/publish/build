@@ -1,36 +1,23 @@
 #!/bin/bash
 
-# development
+set -o errexit
 
-# set -o errexit
-#
-# source scripts/activate
-#
-# rm -rf local/build
-#
-# cd ./source
-#
-# python -m app.__init__
-#
-# export FLASK_FREEZER_DESTINATION=../../local/build
-#
-# python freeze.py
-#
-# python rewrite_hrefs.py
+rm -rf /a/local/build
+mkdir --parents /a/local/build/0
 
-# production
+cp /a/index.html /a/local/build/0/index.html
+cp --recursive /a/source/static /a/local/build/0/static
 
-# source scripts/activate
-#
-# rm -rf local/build_production
-#
-# cd ./source
-#
-# python -m app.__init__
-#
-# export FLASK_FREEZER_DESTINATION=../../local/build_production/0
-#
-# python freeze.py
-#
-# python rewrite_files.py
-# mv ../local/build_production/0/index ../local/build_production/0/index.html
+function build_page() {
+	pandoc --standalone /a/source/page/$1.md --output /a/local/build/0/$1.html --template /a/source/template.html
+}
+
+function call() {
+	while read x; do
+		$1 $x
+	done
+}
+
+find /a/source/page -type f -name "*.md" | sed "s|/a/source/page/||" | sed "s|.md||" | call build_page
+
+python /a/script/publish/rewrite.py
