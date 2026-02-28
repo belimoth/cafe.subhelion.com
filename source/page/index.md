@@ -24,7 +24,7 @@
 | <a class=new href=/tech   >Tech   </a> | Technology                                                             |
 | <a           href=/war    >War    </a> | Weapons, equipment, vehicles                                           |
 
-| Projects                                                       |                                                                       |                                                 |
+| Projects                                                       | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                                                      |                                                 |
 | -------------------------------------------------------------- | --------------------------------------------------------------------- | ----------------------------------------------- |
 | Code projects                                                  |                                                                       |                                                 |
 | [Boss Guts](/project/boss-guts)                                | Reverse-engineering and decompilation library                         | [Source](https://github.com/belimoth/boss-guts) |
@@ -32,22 +32,22 @@
 | [System   ](/project/system)                                   | Script library                                                        | [Source](https://github.com/subhelion/system  ) |
 | [Template ](/project/template)                                 | Project template library                                              | [Source](https://github.com/subhelion/template) |
 | Game projects                                                  |                                                                       |                                                 |
-| [DREAD CHECK](/project/dread-check)                            |
-| Dread Check Chapters                                           |
-| [Draugb              ](/project/dread-check/draugb)            |
-| [Horse War           ](/project/dread-check/horse-war)         |
-| [Howling Commandos   ](/project/dread-check/howling-commandos) |
-| [Swat City           ](/project/dread-check/swat-city)         |
-| Dread Check Profiles                                           |
-| [Horse War Rally  ](/project/dread-check/horse-war-rally)      |
-| [Swat City Scanner](/project/dread-check/swat-city-scanner)    |
-| [Swat City Skinner](/project/dread-check/swat-city-skinner)    |
-| [Swat City Swimmer](/project/dread-check/swat-city-swimmer)    |
-| Dread Check Shorties                                           |
-| [Blue Monsoon  ](/project/dread-check/blue-monsoon)            |
-| [Red Cry       ](/project/dread-check/red-cry)                 |
-| [Threefold Path](/project/dread-check/threefold-path)          |
-| Other games                                                    |
+| [DREAD CHECK](/project/dread-check)                            | --                                                                    |
+| Dread Check Chapters                                           | --                                                                    |
+| [Draugb              ](/project/dread-check/draugb)            | --                                                                    |
+| [Horse War           ](/project/dread-check/horse-war)         | --                                                                    |
+| [Howling Commandos   ](/project/dread-check/howling-commandos) | --                                                                    |
+| [Swat City           ](/project/dread-check/swat-city)         | --                                                                    |
+| Dread Check Profiles                                           | --                                                                    |
+| [Horse War Rally  ](/project/dread-check/horse-war-rally)      | --                                                                    |
+| [Swat City Scanner](/project/dread-check/swat-city-scanner)    | --                                                                    |
+| [Swat City Skinner](/project/dread-check/swat-city-skinner)    | --                                                                    |
+| [Swat City Swimmer](/project/dread-check/swat-city-swimmer)    | --                                                                    |
+| Dread Check Shorties                                           | --                                                                    |
+| [Blue Monsoon  ](/project/dread-check/blue-monsoon)            | --                                                                    |
+| [Red Cry       ](/project/dread-check/red-cry)                 | --                                                                    |
+| [Threefold Path](/project/dread-check/threefold-path)          | --                                                                    |
+| Other games                                                    | --                                                                    |
 | [Untitled Fantasy Game](project/untitled-fantasy-game)         | --                                                                    |
 | [Untitled History Game](project/untitled-history-game)         | --                                                                    |
 | [Simir                ](project/simir)                         | --                                                                    |
