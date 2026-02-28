@@ -1,0 +1,6 @@
+| TAG          | LINK                                             |
+| ------------ | ------------------------------------------------ |
+| perfect_dark | https://github.com/burnsba/getools               |
+| perfect_dark | https://github.com/carnivoroussociety/GoldEditor |
+| perfect_dark | https://github.com/Graslu/1964GEPD               |
+| perfect_dark | https://github.com/rafccq/pd_blendtools          |

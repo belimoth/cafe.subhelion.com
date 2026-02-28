@@ -1,0 +1,17 @@
+| KEY               | TYPE    | LINK                                            |
+| ----------------- | ------- | ----------------------------------------------- |
+| cm_koseman        | patreon | https://www.patreon.com/cmkosemen               |
+| cm_koseman        | twitter | https://twitter.com/cmkosemen                   |
+| cm_koseman        | youtube | https://www.youtube.com/user/cmkosemen          |
+| douglas-henderson | patreon | https://www.patreon.com/DouglasHenderson        |
+| john-conway       | old     | https://johnconway.co                           |
+| john-conway       | patreon | https://www.patreon.com/join/johnconway         |
+| john-conway       | social  | https://sauropods.win/@john                     |
+| john-conway       | tumblr  | https://www.tumblr.com/johnconway               |
+| john-conway       | twitter | https://twitter.com/thejohnconway               |
+| mark-whitton      | blog    | https://markwitton-com.blogspot.com             |
+| mark-whitton      | patreon | https://www.patreon.com/markwitton              |
+| mark-whitton      | social  | https://bsky.app/profile/markwitton.bsky.social |
+| mark-whitton      | twitter | https://twitter.com/MarkWitton                  |
+| mauricio-anton    | blog    | https://chasingsabretooths.wordpress.com        |
+| nellie-pease      | blog    | https://www.instagram.com/gondwanarama          |

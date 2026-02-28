@@ -1,0 +1,62 @@
+### PICK - SIMIR
+
+| TYPE  | YEAR | TITLE                          |
+| ----- | ---- | ------------------------------ |
+| anime | 2008 | WALL·E                         |
+| anime | 2016 | Scavengers (Short)             |
+| anime | 2023 | Scavengers Reign               |
+| book  | 2011 | The Martian                    |
+| book  | 2021 | Project Hail Mary              |
+| film  | 1968 | 2001: A Space Odyssey          |
+| film  | 1981 | Outland                        |
+| film  | 1984 | 2010: The Year We Make Contact |
+| film  | 2000 | Mission to Mars                |
+| film  | 2000 | Pitch Black                    |
+| film  | 2000 | Red Planet                     |
+| film  | 2009 | Moon                           |
+| film  | 2013 | Europa Report                  |
+| film  | 2013 | Gravity                        |
+| film  | 2013 | Oblivion                       |
+| film  | 2014 | Interstellar                   |
+| film  | 2016 | Kedi                           |
+| film  | 2017 | Blue Planet II                 |
+| film  | 2018 | The Meg                        |
+| film  | 2019 | Ad Astra                       |
+| film  | 2023 | Landscape with Invisible Hand  |
+| game  | 2018 | Subnautica                     |
+| game  | 2019 | Outer Wilds                    |
+| game  | 2021 | Outer Wilds: Echoes of the Eye |
+| game  | 2023 | Mars First Logistics           |
+
+### PICK - SIMIR - CONCEPT - ANOMALOUS HAZARD
+
+| TYPE | YEAR | TITLE        |
+| ---- | ---- | ------------ |
+| film | 2018 | Annihilation |
+
+### PICK - SIMIR - CONCEPT - BIOLOGICAL HAZARD
+
+| TYPE  | YEAR | TITLE                              |
+| ----- | ---- | ---------------------------------- |
+| anime | 1988 | The Land Before Time               |
+| film  | 2013 | Riddick - Creature - Cave Scorpion |
+| film  | 2018 | Annihilation                       |
+| film  | 2025 | Mickey 17                          |
+
+### PICK - SIMIR - CONCEPT - GEOLOGICAL AND CLIMATOLOGICAL HAZARD
+
+| TYPE  | YEAR | TITLE                |
+| ----- | ---- | -------------------- |
+| anime | 1988 | The Land Before Time |
+| film  | 2025 | Mickey 17            |
+
+### PICK - SIMIR - CONCEPT - TERRAIN AND VEHICLES
+
+| TYPE | YEAR | TITLE                                                  |
+| ---- | ---- | ------------------------------------------------------ |
+| game | 1983 | Star Wars: Return of the Jedi - Vehicle - Desert Skiff |
+| game | 1996 | A-10 Cuba!                                             |
+| game | 2014 | Spintires                                              |
+| game | 2017 | MudRunner                                              |
+| game | 2021 | Subnautica: Below Zero                                 |
+| game | 2026 | Subnautica 2                                           |

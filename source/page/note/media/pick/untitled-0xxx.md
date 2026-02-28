@@ -1,0 +1,39 @@
+### PICK - DREAD CHECK - UNTITLED 0XXX SETTING
+
+| SETTING | TYPE | YEAR | TITLE |
+| ------- | ---- | ---- | ----- |
+
+### PICK - DREAD CHECK - UNTITLED 1XXX SETTING
+
+| SETTING       | TYPE  | YEAR | TITLE                |
+| ------------- | ----- | ---- | -------------------- |
+| untitled_1xxx | anime | 2023 | Gargoyles: Dark Ages |
+
+### PICK - DREAD CHECK - UNTITLED 19XX SETTING
+
+| SETTING       | TYPE | YEAR | TITLE                            |
+| ------------- | ---- | ---- | -------------------------------- |
+| untitled_19xx | game | 2007 | Assassin's Creed                 |
+| untitled_19xx | game | 2009 | Assassin's Creed II              |
+| untitled_19xx | game | 2010 | Assassin's Creed: Brotherhood    |
+| untitled_19xx | game | 2011 | Assassin's Creed Revelations     |
+| untitled_19xx | game | 2012 | Assassin's Creed III             |
+| untitled_19xx | game | 2012 | Assassin's Creed III: Liberation |
+| untitled_19xx | game | 2013 | Assassin's Creed IV: Black Flag  |
+| untitled_19xx | game | 2014 | Assassin's Creed Freedom Cry     |
+| untitled_19xx | game | 2014 | Assassin's Creed Rogue           |
+| untitled_19xx | game | 2014 | Assassin's Creed Unity           |
+| untitled_19xx | game | 2015 | Assassin's Creed Syndicate       |
+| untitled_19xx | game | 2017 | Assassin's Creed Origins         |
+| untitled_19xx | game | 2018 | Assassin's Creed Odyssey         |
+| untitled_19xx | game | 2020 | Assassin's Creed Valhalla        |
+| untitled_19xx | game | 2023 | Assassin's Creed Mirage          |
+| untitled_19xx | game | 2025 | Assassin's Creed Shadows         |
+
+### PICK - DREAD CHECK CHAPERS - UNTITLED SHRUNK SETTING
+
+| SETTING         | TYPE  | YEAR | TITLE            |
+| --------------- | ----- | ---- | ---------------- |
+| untitled_shrunk | anime | 2001 | Osmosis Jonesx   |
+| untitled_shrunk | anime | 1994 | Magic School Bus |
+| untitled_shrunk | anime | 2018 | Cells at Work    |

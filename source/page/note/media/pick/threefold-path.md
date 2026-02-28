@@ -1,0 +1,8 @@
+### PICK - THREEFOLD PATH
+
+| TYPE | YEAR | TITLE                 |
+| ---- | ---- | --------------------- |
+| film | 1998 | Ronin                 |
+| game | 2009 | Red Faction: Guerilla |
+| game | 2012 | Tokyo Jungle          |
+| game | 2025 | Firehawk FPV          |

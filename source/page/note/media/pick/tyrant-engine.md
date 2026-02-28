@@ -1,0 +1,44 @@
+### PICK - TYRANT ENGINE
+
+| TYPE  | YEAR | TITLE                                  |
+| ----- | ---- | -------------------------------------- |
+| anime | 1985 | The Black Cauldron                     |
+| anime | 1988 | Oliver & Company                       |
+| anime | 1989 | All Dogs Go to Heaven                  |
+| anime | 1994 | Samurai Shodown: The Movie             |
+| anime | 1997 | Revolutionary Girl Utena               |
+| anime | 2001 | Claymore                               |
+| anime | 2021 | Ranking of Kings                       |
+| anime | 2023 | Gargoyles: Dark Ages                   |
+| film  | 1981 | Excalibur                              |
+| film  | 1986 | The Name of the Rose                   |
+| film  | 1991 | Robin Hood: Prince of Thieves          |
+| film  | 1992 | Bram Stoker's Dracula                  |
+| film  | 1993 | Homeward Bound: The Incredible Journey |
+| film  | 1996 | Dragonheart                            |
+| film  | 1998 | Babe: Pig in the City                  |
+| film  | 2074 | Play for Today - Penda's Fen           |
+| game  | 1983 | Archon: The Light and the Dark         |
+| game  | 1984 | Archon II: Adept                       |
+| game  | 1994 | Archon Ultra                           |
+| game  | 1994 | Dark Legions                           |
+| game  | 1997 | Samurai Shodown RPG                    |
+| game  | 1998 | Guantlet: Legends                      |
+| game  | 1998 | The Unholy War                         |
+| game  | 2000 | Guantlet: Dark Legacy                  |
+| game  | 2000 | Guantlet: Seven Sorrows                |
+| game  | 2003 | Archon: Evolution                      |
+| game  | 2003 | Castlevania Aria of Sorrow             |
+| game  | 2003 | Fire Emblem                            |
+| game  | 2004 | Wrath Unleashed                        |
+| game  | 2005 | Fire Emblem : The Sacred Stones        |
+| game  | 2005 | Grow RPG                               |
+| game  | 2005 | Shadow the Hedgehog                    |
+| game  | 2008 | Kongai                                 |
+| game  | 2015 | Chaos Reborn                           |
+| game  | 2015 | Mordheim: City of the Damned           |
+| game  | 2017 | For Honor                              |
+| game  | 2019 | Samurai Shodown (2019)                 |
+| table | 1475 | Chess                                  |
+| table | 1999 | Mordheim                               |
+| table | 2025 | Pilgrims of the Murk Dome              |

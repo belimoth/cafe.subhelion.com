@@ -1,0 +1,17 @@
+### PICK - HOWLING COMMANDOS, HOWLING COMMANDOS 0, HOWLING COMMANDOS 2
+
+| TYPE | YEAR | KEY                          | TITLE                             |
+| ---- | ---- | ---------------------------- | --------------------------------- |
+| game | 1981 | castle_wolfenstein           | Castle Wolfenstein                |
+| game | 1984 | castle_wolfenstein_2         | Beyond Castle Wolfenstein         |
+| game | 1992 | wolfenstein_3d               | Wolfenstein 3D                    |
+| game | 1992 | wolfenstein_3d_sod           | Wolfenstein 3D - Spear of Destiny |
+| game | 2001 | return_to_castle_wolfenstein | Return to Castle Wolfenstein      |
+| game | 2003 | enemy_territory_wolfenstein  | Enemy Territory: Wolfenstein      |
+| game | 2008 | wolfenstein_rpg              | Wolfenstein RPG                   |
+| game | 2009 | wolfenstein_2009             | Wolfenstein (2009)                |
+| game | 2014 | wolfenstein_1_new_order      | Wolfenstein: The New Order        |
+| game | 2015 | wolfenstein_1_old_blood      | Wolfenstein: The Old Blood        |
+| game | 2017 | wolfenstein_2_new_colossus   | Wolfenstein II: The New Colossus  |
+| game | 2019 | wolfenstein_2_young_blood    | Wolfenstein: Youngblood           |
+| game | 2019 | wolfenstein_2_cyber_pilot    | Wolfenstein: Cyberpilot           |

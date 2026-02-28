@@ -1,0 +1,18 @@
+| DATE       | SLUG        | LINK                                        | TITLE                                                                           |
+| ---------- | ----------- | ------------------------------------------- | ------------------------------------------------------------------------------- |
+| 2015-12-24 | 7CxpdspOV5I | https://www.youtube.com/watch?v=7CxpdspOV5I | Rare Revealed: The Making of Perfect Dark                                       |
+| 2016-04-29 | Ye22UAfs6-0 | https://www.youtube.com/watch?v=Ye22UAfs6-0 | Rare Revealed: Five Things You Didn't Know About Perfect Dark                   |
+| 2016-06-05 | mcqixlBxbT4 | https://www.youtube.com/watch?v=mcqixlBxbT4 | Perfect Dark's Lost Sequels - Unseen64                                          |
+| 2016-07-16 | 2Z4Zt0nNPxI | https://www.youtube.com/watch?v=2Z4Zt0nNPxI | Perfect Dark - Did You Know Gaming? Feat. Eruption                              |
+| 2019-06-02 | gZjfOe-yo_k | https://www.youtube.com/watch?v=gZjfOe-yo_k | Perfect Dark - All Weapon Caches / Hidden Weapons                               |
+| 2020-10-21 | IWMkG9gLqXc | https://www.youtube.com/watch?v=IWMkG9gLqXc | Perfect Dark's Unsolved Urban Legend: The Chicago Ghost                         |
+| 2021-04-22 | k6XjlCyzEXE | https://www.youtube.com/watch?v=k6XjlCyzEXE | Perfect Dark - All Cheeses Locations                                            |
+| 2021-11-22 | 0WCfgWsXbD8 | https://www.youtube.com/watch?v=0WCfgWsXbD8 | The Making of Perfect Dark                                                      |
+| 2023-02-24 | wVmxvKeD1H0 | https://www.youtube.com/watch?v=wVmxvKeD1H0 | What's So Great About Perfect Dark? - A Bright Future for First Person Shooters |
+| 2024-05-27 | UY6ZN5JPnWs | https://www.youtube.com/watch?v=UY6ZN5JPnWs | Perfect Dark Out of Bounds Secrets & New Discoveries                            |
+| 2024-07-05 | Q927wX8qsrc | https://www.youtube.com/watch?v=Q927wX8qsrc | Perfect Dark Is One Of The Best N64 Shooters - An Extensive Retrospective       |
+| 2024-12-14 | LG0fD327vhk | https://www.youtube.com/watch?v=LG0fD327vhk | Iceberg: Perfect Dark                                                           |
+| 2024-12-29 | bebWdMCkQQ4 | https://www.youtube.com/watch?v=bebWdMCkQQ4 | 10 Cool Things You Probably Didn't Know About Perfect Dark                      |
+| 2025-01-06 | Q8xe2QkG7N0 | https://www.youtube.com/watch?v=Q8xe2QkG7N0 | 10 Other Cool Things You Probably Didn't Know About Perfect Dark                |
+| 2025-01-24 | Ur76WSBpiNw | https://www.youtube.com/watch?v=Ur76WSBpiNw | 8 Cool Things about Perfect Dark You Probably Didn't Know (Part 3)              |
+| 2025-12-26 | Gn5a3DNUwUA | https://www.youtube.com/watch?v=Gn5a3DNUwUA | The Most Ambitious Shooter Ever Made                                            |

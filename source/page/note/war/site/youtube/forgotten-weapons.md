@@ -1,0 +1,6 @@
+| KEY              | LINK                                    |
+| ---------------- | --------------------------------------- |
+| usa_colt_633_doe | https://youtube.com/watch?v=m3R4JXTnFiA |
+| faf_giat_frf2    | https://youtube.com/watch?v=GEOR7hclVFE |
+| mauser_k98k_is   | https://youtube.com/watch?v=I3OPzdhah6U |
+| 650_25mm_cbj     | https://youtube.com/watch?v=90ECrL_4GPc |

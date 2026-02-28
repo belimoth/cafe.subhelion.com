@@ -1,0 +1,32 @@
+### PICK - DREAD CHECK - BASIS
+
+| TYPE  | YEAR | TITLE                                          |
+| ----- | ---- | ---------------------------------------------- |
+| anime | 1994 | ReBoot (TV)                                    |
+| anime | 1999 | Futurama                                       |
+| film  | 1987 | Prince of Darkness                             |
+| film  | 1994 | Stargate                                       |
+| film  | 2011 | Source Code                                    |
+| game  | 2000 | Perfect Dark                                   |
+| game  | 2000 | TimeSplitters                                  |
+| game  | 2002 | TimeSplitters 2                                |
+| game  | 2005 | TimeSplitters: Future Perfect                  |
+| game  | 2008 | Call of Duty: World at War                     |
+| game  | 2012 | Receiver                                       |
+| game  | 2013 | Payday 2                                       |
+| novel | 2016 | A Burglar's Guide to the City by Geoff Manaugh |
+
+### PICK - DREAD CHECK - CONCEPT - SURVIVAL
+
+| TYPE | YEAR | TITLE                    |
+| ---- | ---- | ------------------------ |
+| film | 1971 | The Omega Man            |
+| film | 1960 | Swiss Family Robinson    |
+| film | 1981 | Escape from New York     |
+| film | 1976 | Assault on Precinct 13   |
+| film | 1968 | Night of the Living Dead |
+
+### PICK - DREAD CHECK - CHARACTER ANIMATION
+
+perfect dark
+call of duty 2

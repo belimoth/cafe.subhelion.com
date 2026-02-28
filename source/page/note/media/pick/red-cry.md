@@ -1,0 +1,17 @@
+### PICK - RED CRY
+
+| TYPE  | YEAR | TITLE                                                        |
+| ----- | ---- | ------------------------------------------------------------ |
+| anime | 1988 | The Land Before Time                                         |
+| anime | 2015 | Gate                                                         |
+| anime | 2019 | Genndy Tartakovsky's Primal                                  |
+| film  | 2001 | Cats & Dogs                                                  |
+| game  | 2001 | Red Alert 2 Yuri's Revenge - Mission - Soviet 1 "Time Shift" |
+| game  | 2008 | Turok (PS3)                                                  |
+| game  | 2010 | Metal Gear Solid Peace Walker - Mission - Rathalos Hunt      |
+| game  | 2014 | Dark Souls 2 - Character - Sweet Shalquoir                   |
+| game  | 2016 | Far Cry: Primal                                              |
+| game  | 2018 | Metal Gear Survive                                           |
+| game  | 2018 | Monster Hunter World - Character - Felyne Chefs              |
+| game  | 2025 | Deathground                                                  |
+| game  | 2026 | Jurassic Park: Survival                                      |

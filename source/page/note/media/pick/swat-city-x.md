@@ -1,0 +1,32 @@
+
+PICK - SWAT CITY X
+
+| TYPE  | YEAR | TITLE                                         |
+| ----- | ---- | --------------------------------------------- |
+| anime | 1994 | Mega Man (TV)                                 |
+| anime | 1995 | Mega Man (TV) - S2.E26 Mega X                 |
+| anime | 2005 | Mega Man Maverick Hunter X - The Day of Sigma |
+| game  | 1993 | Mega Man X                                    |
+| game  | 1994 | Mega Man X2                                   |
+| game  | 1995 | Mega Man X3                                   |
+| game  | 1995 | Rockman X Interactive (Cancelled)             |
+| game  | 1997 | Mega Man X4                                   |
+| game  | 2000 | Mega Man X5                                   |
+| game  | 2000 | Mega Man Xtreme                               |
+| game  | 2001 | Mega Man X6                                   |
+| game  | 2001 | Mega Man Xtreme 2                             |
+| game  | 2003 | Mega Man X7                                   |
+| game  | 2004 | Mega Man X: Command Mission                   |
+| game  | 2004 | Mega Man X8                                   |
+| game  | 2005 | Mega Man Maverick Hunter X                    |
+| game  | 2006 | Mega Man X Collection                         |
+| game  | 2010 | Maverick Hunter (Cancelled)                   |
+| game  | 2011 | Mega Man X Mobile                             |
+| game  | 2018 | Mega Man X Legacy Collection                  |
+| game  | 2018 | Mega Man X Legacy Collection 2                |
+| game  | 2020 | Mega Man X DiVE                               |
+| game  | 2020 | Rockman XZ: Time Rift (Cancelled)             |
+| game  | 2023 | Mega Man X DiVE Offline                       |
+| anime | 1997 | Virus Buster Serge                            |
+| anime | 1992 | X-Men (TV)                                    |
+| game  | 2012 | Tokyo Jungle                                  |

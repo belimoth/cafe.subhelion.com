@@ -1,0 +1,42 @@
+| LIFE         | KEY                 | NAME                  | FULL                            |
+| ------------ | ------------------- | --------------------- | ------------------------------- |
+| 1858 -- 1935 | heinrich_harder     | Heinrich Harder       | --                              |
+| 1859 -- 1946 | gerhard_heilmann    | Gerhard Heilmann      | --                              |
+| 1874 -- 1953 | charles_r_knight    | Charles Robert Knight | --                              |
+| 1905 -- 1981 | zdenek_burian       | Zdeněk Burian         | Zdeněk Michael František Burian |
+| 1919 -- 1995 | rudolf_zallinger    | Rudolf Zallinger      | Rudolph Franz Zallinger         |
+| 1924 -- 2014 | eleanor_kish        | Eleanor "Ely" Kish    | --                              |
+| 1951 -- 2015 | stephen_czerkas     | Stephen Czerkas       | Stephen Andrew Czerkas          |
+| 1960 -- 2024 | michael_trcic       | Michael Trcic         | Michael Anthony Trcic           |
+|              |                     |                       |                                 |
+| 1933 --      | jay_matternes       | Jay Matternes         | Jay Howard Matternes            |
+| 1945 --      | robert_bakker       | robert-bakker         | Robert Thomas Bakker            |
+| 1947 --      | mark_hallett        | Mark Hallett          | --                              |
+| 1949 --      | douglas_henderson   | Douglas Henderson     | --                              |
+| 1949 --      | william_stout       | William Stout         | --                              |
+| 1954 --      | gregory_paul        | Gregory Paul          | Gregory Scott Paul              |
+| 1954 --      | ray_troll           | Ray Troll             | Raymond Michael Troll           |
+| 1955 --      | luis_rey            | Luis Rey              | Luis V. Rey                     |
+| 1957 --      | peter_schouten      | Peter Schouten        | --                              |
+| 1958 --      | james_gurney        | James Gurney          | --                              |
+| 1961 --      | mauricio_anton      | Mauricio Antón        | --                              |
+| 1968 --      | velizar_simeonovski | Velizar Simeonovski   | --                              |
+| 1975 --      | robert_nicholls     | Robert Nicholls       | --                              |
+| 1980 --      | andrey_atuchin      | Andrey Atuchin        | --                              |
+|              |                     |                       |                                 |
+| ---- --      | carl_buell          | Carl Buell            | --                              |
+| ---- --      | cm_koseman          | C.M. Kösemen          | Cevdet Mehmet Kösemen           |
+| ---- --      | danielle_dufault    | Danielle Dufault      | --                              |
+| ---- --      | david_krentz        | David Krentz          | --                              |
+| ---- --      | davide_bonadonna    | Davide Bonadonna      | --                              |
+| ---- --      | john_conway         | John Conway           | --                              |
+| ---- --      | john_sibbick        | John Sibbick          | --                              |
+| ---- --      | julius_csotonyi     | Julius Csotonyi       | Julius Thomas Csotonyi          |
+| ---- --      | karen_carr          | Karen Carr            | --                              |
+| ---- --      | mark_whitton        | Mark Whitton          | Mark Pauk Witton                |
+| ---- --      | michael_skrepnick   | Michael Skrepnick     | --                              |
+| ---- --      | nellie_pease        | Nellie Pease          | --                              |
+| ---- --      | nobu_tamura         | Nobumichu Tamura      | --                              |
+| ---- --      | raul_martin         | Raúl Martín           | --                              |
+| ---- --      | todd_marshall       | Todd Marshall         | --                              |
+| ---- --      | wayne_barlowe       | Wayne Barlowe         | Wayne Douglas Barlowe           |

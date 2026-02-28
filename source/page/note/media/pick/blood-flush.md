@@ -1,0 +1,49 @@
+
+### PICK - BLOOD FLUSH
+
+| TYPE   | YEAR   | TITLE                                                         |
+| ------ | ------ | ------------------------------------------------------------- |
+| film   | 1997   | Buffy The Vampire Slayer (TV) S1-S2                           |
+| game   | 2020   | Phasmophobia                                                  |
+| ------ | ------ | ------------------------------------------------------------- |
+| film   | 1998   | Blade                                                         |
+| film   | 2002   | Blade II                                                      |
+| ------ | ------ | ------------------------------------------------------------- |
+| film   | 2002   | Resident Evil                                                 |
+| film   | 2004   | Resident Evil: Apocalypse                                     |
+| film   | 2007   | Resident Evil: Extinction                                     |
+| film   | 2010   | Resident Evil: Afterlife                                      |
+| film   | 2012   | Resident Evil: Retribution                                    |
+| film   | 2016   | Resident Evil: The Final Chapter                              |
+| film   | 2016   | Resident Evil: Underworld Crossover (Cancelled)               |
+| film   | 2021   | Resident Evil: Welcome to Raccoon City                        |
+| film   | 2022   | Resident Evil (TV)                                            |
+| film   | 2026   | Resident Evil (2026)                                          |
+| ------ | ------ | ------------------------------------------------------------- |
+| book   | 2003   | Underworld                                                    |
+| book   | 2004   | Blood Enemy                                                   |
+| book   | 2005   | Evolution                                                     |
+| book   | 2008   | Rise of the Lycans                                            |
+| comic  | 2003   | Underworld                                                    |
+| comic  | 2004   | Red in Tooth and Claw                                         |
+| comic  | 2005   | Evolution                                                     |
+| comic  | 2008   | Rise of the Lycans                                            |
+| comic  | 2017   | Blood Wars                                                    |
+| film   | 2003   | Underworld                                                    |
+| film   | 2006   | Underworld: Evolution                                         |
+| film   | 2009   | Underworld: Rise of the Lycans                                |
+| film   | 2011   | Underworld: Endless War (Short)                               |
+| film   | 2012   | Underworld: Awakening                                         |
+| film   | 2016   | Underworld: Blood Wars                                        |
+| game   | 2004   | Underworld: The Eternal War                                   |
+| ------ | ------ | ------------------------------------------------------------- |
+| comic  | 2010   | I, Frankenstein                                               |
+| film   | 2014   | I, Frankenstein                                               |
+
+### PICK - BLOOD FLUSH X
+
+| TYPE | YEAR | TITLE                 |
+| ---- | ---- | --------------------- |
+| film | 2000 | Pitch Black           |
+| film | 2004 | Chronicles of Riddick |
+| film | 2013 | Riddick               |
