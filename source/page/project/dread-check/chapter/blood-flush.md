@@ -1,23 +1,22 @@
 # BLOOD FLUSH
 
-## 2026-01-17
+#### 2026-01-17
 
-### belimoth
+##### belimoth
 npcs reenact a legally distinct version of the movie blade
 
-## 2026-01-19
+#### 2026-01-19
 
-### belimoth
 having some thoughts about space vampires
 vampirism being the result of alien contact in the past
 and vampires being a necessary gene pool for space travel inthe future like blindsight by peter watts
 
 seguing this into warhammer 40k concepts of space marines being a necessary evil that also prey on the normal human populace
 
-### capntastic
+#### capntastic
 Your genes; give them to me
 
-### belimoth
+#### belimoth
 they get space scurvy if they don't digest a fresh engram at each solar system they visit; local vitamin c genes
 
 ```
@@ -33,17 +32,19 @@ wounded or unable to escape by other means; marine personality blood can be filt
 more civilized cultures simply fax the vitamin c gene patterns to other planets
 but that means waiting for the space fax machine to finish printing and marines don't like waiting
 
-### capntastic
+#### capntastic
 Why even have the spiders if we're gonna use the fax machine; Plus space radio is tricky...
 
-### belimoth
+#### belimoth
 plus the genes shift every few thousand years and we live in the warp betwen eras
 
-## 2026-01-30
+#### 2026-01-30
 
-### belimoth
 phasmophobia but it's werewolves and praying mantis people and such from buffy seasons 1 and 2
 
 https://marvel.fandom.com/wiki/Bloodcoven_(Earth-616)
-
 https://buffy.fandom.com/wiki/Pylea
+
+#### 2026-02-25
+
+Angus Tsui Fall 2026 https://www.angustsui.com/404-safety-not-found

@@ -1,3 +1,8 @@
+| SETTING   | YEAR | CLASS | KEY          | NAME                  | LINK                                                 |
+|-----------|------|-------|--------------|-----------------------|------------------------------------------------------|
+| swat_city | 1944 | tank  | tank_jacquet | Jacquet Assault Train | https://tanks-encyclopedia.com/jacquet-assault-train |
+| --        | 1959 |       |              | Grumman OV-1 Mohawk   | --                                                   |
+
 https://armyrecognition.com/military-products/army/main-battle-tanks/main-battle-tanks
 https://en.wikipedia.org/wiki/Category:Main_battle_tanks_of_the_Cold_War
 https://en.wikipedia.org/wiki/List_of_main_battle_tanks_by_generation

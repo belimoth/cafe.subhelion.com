@@ -2,33 +2,17 @@
 # HORSE WAR
 
 https://x.com/belimoth/status/1037513128664330240
-
 https://store.steampowered.com/app/286280/Steel_Armor_Blaze_of_War
 
-## 2026-01-18
+#### 2026-01-18
 
-gesturing at a different solution to big guy little guy game than titanfall 2 style spaces
-and their solution to balancing mechs vs infantry in combat
-instead we have little guy spaces that are spread out and embeded in a big guy space like metal gear solid 5 world
-jump into the mech to zoom to the next building cluster in a trip that would take 5 minites by foot
-mech vision concept above tries to embed an equally large big guy vision space in a viewport sized for big guy melee
+gesturing at a different solution to big guy little guy game than titanfall 2 style spaces and their solution to balancing mechs vs infantry in combat; instead we have little guy spaces that are spread out and embeded in a big guy space like metal gear solid 5 world; jump into the mech to zoom to the next building cluster in a trip that would take 5 minites by foot; mech vision concept above tries to embed an equally large big guy vision space in a viewport sized for big guy melee or little guy's whole natural view
 
-or little guy's whole natural view
+re balancing mechs and infant, mechs devastate infantry wherever they engage but the infantry conflict is large enough that it only happens to a small percentage; mechs get locked up in 1 on 1 and 2 on 2 dogfighting also; mech is a rare asset conservatively deployed and expensively extracted; several regular armor vehicles can skirmish with 1 one mech but not for long without losses; gasaraki combat scene gif
 
-re balancing mechs and infant, mechs devastate infantry wherever they engage but the infantry conflict is large enough
+#### 2026-01-19
 
-that it only happens to a small percentage; mechs get locked up in 1 on 1 and 2 on 2 dogfighting also
-
-mech is a rare asset conservatively deployed and expensively extracted
-
-several regular armor vehicles can skirmish with 1 one mech but not for long without losses; gasaraki combat scene gif
-
-## 2026-01-19
-
-gonna say there's a version of this that's just tanks and apcs and another version that's horse war x with mechs
-action mode only no plot
-
-this one can share tactical controls from other tactical chapters but more hierarchical
+gonna say there's a version of this that's just tanks and apcs and another version that's horse war x with mechs; action mode only no plot; this one can share tactical controls from other tactical chapters but more hierarchical
 
 - https://youtube.com/shorts/ipgyfaMSb5s Loft Studios - Old Unfinished Fleet Battle Game
 - https://www.youtube.com/watch?v=8W2vT_09ans Jarboe Gaming - Ace Combat, but it's a fever dream
@@ -44,16 +28,11 @@ i had that gag in a different zach game design from uhhhhhhh 2014 ish
 
 paor of games where A was a peacful city builder and B was helicopter missile defense or something but the effects of game B happened in game A also; ios only
 
-## 2026-02-02
+#### 2026-02-02
 
 https://bsky.app/profile/sofamods.bsky.social/post/3mdvuo5v5vk2p
-```
-@sofamods.bsky.social - [Ravenfield - Official SteelFront Mod] Ajax squad gets caught in a sandstorm.
-Accidentally running into an enemy mech while half-blind isn't thing that can happen at Chalk Pond.
-Be thankful I can't mod that awful coarse white dust from the basin getting into all your good socks.
-```
 
-## 2026-02-03
+#### 2026-02-03
 
 one thing i like about battletanx is how it alternates between control levels where you attack and defend a base
 and highway levels where you just have to fight to the end to win
@@ -70,7 +49,7 @@ horse war can consist of:
 - regular stream of rubble being sent offscreen in hopper cars, our tiberium, and raw materials being sent back in box cars
 - simulated artillery shadows according to terrain
 
-## 2026-02-03
+#### 2026-02-03
 
 a gundam is just a piloted vehicle that can use tank tracks to take off like a jet on a carrier
 
@@ -80,7 +59,7 @@ switch to lo speed "cqc" mode when in city clusters
 
 some units are cqc only and are deployed from carrier cars or dropped from carrier copters
 
-## 2026-02-04
+#### 2026-02-04
 
 horse war units:
 - humvee equivalent; light armor; 50bmg anti-infantry and anti light armor; fast on tracks,
@@ -102,7 +81,7 @@ https://bsky.app/profile/smugpire.bsky.social/post/3mdxq57nkik22
 https://www.popularmechanics.com/military/weapons/a21527954/tank-killer-robot-themis
 Popular Mechanics - This Tank-Killer Robot Could Revolutionize Ground Warfare
 
-## 2025-02-05
+#### 2025-02-05
 
 i think the infantry should be solid color plastic platoon guys
 drone control apc can equip 6x copter drones with whatever loadout or 6x these little track drones
