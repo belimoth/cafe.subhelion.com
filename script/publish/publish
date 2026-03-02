@@ -2,14 +2,14 @@
 
 set -o errexit
 
-/a/script/publish/build
+/a/script/publish/build-production
 
 set -o noglob
 
 aws --profile subhelion.com s3 rm s3://cafe.subhelion.com --recursive
 
-aws --profile subhelion.com s3 sync /a/local/build/0 s3://cafe.subhelion.com --exclude * --include *.*
-aws --profile subhelion.com s3 sync /a/local/build/0 s3://cafe.subhelion.com --content-type text/html --exclude *.*
-aws --profile subhelion.com s3 sync /a/local/build/2 s3://cafe.subhelion.com --content-type text/html
+aws --profile subhelion.com s3 sync /a/local/build-production/0 s3://cafe.subhelion.com --exclude * --include *.*
+aws --profile subhelion.com s3 sync /a/local/build-production/0 s3://cafe.subhelion.com --content-type text/html --exclude *.*
+aws --profile subhelion.com s3 sync /a/local/build-production/2 s3://cafe.subhelion.com --content-type text/html
 
 aws --profile subhelion.com cloudfront create-invalidation --distribution-id E1Y7FA70VLG6JO --paths "/*"

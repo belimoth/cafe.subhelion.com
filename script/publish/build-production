@@ -3,13 +3,12 @@
 set -o errexit
 
 rm -rf /a/local/build
-mkdir --parents /a/local/build/0
+mkdir --parents /a/local/build-production/0
 
-cp /a/index.html /a/local/build/0/index.html
-cp --recursive /a/source/static /a/local/build/0/static
+cp --recursive /a/source/static /a/local/build-production/0/static
 
 function build_page() {
-	pandoc --standalone /a/source/page/$1.md --output /a/local/build/0/$1.html --template /a/source/template.html
+	pandoc --standalone /a/source/page/$1.md --output /a/local/build-production/0/$1.html --template /a/source/template.html
 }
 
 function each() {

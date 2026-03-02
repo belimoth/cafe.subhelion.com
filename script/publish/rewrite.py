@@ -1,7 +1,7 @@
 import os
 import re
 
-build_path = os.path.abspath( "./local/build/0" )
+build_path = os.path.abspath( "./local/build-production/0" )
 
 root_count = build_path.count( os.sep )
 
@@ -14,7 +14,7 @@ for root, dirs, files in os.walk( build_path ):
 
 		if ext == ".html":
 			if os.path.isdir( name ):
-				new_name = name.replace( "local\\build\\0", "local\\build\\" + str( depth ) )
+				new_name = name.replace( "local\\build-production\\0", "local\\build-production\\" + str( depth ) )
 				os.makedirs( os.path.dirname( new_name ), exist_ok = True )
 				os.rename( path, new_name )
 			else:

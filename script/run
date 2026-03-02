@@ -2,7 +2,7 @@
 
 set -o errexit
 
-cd source
+cd /a/local/build
 
 echo "http://localhost:8000"
 python -m http.server
