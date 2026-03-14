@@ -7,8 +7,12 @@ mkdir --parents /a/local/build
 
 cp --recursive /a/source/static /a/local/build/static
 
+export PYTHONIOENCODING=utf-8
+
 function build_page() {
-	pandoc --standalone /a/source/page/$1.md --output /a/local/build/$1.html --template /a/source/template.html
+	# pandoc --standalone /a/source/page/$1.md --output /a/local/build/$1.html --template /a/source/template.html
+	mkdir --parents /a/local/build/$1/..
+	python -m mistune --file /a/source/page/$1.md --output /a/local/build/$1.html
 }
 
 function each() {
