@@ -533,3 +533,19 @@ a[href^="http"]::after {
 	content: "↗";
 	display: inline;
 }
+
+table#site-list {
+	text-align: top;
+}
+
+table#site-list img {
+	width: 102px;
+	height: 76px;
+	outline: 1px solid currentColor;
+	margin-bottom: 8px;
+}
+
+
+a.img::after {
+	display: none;
+}
