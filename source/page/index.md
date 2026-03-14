@@ -47,10 +47,23 @@
 <tr><td colspan=3><h3>Game projects</h3>
 <tr><td><a href=/project/dread-check>DREAD CHECK                                    </a><td>--                                                                   <td>--
 <tr><td colspan=3>Dread Check Chapters
-<tr><td><li><a href=/project/dread-check/draugb           >Draugb                   </a><td>--                                                                   <td>--
-<tr><td><li><a href=/project/dread-check/horse-war        >Horse War                </a><td>--                                                                   <td>--
-<tr><td><li><a href=/project/dread-check/howling-commandos>Howling Commandos        </a><td>--                                                                   <td>--
-<tr><td><li><a href=/project/dread-check/swat-city        >Swat City                </a><td>--                                                                   <td>--
+<tr><td><li><a href=/project/dread-check/alien-intel        >Alien Intel                                  </a><td>--                                                                   <td>--
+<tr><td><li><a href=/project/dread-check/blood-flush        >Blood Flush                                  </a><td>--                                                                   <td>--
+<tr><td><li><a href=/project/dread-check/cold-hauler-buffalo>Cold Hauler Buffalo                          </a><td>--                                                                   <td>--
+<tr><td><li><a href=/project/dread-check/cryshock           >Cryoshock                                    </a><td>--                                                                   <td>--
+<tr><td><li><a href=/project/dread-check/diablo-plains      >Diablo Plains                                </a><td>--                                                                   <td>--
+<tr><td><li><a href=/project/dread-check/draugb             >DRAUGB                                       </a><td>--                                                                   <td>--
+<tr><td><li><a href=/project/dread-check/diablo-plains      >El Ingenioso hidalgo don Quixote de la Mancha</a><td>--                                                                   <td>--
+<tr><td><li><a href=/project/dread-check/full-metal-express >Full Metal Express                           </a><td>--                                                                   <td>--
+<tr><td><li><a href=/project/dread-check/gate-quake         >Gate Quake                                   </a><td>--                                                                   <td>--
+<tr><td><li><a href=/project/dread-check/horse-war          >Horse War                                    </a><td>--                                                                   <td>--
+<tr><td><li><a href=/project/dread-check/howling-commandos  >Howling Commandos                            </a><td>--                                                                   <td>--
+<tr><td><li><a href=/project/dread-check/plastic-platoon    >Plastic Platoon                              </a><td>--                                                                   <td>--
+<tr><td><li><a href=/project/dread-check/phazard-company    >Plastic Platoon: Hazard Company              </a><td>--                                                                   <td>--
+<tr><td><li><a href=/project/dread-check/route-66           >Route 66                                     </a><td>--                                                                   <td>--
+<tr><td><li><a href=/project/dread-check/swat-city          >Swat City                                    </a><td>--                                                                   <td>--
+<tr><td><li><a href=/project/dread-check/swat-city-x        >Swat City X                                  </a><td>--                                                                   <td>--
+<tr><td><li><a href=/project/dread-check/wuerm-arctigeddon  >Würm Arctigeddon	                          </a><td>--                                                                   <td>--
 <tr><td colspan=3>Dread Check Profiles
 <tr><td><li><a href=/project/dread-check/horse-war-rally  >Horse War Rally          </a><td>--                                                                   <td>--
 <tr><td><li><a href=/project/dread-check/swat-city-scanner>Swat City Scanner        </a><td>--                                                                   <td>--
@@ -83,14 +96,19 @@
 
 ## Sites
 
-<table>
-<tr><td><a href=https://belimoth.com      >belimoth.com                     </a><td>Zach's portfolio      <td><a href=https://github.com/belimoth/belimoth.com       >Source</a>
-<tr><td><a href=https://subhelion.com     >subhelion.com                    </a><td>Team's portfolio      <td><a href=https://github.com/subhelion/subhelion.com     >Source</a>
-<tr><td><a href=https://belimoth.itch.io  >belimoth.itch.io                 </a><td>Zach's prototypes     <td>--
-<tr><td><a href=https://subhelion.itch.io >subhelion.itch.io                </a><td>Team's products       <td>--
-<tr><td><a href=https://cafe.belimoth.com >cafe.belimoth.com                </a><td>Zach's notes and links<td><a href=https://github.com/belimoth/cafe.belimoth.com  >Source</a>
-<tr><td><a href=https://cafe.subhelion.com>cafe.subhelion.com               </a><td>Team's notes and links<td><a href=https://github.com/subhelion/cafe.subhelion.com>Source</a>
-<tr><td>data.subhelion.com                                                      <td>Data server           <td><a href=https://github.com/subhelion/data.subhelion.com>Source</a>
-<tr><td><a href=https://bsky.app/profile/subhelion.com>subhelion.bsky.app   </a><td>Subhelion social media<td>--
-<tr><td><a href=https://discord.gg/tABmNbQVz9         >subhelion.discord.com</a><td>Subhelion chat        <td>--
+<table id=site-list>
+<tr><td><a href=https://belimoth.com                   class=img><img src=static/image/site/belimoth.com.png         ></a><td><a href=https://belimoth.com      >belimoth.com                     </a><td><a href=https://github.com/belimoth/belimoth.com       >Source</a>
+<tr><td><a href=https://www.artbysilverman.com         class=img><img src=static/image/site/artbysilverman.com.png   ></a><td><a href=https://artbysilverman.com>artbysilverman.com               </a><td>--
+<tr><td><a href=https://mithraea.xyz                   class=img><img src=static/image/site/mithraea.xyz.png         ></a><td><a href=https://mithraea.xyz      >mithraea.xyz                     </a><td><a href=https://github.com/belimoth/belimoth.com       >Source</a>
+<tr><td><a href=https://subhelion.com                  class=img><img src=static/image/site/subhelion.com.png        ></a><td><a href=https://subhelion.com     >subhelion.com                    </a><td><a href=https://github.com/subhelion/subhelion.com     >Source</a>
+<tr><td><a href=https://belimoth.itch.io               class=img><img src=static/image/site/belimoth.itch.io.png     ></a><td><a href=https://belimoth.itch.io  >belimoth.itch.io                 </a><td>--
+<tr><td><a href=https://tegiminis.itch.io              class=img><img src=static/image/site/tegiminis.itch.io.png    ></a><td><a href=https://tegiminis.itch.io >tegiminis.itch.io                </a><td>--
+<tr><td><a href=https://subhelion.itch.io              class=img><img src=static/image/site/subhelion.itch.io.png    ></a><td><a href=https://subhelion.itch.io >subhelion.itch.io                </a><td>--
+<tr><td><a href=https://cafe.belimoth.com              class=img><img src=static/image/site/cafe.belimoth.com.png    ></a><td><a href=https://cafe.belimoth.com >cafe.belimoth.com                </a><td><a href=https://github.com/belimoth/cafe.belimoth.com  >Source</a>
+<tr><td><a href=https://cafe.subhelion.com             class=img><img src=static/image/site/cafe.subhelion.com.png   ></a><td><a href=https://cafe.subhelion.com>cafe.subhelion.com               </a><td><a href=https://github.com/subhelion/cafe.subhelion.com>Source</a>
+<tr><td><a href                                        class=img><img src=static/image/site/data.subhelion.com.png   ></a><td>data.subhelion.com                                                      <td><a href=https://github.com/subhelion/data.subhelion.com>Source</a>
+<tr><td><a href=https://bsky.app/profile/subhelion.com class=img><img src=static/image/site/subhelion.bsky.app.png   ></a><td><a href=https://bsky.app/profile/subhelion.com>subhelion.bsky.app   </a><td>--
+<tr><td><a href=https://discord.gg/tABmNbQVz9          class=img><img src=static/image/site/subhelion.discord.com.png></a><td><a href=https://discord.gg/tABmNbQVz9         >subhelion.discord.com</a><td>--
+<tr><td><a href=https://github.com/subhelion           class=img><img src=static/image/site/subhelion.github.com.png ></a><td><a href=https://github.com/subhelion          >subhelion.github.com </a><td>--
+<tr><td><a href=https://subhelion.gumroad.com          class=img><img src=static/image/site/subhelion.gumroad.com.png></a><td><a href=https://subhelion.gumroad.com         >subhelion.gumroad.com</a><td>--
 </table>
