@@ -104,18 +104,9 @@ dt::after {
 
 ul > li > time {
 	display: inline-block;
-
-	margin-left: -8ch;
-	margin-right: 4ch;
-
+	margin-left: -5ch;
+	margin-right: 1ch;
 	width: 4ch;
-}
-
-@media ( max-width: 960px ) {
-	ul > li > time {
-		margin-left: -6ch;
-		margin-right: 2ch;
-	}
 }
 
 /*  */
@@ -147,7 +138,8 @@ h2 {
 }
 
 h3 {
-	margin-top: 48px;
+	margin: 32px 0;
+	border: 0;
 }
 
 h1,
@@ -162,7 +154,7 @@ ul, ol, p {
 }
 
 h1 + h2 {
-	margin-top: -48px;
+	/* margin-top: -48px; */
 }
 
 h2 + h2 {
@@ -186,7 +178,6 @@ i {
 body > ul, body > ol {
 	margin-left : calc( -8ch );
 	padding-left: calc(  8ch );
-	padding-bottom: 24px;
 }
 
 @media ( max-width: 960px ) {
@@ -197,7 +188,7 @@ body > ul, body > ol {
 }
 
 ul {
-	list-style: none;
+	/* list-style: none; */
 }
 
 ol {
@@ -303,10 +294,6 @@ li > button:hover::before {
 	background: #f0f0f0;
 }
 
-nav.crumbs > a {
-	display: inline-block;
-}
-
 /*  */
 
 li > button {
@@ -334,12 +321,6 @@ li.group {
 }
 
 ul > li {
-	overflow: hidden;
-	text-overflow: ellipsis;
-	white-space: nowrap;
-
-	margin-left: calc( -8ch );
-	padding-left: calc( 8ch );
 }
 
 ol ol {
@@ -529,23 +510,32 @@ td > li {
 	margin-left: 18px
 }
 
-a[href^="http"]::after {
+a[href^="https"]::after {
 	content: "↗";
 	display: inline;
 }
 
-table#site-list {
+table {
 	text-align: top;
 }
 
-table#site-list img {
+table img {
 	width: 102px;
 	height: 76px;
 	outline: 1px solid currentColor;
-	margin-bottom: 8px;
 }
 
 
-a.img::after {
-	display: none;
+body > ul {
+	list-style: circle;
+}
+
+body > table {
+	margin-left: -8px;
+	margin-bottom: 32px;
+}
+
+
+table td:first-child {
+	text-wrap: nowrap;
 }
