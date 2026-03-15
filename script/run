@@ -8,7 +8,7 @@ set -o errexit
 # python -m httpmdhtml.server
 
 mkdir --parents /a/local/run
-cd /a/local/run
 echo "http://localhost:5000"
 source /a/script/activate
+export PYTHONPYCACHEPREFIX=/a/local/run
 flask --app /a/source/app run --debug
