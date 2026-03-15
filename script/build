@@ -2,23 +2,32 @@
 
 set -o errexit
 
+# source /a/script/activate
+
 rm -rf /a/local/build
 mkdir --parents /a/local/build
 
-cp --recursive /a/source/static /a/local/build/static
 
-export PYTHONIOENCODING=utf-8
+# function build_page() {
+# 	mkdir --parents /a/local/build/$1/..
+# 	python -m mistune --file /a/source/page/$1.md --output /a/local/build/$1.html
+# }
+#
+# function each() {
+# 	while read x; do
+# 		$1 $x
+# 	done
+# }
+#
+# cp --recursive /a/source/static /a/local/build/static
+# find /a/source/page -type f -name "*.md" | sed "s|/a/source/page/||" | sed "s|.md||" | each build_page
 
-function build_page() {
-	# pandoc --standalone /a/source/page/$1.md --output /a/local/build/$1.html --template /a/source/template.html
-	mkdir --parents /a/local/build/$1/..
-	python -m mistune --file /a/source/page/$1.md --output /a/local/build/$1.html
-}
+# cd /a/source
+# python -m app
+# export FLASK_FREEZER_DESTINATION=/a/local/build/0
+# python freeze.py
+# python rewrite_files.py
+# mv /a/local/build/0/index /a/local/build/0/index.html
 
-function each() {
-	while read x; do
-		$1 $x
-	done
-}
-
-find /a/source/page -type f -name "*.md" | sed "s|/a/source/page/||" | sed "s|.md||" | each build_page
+cd /a/source
+pelican /a/source --output /a/local/build --theme-path /a/source/theme
