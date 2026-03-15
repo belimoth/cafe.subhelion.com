@@ -2,14 +2,13 @@
 
 set -o errexit
 
-# cd /a/local/build
+# cd /a/source
 # echo "http://localhost:8000"
 # python -m http.server
 # python -m httpmdhtml.server
 
-# cd /a/local/build
-# echo "http://localhost:5000"
-# source /a/script/activate
-# flask --app /a/source/app run --debug
-
-pelican --listen /a/local/source --output /a/local/build --theme-path /a/source/theme
+mkdir --parents /a/local/run
+cd /a/local/run
+echo "http://localhost:5000"
+source /a/script/activate
+flask --app /a/source/app run --debug
