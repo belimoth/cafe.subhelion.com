@@ -2,11 +2,8 @@
 
 set -o errexit
 
-# source /a/script/activate
-
 rm -rf /a/local/build
 mkdir --parents /a/local/build
-
 
 # function build_page() {
 # 	mkdir --parents /a/local/build/$1/..
@@ -22,12 +19,10 @@ mkdir --parents /a/local/build
 # cp --recursive /a/source/static /a/local/build/static
 # find /a/source/page -type f -name "*.md" | sed "s|/a/source/page/||" | sed "s|.md||" | each build_page
 
-# cd /a/source
-# python -m app
-# export FLASK_FREEZER_DESTINATION=/a/local/build/0
-# python freeze.py
-# python rewrite_files.py
-# mv /a/local/build/0/index /a/local/build/0/index.html
-
 cd /a/source
-pelican /a/source --output /a/local/build --theme-path /a/source/theme
+source /a/script/activate
+python -m app
+export FLASK_FREEZER_DESTINATION=/a/local/build/0
+python freeze.py
+python rewrite.py
+# mv /a/local/build/0/index /a/local/build/0/index.html

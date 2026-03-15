@@ -1,7 +1,0 @@
-#!/bin/bash
-
-set -o errexit
-
-[[ $( uname --operating-system ) == "Msys" ]] || { echo "error: unsupported os"; exit 1; }
-
-scoop install pandoc

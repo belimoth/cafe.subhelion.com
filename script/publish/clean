@@ -1,7 +1,0 @@
-#!/bin/bash
-
-set -o errexit
-
-echo error todo
-
-exit 1

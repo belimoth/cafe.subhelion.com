@@ -4,3 +4,4 @@
 
 # shellcheck disable=SC1091
 source /a/local/venv/scripts/activate
+export PYTHONPYCACHEPREFIX=/a/local/run

@@ -10,5 +10,4 @@ set -o errexit
 mkdir --parents /a/local/run
 echo "http://localhost:5000"
 source /a/script/activate
-export PYTHONPYCACHEPREFIX=/a/local/run
 flask --app /a/source/app run --debug

@@ -2,7 +2,7 @@ from flask import Flask, render_template
 from flask_misaka import Misaka
 
 app = Flask( __name__, template_folder = "page" )
-Misaka( app, autolink = True, tables = True )
+Misaka( app, autolink = True, fenced_code = True, tables = True )
 
 @app.route("/")
 def index():
