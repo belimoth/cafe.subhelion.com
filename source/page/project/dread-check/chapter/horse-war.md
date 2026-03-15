@@ -1,4 +1,3 @@
-
 # HORSE WAR
 
 https://x.com/belimoth/status/1037513128664330240

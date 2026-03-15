@@ -1,25 +1,25 @@
-# HOUSE
+# House
 
 KEY          | YEAR | NAME                                           | WHERE                      | LINK
 -------------|------|------------------------------------------------|----------------------------|---------------------------------------------------------------------------------------------
- --          | 1937 | Westinghouse Atom Smasher                      | Forest Hills, Pennsylvania | https://en.wikipedia.org/wiki/Westinghouse_Atom_Smasher
- --          | 1964 | Habitat 67                                     | Montreal, Quebec           | https://en.wikipedia.org/wiki/Habitat_67
- city        | 1368 | --                                             | Birmingham, UK             | https://en.wikipedia.org/wiki/Architecture_of_Birmingham
- farm        | 2011 | Muskingum County Animal Farm                   | Zanesville, Ohio           | https://en.wikipedia.org/wiki/Zanesville_animal_escape
- hq_armada   | 1975 | Stanley R. Mickelsen Safeguard Complex (SRMSC) | Nekoma, North Dakota       | https://en.wikipedia.org/wiki/Stanley_R._Mickelsen_Safeguard_Complex
- hq_govpol   | 1968 | Chet Holifield Federal Building "Ziggurat"     | Laguna Niguel, California  | https://en.wikipedia.org/wiki/Chet_Holifield_Federal_Building
- library     | 1781 | Clementium                                     | Prague, Czech Republic     | https://prague.eu/en/objevujte/the-clementinum-astronomical-tower-and-baroque-library
- library     | 1913 | Natural History Museum of Los Angeles County   | Los Angeles, California    | https://en.wikipedia.org/wiki/Natural_History_Museum_of_Los_Angeles_County
- megacasino  | 1877 | Galleria Vittorio Emanuele II                  | Milan, Italy               | https://en.wikipedia.org/wiki/Galleria_Vittorio_Emanuele_II
- observatory | 1892 | Yerkes Observatory                             | Williams Bay, Wisconsin    | https://en.wikipedia.org/wiki/Yerkes_Observatory
- ore_breaker | 1873 | Sibley Breaker                                 | Old Forge, Pennsylvania    | https://www.designer-daily.com/massive-wood-structures-of-americas-early-20th-century-109961
- prison      | 1975 | Metropolitan Correctional Center (MCC)         | Chicago, Illinois          | https://en.wikipedia.org/wiki/Metropolitan_Correctional_Center,_Chicago
+ --          | 1937 | Westinghouse Atom Smasher                      | Forest Hills, Pennsylvania | [en.wikipedia.org](https://en.wikipedia.org/wiki/Westinghouse_Atom_Smasher)
+ --          | 1964 | Habitat 67                                     | Montreal, Quebec           | [en.wikipedia.org](https://en.wikipedia.org/wiki/Habitat_67)
+ city        | 1368 | --                                             | Birmingham, UK             | [en.wikipedia.org](https://en.wikipedia.org/wiki/Architecture_of_Birmingham)
+ farm        | 2011 | Muskingum County Animal Farm                   | Zanesville, Ohio           | [en.wikipedia.org](https://en.wikipedia.org/wiki/Zanesville_animal_escape)
+ hq_armada   | 1975 | Stanley R. Mickelsen Safeguard Complex (SRMSC) | Nekoma, North Dakota       | [en.wikipedia.org](https://en.wikipedia.org/wiki/Stanley_R._Mickelsen_Safeguard_Complex)
+ hq_govpol   | 1968 | Chet Holifield Federal Building "Ziggurat"     | Laguna Niguel, California  | [en.wikipedia.org](https://en.wikipedia.org/wiki/Chet_Holifield_Federal_Building)
+ library     | 1781 | Clementium                                     | Prague, Czech Republic     | [prague.eu](https://prague.eu/en/objevujte/the-clementinum-astronomical-tower-and-baroque-library)
+ library     | 1913 | Natural History Museum of Los Angeles County   | Los Angeles, California    | [en.wikipedia.org](https://en.wikipedia.org/wiki/Natural_History_Museum_of_Los_Angeles_County)
+ megacasino  | 1877 | Galleria Vittorio Emanuele II                  | Milan, Italy               | [en.wikipedia.org](https://en.wikipedia.org/wiki/Galleria_Vittorio_Emanuele_II)
+ observatory | 1892 | Yerkes Observatory                             | Williams Bay, Wisconsin    | [en.wikipedia.org](https://en.wikipedia.org/wiki/Yerkes_Observatory)
+ ore_breaker | 1873 | Sibley Breaker                                 | Old Forge, Pennsylvania    | [designer-daily.com](https://www.designer-daily.com/massive-wood-structures-of-americas-early-20th-century-109961)
+ prison      | 1975 | Metropolitan Correctional Center (MCC)         | Chicago, Illinois          | [en.wikipedia.org](https://en.wikipedia.org/wiki/Metropolitan_Correctional_Center,_Chicago)
 
-## LINK - CHICAGO
+## Link - Chicago
 
 - https://en.wikipedia.org/wiki/Architecture_of_Chicago
 
-## LINK - PRISON
+## Link - Prison
 
 - https://aviewoncities.com/chicago/buildings/metropolitan-correctional-center
 - https://aviewoncities.com/chicago/buildings/metropolitan-correctional-center
@@ -30,7 +30,7 @@ KEY          | YEAR | NAME                                           | WHERE    
 - https://www.blueprintchicago.org/2010/12/22/metropolitan-correctional-center
 - https://www.vice.com/en/article/women-are-stripping-for-inmates-on-a-parking-garage-roof-in-chicago-vgtrn
 
-# INBOX
+# Inbox
 
 - 33 thomas street at&t long lines building
 - aztec pyramids before and after

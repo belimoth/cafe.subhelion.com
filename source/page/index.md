@@ -1,5 +1,3 @@
-<style>ul > li > ul { padding-left: 40px; }</style>
-<body>
 
 <nav class="crumbs"><a href="/">cafe.subhelion.com</a></nav>
 <br>
@@ -8,107 +6,88 @@
 ## Links
 
 |                     |                                               |
-| ------------------- | --------------------------------------------- |
+|---------------------|-----------------------------------------------|
 | [Profile](/profile) | Artists, authors, directors, editors, workers |
 | [Shelf  ](/shelf  ) | Index of offline works                        |
 | [Site   ](/site   ) | Index of online works                         |
 
 ## Notes
 
-<table>
-<tr><td><a class=new href=/art    >Art    </a><td>Visual art, photography, sculpture
-<tr><td><a class=new href=/code   >Code   </a><td>Programming and video game development
-<tr><td><a class=new href=/fiction>Fiction</a><td>Story, speculation, lore, myth
-<tr><td><a class=new href=/history>History</a><td>History
-<tr><td><a           href=/media  >Media  </a><td>Films, TV shows, anime, manga, comics
-<tr><td><a           href=/monster>Monster</a><td>Aliens, creatures, devils, dinosaurs; symbolic and speculative biology
-<tr><td><a           href=/music  >Music  </a><td>Music
-<tr><td><a           href=/nature >Nature </a><td>Earth science and biology
-<tr><td><a class=new href=/tech   >Tech   </a><td>Technology
-<tr><td><a           href=/war    >War    </a><td>Weapons, equipment, vehicles
-</table>
+|                          |                                                                        |
+|--------------------------|------------------------------------------------------------------------|
+| [Art    ](/note/art    ) | Visual art, photography, sculpture                                     |
+| [Code   ](/note/code   ) | Programming and video game development                                 |
+| [Fiction](/note/fiction) | Story, speculation, lore, myth                                         |
+| [History](/note/history) | History                                                                |
+| [Media  ](/note/media  ) | Films, TV shows, anime, manga, comics                                  |
+| [Monster](/note/monster) | Aliens, creatures, devils, dinosaurs; symbolic and speculative biology |
+| [Music  ](/note/music  ) | Music                                                                  |
+| [Nature ](/note/nature ) | Earth science and biology                                              |
+| [Tech   ](/note/tech   ) | Technology                                                             |
+| [War    ](/note/war    ) | Weapons, equipment, vehicles                                           |
 
-## Projects
+<h2 id=projects>Projects</h2>
 
-<table>
-<tr><td colspan=3><h3>Code projects</h3>
-<tr><td><a class=new href=/project/boss-guts>Boss Guts                          </a><td>Reverse-engineering and decompilation library                         <td><a href=https://github.com/belimoth/boss-guts                 >Source</a>
-<tr><td><a class=new href=/project/engine   >Engine                             </a><td>Function library                                                      <td><a href=https://github.com/subhelion/engine                   >Source</a>
-<tr><td><li>engine/crest                                                            <td>TBS/SRPG game engine                                                  <td><a href=https://github.com/subhelion/engine/tree/main/crest   >Source</a>
-<tr><td><li>engine/crucible                                                         <td>Gauntlet game engine                                                  <td><a href=https://github.com/subhelion/engine/tree/main/crucible>Source</a>
-<tr><td><li>engine/scuffle                                                          <td>Brawler game engine                                                   <td><a href=https://github.com/subhelion/engine/tree/main/scuffle >Source</a>
-<tr><td><li>engine/thwart                                                           <td>Contra game engine                                                    <td><a href=https://github.com/subhelion/engine/tree/main/thwart  >Source</a>
-<tr><td><a class=new href=/project/system   >System                             </a><td>Script library                                                        <td><a href=https://github.com/subhelion/system                   >Source</a>
-<tr><td><li>system/code                                                             <td>Code scripts                                                          <td>--
-<tr><td><li>system/forge                                                            <td>Forge scripts                                                         <td>--
-<tr><td><a class=new href=/project/template >Template                           </a><td>Project template library                                              <td><a href=https://github.com/subhelion/template                 >Source</a>
-<tr><td><li>template/cpp                                                            <td>App project templates                                                 <td>--
-<tr><td><li>template/web                                                            <td>Web project templates                                                 <td>--</td>
-<tr><td colspan=3><h3>Game projects</h3>
-<tr><td><a href=/project/dread-check>DREAD CHECK                                    </a><td>--                                                                   <td>--
-<tr><td colspan=3>Dread Check Chapters
-<tr><td><li><a href=/project/dread-check/alien-intel        >Alien Intel                                  </a><td>--                                                                   <td>--
-<tr><td><li><a href=/project/dread-check/blood-flush        >Blood Flush                                  </a><td>--                                                                   <td>--
-<tr><td><li><a href=/project/dread-check/cold-hauler-buffalo>Cold Hauler Buffalo                          </a><td>--                                                                   <td>--
-<tr><td><li><a href=/project/dread-check/cryshock           >Cryoshock                                    </a><td>--                                                                   <td>--
-<tr><td><li><a href=/project/dread-check/diablo-plains      >Diablo Plains                                </a><td>--                                                                   <td>--
-<tr><td><li><a href=/project/dread-check/draugb             >DRAUGB                                       </a><td>--                                                                   <td>--
-<tr><td><li><a href=/project/dread-check/diablo-plains      >El Ingenioso hidalgo don Quixote de la Mancha</a><td>--                                                                   <td>--
-<tr><td><li><a href=/project/dread-check/full-metal-express >Full Metal Express                           </a><td>--                                                                   <td>--
-<tr><td><li><a href=/project/dread-check/gate-quake         >Gate Quake                                   </a><td>--                                                                   <td>--
-<tr><td><li><a href=/project/dread-check/horse-war          >Horse War                                    </a><td>--                                                                   <td>--
-<tr><td><li><a href=/project/dread-check/howling-commandos  >Howling Commandos                            </a><td>--                                                                   <td>--
-<tr><td><li><a href=/project/dread-check/plastic-platoon    >Plastic Platoon                              </a><td>--                                                                   <td>--
-<tr><td><li><a href=/project/dread-check/phazard-company    >Plastic Platoon: Hazard Company              </a><td>--                                                                   <td>--
-<tr><td><li><a href=/project/dread-check/route-66           >Route 66                                     </a><td>--                                                                   <td>--
-<tr><td><li><a href=/project/dread-check/swat-city          >Swat City                                    </a><td>--                                                                   <td>--
-<tr><td><li><a href=/project/dread-check/swat-city-x        >Swat City X                                  </a><td>--                                                                   <td>--
-<tr><td><li><a href=/project/dread-check/wuerm-arctigeddon  >Würm Arctigeddon	                          </a><td>--                                                                   <td>--
-<tr><td colspan=3>Dread Check Profiles
-<tr><td><li><a href=/project/dread-check/horse-war-rally  >Horse War Rally          </a><td>--                                                                   <td>--
-<tr><td><li><a href=/project/dread-check/swat-city-scanner>Swat City Scanner        </a><td>--                                                                   <td>--
-<tr><td><li><a href=/project/dread-check/swat-city-skinner>Swat City Skinner        </a><td>--                                                                   <td>--
-<tr><td><li><a href=/project/dread-check/swat-city-swimmer>Swat City Swimmer        </a><td>--                                                                   <td>--
-<tr><td colspan=3>Dread Check Shorties
-<tr><td><li><a class=new href=/project/dread-check/blue-monsoon    >Blue Monsoon    </a><td>--                                                                   <td>--
-<tr><td><li><a class=new href=/project/dread-check/red-cry         >Red Cry         </a><td>--                                                                   <td>--
-<tr><td><li><a class=new href=/project/dread-check/threefold-path  >Threefold Path  </a><td>--                                                                   <td>--
-<tr><td><li><a class=new href=/project/dread-check/primitive-streak>Primitive Streak</a><td>--                                                                   <td>--
-<tr><td colspan=3><h5>Other games</h5>
-<tr><td><a class=new href=project/simir                >Simir                       </a><td>Scientific exploration on procedurally genrated planets              <td>--
-<tr><td><a class=new href=project/tyrant-engine        >Tyrant Engine               </a><td>Hybrid turn-based tactics and fighting game in a dark fantasy setting<td>--
-<tr><td><a class=new href=project/untitled-fantasy-game>Untitled Fantasy Game       </a><td>--                                                                   <td>--
-<tr><td><a class=new href=project/untitled-history-game>Untitled History Game       </a><td>--                                                                   <td>--
-<tr><td colspan=3><h3>Tool projects
-<tr><td><a href=/project/clay>CLAY                                                  </a><td>Game development framework                                           <td><a href=https://github.com/subhelion/clay>Source</a>
-<tr><td><li><a class=new href=/project/clay/bot  >clay/bot                          </a><td>--                                                                   <td>--
-<tr><td><li><a class=new href=/project/clay/color>clay/color                        </a><td>Color and palette utilities                                          <td>--
-<tr><td><li><a class=new href=/project/clay/data >clay/data                         </a><td>--                                                                   <td>--
-<tr><td><li><a class=new href=/project/clay/font >clay/font                         </a><td>Pixel font generator and utilities                                   <td>--
-<tr><td><li><a class=new href=/project/clay/model>clay/model                        </a><td>3D art editor                                                        <td>--
-<tr><td><li><a class=new href=/project/clay/paint>clay/paint                        </a><td>2D art editor                                                        <td>--
-<tr><td><li><a class=new href=/project/clay/pfx  >clay/pfx                          </a><td>Particle effects                                                     <td>--
-<tr><td><li><a class=new href=/project/clay/sfx  >clay/sfx                          </a><td>Sound effects                                                        <td>--
-<tr><td><li><a class=new href=/project/clay/vfx  >clay/vfx                          </a><td>Image and video effects                                              <td>--
-<tr><td><li><a class=new href=/project/clay/world>clay/world                        </a><td>Level editor                                                         <td>--
-</tbody>
-</table>
+### Code projects
+
+|                                                |                                               |                                                                  |
+|------------------------------------------------|-----------------------------------------------|------------------------------------------------------------------|
+| <a class=new href=/project/boss-guts>Boss Guts | Reverse-engineering and decompilation library | [Source](https://github.com/belimoth/boss-guts)                  |
+| <a class=new href=/project/engine   >Engine    | Function library                              | [Source](https://github.com/subhelion/engine)                    |
+| <li>engine/crest                               | TBS/SRPG game engine                          | [Source](https://github.com/subhelion/engine/tree/main/crest)    |
+| <li>engine/crucible                            | Gauntlet game engine                          | [Source](https://github.com/subhelion/engine/tree/main/crucible) |
+| <li>engine/scuffle                             | Brawler game engine                           | [Source](https://github.com/subhelion/engine/tree/main/scuffle)  |
+| <li>engine/thwart                              | Contra game engine                            | [Source](https://github.com/subhelion/engine/tree/main/thwart)   |
+| [System](/project/system)                      | Script library                                | [Source](https://github.com/subhelion/system)                    |
+| <li>system/code                                | Code scripts                                  | --                                                               |
+| <li>system/forge                               | Forge scripts                                 | --                                                               |
+| [Template](/project/template)                  | Project template library                      | [Source](https://github.com/subhelion/template)                  |
+| <li>template/cpp                               | App project templates                         | --                                                               |
+| <li>template/web                               | Web project templates                         | --                                                               |
+
+### Game projects
+
+|                                                        |                                                                       |
+|--------------------------------------------------------|-----------------------------------------------------------------------|
+| [DREAD CHECK          ](/project/dread-check)          | Collaborative first-person shooter anthology                          |
+| [Simir                ](project/simir)                 | Scientific exploration on procedurally genrated planets               |
+| [Tyrant Engine        ](project/tyrant-engine)         | Hybrid turn-based tactics and fighting game in a dark fantasy setting |
+| [Untitled Fantasy Game](project/untitled-fantasy-game) | --                                                                    |
+| [Untitled History Game](project/untitled-history-game) | --                                                                    |
+
+### Tool projects
+
+|                                       |                                    |                                                                         |
+|---------------------------------------|------------------------------------|-------------------------------------------------------------------------|
+| [Clay](/project/clay)                 | Game development framework         | [Source](https://github.com/subhelion/clay)                             |
+| <li>[clay/bot  ](/project/clay/bot)   | Bot development framework          | [Source](https://github.com/subhelion/clay/tree/main/source/bot)        |
+| <li>[clay/color](/project/clay/color) | Color and palette utilities        | [Source](https://github.com/subhelion/clay/blob/main/source/color.html) |
+| <li>[clay/data ](/project/clay/data)  | Asset management hub               | [Source](https://github.com/subhelion/clay/tree/main/source/data)       |
+| <li>[clay/font ](/project/clay/font)  | Pixel font generator and utilities | [Source](https://github.com/subhelion/clay/tree/main/source/font)       |
+| <li>[clay/model](/project/clay/model) | 3D art editor                      | [Source](https://github.com/subhelion/clay/tree/main/source/model)      |
+| <li>[clay/paint](/project/clay/paint) | 2D art editor                      | [Source](https://github.com/subhelion/clay/blob/main/source/paint.html) |
+| <li>[clay/pfx  ](/project/clay/pfx)   | Particle effects                   | [Source](https://github.com/subhelion/clay/tree/main/source/pfx)        |
+| <li>[clay/sfx  ](/project/clay/sfx)   | Sound effects                      | [Source](https://github.com/subhelion/clay/tree/main/source/sfx)        |
+| <li>[clay/vfx  ](/project/clay/vfx)   | Image and video effects            | [Source](https://github.com/subhelion/clay/tree/main/source/vfx)        |
+| <li>[clay/world](/project/clay/world) | Level editor                       | [Source](https://github.com/subhelion/clay/tree/main/source/world)      |
 
 ## Sites
 
-<table id=site-list>
-<tr><td><a href=https://belimoth.com                   class=img><img src=static/image/site/belimoth.com.png         ></a><td><a href=https://belimoth.com      >belimoth.com                     </a><td><a href=https://github.com/belimoth/belimoth.com       >Source</a>
-<tr><td><a href=https://www.artbysilverman.com         class=img><img src=static/image/site/artbysilverman.com.png   ></a><td><a href=https://artbysilverman.com>artbysilverman.com               </a><td>--
-<tr><td><a href=https://mithraea.xyz                   class=img><img src=static/image/site/mithraea.xyz.png         ></a><td><a href=https://mithraea.xyz      >mithraea.xyz                     </a><td><a href=https://github.com/belimoth/belimoth.com       >Source</a>
-<tr><td><a href=https://subhelion.com                  class=img><img src=static/image/site/subhelion.com.png        ></a><td><a href=https://subhelion.com     >subhelion.com                    </a><td><a href=https://github.com/subhelion/subhelion.com     >Source</a>
-<tr><td><a href=https://belimoth.itch.io               class=img><img src=static/image/site/belimoth.itch.io.png     ></a><td><a href=https://belimoth.itch.io  >belimoth.itch.io                 </a><td>--
-<tr><td><a href=https://tegiminis.itch.io              class=img><img src=static/image/site/tegiminis.itch.io.png    ></a><td><a href=https://tegiminis.itch.io >tegiminis.itch.io                </a><td>--
-<tr><td><a href=https://subhelion.itch.io              class=img><img src=static/image/site/subhelion.itch.io.png    ></a><td><a href=https://subhelion.itch.io >subhelion.itch.io                </a><td>--
-<tr><td><a href=https://cafe.belimoth.com              class=img><img src=static/image/site/cafe.belimoth.com.png    ></a><td><a href=https://cafe.belimoth.com >cafe.belimoth.com                </a><td><a href=https://github.com/belimoth/cafe.belimoth.com  >Source</a>
-<tr><td><a href=https://cafe.subhelion.com             class=img><img src=static/image/site/cafe.subhelion.com.png   ></a><td><a href=https://cafe.subhelion.com>cafe.subhelion.com               </a><td><a href=https://github.com/subhelion/cafe.subhelion.com>Source</a>
-<tr><td><a href                                        class=img><img src=static/image/site/data.subhelion.com.png   ></a><td>data.subhelion.com                                                      <td><a href=https://github.com/subhelion/data.subhelion.com>Source</a>
-<tr><td><a href=https://bsky.app/profile/subhelion.com class=img><img src=static/image/site/subhelion.bsky.app.png   ></a><td><a href=https://bsky.app/profile/subhelion.com>subhelion.bsky.app   </a><td>--
-<tr><td><a href=https://discord.gg/tABmNbQVz9          class=img><img src=static/image/site/subhelion.discord.com.png></a><td><a href=https://discord.gg/tABmNbQVz9         >subhelion.discord.com</a><td>--
-<tr><td><a href=https://github.com/subhelion           class=img><img src=static/image/site/subhelion.github.com.png ></a><td><a href=https://github.com/subhelion          >subhelion.github.com </a><td>--
-<tr><td><a href=https://subhelion.gumroad.com          class=img><img src=static/image/site/subhelion.gumroad.com.png></a><td><a href=https://subhelion.gumroad.com         >subhelion.gumroad.com</a><td>--
-</table>
+<style>style + table td:first-child a::after { display: none; }</style>
+
+|                                                                                                                 |                                                                 |                                                           |
+|-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------|
+| [![belimoth.com         ](static/image/site/belimoth.com.png         )](https://belimoth.com)                   | [belimoth.com      ](https://belimoth.com)                      | [Source](https://github.com/belimoth/belimoth.com)        |
+| [![artbysilverman.com   ](static/image/site/artbysilverman.com.png   )](https://www.artbysilverman.com)         | [artbysilverman.com](https://artbysilverman.com)                | --                                                        |
+| [![mithraea.xyz         ](static/image/site/mithraea.xyz.png         )](https://mithraea.xyz)                   | [mithraea.xyz      ](https://mithraea.xyz)                      | [Source](https://github.com/mithraea/mithraea.github.io)  |
+| [![subhelion.com        ](static/image/site/subhelion.com.png        )](https://subhelion.com)                  | [subhelion.com     ](https://subhelion.com)                     | [Source](https://github.com/subhelion/subhelion.com)      |
+| [![belimoth.itch.io     ](static/image/site/belimoth.itch.io.png     )](https://belimoth.itch.io)               | [belimoth.itch.io  ](https://belimoth.itch.io)                  | --                                                        |
+| [![tegiminis.itch.io    ](static/image/site/tegiminis.itch.io.png    )](https://tegiminis.itch.io)              | [tegiminis.itch.io ](https://tegiminis.itch.io)                 | --                                                        |
+| [![subhelion.itch.io    ](static/image/site/subhelion.itch.io.png    )](https://subhelion.itch.io)              | [subhelion.itch.io ](https://subhelion.itch.io)                 | --                                                        |
+| [![cafe.belimoth.com    ](static/image/site/cafe.belimoth.com.png    )](https://cafe.belimoth.com)              | [cafe.belimoth.com ](https://cafe.belimoth.com)                 | [Source](https://github.com/belimoth/cafe.belimoth.com)   |
+| [![cafe.subhelion.com   ](static/image/site/cafe.subhelion.com.png   )](https://cafe.subhelion.com)             | [cafe.subhelion.com](https://cafe.subhelion.com)                | [Source](https://github.com/subhelion/cafe.subhelion.com) |
+| [![](static/image/site/data.subhelion.com.png   )](                                      )                      | data.subhelion.com                                              | [Source](https://github.com/subhelion/data.subhelion.com) |
+| [![subhelion.bsky.app   ](static/image/site/subhelion.bsky.app.png   )](https://bsky.app/profile/subhelion.com) | [subhelion.bsky.app   ](https://bsky.app/profile/subhelion.com) | --                                                        |
+| [![subhelion.discord.com](static/image/site/subhelion.discord.com.png)](https://discord.gg/tABmNbQVz9)          | [subhelion.discord.com](https://discord.gg/tABmNbQVz9)          | --                                                        |
+| [![subhelion.github.com ](static/image/site/subhelion.github.com.png )](https://github.com/subhelion)           | [subhelion.github.com ](https://github.com/subhelion)           | --                                                        |
+| [![subhelion.gumroad.com](static/image/site/subhelion.gumroad.com.png)](https://subhelion.gumroad.com)          | [subhelion.gumroad.com](https://subhelion.gumroad.com)          | --                                                        |

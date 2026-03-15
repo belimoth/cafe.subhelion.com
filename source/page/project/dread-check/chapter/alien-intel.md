@@ -128,18 +128,18 @@ https://www.forgottenweapons.com/famas-commando-prototypes
 
 ## NOTES
 
-#### 2026-01-16
+### 2026-01-16
 
-##### belimoth
+#### belimoth
 
 zach and joe give perfect dark the black mesa/abiotic factor treatment and disguise the ip thanks
 
-##### zuckmarkerberg
+#### zuckmarkerberg
 agree
 
-#### 2026-01-17
+### 2026-01-17
 
-##### belimoth
+#### belimoth
 
 probably change the ending also or extend it into something interesting that meshes with the rest of the draugbverse; but it should have some zero stuff that i still haven't played enough and velvet dark filler
 
@@ -151,7 +151,7 @@ every short campaign has something i want to develop to finish draugb campaign w
 
 thinking about weapon alt modes, falcon 2 just has a pistol whip that's lame i think since it's a carrington gun it should be able to switch between subsonic and regular and overpressure and plasma ammo; silencer toggle but you can fuck it up shooting the wrong ammo; 45 acp; the design thrust of giving it pistol whip is to give it a nonlethal option when sneaking so maybe a blank + nonlethal dart attachment toggle like the m7 on an m1 garand; regular size clip of blanks but separate dart reload; everyone does what if the cold war went hot i want to do what if it went colder for longer
 
-##### zuckmarkerberg
+#### zuckmarkerberg
 zero is truly terrible; In a fun way; The csrrington guns are all chill in original pd its datadyne who has the weird lasers and stuff. Cuz aliens
 
 ya magsec is a dd gun their introduce it when you take it from a guard outside area 51; whatever everyone else agrees that it is meant to be literally the robocop gun; i used to have an airsoft auto-9 but it broke
@@ -160,14 +160,14 @@ i feel like CMP-150 alt fire could be adapted somehow; need an explanation for h
 
 k7 avenger should have the same thing; maiar guns are just plasma thats a reason for carrington to have plasma rounds; not clear what thr skedar are giving datadyne besides cloaking shields
 
-##### zuckmarkerberg
+#### zuckmarkerberg
 I mean I think the idea is Datadyne is generally doing weird hijinks in their labs; Alien inspired, indirectly; https://perfectdark.retropixel.net/pd/weapons; good website alert
 
 ya goldeneye/pd is the one to copy for that stuff;honorable mention to call of duty 2
 
-#### 2026-01-18
+### 2026-01-18
 
-##### belimoth
+#### belimoth
 
 smart brake should increase accuracy but decrease damage and precision; tweaking everything so that enemies and players are more symmetrical; cmp and k7 are both enemy guns so this can help explain enemys not doing as much damage; waiting for lock-on to explain the slower time-to-shoot; draugb physics already helps make that symmetrical in a big way; visible lasers/beams/whatever for lock on stuff and the electronics that do it can live in a block attachment that lives above the barrel forwatd of the optic like how doom 2016 guns are designed by filling in all negative space with polymer; [Image] like this; maiar guns look like absolute shit i want to peek at what zero and remaster did with them and then redesign it completely; they all look like something that blows
 
@@ -215,12 +215,12 @@ Shortly before the game's release, a feature that would have allowed players to 
 
 this would've been so cool
 
-##### zuckmarkerberg
+#### zuckmarkerberg
 woah didnt realize how much the dragon was g36; didnt realize datadyne was so german
 
-#### 2026-01-19
+### 2026-01-19
 
-##### belimoth
+#### belimoth
 
 i think so yeah the cmp is steyr tmp; carrington is in london so its some sort of european tech rivalry
 
@@ -233,13 +233,13 @@ oh, skedar were reallllly keen to get that submarine and didn't have any visible
 
 alien intel b plot where a single maiar baby is kidnapped by skedar but they crash land in san fernando valley, the baby escapes and the skedar infiltrate the local government and everyone reenacts et: extra terrestrial (1982)
 
-#### 2026-01-20
+### 2026-01-20
 
 more skedar ideas: they can all have a flamethrower ish short-distance alt fire, reaper can be mounted on to surfaces and spun to act as a breaching tool, they do something like that at least once to get on air force one;not sure how i want to handle terrain destruction yet but it's probably going to be "manual hint geometry"; joanna has to open a hole in a wall for area 51 infiltration maybe we hide a reaper nearby as an alternate method
 
 laptop gun alt mode should be less of a turret and more of a decoy speaker + triplaser gun trap; i'll add a litte r2d2 droid character or whatever that can be a turret with whatever gun you give him
 
-#### 2026-01-21
+### 2026-01-21
 
 https://www.youtube.com/watch?v=ofUi9DR9sc4
 this looks good except they should've givern her the purple outfit
@@ -267,12 +267,12 @@ security cameras can contribute also
 
 https://guns.fandom.com/wiki/ST_Kinetics_SSW
 
-##### zuckmarkerberg
+#### zuckmarkerberg
 squad connectivity for triggering self destruct too
 
-#### 2026-01-22
+### 2026-01-22
 
-##### belimoth
+#### belimoth
 
 would be fun to hack that once or twice, stealth kill squad leader lets you detonate his squad
 datadyne can be playable faction in tactical mode, joanna is the monster hunting everyone lol
@@ -282,10 +282,10 @@ thinking about technically there was a third alien race "cetans"
 https://perfectdark.fandom.com/wiki/Cetan
 no info
 
-##### zuckmarkerberg
+#### zuckmarkerberg
 oh woah were they in the submarine level; Recontextualizing perfect dark in my brain as “british marathon”
 
-##### belimoth
+#### belimoth
 they weren't there they crashed their ship and skedar wanted it; wide open to write something i don't think they are ever mentioned again
 
 https://github.com/carnivoroussociety/GoldEditor
@@ -293,7 +293,7 @@ https://github.com/rafccq/pd_blendtools
 
 important timeline question: are there vapes in perfect dark and if so does jonathan give elvis his vape
 
-#### 2026-01-23
+### 2026-01-23
 
 leaning towards using mp7 for k7 avenger because it fits the best
 low capacity, high fire rate, high damage against those fuckin drones
@@ -319,28 +319,28 @@ datadyne tube foreshadowing
 i'm gonna split joanna into three characters doing parallel playthroughs: velvet dark (agent), redhead from comics (secret), brunette from n64 (perfect)
 then in co-op instead of doing objectives in sequence you can fan out and coordinate
 
-#### 2026-01-24
+### 2026-01-24
 
 
-#### 2026-01-25
+### 2026-01-25
 
 i never put it together that the reason the guard salutes an empty elevator is because you got there with cassandra de vries necklace
 would be funny to give that npc a mission of "salute/coatcheck vips"  and then if you play as him you have to do that for a while before randomly one is replaced with the infiltrator
 
 thikning about leaning into "skedar are a snake or whatever piloting different biomech suits for the occasion", mr blonde's human disguise suit should be more differerent than the combat form
 
-#### 2026-01-26
+### 2026-01-26
 
 writing bullshit for maiar, they're snakes too now that can pilot humans and human-shaped greys which are just their flightsuit forms
 extinct but impersonated by something else in alien intel x
 their beauraceacy is made weird by not actually having ftl travel
 
-##### zuckmarkerberg
+#### zuckmarkerberg
 Have you played the EA n64 bond game btw; It’s the only not pd not time splitters goldeneye like I know of; I bought it recentlyish but haven’t replayed; Blue cartridge
 
 ya you've bothered me about that before; world is not enough; haven't found any decompilation projects for that one put it on the roadmap in the closet; i don't remember if i have a physical i was emulating it; pc port of decompiled perfect dark is great; perfect dark is a great target because they did so much with so little; very sparse navmeshes and behavior well organized
 
-##### zuckmarkerberg
+#### zuckmarkerberg
 the bottleneck for making a pd is animation; U gotta trick one of those; In the meantime play call of duty modern warfare 3 (2012 or whatever); It’s just ok but it’s also great; mostly it’s when IW got amazing at gun sound design. Carries over into ghosts too but ghosts is actually terrible; Very stateful enemies with long flinch and “attack” states immediately puts you 80% ahead of most shooter design
 
 the lack of world at wars audio is why i procastinate the older cods and codlikes so much; totally imbalanced for multiplayer it ruled; waw multiplayer had the most latitude for making your own fun in a sandbox with guns sort of way; so many of the mgs and secondaries etc were so pointless; i'm putting robodog killstreak in swat city now; sandbox is good look at roblox blackhawk rescue mission 5 or whatever
@@ -390,15 +390,15 @@ unrelated
 
 zero had a better angle on the cyberpunk stuff with the neurodrive and dr carrol foreshadowing
 
-#### 2026-01-31
+### 2026-01-31
 
 https://en.wikipedia.org/wiki/Ólafur_Darri_Ólafsson
 this guy as daniel carrington; [Image] [Image] [Image]
 
-#### 2026-02-01 9:05 AM
+### 2026-02-01 9:05 AM
 zero secondary function of falcon 1 where you throw the mag for a bullet grenade is really good
 
-#### 2026-02-02
+### 2026-02-02
 bushmaster arm pistol is a good base for rcp120, it has a weird twist action i can't really get my head around but maybe you can twist the rcp120 to raise or lower the fire rate in an analog fashion; more holes on the barrel shround and a famas style bridge and it's done; in-fiction it's made by "Judas Co" which is our Chesluk Industries which makes all the high fire-rate guns: magsec4, cyclone, rcp120 in collaboration with "Gannon Group", our Carrington Institute
 
 re skedar and datadyne collaboration i think i've written a bit about first contact and i'm going with:
@@ -406,21 +406,21 @@ skedar crash land on earth first, somewhere in russia, things go fine and they l
 
 anyway i think Armada, our DataDyne can be a conglomerate spanning germany austria poland ukraine and western russia, belarus, romania, i'll look at a globe later; gannon group is aligned france uk; shorthand for gun picks; steyr, h&k, russian state manufacturers to armada; fn herstal, etc french state owned manufacturers to gannon
 
-#### 2026-02-02
+### 2026-02-02
 the skedar participated in the soviet invasion of afghanistan; did the asgard/maians participate in the nakba and help found isis? did elvis do 9/11? only the government knows the answers to these questions; they do seem to love bombing planets
 
-#### 2026-02-03
+### 2026-02-03
 
 https://www.youtube.com/watch?v=yLfwJAq6jiE
 
-##### zuckmarkerberg
+#### zuckmarkerberg
 I read the tiny Nintendo power blurb for that a lot of times; love a weapon sprite which isn’t even trying to be in perspective
 
 it's fun; 1:01:45 you can see that they snuck the gbc crosshair game back in for the snipe
 
 has some genuine effort to express goldeneye style concepts, hostages, infiltration; the first level i had to look up how to enter the building because it's a secret entrance in a fountain that is hard to find; 90's espionage flavored exploration of spaces; some nice textures too i'm gonna steal them for prototyping
 
-##### zuckmarkerberg
+#### zuckmarkerberg
 ‘Espionage flavor shooter’ is a fun pseudogenre; Oh man I never mailed you cold winter
 
 First person espionage shooters I know: deus exes; the worse bond games; Cold winter; Goldeneye/perfect dark obviously; Arguably Riddick butcher bay?
@@ -429,41 +429,41 @@ Non first person but extremely espionage games: the great third person bond game
 
 Somehow I feel like alpha protocol doesn’t count; the strict transitions between ‘spy stuff’ and combat gifs it a different vibe; I’m sure there’s more; Maybe the commandos fps is good; Oh the new wolfensteins (particularly #1) are extremely effective at the perfect dark-y lightly espionage themed shooter vibe
 
-#### 2026-02-05
+### 2026-02-05
 
 in the alien intel timeline martin luther king jr survives his assassination attempt and goes on to become president of the united states
 
-#### 2026-02-06
+### 2026-02-06
 https://wearethemutants.com/2018/09/11/the-devil-had-worshipers-long-before-lenin-the-occult-spy-novels-of-e-howard-hunt/
 
 asgard and skedar are the same species separated by the gulf of space because that's what happens when you have space travel but no ftl, analogous to terran worms and slugs who evolve faster than they spread to new territory and are constantly in conflict with their own cousin species; mong other differences the asgard have star trek style non interference rules but love to steal and kidnap, while skedar are the red army exporting the space industrial revolution to younger species; asgard are villains in Alien Intel Classic (19XX) prequel that remixes goldeneye and goldeneyelikes and men in black and xfiles, then covert allies during Alien Intel Prime (21XX), then villains again in Alien Intel X (3XXX)
 
-#### 2026-02-07
+### 2026-02-07
 
 johnny cash the alien was on the grassy knoll for sure and is maybe also who you thwart to save president king in 1968; he's a big fan of terran culture unfortunately he'a a big fan of 1950's american white monoculture; sepia phots of very short klansman; alien intel x you figure out how to read the room that asgard vs skedar is like a racial thing or whatever and kill johnny cash the alien
 
 more space travel details, lack of ftl means lots of usage of warp rifts or wormholes for shortcuts but that also means that practical space travel means casually time travelling constantly; that allows some space exegesis to be nonlinear; first paradoxical space thing: why do aliens look human sometimes
 
-thinking about Metroid Prime Fusion it would be funny if the constantly disintegrating yellow plastic troopers from plastic platoon etc evolved into the X Parasite; "why does this weird alien organism fuse with a human/cyborg host" because it's a time displaced 1XXXX organism descended from cyber humans; by analogy to "single celled dog"; https://youtube.com/shorts/XrZ2zuEuFPY; sorry for
+thinking about Metroid Prime Fusion it would be funny if the constantly disintegrating yellow plastic troopers from plastic platoon etc evolved into the X Parasite; "why does this weird alien organism fuse with a human/cyborg host" because it's a time displaced 1XXXX organism descended from cyber humans; by analogy to "single celled dog"; https://youtube.com/shorts/XrZ2zuEuFPY
 
 another paradoxical space thing: missiles arriving before they are fired so wars can be "started" by both parties; oops; nonlinear space radio is groundwork for a SCP/Control-style bureau that derives it's power from communication with future/alternate versions of itself via SETI
 
 i don't like elvis i always shot him when i didn't know what to do next in the mission; horrible creature; stop being a muppet while i'm talking to the president
 
-#### 2026-02-11
+### 2026-02-11
 [image]
 
-#### 2026-02-13
+### 2026-02-13
 betting that the perfect dark team based their guns off the gits movie
 
 https://www.imfdb.org/wiki/Ghost_in_the_Shell_(1995)#CZN-M22
 
 steyr tmps eveywhere and a tmp briefcase gun
 
-##### zuckmarkerberg
+#### zuckmarkerberg
 100%
 
-#### 2026-02-16
+### 2026-02-16
 
 struggling to find a video reference but these guys from Valerian and the City of a Thousand Planets (2017) have some really good comparisons to elvis and the asgards and their tech
 
@@ -477,6 +477,6 @@ https://youtu.be/FRkj-5RhmPw
 
 1:00-1:30
 
-#### 2026-02-18
+### 2026-02-18
 
 [video] asgard triplets named lee, harvey, and oswald
