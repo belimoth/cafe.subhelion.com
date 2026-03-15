@@ -31,25 +31,27 @@ code .
 
 ```sh
 
+# installing
+install
+
 # editing
 start
-submit
-sync
-sync-fix
+run
 
 # development
-run
+script/develop/submit
+script/develop/sync
+script/develop/sync-fix
 
 # data management
 script/check/profile
 script/check/site
 
 # publishing
-script/publish/activate
-script/publish/build
-script/publish/clean
-script/publish/freeze
-script/publish/install
-script/publish/publish
+activate
+build
+clean
+freeze
+publish
 
 ```
