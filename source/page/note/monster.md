@@ -15,37 +15,37 @@
 | 1951 -- 2015 | [Stephen Czerkas      ](/note/monster/stephen-czerkas)   | Stephen Andrew Czerkas          |
 | 1960 -- 2024 | [Michael Trcic        ](/note/monster/michael-trcic)     | Michael Anthony Trcic           |
 |              |                                                          |                                 |
-| 1933 --      | [Jay Matternes      ](/note/monster/jay-matternes      ) | Jay Howard Matternes            |
-| 1945 --      | [Robert Bakker      ](/note/monster/robert-bakker      ) | Robert Thomas Bakker            |
-| 1947 --      | [Mark Hallett       ](/note/monster/mark-hallett       ) | --                              |
-| 1949 --      | [Douglas Henderson  ](/note/monster/douglas-henderson  ) | --                              |
-| 1949 --      | [William Stout      ](/note/monster/william-stout      ) | --                              |
-| 1954 --      | [Gregory Paul       ](/note/monster/gregory-paul       ) | Gregory Scott Paul              |
-| 1954 --      | [Ray Troll          ](/note/monster/ray-troll          ) | Raymond Michael Troll           |
-| 1955 --      | [Luis Rey           ](/note/monster/luis-rey           ) | Luis V. Rey                     |
-| 1957 --      | [Peter Schouten     ](/note/monster/peter-schouten     ) | --                              |
-| 1958 --      | [James Gurney       ](/note/monster/james-gurney       ) | --                              |
-| 1961 --      | [Mauricio Antón     ](/note/monster/mauricio-anton     ) | --                              |
-| 1968 --      | [Velizar Simeonovski](/note/monster/velizar-simeonovski) | --                              |
-| 1975 --      | [Robert Nicholls    ](/note/monster/robert-nicholls    ) | --                              |
-| 1980 --      | [Andrey Atuchin     ](/note/monster/andrey-atuchin     ) | --                              |
-|              |                                                          |                                 |
-| ---- --      | [Carl Buell       ](/note/monster/carl-buell       )     | --                              |
-| ---- --      | [C.M. Kösemen     ](/note/monster/cm-koseman       )     | Cevdet Mehmet Kösemen           |
-| ---- --      | [Danielle Dufault ](/note/monster/danielle-dufault )     | --                              |
-| ---- --      | [David Krentz     ](/note/monster/david-krentz     )     | --                              |
-| ---- --      | [Davide Bonadonna ](/note/monster/davide-bonadonna )     | --                              |
-| ---- --      | [John Conway      ](/note/monster/john-conway      )     | --                              |
-| ---- --      | [John Sibbick     ](/note/monster/john-sibbick     )     | --                              |
-| ---- --      | [Julius Csotonyi  ](/note/monster/julius-csotonyi  )     | Julius Thomas Csotonyi          |
-| ---- --      | [Karen Carr       ](/note/monster/karen-carr       )     | --                              |
-| ---- --      | [Mark Whitton     ](/note/monster/mark-whitton     )     | Mark Pauk Witton                |
-| ---- --      | [Michael Skrepnick](/note/monster/michael-skrepnick)     | --                              |
-| ---- --      | [Nellie Pease     ](/note/monster/nellie-pease     )     | --                              |
-| ---- --      | [Nobumichu Tamura ](/note/monster/nobu-tamura      )     | --                              |
-| ---- --      | [Raúl Martín      ](/note/monster/raul-martin      )     | --                              |
-| ---- --      | [Todd Marshall    ](/note/monster/todd-marshall    )     | --                              |
-| ---- --      | [Wayne Barlowe    ](/note/monster/wayne-barlowe    )     | Wayne Douglas Barlowe           |
+| 1933 --      | [Jay Matternes      ](/note/monster/jay-matternes)        | Jay Howard Matternes            |
+| 1945 --      | [Robert Bakker      ](/note/monster/robert-bakker)        | Robert Thomas Bakker            |
+| 1947 --      | [Mark Hallett       ](/note/monster/mark-hallett)         | --                              |
+| 1949 --      | [Douglas Henderson  ](/note/monster/douglas-henderson)    | --                              |
+| 1949 --      | [William Stout      ](/note/monster/william-stout)        | --                              |
+| 1954 --      | [Gregory Paul       ](/note/monster/gregory-paul)         | Gregory Scott Paul              |
+| 1954 --      | [Ray Troll          ](/note/monster/ray-troll)            | Raymond Michael Troll           |
+| 1955 --      | [Luis Rey           ](/note/monster/luis-rey)             | Luis V. Rey                     |
+| 1957 --      | [Peter Schouten     ](/note/monster/peter-schouten)       | --                              |
+| 1958 --      | [James Gurney       ](/note/monster/james-gurney)         | --                              |
+| 1961 --      | [Mauricio Antón     ](/note/monster/mauricio-anton)       | --                              |
+| 1968 --      | [Velizar Simeonovski](/note/monster/velizar-simeonovski)  | --                              |
+| 1975 --      | [Robert Nicholls    ](/note/monster/robert-nicholls)      | --                              |
+| 1980 --      | [Andrey Atuchin     ](/note/monster/andrey-atuchin)       | --                              |
+|              |                                                           |                                 |
+| ---- --      | [Carl Buell       ](/note/monster/carl-buell)             | --                              |
+| ---- --      | [C.M. Kösemen     ](/note/monster/cm-koseman)             | Cevdet Mehmet Kösemen           |
+| ---- --      | [Danielle Dufault ](/note/monster/danielle-dufault)       | --                              |
+| ---- --      | [David Krentz     ](/note/monster/david-krentz)           | --                              |
+| ---- --      | [Davide Bonadonna ](/note/monster/davide-bonadonna)       | --                              |
+| ---- --      | [John Conway      ](/note/monster/john-conway)            | --                              |
+| ---- --      | [John Sibbick     ](/note/monster/john-sibbick)           | --                              |
+| ---- --      | [Julius Csotonyi  ](/note/monster/julius-csotonyi)        | Julius Thomas Csotonyi          |
+| ---- --      | [Karen Carr       ](/note/monster/karen-carr)             | --                              |
+| ---- --      | [Mark Whitton     ](/note/monster/mark-whitton)           | Mark Pauk Witton                |
+| ---- --      | [Michael Skrepnick](/note/monster/michael-skrepnick)      | --                              |
+| ---- --      | [Nellie Pease     ](/note/monster/nellie-pease)           | --                              |
+| ---- --      | [Nobumichu Tamura ](/note/monster/nobu-tamura)            | --                              |
+| ---- --      | [Raúl Martín      ](/note/monster/raul-martin)            | --                              |
+| ---- --      | [Todd Marshall    ](/note/monster/todd-marshall)          | --                              |
+| ---- --      | [Wayne Barlowe    ](/note/monster/wayne-barlowe)          | Wayne Douglas Barlowe           |
 
 ### 2024-02-11
 

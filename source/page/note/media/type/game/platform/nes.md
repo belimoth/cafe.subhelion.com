@@ -3,7 +3,7 @@
 # Nintendo Entertainment System (NES)
 
 | BASE               | YEAR | XXX | KEY                      | TITLE                                                                                                     | LANG | CONSOLE               |
-| ------------------ | ---- | --- | ------------------------ | --------------------------------------------------------------------------------------------------------- | ---- | --------------------- |
+|--------------------|------|-----|--------------------------|-----------------------------------------------------------------------------------------------------------|------|-----------------------|
 |                    |      |     |                          | '89 Dennou Kyuusei Uranai (Japan)                                                                         | ja   | --                    |
 |                    |      |     |                          | '93 Zuixin Yizhi Chaoji Jinka 4-in-1 (China) (Unl)                                                        |      | --                    |
 |                    |      |     |                          | 100 Man Dollar Kid - Maboroshi no Teiou Hen (Japan)                                                       | ja   | --                    |
@@ -32,10 +32,11 @@
 |                    |      |     |                          | 777 Lucky Bingo (Asia) (En) (Unl)                                                                         | en   | --                    |
 |                    |      |     |                          | 777 Xingyun Lunpan (Taiwan) (En) (Unl)                                                                    | en   | --                    |
 |                    |      |     |                          | 777 Xingyun Lunpan (Taiwan) (v1.1) (Unl)                                                                  |      | --                    |
-|                    |      |     |                          | 8 Eyes (Japan)                                                                                            | ja   | --                    |
-|                    |      |     |                          | 8 Eyes (USA, Europe) (Pixel Heart)                                                                        | en   | --                    |
-|                    |      |     |                          | 8 Eyes (USA)                                                                                              | en   | --                    |
-|                    |      |     |                          | 8 Eyes (World) (Digital)                                                                                  |      | --                    |
+| 8-eyes             | 1988 |     |                          | 8 Eyes (Japan)                                                                                            | ja   | Famicom               |
+| 8-eyes             | 2019 |     |                          | 8 Eyes (USA, Europe) (Pixel Heart)                                                                        | en   | NES                   |
+| 8-eyes             | 1990 |     |                          | 8 Eyes (USA)                                                                                              | en   | NES                   |
+| 8-eyes             | 2019 |     |                          | 8 Eyes (World) (Digital)                                                                                  |      | Digital               |
+| 8-eyes             | 2020 |     |                          | 8 Eyes (World) (Evercade)                                                                                 | en   | Evercade              |
 |                    |      |     |                          | A Ressha de Ikou (Japan)                                                                                  | ja   | --                    |
 |                    |      |     |                          | Aa Yakyuu Jinsei Icchokusen (Japan)                                                                       | ja   | --                    |
 |                    |      |     |                          | Abadox - The Deadly Inner War (USA)                                                                       | en   | --                    |
@@ -473,21 +474,21 @@
 |                    |      |     |                          | Castle of Deceit (USA) (Unl)                                                                              | en   | --                    |
 |                    |      |     |                          | Castle of Dragon (USA)                                                                                    | en   | --                    |
 |                    |      |     |                          | Castle Quest (Japan)                                                                                      | ja   | --                    |
-|                    |      |     |                          | Castlequest (USA)                                                                                         | en   | --                    |
-|                    |      |     |                          | Castlevania (Europe)                                                                                      |      | --                    |
-|                    |      |     |                          | Castlevania (Europe) (Virtual Console)                                                                    |      | Digital               |
-|                    |      |     |                          | Castlevania (USA)                                                                                         | en   | --                    |
-|                    |      |     |                          | Castlevania (USA) (Rev 1)                                                                                 | en   | --                    |
-|                    |      |     |                          | Castlevania (USA) (Rev 1) (Virtual Console)                                                               | en   | Digital               |
-|                    |      |     |                          | Castlevania (World) (Konami Collector's Series)                                                           |      | --                    |
-|                    |      |     |                          | Castlevania II - Simon's Quest (Europe)                                                                   |      | --                    |
-|                    |      |     |                          | Castlevania II - Simon's Quest (USA)                                                                      | en   | --                    |
-|                    |      |     |                          | Castlevania II - Simon's Quest (World) (Konami Collector's Series)                                        |      | --                    |
-|                    |      |     |                          | Castlevania III - Dracula's Curse (Europe)                                                                |      | --                    |
-|                    |      |     |                          | Castlevania III - Dracula's Curse (Europe) (Wii Virtual Console)                                          |      | --                    |
-|                    |      |     |                          | Castlevania III - Dracula's Curse (USA, Europe) (USA Wii Virtual Console, Wii U Virtual Console)          | en   | --                    |
-|                    |      |     |                          | Castlevania III - Dracula's Curse (USA)                                                                   | en   | --                    |
-|                    |      |     |                          | Castlevania III - Dracula's Curse (World) (Konami Collector's Series)                                     |      | --                    |
+| castlequest        |      |     |                          | Castlequest (USA)                                                                                         | en   | --                    |
+| castlevania        |      |     |                          | Castlevania (Europe)                                                                                      |      | --                    |
+| castlevania        |      |     |                          | Castlevania (Europe) (Virtual Console)                                                                    |      | Digital               |
+| castlevania        |      |     |                          | Castlevania (USA)                                                                                         | en   | --                    |
+| castlevania        |      |     |                          | Castlevania (USA) (Rev 1)                                                                                 | en   | --                    |
+| castlevania        |      |     |                          | Castlevania (USA) (Rev 1) (Virtual Console)                                                               | en   | Digital               |
+| castlevania        |      |     |                          | Castlevania (World) (Konami Collector's Series)                                                           |      | --                    |
+| castlevania-2      |      |     |                          | Castlevania II - Simon's Quest (Europe)                                                                   |      | --                    |
+| castlevania-2      |      |     |                          | Castlevania II - Simon's Quest (USA)                                                                      | en   | --                    |
+| castlevania-2      |      |     |                          | Castlevania II - Simon's Quest (World) (Konami Collector's Series)                                        |      | --                    |
+| castlevania-3      |      |     |                          | Castlevania III - Dracula's Curse (Europe)                                                                |      | --                    |
+| castlevania-3      |      |     |                          | Castlevania III - Dracula's Curse (Europe) (Wii Virtual Console)                                          |      | --                    |
+| castlevania-3      |      |     |                          | Castlevania III - Dracula's Curse (USA, Europe) (USA Wii Virtual Console, Wii U Virtual Console)          | en   | --                    |
+| castlevania-3      |      |     |                          | Castlevania III - Dracula's Curse (USA)                                                                   | en   | --                    |
+| castlevania-3      |      |     |                          | Castlevania III - Dracula's Curse (World) (Konami Collector's Series)                                     |      | --                    |
 |                    |      |     |                          | Cat Ninden Teyandee (Japan)                                                                               | ja   | --                    |
 |                    |      |     |                          | Caveman Games (USA)                                                                                       | en   | --                    |
 |                    |      |     |                          | Caveman Ninja (USA) (Beta)                                                                                | en   | --                    |

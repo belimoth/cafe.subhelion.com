@@ -158,11 +158,11 @@ h1 + h2 {
 }
 
 h2 + h2 {
-	margin-top: -40px;
+	/* margin-top: -40px; */
 }
 
 h1 + h3, h1 + h3 + h3, h1 + h3 + h3 {
-	margin-top: -48px;
+	/* margin-top: -48px; */
 }
 
 dl {
@@ -575,4 +575,8 @@ table {
 	width: 960px;
 	max-width: 960px;
 	overflow-x: scroll;
+}
+
+a[href=""] {
+	color: #D33;
 }
