@@ -539,3 +539,45 @@ body > table {
 table td:first-child {
 	text-wrap: nowrap;
 }
+
+table:only-child {
+	text-wrap: nowrap;
+}
+
+table a {
+	text-wrap: nowrap;
+}
+
+table {
+	text-wrap: nowrap;
+}
+
+body {
+	overflow: visible;
+}
+
+
+table {
+}
+
+
+ol ol ol > li {
+	padding-left: 3ch;
+    margin-left: -3ch;
+}
+
+ol {
+	overflow: visible !important;
+}
+
+
+body {
+	overflow: hidden;
+}
+
+table {
+	display: block;
+	width: 960px;
+	max-width: 960px;
+	overflow-x: scroll;
+}
