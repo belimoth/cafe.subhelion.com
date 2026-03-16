@@ -570,11 +570,6 @@ ol {
 	overflow: visible !important;
 }
 
-
-body {
-	overflow: hidden;
-}
-
 table {
 	display: block;
 	width: 960px;
