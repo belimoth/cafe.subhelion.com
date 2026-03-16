@@ -17,42 +17,42 @@
 				<li>Nintendo Game & Watch
 			</ol><li>1983 -- 2003 3rd generation consoles; "8-bit"<ol>
 				<li>Atari 7800 (A7800)
-				<li><a href=/note/media/game/platform/nes>Nintendo Entertainment System (NES)</a>
+				<li><a href=/note/media/type/game/platform/nes>Nintendo Entertainment System (NES)</a>
 				<li>Sega Master System (SMS)
 			</ol><li>1987 -- 2004 4th generation consoles; "16-bit"<ol>
 				<li>SNK Neo Geo
 				<li>Sega Genesis
-				<li><a href=/note/media/game/platform/snes>Super Nintendo Entertainment System (SNES)</a>
+				<li><a href=/note/media/type/game/platform/snes>Super Nintendo Entertainment System (SNES)</a>
 				<li>NEC TurboGrafx-16
 			</ol><li>1989 -- 2003 4th generation handheld consoles<ol>
 				<li>Atari Lynx
 				<li>Sega Game Gear
 				<li>NEC TurboExpress
-				<li><a href=/note/media/game/platform/gb>Nintendo  (GB)</a>
+				<li><a href=/note/media/type/game/platform/gb>Nintendo  (GB)</a>
 			</ol><li>1993 -- 2006 5th generation consoles; "32-bit"<ol>
 				<li>3DO
 				<li>Atari Jaguar (AJ)
 				<li>Sega Saturn (SAT)
-				<li><a href=/note/media/game/platform/ps1>Sony PlayStation (PS1)</a>
-				<li><a href=/note/media/game/platform/n64>Nintendo 64 (N64)</a>
+				<li><a href=/note/media/type/game/platform/ps1>Sony PlayStation (PS1)</a>
+				<li><a href=/note/media/type/game/platform/n64>Nintendo 64 (N64)</a>
 			</ol><li>1995 -- 2003 5th generation handheld consoles<ol>
 				<li>Bandai WonderSwan
-				<li><a href=/note/media/game/platform/gbc>Nintendo GameBoy Color (GBC)</a>
+				<li><a href=/note/media/type/game/platform/gbc>Nintendo GameBoy Color (GBC)</a>
 				<li>Sega Genesis Nomad
 				<li>SNK Neo Geo Pocket
 				<li>Tiger Electronics Game.com
 			</ol><li>1998 -- 2013 6th generation consoles<ol>
-				<li><a href=/note/media/game/platform/gcn>Nintendo GameCube (GCN)</a>
-				<li><a href=/note/media/game/platform/dc>Sega Dreamcast (DC)</a>
-				<li><a href=/note/media/game/platform/ps2>Sony PlayStation 2 (PS2)</a>
-				<li><a href=/note/media/game/platform/xbox>Xbox</a>
+				<li><a href=/note/media/type/game/platform/gcn>Nintendo GameCube (GCN)</a>
+				<li><a href=/note/media/type/game/platform/dc>Sega Dreamcast (DC)</a>
+				<li><a href=/note/media/type/game/platform/ps2>Sony PlayStation 2 (PS2)</a>
+				<li><a href=/note/media/type/game/platform/xbox>Xbox</a>
 			</ol><li>2000 -- 2010 6th generation handheld consoles<ol>
 				<li>Bandai WonderSwan Color
-				<li><a href=/note/media/game/platform/gba>Nintendo GameBoy Advance (GBA)</a>
+				<li><a href=/note/media/type/game/platform/gba>Nintendo GameBoy Advance (GBA)</a>
 				<li>Nokia N-Gage
 			</ol><li>2004 -- 2014 7th generation handheld consoles<ol>
-				<li><a href=/note/media/game/platform/nds>Nintendo DS (NDS)</a>
-				<li><a href=/note/media/game/platform/psp>Sony PlayStation Portable (PSP)</a>
+				<li><a href=/note/media/type/game/platform/nds>Nintendo DS (NDS)</a>
+				<li><a href=/note/media/type/game/platform/psp>Sony PlayStation Portable (PSP)</a>
 			</ol><li>2005 -- 2017 7th generation consoles<ol>
 				<li>Nintendo Wii
 				<li>Sony PlayStation 3
@@ -80,18 +80,19 @@
 	<li><a href=/note/media/franchise/christmas>Christmas</a><ol>
 	<li><a href=/note/media/franchise/cloverfield>Cloverfield</a>
 	<li>Capcom<ol>
-		<li><a href=/note/media/franchise/mega-man>Mega Man</a>
-		<li><a href=/note/media/franchise/mega-man-x>Mega Man X</a></ol>
+		<li><a href=/note/media/franchise/capcom/mega-man>Mega Man</a>
+		<li><a href=/note/media/franchise/capcom/mega-man-x>Mega Man X</a></ol>
 	<li><a href=/note/media/franchise/dc>D.C. Comics</a><ol>
-		<li><a href=/note/media/franchise/batman>Batman</a></ol>
+		<li><a href=/note/media/franchise/dc/batman>Batman</a></ol>
+		<li><a href=/note/media/franchise/dc/superman>
 	<li><a href=/note/media/franchise/disney>Disney</a><ol>
 		<li><a href=/note/media/franchise/disney-princess>Princess</a></ol>
 	<li><a href=/note/media/franchise/ghost-in-the-shell>Ghost in the Shell</a>
-	<li>Toho Tokusatsu
-	<li><a href=/note/media/franchise/godzilla>Godzilla</a>
+	<li>Toho Tokusatsu<ol>
+		<li><a href=/note/media/franchise/godzilla>Godzilla</a></ol>
 	<li><a href=/note/media/franchise/honey-i-shrunk>Honey I Shrunk</a>
-	<li><a href=/note/media/franchise/marvel>Marvel Comics</a>
-	<li><a href=/note/media/franchise/blade>Blade</a>
+	<li><a href=/note/media/franchise/marvel>Marvel Comics</a><ol>
+		<li><a href=/note/media/franchise/marvel/blade>Blade</a></ol>
 	<li><a href=/note/media/franchise/mission-impossible>Mission Impossible</a>
 	<li><a href=/note/media/franchise/perfect-dark>Perfect Dark</a>
 	<li><a href=/note/media/franchise/predator>Predator</a>
@@ -100,6 +101,8 @@
 	<li><a href=/note/media/franchise/resident-evil-game>Resident Evil (game)</a>
 	<li><a href=/note/media/franchise/riddick>Riddick</a>
 	<li><a href=/note/media/franchise/star-wars>Star Wars</a>
+	<li>SNK<ol>
+		<li><a href=/note/media/franchise/snk/samsho>Samurai Shodown</a></ol>
 	<li>Sunrise<ol>
 		<li><a href=/note/media/franchise/votoms>Armored Trooper Votoms</a>
 		<li><a href=/note/media/franchise/dunbine>Aura Battler Dunbine</a>
