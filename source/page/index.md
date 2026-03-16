@@ -3,6 +3,7 @@
 <br>
 <p>Our notes and bookmarks.</p>
 
+<!--
 ## Links
 
 |                     |                                               |
@@ -10,8 +11,9 @@
 | [Profile](/profile) | Artists, authors, directors, editors, workers |
 | [Shelf  ](/shelf  ) | Index of offline works                        |
 | [Site   ](/site   ) | Index of online works                         |
+-->
 
-## Notes
+<h2 id=note>Notes</h2>
 
 |                          |                                                                        |
 |--------------------------|------------------------------------------------------------------------|
@@ -26,30 +28,30 @@
 | [Tech   ](/note/tech   ) | Technology                                                             |
 | [War    ](/note/war    ) | Weapons, equipment, vehicles                                           |
 
-<h2 id=projects>Projects</h2>
+<h2 id=project>Projects</h2>
 
 ### Code projects
 
-|                                                |                                               |                                                                  |
-|------------------------------------------------|-----------------------------------------------|------------------------------------------------------------------|
-| <a class=new href=/project/boss-guts>Boss Guts | Reverse-engineering and decompilation library | [Source](https://github.com/belimoth/boss-guts)                  |
-| <a class=new href=/project/engine   >Engine    | Function library                              | [Source](https://github.com/subhelion/engine)                    |
-| <li>engine/crest                               | TBS/SRPG game engine                          | [Source](https://github.com/subhelion/engine/tree/main/crest)    |
-| <li>engine/crucible                            | Gauntlet game engine                          | [Source](https://github.com/subhelion/engine/tree/main/crucible) |
-| <li>engine/scuffle                             | Brawler game engine                           | [Source](https://github.com/subhelion/engine/tree/main/scuffle)  |
-| <li>engine/thwart                              | Contra game engine                            | [Source](https://github.com/subhelion/engine/tree/main/thwart)   |
-| [System](/project/system)                      | Script library                                | [Source](https://github.com/subhelion/system)                    |
-| <li>system/code                                | Code scripts                                  | --                                                               |
-| <li>system/forge                               | Forge scripts                                 | --                                                               |
-| [Template](/project/template)                  | Project template library                      | [Source](https://github.com/subhelion/template)                  |
-| <li>template/cpp                               | App project templates                         | --                                                               |
-| <li>template/web                               | Web project templates                         | --                                                               |
+|                                                |                                               |                                                 |
+|------------------------------------------------|-----------------------------------------------|-------------------------------------------------|
+| <a class=new href=/project/boss-guts>Boss Guts | Reverse-engineering and decompilation library | [Source](https://github.com/belimoth/boss-guts) |
+| Engine                                         | Function library                              | [Source](https://github.com/subhelion/engine)   |
+| <li>engine/crest                               | TBS/SRPG game engine                          | --                                              |
+| <li>engine/crucible                            | Gauntlet game engine                          | --                                              |
+| <li>engine/scuffle                             | Brawler game engine                           | --                                              |
+| <li>engine/thwart                              | Contra game engine                            | --                                              |
+| System                                         | Script library                                | [Source](https://github.com/subhelion/system)   |
+| <li>system/code                                | Code scripts                                  | --                                              |
+| <li>system/forge                               | Forge scripts                                 | --                                              |
+| Template                                       | Project template library                      | [Source](https://github.com/subhelion/template) |
+| <li>template/cpp                               | App project templates                         | --                                              |
+| <li>template/web                               | Web project templates                         | --                                              |
 
 ### Game projects
 
 |                                                        |                                                                       |
 |--------------------------------------------------------|-----------------------------------------------------------------------|
-| [DREAD CHECK          ](/project/dread-check)          | Collaborative first-person shooter anthology                          |
+| [Dread Check          ](/project/dread-check)          | Collaborative first-person shooter anthology                          |
 | [Simir                ](project/simir)                 | Scientific exploration on procedurally genrated planets               |
 | [Tyrant Engine        ](project/tyrant-engine)         | Hybrid turn-based tactics and fighting game in a dark fantasy setting |
 | [Untitled Fantasy Game](project/untitled-fantasy-game) | --                                                                    |
@@ -91,3 +93,5 @@
 | [![subhelion.discord.com](static/image/site/subhelion.discord.com.png)](https://discord.gg/tABmNbQVz9)          | [subhelion.discord.com](https://discord.gg/tABmNbQVz9)          | --                                                        |
 | [![subhelion.github.com ](static/image/site/subhelion.github.com.png )](https://github.com/subhelion)           | [subhelion.github.com ](https://github.com/subhelion)           | --                                                        |
 | [![subhelion.gumroad.com](static/image/site/subhelion.gumroad.com.png)](https://subhelion.gumroad.com)          | [subhelion.gumroad.com](https://subhelion.gumroad.com)          | --                                                        |
+
+<style>table{overflow:hidden}</style>

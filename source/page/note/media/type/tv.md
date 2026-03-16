@@ -1,14 +1,12 @@
-| TYPE | YEAR | TITLE                                   | FRANCHISE     | BY              | TAG                      | LINK                                                              |
-| ---- | ---- | --------------------------------------- | ------------- | --------------- | ------------------------ | ----------------------------------------------------------------- |
-| tv   | 2015 | Mr. Robot                               | --            | --              | psycho thriller          | --                                                                |
-| tv   | 2017 | The Orville                             | --            | Seth MacFarlane | scifi comedy drama       | --                                                                |
-| tv   | 2021 | Wheel of Time                           | Wheel of Time | --              | fantasy                  | --                                                                |
-| tv   | 2022 | Surface                                 | --            | --              | psycho thriller          | --                                                                |
-| tv   | 2024 | Fallout (TV)                            | Fallout       | --              | scifi drama              | --                                                                |
-| tv   | 2007 | Primeval (TV)                           | --            | --              | --                       | --                                                                |
-| tv   | 2017 | Oats Studio - Volume 1 - Rakka          | --            | Oats Studio     | --                       | https://www.youtube.com/watch?v=VjQ2t_yNHQs                       |
-| tv   | 2020 | Raised by Wolves                        | --            | --              | scifi drama              | --                                                                |
-| tv   | 2021 | Foundation (TV)                         | Foundation    | --              | scifi drama              | --                                                                |
-| tv   | 2024 | Time Bandits (TV)                       | Time Bandits  | --              | fantasy adventure comedy | --                                                                |
-| tv   |      | Dr. Who S10.E2 Smile Character Emojibot | --            | --              | --                       | --                                                                |
-| tv   |      | GITS SAC S2.E4 Natural Enemy            | GITS SAC      | --              | --                       | https://www.adultswim.com/videos/ghost-in-the-shell/natural-enemy |
+| TYPE | YEAR | TITLE                          | FRANCHISE     | BY              | TAG                      | LINK                                        |
+|------|------|--------------------------------|---------------|-----------------|--------------------------|---------------------------------------------|
+| tv   | 2015 | Mr. Robot                      | --            | --              | psycho thriller          | --                                          |
+| tv   | 2017 | The Orville                    | --            | Seth MacFarlane | scifi comedy drama       | --                                          |
+| tv   | 2021 | Wheel of Time                  | Wheel of Time | --              | fantasy                  | --                                          |
+| tv   | 2022 | Surface                        | --            | --              | psycho thriller          | --                                          |
+| tv   | 2024 | Fallout (TV)                   | Fallout       | --              | scifi drama              | --                                          |
+| tv   | 2007 | Primeval (TV)                  | --            | --              | --                       | --                                          |
+| tv   | 2017 | Oats Studio - Volume 1 - Rakka | --            | Oats Studio     | --                       | https://www.youtube.com/watch?v=VjQ2t_yNHQs |
+| tv   | 2020 | Raised by Wolves               | --            | --              | scifi drama              | --                                          |
+| tv   | 2021 | Foundation (TV)                | Foundation    | --              | scifi drama              | --                                          |
+| tv   | 2024 | Time Bandits (TV)              | Time Bandits  | --              | fantasy adventure comedy | --                                          |

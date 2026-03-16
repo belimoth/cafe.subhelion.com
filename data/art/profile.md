@@ -21,7 +21,7 @@ LIFE         | KEY                     | NAME                             | FULL
 1862 -- 1918 | gustav_klimt            | Gustav Klimt                     | --                                 | --
 1867 -- 1939 | arthur_rackham          | Arthur Rackham                   | --                                 | --
 1871 -- 1957 | frantisek_kupka         | František Kupka                  | --                                 | --
-1874 -- 1951 | jc_Leyendecker          | J.C. Leyendecker                 | Joseph Christian Leyendecker       | --
+1874 -- 1951 | jc_leyendecker          | J.C. Leyendecker                 | Joseph Christian Leyendecker       | --
 1876 -- 1910 | henrique_alvim_correa   | Henrique Alvim Corrêa            | --                                 | --
 1876 -- 1942 | ivan_bilibin            | Ivan Bilibin                     | Ivan Yakovlevich Bilibin           | Иван Яковлевич Билибин
 1879 -- 1955 | stepan_kolesnikov       | Stepan Kolesnikov                | Stepan Fedorovitch Kolesnikov      | Степан Федорович Колесников

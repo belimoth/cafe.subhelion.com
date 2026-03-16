@@ -1,76 +1,103 @@
-- https://en.wikipedia.org/wiki/Special_Purpose_Individual_Weapon
-- https://stargate.fandom.com/wiki/Micro_16_assault_rifle
-- https://en.wikipedia.org/wiki/FN_F2000
-- https://en.wikipedia.org/wiki/Heckler_%26_Koch_SL8
+<nav><a href=/>cafe.subhelion.com</a> > <a href=/#note>Notes</a> > <a href=/note/war>War</a> > Equipment > Weapons > Guns</nav>
 
-## HISTORY
+# Guns
 
-| TYPE | YEAR | KEY            | OWNER  | DESIGNATION               | FORE        | CHAMBER    | FEED | MASS | LENGTH | BARREL | RATE | ACTION | NOTE |
-|------|------|----------------|--------|---------------------------|-------------|------------|------|------|--------|--------|------|--------|------|
-| RR   | 1934 | mauser_k98k    | Mauser | Karabiner 98 kurz         | --          | 8mm_mauser |      |      |        |        |      |        |      |
-| RR   | 1948 | mauser_k98k_is | Mauser | Karabiner 98 kurz Israeli | mauser_k98k | 8mm_mauser |      |      |        |        |      |        |      |
-| UMG  | 1942 | nazi_mg42      |        |                           |             |            |      |      |        |        |      |        |      |
+# Index
 
-## PICK
+1. Guns by caliber
+    1. [.177; 4.5mm                                                                       ](/note/war/equipment/weapon/gun/gun-by-caliber/177-bore)
+    1. [.22 caliber; 5.6mm                                                                ](/note/war/equipment/weapon/gun/gun-by-caliber/22-bore)
+        1. [ .22 caliber rimfire                                                          ](/note/war/equipment/weapon/gun/gun-by-caliber/22-bore/0-22-rimfire)
+            1. [.22 Short (Revolver)                                                      ](/note/war/equipment/weapon/gun/gun-by-caliber/22-bore/0-22-rimfire/22-short)
+            2. [.22 Long (Revolver)                                                       ](/note/war/equipment/weapon/gun/gun-by-caliber/22-bore/0-22-rimfire/22-long)
+            3. [.22 Long Rifle (LR) (Revolver)                                            ](/note/war/equipment/weapon/gun/gun-by-caliber/22-bore/0-22-rimfire/22-long-rifle)
+            4. [.22 Winchester Rimfire (WRF) / .22 Remington Special (Revolver)           ](/note/war/equipment/weapon/gun/gun-by-caliber/22-bore/0-22-rimfire/22-wrf)
+            5. [.22 Winchester Magnum Rimfire (WMR) (Revolver)                            ](/note/war/equipment/weapon/gun/gun-by-caliber/22-bore/0-22-rimfire/22-wmr)
+        2. [.22 caliber centerfire                                                        ](/note/war/equipment/weapon/gun/gun-by-caliber/22-bore/1-22-centerfire)
+            1. [5.56mm                                                                    ](/note/war/equipment/weapon/gun/gun-by-caliber/22-bore/1-22-centerfire/556)
+2. Guns by format
+   1. [Hand gun                                                                           ](/note/war/equipment/weapon/gun/gun-by-format/hand-gun)
+      1. [Pistol                                                                          ](/note/war/equipment/weapon/gun/gun-by-format/hand-gun/pistol)
+         1. [Machine pistol                                                               ](/note/war/equipment/weapon/gun/gun-by-format/hand-gun/pistol/machine-pistol)
+      2. [Revolver                                                                        ](/note/war/equipment/weapon/gun/gun-by-format/hand-gun/revolver)
+   2. [Long gun                                                                           ](/note/war/equipment/weapon/gun/gun-by-format/long-gun)
+      1.  [Rifle                                                                          ](/note/war/equipment/weapon/gun/gun-by-format/long-gun/0-rifle)
+        1.  [Automatic rifle                                                              ](/note/war/equipment/weapon/gun/gun-by-format/long-gun/0-rifle/auto-rifle)
+          1.  [Assault rifle                                                              ](/note/war/equipment/weapon/gun/gun-by-format/long-gun/0-rifle/auto-rifle/assault-rifle)
+          2.  [Battle rifle                                                               ](/note/war/equipment/weapon/gun/gun-by-format/long-gun/0-rifle/auto-rifle/battle-rifle)
+          3.  [Machine rifle                                                              ](/note/war/equipment/weapon/gun/gun-by-format/long-gun/0-rifle/auto-rifle/machine-rifle)
+        2.  [Carbine                                                                      ](/note/war/equipment/weapon/gun/gun-by-format/long-gun/0-rifle/carbine)
+          1.  [Pistol-caliber carbine (PCC)                                               ](/note/war/equipment/weapon/gun/gun-by-format/long-gun/0-rifle/carbine/pcc)
+          2.  [Short-barreled rifle (SBR)                                                 ](/note/war/equipment/weapon/gun/gun-by-format/long-gun/0-rifle/carbine/sbr)
+          3.  [Submachine gun (SMG), machine carbine                                      ](/note/war/equipment/weapon/gun/gun-by-format/long-gun/0-rifle/carbine/smg)
+              1.  [Personal defense weapon (PDW)                                          ](/note/war/equipment/weapon/gun/gun-by-format/long-gun/0-rifle/carbine/smg/pdw)
+        3.  [Sniper rifle                                                                 ](/note/war/equipment/weapon/gun/gun-by-format/long-gun/0-rifle/sniper-rifle)
+          1.  [Anti-materiel rifle (AMR)                                                  ](/note/war/equipment/weapon/gun/gun-by-format/long-gun/0-rifle/sniper-rifle/amr)
+          2.  [Dedicated marksman rifle (DMR)                                             ](/note/war/equipment/weapon/gun/gun-by-format/long-gun/0-rifle/sniper-rifle/dmr)
+        4.  [Shotgun                                                                      ](/note/war/equipment/weapon/gun/gun-by-format/long-gun/1-shotgun)
+        5.  [Machine gun (MG)                                                             ](/note/war/equipment/weapon/gun/gun-by-format/long-gun/2-mg)
+          1.  [Light machine gun (LMG)                                                    ](/note/war/equipment/weapon/gun/gun-by-format/long-gun/2-mg/lmg)
+            1.  [General-purpose machine gun (GPMG)                                       ](/note/war/equipment/weapon/gun/gun-by-format/long-gun/2-mg/lmg/gpmg)
+            2.  [Squad automatic weapon (SAW)                                             ](/note/war/equipment/weapon/gun/gun-by-format/long-gun/2-mg/lmg/saw)
+          2.  [Heavy machine gun (HMG)                                                    ](/note/war/equipment/weapon/gun/gun-by-format/long-gun/2-mg/hmg)
+              1.  [Medium machine gun (MMG)                                               ](/note/war/equipment/weapon/gun/gun-by-format/long-gun/2-mg/hmg/mmg)
+3.  Guns by manufacturer
+  1.  [Beretta                                                                            ](/note/war/equipment/weapon/gun/gun-by-manufacturer/beretta)
+  2.  [Browning                                                                           ](/note/war/equipment/weapon/gun/gun-by-manufacturer/browning)
+  3.  [Colt                                                                               ](/note/war/equipment/weapon/gun/gun-by-manufacturer/colt)
+  4.  [Fabrique Nationale (FN)                                                            ](/note/war/equipment/weapon/gun/gun-by-manufacturer/fn)
+  5.  [Glock                                                                              ](/note/war/equipment/weapon/gun/gun-by-manufacturer/glock)
+  6.  [Heckler & Koch (HK)                                                                ](/note/war/equipment/weapon/gun/gun-by-manufacturer/hk)
+  7.  [Kalashnikov                                                                        ](/note/war/equipment/weapon/gun/gun-by-manufacturer/kalashnikov)
+  8.  [Mauser                                                                             ](/note/war/equipment/weapon/gun/gun-by-manufacturer/mauser)
+  9.  [Mossberg                                                                           ](/note/war/equipment/weapon/gun/gun-by-manufacturer/mossberg)
+  10. [Norinco                                                                            ](/note/war/equipment/weapon/gun/gun-by-manufacturer/norinco)
+  11. [Remington                                                                          ](/note/war/equipment/weapon/gun/gun-by-manufacturer/remington)
+  12. [Ruger                                                                              ](/note/war/equipment/weapon/gun/gun-by-manufacturer/ruger)
+  13. [Sig Sauer                                                                          ](/note/war/equipment/weapon/gun/gun-by-manufacturer/sig-sauer)
+  14. [Springfield                                                                        ](/note/war/equipment/weapon/gun/gun-by-manufacturer/springfield)
+  15. [Steyr                                                                              ](/note/war/equipment/weapon/gun/gun-by-manufacturer/steyr)
+  16. [Smith & Wesson (SW)                                                                ](/note/war/equipment/weapon/gun/gun-by-manufacturer/sw)
+  17. [Walther                                                                            ](/note/war/equipment/weapon/gun/gun-by-manufacturer/walther)
+4.  Guns by service
+    1. [Germany                                                                           ](/note/war/equipment/gun/gun-by-service/de)
+    5. [France                                                                            ](/note/war/equipment/gun/gun-by-service/fr)
+    6. [United Kingdom                                                                    ](/note/war/equipment/gun/gun-by-service/uk)
+    7. [Russia                                                                            ](/note/war/equipment/gun/gun-by-service/ru)
+    8. [United States (US)                                                                ](/note/war/equipment/gun/gun-by-service/us/us-dod)
+       1. [Department of Defense (DOD); United States Armed Forces                        ](/note/war/equipment/gun/gun-by-service/us/us-dod)
+          1.  [Department of the Army (DA)                                                ](/note/war/equipment/gun/gun-by-service/us/us-dod/us-da)
+              1.  [United States Army (USA) [1775 --]                                     ](/note/war/equipment/gun/gun-by-service/us/us-dod/us-da/us-army)
+                  1.  [Cavalry Branch [1775 -- 1950]                                      ](/note/war/equipment/gun/gun-by-service/us/us-dod/us-da/us-army/us-cavalry)
+                  2.  [Infantry Branch                                                    ](/note/war/equipment/gun/gun-by-service/us/us-dod/us-da/us-army/us-infantry)
+          2.  [Department of the Air Force (DAF)                                          ](/note/war/equipment/gun/gun-by-service/us/us-dod/us-daf)
+              1.  [United States Air Force (USAF) [1947 --]                               ](/note/war/equipment/gun/gun-by-service/us/us-dod/us-daf/us-usaf)
+              2.  [United States Space Force (USSF) [2019 --]                             ](/note/war/equipment/gun/gun-by-service/us/us-dod/us-daf/us-ussf)
+       2.  [Department of the Navy (DON)                                                  ](/note/war/equipment/gun/gun-by-service/us/us-dod/us-don)
+           1.  [United States Navy (USN)                                                  ](/note/war/equipment/gun/gun-by-service/us/us-dod/us-usn)
+           2.  [United States Marine Corps (USMC)                                         ](/note/war/equipment/gun/gun-by-service/us/us-dod/us-usmc)
+           3.  [United States Coast Guard (USCG)                                          ](/note/war/equipment/gun/gun-by-service/us/us-dod/us-uscg)
+       3.  [United States Department of Energy (DOE)                                      ](/note/war/equipment/gun/gun-by-service/us/us-doe)
 
-| TYPE | YEAR              | KEY              | OWNER                 | DESIGNATION               | FORE         | CHAMBER      | FEED | MASS | LENGTH | BARREL | RATE | ACTION | NOTE |
-|------|-------------------|------------------|-----------------------|---------------------------|--------------|--------------|------|------|--------|--------|------|--------|------|
-|      | us_m16_a2         | USA              | M16A2                 |                           |              |              |      |      |        |        |      |        |      |
-| HMG  | --                | usa_m2_bmg       | USA                   | M2 BMG BFA                |              | 50_bmg       |      |      |        |        |      |        |      |
-|      |                   |                  |                       |                           |              |              |      |      |        |        |      |        |      |
-| RR   | 1986              | faf_giat_frxf2   |                       | FR F2 Sniper              | --           | 762_nato     |      |      |        |        |      |        |      |
-|      |                   |                  |                       |                           |              |              |      |      |        |        |      |        |      |
-|      | ruger_standard    | Ruger            | Standard              |                           | 22_lr        |              |      |      |        |        |      |        |      |
-| R    | 2009              | ruger_lcr_327    | Ruger                 | LCR (327 Federal)         |              | 327_federal  |      |      |        |        |      |        |      |
-|      |                   |                  |                       |                           |              |              |      |      |        |        |      |        |      |
-| --   | colt_python       | Colt             | Python                |                           | 357_magnum   |              |      |      |        |        |      |        |      |
-| --   | colt_double_eagle | Colt             | Double Eagle          |                           | 45_acp       |              |      |      |        |        |      |        |      |
-| SMG  | 1982              | colt_635         | Colt                  | Model 635                 | --           | 9mm          |      |      |        |        |      |        |      |
-| SMG  | 1982              | colt_633_doe     | Colt                  | Model 633 DOE             | colt_635     | 9mm          |      |      |        |        |      |        |      |
-| SMG  | 1982              | colt_636_dea     | Colt                  | Model 636 DEA             | colt_635     | 9mm          |      |      |        |        |      |        |      |
-| SAW  | 1994              | colt_lmg         | Colt                  | Colt LMG                  | --           | 556_nato     |      |      |        |        |      |        |      |
-|      |                   |                  |                       |                           |              |              |      |      |        |        |      |        |      |
-| L    | 1970              | rus_ags_17       | Russia                | AGS-17 Plamya             | --           | 30_29mm_ru   |      |      |        |        |      |        |      |
-| S    | 1975              | rus_aps_special  | Russia                | APS Special Underwater AR |              | 566_39mm_mps |      |      |        |        |      |        |      |
-| SMG  | 1990              | rus_kbp_pp_90    | KBP                   | PP-90 Folding SMG         | --           | 9mm_makarov  |      |      |        |        |      |        |      |
-| SMG  | 1992              | vladas_1992      | Vladas                | Model 1992                |              | 9mm_makarov  |      |      |        |        |      |        |      |
-| PDW  | 2000              | kbp_pp_200       | KBP                   | PP-2000 (9x19mm 7N21 AP)  |              | 9mm_7h21     |      |      |        |        |      |        |      |
-| PDW  | 2000              | sbd_cbj_ms       |                       | SBD CBJ-MS                | --           | 650_25mm_cbj |      |      |        |        |      |        |      |
-|      |                   |                  |                       |                           |              |              |      |      |        |        |      |        |      |
-|      | hk_msg90_a1       | H&K              | MSG90 A1              |                           | 762_nato     |              |      |      |        |        |      |        |      |
-|      | hk_msg90_a2       | H&K              | MSG90 A2              |                           | 762_nato     |              |      |      |        |        |      |        |      |
-|      | hk_msg90_sdn      | H&K              | MSG90 SDN             |                           | 762_nato     |              |      |      |        |        |      |        |      |
-|      | hk_sl8            | H&K              | SL8                   |                           | 556_nato     |              |      |      |        |        |      |        |      |
-|      | hk_sl9_sd         | H&K              | SL9-SD                |                           | 300_blackout |              |      |      |        |        |      |        |      |
-| 1972 | hk_msg90          | H&K              | MSG90                 |                           | 762_nato     |              |      |      |        |        |      |        |      |
-| 1972 | hk_psg1           | H&K              | PSG1                  |                           | 762_nato     |              |      |      |        |        |      |        |      |
-| 1972 | hk_psg1_a1        | H&K              | PSG1 A1               |                           | 762_nato     |              |      |      |        |        |      |        |      |
-| 1966 | hk_mp5            | H&K              | MP5                   |                           |              |              |      |      |        |        |      |        |      |
-| 1976 | hk_mp5_k          | H&K              | MP5-K                 |                           |              |              |      |      |        |        |      |        |      |
-| 1976 | hk_p11            | H&K              | P11 Underwater Pistol |                           |              |              |      |      |        |        |      |        |      |
-| 1982 | hk_caws           | H&K              | CAWS                  |                           | 12_gauge     |              |      |      |        |        |      |        |      |
-| 1992 | hk_gmg            | H&K              | GMG                   |                           | 40mm         |              |      |      |        |        |      |        |      |
-| 2004 | hk_xm27_oicw      | H&K              | XM27 OICW (MP7)       |                           | 46_30mm      |              |      |      |        | 20mm   |      |        |      |
-| 2004 | hk_xm29_oicw      | H&K              | XM29 OICW (G36)       |                           | 556_nato     |              |      |      |        | 20mm   |      |        |      |
-| 2010 | hk_xm25_cdte      | H&K              | XM25 CDTE             |                           | 25_40mm      |              |      |      |        |        |      |        |      |
-| 2010 | hk_xm8            | H&K              | XM8                   |                           | 556_nato     |              |      |      |        |        |      |        |      |
-| --   | hk_g36_e          | H&K              | G36-E                 |                           | 556_nato     |              |      |      |        |        |      |        |      |
-| --   | hk_gmg            | H&K              | GMG                   |                           |              |              |      |      |        |        |      |        |      |
-| --   | hk_g11            | H&K              | G11                   |                           | 473_33mm_g11 |              |      |      |        |        |      |        |      |
-| --   | hk_mp7            | HK               | MP7                   |                           | 46_40mm_ap   |              |      |      |        |        |      |        |      |
-|      |                   |                  |                       |                           |              |              |      |      |        |        |      |        |      |
-|      | benelli_m3_s90_t  | Benelli          | M3 Super 90 Tactical  |                           | 12_gauge     |              |      |      |        |        |      |        |      |
-|      | fr_famas          | France           | FAMAS                 |                           | 556_nato     |              |      |      |        |        |      |        |      |
-| --   | beretta_m93r_ag   | Beretta          | M93R-AG               |                           | 9mm          |              |      |      |        |        |      |        |      |
-| --   | steyr_tmp         | Steyr            | TMP                   |                           | 9mm          |              |      |      |        |        |      |        |      |
-| --   | steyr_ssg_08      | Steyr            | SSG 08                |                           | 308_win      |              |      |      |        |        |      |        |      |
-|      |                   |                  |                       |                           |              |              |      |      |        |        |      |        |      |
-| --   | walther_wa_2000   | Walther          | WA 2000               |                           |              |              |      |      |        |        |      |        |      |
-|      |                   |                  |                       |                           |              |              |      |      |        |        |      |        |      |
-| SBR  | 2013              | aac_honey_badger |                       | AAC Honey Badger          |              | 300_blackout |      |      |        |        |      |        |      |
-| SBR  | 2021              | cz_600_trail     |                       | CZ 600 Trail              |              | 300_blackout |      |      |        |        |      |        |      |
-|      |                   |                  |                       |                           |              |              |      |      |        |        |      |        |      |
-|      | rossi_gallery     | Rossi            | Gallery               |                           | 22_lr        |              |      |      |        |        |      |        |      |
+# Links
+
+- http://en.wikipedia.org/wiki/List-of-firearms
+
+Bullet diameter  .222 in (5.6 mm)
+Case type        Rimmed, straight
+Neck diameter    .226 in (5.7 mm)
+Base diameter    .226 in (5.7 mm)
+Rim diameter     .278 in (7.1 mm)
+Rim thickness    .043 in (1.1 mm)
+Case length      .421 in (10.7 mm)
+Overall length   .695 in (17.7 mm)
+Rifling twist    1-20" or 1-24"
+Primer type      Rimfire
+Maximum pressure 21,000 psi (140 MPa)
+
+
+http://www.browning.com/support/date-your-firearm.html
+http://www.browning.com/support/owners-manuals.html
 
 ## REVOLVER (R)
 
@@ -884,3 +911,8 @@ BR   | 1958 | stg_58              | Austria   | StG 58                    |     
 - [springfield-m-1903]
 - name = USA M1903 "Springfield" Rifle
 - fore = springfield
+
+- https://en.wikipedia.org/wiki/Special_Purpose_Individual_Weapon
+- https://stargate.fandom.com/wiki/Micro_16_assault_rifle
+- https://en.wikipedia.org/wiki/FN_F2000
+- https://en.wikipedia.org/wiki/Heckler_%26_Koch_SL8

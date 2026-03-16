@@ -147,3 +147,74 @@
 |       |     |      | american_180_twin | 22_lr |      | Voere | American-180 ILARCO Twin |             |
 |       |     |      | rossi_gallery     | 22_lr |      | Rossi | Gallery                  |             |
 |       |     |      | ruger_standard    | 22_lr |      | Ruger | Standard                 |             |
+
+
+
+## HISTORY
+
+| TYPE | YEAR | KEY            | OWNER  | DESIGNATION               | FORE        | CHAMBER    | FEED | MASS | LENGTH | BARREL | RATE | ACTION | NOTE |
+|------|------|----------------|--------|---------------------------|-------------|------------|------|------|--------|--------|------|--------|------|
+| RR   | 1934 | mauser_k98k    | Mauser | Karabiner 98 kurz         | --          | 8mm_mauser |      |      |        |        |      |        |      |
+| RR   | 1948 | mauser_k98k_is | Mauser | Karabiner 98 kurz Israeli | mauser_k98k | 8mm_mauser |      |      |        |        |      |        |      |
+| UMG  | 1942 | nazi_mg42      |        |                           |             |            |      |      |        |        |      |        |      |
+
+## PICK
+
+| TYPE | YEAR              | KEY              | OWNER                 | DESIGNATION               | FORE         | CHAMBER      | FEED | MASS | LENGTH | BARREL | RATE | ACTION | NOTE |
+|------|-------------------|------------------|-----------------------|---------------------------|--------------|--------------|------|------|--------|--------|------|--------|------|
+|      | us_m16_a2         | USA              | M16A2                 |                           |              |              |      |      |        |        |      |        |      |
+| HMG  | --                | usa_m2_bmg       | USA                   | M2 BMG BFA                |              | 50_bmg       |      |      |        |        |      |        |      |
+|      |                   |                  |                       |                           |              |              |      |      |        |        |      |        |      |
+| RR   | 1986              | faf_giat_frxf2   |                       | FR F2 Sniper              | --           | 762_nato     |      |      |        |        |      |        |      |
+|      |                   |                  |                       |                           |              |              |      |      |        |        |      |        |      |
+|      | ruger_standard    | Ruger            | Standard              |                           | 22_lr        |              |      |      |        |        |      |        |      |
+| R    | 2009              | ruger_lcr_327    | Ruger                 | LCR (327 Federal)         |              | 327_federal  |      |      |        |        |      |        |      |
+|      |                   |                  |                       |                           |              |              |      |      |        |        |      |        |      |
+| --   | colt_python       | Colt             | Python                |                           | 357_magnum   |              |      |      |        |        |      |        |      |
+| --   | colt_double_eagle | Colt             | Double Eagle          |                           | 45_acp       |              |      |      |        |        |      |        |      |
+| SMG  | 1982              | colt_635         | Colt                  | Model 635                 | --           | 9mm          |      |      |        |        |      |        |      |
+| SMG  | 1982              | colt_633_doe     | Colt                  | Model 633 DOE             | colt_635     | 9mm          |      |      |        |        |      |        |      |
+| SMG  | 1982              | colt_636_dea     | Colt                  | Model 636 DEA             | colt_635     | 9mm          |      |      |        |        |      |        |      |
+| SAW  | 1994              | colt_lmg         | Colt                  | Colt LMG                  | --           | 556_nato     |      |      |        |        |      |        |      |
+|      |                   |                  |                       |                           |              |              |      |      |        |        |      |        |      |
+| L    | 1970              | rus_ags_17       | Russia                | AGS-17 Plamya             | --           | 30_29mm_ru   |      |      |        |        |      |        |      |
+| S    | 1975              | rus_aps_special  | Russia                | APS Special Underwater AR |              | 566_39mm_mps |      |      |        |        |      |        |      |
+| SMG  | 1990              | rus_kbp_pp_90    | KBP                   | PP-90 Folding SMG         | --           | 9mm_makarov  |      |      |        |        |      |        |      |
+| SMG  | 1992              | vladas_1992      | Vladas                | Model 1992                |              | 9mm_makarov  |      |      |        |        |      |        |      |
+| PDW  | 2000              | kbp_pp_200       | KBP                   | PP-2000 (9x19mm 7N21 AP)  |              | 9mm_7h21     |      |      |        |        |      |        |      |
+| PDW  | 2000              | sbd_cbj_ms       |                       | SBD CBJ-MS                | --           | 650_25mm_cbj |      |      |        |        |      |        |      |
+|      |                   |                  |                       |                           |              |              |      |      |        |        |      |        |      |
+|      | hk_msg90_a1       | H&K              | MSG90 A1              |                           | 762_nato     |              |      |      |        |        |      |        |      |
+|      | hk_msg90_a2       | H&K              | MSG90 A2              |                           | 762_nato     |              |      |      |        |        |      |        |      |
+|      | hk_msg90_sdn      | H&K              | MSG90 SDN             |                           | 762_nato     |              |      |      |        |        |      |        |      |
+|      | hk_sl8            | H&K              | SL8                   |                           | 556_nato     |              |      |      |        |        |      |        |      |
+|      | hk_sl9_sd         | H&K              | SL9-SD                |                           | 300_blackout |              |      |      |        |        |      |        |      |
+| 1972 | hk_msg90          | H&K              | MSG90                 |                           | 762_nato     |              |      |      |        |        |      |        |      |
+| 1972 | hk_psg1           | H&K              | PSG1                  |                           | 762_nato     |              |      |      |        |        |      |        |      |
+| 1972 | hk_psg1_a1        | H&K              | PSG1 A1               |                           | 762_nato     |              |      |      |        |        |      |        |      |
+| 1966 | hk_mp5            | H&K              | MP5                   |                           |              |              |      |      |        |        |      |        |      |
+| 1976 | hk_mp5_k          | H&K              | MP5-K                 |                           |              |              |      |      |        |        |      |        |      |
+| 1976 | hk_p11            | H&K              | P11 Underwater Pistol |                           |              |              |      |      |        |        |      |        |      |
+| 1982 | hk_caws           | H&K              | CAWS                  |                           | 12_gauge     |              |      |      |        |        |      |        |      |
+| 1992 | hk_gmg            | H&K              | GMG                   |                           | 40mm         |              |      |      |        |        |      |        |      |
+| 2004 | hk_xm27_oicw      | H&K              | XM27 OICW (MP7)       |                           | 46_30mm      |              |      |      |        | 20mm   |      |        |      |
+| 2004 | hk_xm29_oicw      | H&K              | XM29 OICW (G36)       |                           | 556_nato     |              |      |      |        | 20mm   |      |        |      |
+| 2010 | hk_xm25_cdte      | H&K              | XM25 CDTE             |                           | 25_40mm      |              |      |      |        |        |      |        |      |
+| 2010 | hk_xm8            | H&K              | XM8                   |                           | 556_nato     |              |      |      |        |        |      |        |      |
+| --   | hk_g36_e          | H&K              | G36-E                 |                           | 556_nato     |              |      |      |        |        |      |        |      |
+| --   | hk_gmg            | H&K              | GMG                   |                           |              |              |      |      |        |        |      |        |      |
+| --   | hk_g11            | H&K              | G11                   |                           | 473_33mm_g11 |              |      |      |        |        |      |        |      |
+| --   | hk_mp7            | HK               | MP7                   |                           | 46_40mm_ap   |              |      |      |        |        |      |        |      |
+|      |                   |                  |                       |                           |              |              |      |      |        |        |      |        |      |
+|      | benelli_m3_s90_t  | Benelli          | M3 Super 90 Tactical  |                           | 12_gauge     |              |      |      |        |        |      |        |      |
+|      | fr_famas          | France           | FAMAS                 |                           | 556_nato     |              |      |      |        |        |      |        |      |
+| --   | beretta_m93r_ag   | Beretta          | M93R-AG               |                           | 9mm          |              |      |      |        |        |      |        |      |
+| --   | steyr_tmp         | Steyr            | TMP                   |                           | 9mm          |              |      |      |        |        |      |        |      |
+| --   | steyr_ssg_08      | Steyr            | SSG 08                |                           | 308_win      |              |      |      |        |        |      |        |      |
+|      |                   |                  |                       |                           |              |              |      |      |        |        |      |        |      |
+| --   | walther_wa_2000   | Walther          | WA 2000               |                           |              |              |      |      |        |        |      |        |      |
+|      |                   |                  |                       |                           |              |              |      |      |        |        |      |        |      |
+| SBR  | 2013              | aac_honey_badger |                       | AAC Honey Badger          |              | 300_blackout |      |      |        |        |      |        |      |
+| SBR  | 2021              | cz_600_trail     |                       | CZ 600 Trail              |              | 300_blackout |      |      |        |        |      |        |      |
+|      |                   |                  |                       |                           |              |              |      |      |        |        |      |        |      |
+|      | rossi_gallery     | Rossi            | Gallery               |                           | 22_lr        |              |      |      |        |        |      |        |      |
