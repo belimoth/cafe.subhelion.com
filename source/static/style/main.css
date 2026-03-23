@@ -580,3 +580,13 @@ table {
 a[href=""] {
 	color: #D33;
 }
+
+
+img {
+	width: 960px;
+	height: calc( 960px * 1398 / 2754 );
+}
+
+img.autha {
+	border: 2px solid #CCC;
+}
