@@ -590,3 +590,16 @@ img {
 img.autha {
 	border: 2px solid #CCC;
 }
+
+ul > li[data-year] {
+	list-style: none;
+}
+
+ul > li[data-year]::before {
+	content: attr( data-year );
+	display: inline;
+	margin-left: -5ch;
+	margin-right: 1ch;
+	width: 4ch;
+	font-family: 'Consolas', 'Courier New', Courier, monospace;
+}
