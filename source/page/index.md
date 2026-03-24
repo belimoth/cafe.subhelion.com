@@ -17,10 +17,10 @@
 
 |                              |                                                                        |
 |------------------------------|------------------------------------------------------------------------|
-| [Art    ]()[](/note/art)     | Visual art, photography, sculpture                                     |
+| [Art    ]()[](/note/art)     | Visual art, fashion, photography, sculpture                            |
 | [Code   ]()[](/note/code)    | Programming and video game development                                 |
 | [Fiction](/note/fiction)     | Story, speculation, lore, myth                                         |
-| [History]()[](/note/history) | History                                                                |
+| [History](/note/history)     | History                                                                |
 | [Media  ](/note/media)       | Films, TV shows, anime, manga, comics                                  |
 | [Monster](/note/monster)     | Aliens, creatures, devils, dinosaurs; symbolic and speculative biology |
 | [Music  ]()[](/note/music)   | Music                                                                  |
