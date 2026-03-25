@@ -25,8 +25,8 @@
 ## Alien vs. Predator
 
 <ul>
-	<li data-type=film data-year=2004><a class=new href=/note/media/work/predator>Alien vs. Predator</a>
-	<li data-type=film data-year=2007><a class=new href=/note/media/work/predator>Aliens vs. Predator: Requiem</a>
+	<li data-type=film data-year=2004><a class=new href=/note/media/work/film/alien-vs-predator        >Alien vs. Predator</a>
+	<li data-type=film data-year=2007><a class=new href=/note/media/work/film/alien-vs-predator-requiem>Alien vs. Predator: Requiem</a>
 </ul>
 
 ## Games
