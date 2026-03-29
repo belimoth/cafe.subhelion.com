@@ -1,1 +1,1 @@
-# Firefly (Franchise)
+# Firefly (franchise)

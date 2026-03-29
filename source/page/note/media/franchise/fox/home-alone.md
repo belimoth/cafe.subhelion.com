@@ -1,1 +1,1 @@
-# Home Alone (Franchise)
+# Home Alone (franchise)

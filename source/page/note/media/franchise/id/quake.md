@@ -1,4 +1,4 @@
-# Quake (Franchise)
+# Quake (franchise)
 
 
 | TYPE | YEAR | KEY                   | TITLE                              |

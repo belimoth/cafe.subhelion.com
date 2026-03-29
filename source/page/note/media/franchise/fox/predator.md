@@ -1,4 +1,4 @@
-# Predator (Franchise)
+# Predator (franchise)
 
 ## Mainline films
 

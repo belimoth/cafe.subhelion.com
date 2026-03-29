@@ -1,1 +1,1 @@
-# Die Hard (Franchise)
+# Die Hard (franchise)

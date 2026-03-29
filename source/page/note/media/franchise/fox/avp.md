@@ -1,1 +1,1 @@
-# Alien vs. Predator (Franchise)
+# Alien vs. Predator (franchise)

@@ -1,1 +1,1 @@
-# Capcom (Franchise)
+# Capcom (franchise)

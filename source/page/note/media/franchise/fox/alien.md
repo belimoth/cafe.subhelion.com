@@ -1,4 +1,4 @@
-# Alien (Franchise)
+# Alien (franchise)
 
 ## Mainline Films
 

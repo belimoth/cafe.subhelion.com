@@ -1,4 +1,4 @@
-# Assassin's Creed (Franchise)
+# Assassin's Creed (franchise)
 
 
 | TYPE | YEAR | TITLE                                                                                | PLATFORM                                    |

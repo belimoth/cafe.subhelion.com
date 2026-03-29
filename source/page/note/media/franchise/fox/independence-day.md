@@ -1,1 +1,1 @@
-# Independence Day (Franchise)
+# Independence Day (franchise)

@@ -1,1 +1,1 @@
-# Avatar (Franchise)
+# Avatar (franchise)
