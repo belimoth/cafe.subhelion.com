@@ -603,3 +603,66 @@ ul > li[data-year]::before {
 	width: 4ch;
 	font-family: 'Consolas', 'Courier New', Courier, monospace;
 }
+
+
+
+
+
+
+
+
+
+
+
+/* table td.img img[src^="/static/image/youtube"] {
+	width: 60px;
+	height: 45px;
+	display: inline;
+} */
+
+td.img {
+	padding: 0;
+}
+
+th[data-date] {
+	padding-right: 0;
+}
+
+th[data-date]::before {
+	content: attr( data-date );
+	display: inline;
+	margin-left: -11ch;
+	margin-right: 1ch;
+	width: 10ch;
+	font-family: consolas, 'courier new', monospace;
+	text-align: right;
+}
+
+table, tr {
+	overflow: visible;
+}
+
+td[data-topic]::after {
+	content: attr( data-topic );
+	display: inline;
+	float: right;
+}
+
+td.img ~ td[data-topic]::after {
+	content: attr( data-topic );
+	display: block;
+	float: none;
+}
+
+td.img > a::after { display: none; }
+
+td.img > a > img {
+	border: 1px solid #FFF;
+	outline: 1px solid currentColor;
+}
+
+
+nav > a::after {
+	content: " > ";
+	display: inline;
+}
