@@ -1,4 +1,4 @@
-<nav><a href=/>cafe.subhelion.com</a> > <a href=/#note>Notes</a> > Media
+<nav><a href=/>cafe.subhelion.com</a> > <a href=/#note>Notes</a> > Media</nav>
 
 # Media
 

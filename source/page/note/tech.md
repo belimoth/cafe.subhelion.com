@@ -1,3 +1,3 @@
-<nav><a href=/>cafe.subhelion.com</a> > <a href=/#note>Notes</a> > Tech
+<nav><a href=/>cafe.subhelion.com</a> > <a href=/#note>Notes</a> > Tech</nav>
 
 # Tech

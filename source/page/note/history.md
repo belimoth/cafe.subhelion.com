@@ -1,4 +1,4 @@
-<nav><a href=/>cafe.subhelion.com</a> > <a href=/#note>Notes</a> > History
+<nav><a href=/>cafe.subhelion.com</a> > <a href=/#note>Notes</a> > History</nav>
 
 <style>ul > li > time { margin-left: -21ch; margin-right: 1ch; width: 20ch; text-align: right; font-family: consolas, 'courier new', monospace; }</style>
 <style>ul > li { list-style:none; }</style>
