@@ -1,10 +1,10 @@
 <nav>
-	  <a href=/>cafe.subhelion.com</a>
-	<a href=/#note   >Notes</a>
-	<a href=/note/war>War</a>
-	<a href=/note/war>Sites
-	Youtube
-	Brent0331
+	<a href=/>cafe.subhelion.com</a>
+	> <a href=/#note   >Notes</a>
+	> <a href=/note/war>War</a>
+	> <a href=/note/war>Sites</a>
+	> Youtube
+	> Brent0331
 </nav>
 
 # Brent0331
