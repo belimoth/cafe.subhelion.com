@@ -20,11 +20,11 @@
 
 ## Ancient
 
-<img src=/static/image/world.svg>
+<img class=world src=/static/image/history/world.svg>
 
 <br>
 
-<img class=autha src=/static/image/authaglobe.svg>
+<img class=autha src=/static/image/history/authaglobe.svg>
 
 <ol>
 	<li><a href=#ancient-af   >Africa</a>
