@@ -28,7 +28,7 @@
 <style>a.n { font-family: consolas, 'courier new', courier, monospace; white-space-collapse: preserve; }</style>
 
 <ul>
-<li data-year=1981><a class=new href=/note/media/profile-alan-dean-foster>Alan Dean Foster</a> - Outland (novelization)
+<li data-year=1981><a class=new>Alan Dean Foster</a> - Outland (novelization)
 <li data-year=1981>Outland: The Movie Novel (photonovel)
 
 <li data-year=1981><a class=new href=/note/media/site/heavy-metal >Heavy Metal Magazine</a> - <a class="n new">#5.3 </a> - <a class=new>Jim Steranko</a> - <a class=new>Outland #1 (comic)</a>
