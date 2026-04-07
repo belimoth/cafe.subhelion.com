@@ -5,12 +5,12 @@
 ## Films
 
 <table>
-<tr><th data-year=1987><td class=img><img src=/static/image/letterboxd/predator.jpg         ><td><a           href=/note/media/work/film/predator                   >Predator</a>
-<tr><th data-year=1990><td class=img><img src=/static/image/letterboxd/predator-2.jpg       ><td><a class=new href=/note/media/work/film/predator-2                 >Predator 2</a>
-<tr><th data-year=2010><td class=img><img src=/static/image/letterboxd/predators.jpg        ><td><a class=new href=/note/media/work/film/predators                  >Predators</a>
-<tr><th data-year=2018><td class=img><img src=/static/image/letterboxd/predator-2018.jpg    ><td><a class=new href=/note/media/work/film/predator-2018              >The Predator</a>
-<tr><th data-year=2022><td class=img><img src=/static/image/letterboxd/prey.jpg             ><td><a class=new href=/note/media/work/film/prey                       >Prey</a>
-<tr><th data-year=2025><td class=img><img src=/static/image/letterboxd/predator-badlands.jpg><td><a class=new href=/note/media/work/film/predator-badlands          >Predator: Badlands</a>
+<tr><th data-year=1987><td class=img><img src=/static/image/film/predator.jpg         ><td><a           href=/note/media/work/film/predator         >Predator</a>
+<tr><th data-year=1990><td class=img><img src=/static/image/film/predator-2.jpg       ><td><a class=new href=/note/media/work/film/predator-2       >Predator 2</a>
+<tr><th data-year=2010><td class=img><img src=/static/image/film/predators.jpg        ><td><a class=new href=/note/media/work/film/predators        >Predators</a>
+<tr><th data-year=2018><td class=img><img src=/static/image/film/predator-2018.jpg    ><td><a class=new href=/note/media/work/film/predator-2018    >The Predator</a>
+<tr><th data-year=2022><td class=img><img src=/static/image/film/prey.jpg             ><td><a class=new href=/note/media/work/film/prey             >Prey</a>
+<tr><th data-year=2025><td class=img><img src=/static/image/film/predator-badlands.jpg><td><a class=new href=/note/media/work/film/predator-badlands>Predator: Badlands</a>
 </table>
 
 ## Other

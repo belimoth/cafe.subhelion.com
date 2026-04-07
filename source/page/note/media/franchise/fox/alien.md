@@ -7,39 +7,39 @@
 <table>
 	<tr>
 		<th data-year=1979>
-		<td class=img><a href=/note/media/work/film/alien><img src=/static/image/letterboxd/alien.jpg></a>
+		<td class=img><a href=/note/media/work/film/alien><img src=/static/image/film/alien.jpg></a>
 		<td><a           href=/note/media/work/film/alien>Alien</a>
 	<tr>
 		<th data-year=1986>
-		<td class=img><a href=/note/media/work/film/aliens><img src=/static/image/letterboxd/aliens.jpg></a>
+		<td class=img><a href=/note/media/work/film/aliens><img src=/static/image/film/aliens.jpg></a>
 		<td><a           href=/note/media/work/film/aliens>Aliens</a>
 	<tr>
 		<th data-year=1992>
-		<td class=img><a href=/note/media/work/film/alien-3><img src=/static/image/letterboxd/alien-3.jpg></a>
+		<td class=img><a href=/note/media/work/film/alien-3><img src=/static/image/film/alien-3.jpg></a>
 		<td><a           href=/note/media/work/film/alien-3>Alien³</a>
 	<tr>
 		<th data-year=1997>
-		<td class=img><a href=/note/media/work/film/alien-resurrection><img src=/static/image/letterboxd/alien-resurrection.jpg></a>
+		<td class=img><a href=/note/media/work/film/alien-resurrection><img src=/static/image/film/alien-resurrection.jpg></a>
 		<td><a           href=/note/media/work/film/alien-resurrection>Alien Resurrection</a>
 	<tr>
 		<th data-year=2012>
-		<td class=img><a href=/note/media/work/film/prometheus><img src=/static/image/letterboxd/prometheus.jpg></a>
+		<td class=img><a href=/note/media/work/film/prometheus><img src=/static/image/film/prometheus.jpg></a>
 		<td><a           href=/note/media/work/film/prometheus>Prometheus</a>
 	<tr>
 		<th data-year=2017>
-		<td class=img><a href=/note/media/work/film/alien-covenant><img src=/static/image/letterboxd/alien-covenant.jpg></a>
+		<td class=img><a href=/note/media/work/film/alien-covenant><img src=/static/image/film/alien-covenant.jpg></a>
 		<td>          <a href=/note/media/work/film/alien-covenant>Alien: Covenant</a>
 	<tr>
 		<th data-year=2019>
-		<td class=img><a href=/note/media/work/anime/alien-isolation><img src=/static/image/letterboxd/alien-isolation.jpg></a>
+		<td class=img><a href=/note/media/work/anime/alien-isolation><img src=/static/image/film/alien-isolation.jpg></a>
 		<td><a href=/note/media/work/anime/alien-isolation>Alien: Isolation (anime)</a>
 	<tr>
 		<th data-year=2024>
-		<td class=img><a href=/note/media/work/film/alien-romulus><img src=/static/image/letterboxd/alien-romulus.jpg></a>
+		<td class=img><a href=/note/media/work/film/alien-romulus><img src=/static/image/film/alien-romulus.jpg></a>
 		<td>          <a href=/note/media/work/film/alien-romulus>Alien: Romulus</a>
 	<tr>
 		<th data-year=2025>
-		<td class=img><a href=/note/media/work/tv/alien-earth><img src=/static/image/letterboxd/alien-earth.jpg></a>
+		<td class=img><a href=/note/media/work/tv/alien-earth><img src=/static/image/film/alien-earth.jpg></a>
 		<td><a           href=/note/media/work/tv/alien-earth>Alien: Earth (TV)</a>
 </table>
 

@@ -6,8 +6,8 @@
 ## Films
 
 <table>
-<tr><th data-year=2004><td class=img><img src=/static/image/letterboxd/avp.jpg        ><td><a href=/note/media/work/film/avp        >AVP: Alien vs. Predator</a>
-<tr><th data-year=2007><td class=img><img src=/static/image/letterboxd/avp-requiem.jpg><td><a href=/note/media/work/film/avp-requiem>Alien vs. Predator: Requiem</a>
+<tr><th data-year=2004><td class=img><img src=/static/image/film/avp.jpg        ><td><a href=/note/media/work/film/avp        >AVP: Alien vs. Predator</a>
+<tr><th data-year=2007><td class=img><img src=/static/image/film/avp-requiem.jpg><td><a href=/note/media/work/film/avp-requiem>Alien vs. Predator: Requiem</a>
 </table>
 
 ## Games

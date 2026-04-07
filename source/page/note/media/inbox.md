@@ -6,7 +6,6 @@
 a land once magic ttrpg
 a merchant's promise
 aachi and ssipak
-abyss of neptune survival game
 acid bufferzone
 adam adamoqicz
 after blue dirty paradise 2021
@@ -27,68 +26,37 @@ anime | MEtal Gear Warhead Activate 2.0 | -- | Mitchell Hammond | https://www.yo
 anneurism iv
 arcadian 2024
 archive 2020
-arcticfox game
 ashen citor manga
 astra lost in space
 automata (2014)
-babushka's glitch dungeon
-ballistic.exe
-barotrauma
 batman gotham knight 2008
-battlefield hardline
-bedrock.zip
 ben 10
-beta decay game
 beyond all reason
 beyond citadel
-beyond citadel game
-bioforge game
-black myth wukong
-blackgate game
-blood 2
 blood blockade battlefront manga
-blue archive game
 boohbah 2003
 brainstorm 1983
-brigador
-brigador killers
 Bubblegum Crisis
 burglars guide to the city
 cabella dangerous hunts 2011
 call of duty 2
-cascade game
-castle tactical fps game
 cat soup 2001
 cells at work anime
 chad powers
 chad vangaalen molten light
-channel breachers game
-chernobyl game
 claymore (2007)
 code 8 film
 code 8 short 2016
 code lyoko
-codename steam
-contraband police game
 copshop
-crossout game
-cry of fear game
-cybernator/assault suits calken
-daikatana gameboy
 Daimajū Gekitō: Hagane no Oni | https://www.dailymotion.com/video/x99y3hm
 dandelin void
 dandelion void
-dark light survivor game
 darkwind war on wheels
-davigo game
 death nonte franchise
 death proof 2007
-deathground game
 defect
 demolition 2015
-demolition man game
-derelikt game
-device 6 game
 dinner for one 1963
 dino d-day
 dolls nest
@@ -107,10 +75,6 @@ Ergo Proxy
 ersatz animation short by clown.saint
 ersatz pilot
 europa europa
-excapr from duckov
-exekiller game
-exekiller game
-fallen aces game
 falling skies 2021
 feed book
 firelock 198x
@@ -118,8 +82,6 @@ fitzcarraldo
 flight of dagons 1982
 forbidden planet (1956)
 fort bragg cartel
-frukt game
-full fathom survival game
 furiosa (2024)
 fury 2014 war action
 generation zero
@@ -132,21 +94,9 @@ gmod zcity
 gone fishing
 good boy (2025)
 good lord bird
-gospel of steel game
-grow rpg
 gundam cucuruz
-gunpoint game
-gunsmith cats
 Hades Project Zeorymer
-half life 2 beta
-half life 2 beta minimalist mod
-halo legends 2010
-hearts of iron iv
 heat
-heat siganture
-hoofobia
-hotline miami
-house flipper game
 https://balderdragonslayer.itch.io/abyss
 https://blippo.plus
 https://en.wikipedia.org/wiki/Action_Forms
@@ -160,15 +110,9 @@ https://en.wikipedia.org/wiki/Crystal_Dynamics
 https://en.wikipedia.org/wiki/DreamCatcher_Interactive
 https://en.wikipedia.org/wiki/Earth_Defense_Force
 https://en.wikipedia.org/wiki/Gantz
-https://en.wikipedia.org/wiki/Gauntlet
-https://en.wikipedia.org/wiki/Gauntlet_(1985_video_game)
-https://en.wikipedia.org/wiki/Gauntlet_(cancelled_video_game)
-https://en.wikipedia.org/wiki/Gauntlet_II
-https://en.wikipedia.org/wiki/Gauntlet_III:_The_Final_Quest
-https://en.wikipedia.org/wiki/Gauntlet_IV
-https://en.wikipedia.org/wiki/Gauntlet_Legends
-https://en.wikipedia.org/wiki/Gauntlet:_The_Third_Encounter
-https://en.wikipedia.org/wiki/Halo_(franchise)
+
+
+
 https://en.wikipedia.org/wiki/House_of_Suns
 https://en.wikipedia.org/wiki/Id_%E2%80%93_Invaded
 https://en.wikipedia.org/wiki/Jordan_Peele
@@ -443,3 +387,141 @@ wrath of the titans 2012
 x/1999 anime
 you are umasou / heart and yummie (2010) anime
 zachtronics
+
+
+
+
+
+
+
+
+
+
+
+www.jank.cool
+
+
+
+Ancillary Justice by Ann Leckie (book)
+Beaks, Bones, and Bird Songs: How the Struggle for Survival Has Shaped Birds and Their Behavior (book)
+Perfect Organism: An Alien: Isolation Companion (book)
+War is a Racket by Smedley D Butler (book)
+
+All Tomorrows (game)
+Dreams on a Pillow (game)
+Everything is Crab (game)
+Memory of a Broken Dimension (game)
+Nuclear Option (game)
+Obenseuer (game)
+One Must Fall 2097 (game)
+Spectra (game)
+SPRAWL zero (game)
+Tanki Online (game)
+Warhammer 20K: Darktide (game)
+Where Winds Meet (game)
+https://en.wikipedia.org/wiki/Gauntlet
+https://en.wikipedia.org/wiki/Gauntlet_(1985_video_game)
+https://en.wikipedia.org/wiki/Gauntlet_(cancelled_video_game)
+half life 2 beta
+half life 2 beta minimalist mod
+halo legends 2010
+hearts of iron iv
+heat siganture
+hoofobia
+hotline miami
+abyss of neptune survival game
+arcticfox game
+beta decay game
+beyond citadel game
+bioforge game
+blackgate game
+blue archive game
+black myth wukong
+blood 2
+battlefield hardline
+bedrock.zip
+babushka's glitch dungeon
+ballistic.exe
+barotrauma
+brigador
+brigador killers
+cascade game
+castle tactical fps game
+channel breachers game
+chernobyl game
+codename steam
+contraband police game
+crossout game
+cry of fear game
+cybernator/assault suits calken
+daikatana gameboy
+dark light survivor game
+davigo game
+deathground game
+demolition man game
+derelikt game
+device 6 game
+exekiller game
+exekiller game
+fallen aces game
+excapr from duckov
+frukt game
+full fathom survival game
+gospel of steel game
+grow rpg
+gunpoint game
+gunsmith cats
+house flipper game
+https://en.wikipedia.org/wiki/Gauntlet_II
+https://en.wikipedia.org/wiki/Gauntlet_III:_The_Final_Quest
+https://en.wikipedia.org/wiki/Gauntlet_IV
+https://en.wikipedia.org/wiki/Gauntlet_Legends
+https://en.wikipedia.org/wiki/Gauntlet:_The_Third_Encounter
+https://en.wikipedia.org/wiki/Halo_(franchise)
+
+They Came to Rob Las Vegas 1968
+The Conversation 1974
+Chodenji Robo Combattler V 1976
+Return to Oz 1985
+Bubblegum Crisis 1987
+Tekkaman Blade 1992
+In the Line of Fire 1993
+Brain Powerd 1998
+Deathwatch 2002
+Falling Skies 2011
+Act of Valor 2012
+White Tiger 2012
+Black Jesus 2014
+Revenge 2017
+The VelociPastor 2017
+Saint Maude 2019
+Palm Springs 2020
+Dragon Princess 2021
+Samrat Prithviraj 2022
+The House (Netflix) 2022
+The Creator 2023
+Good Luck, Have Fun, Don't Die 2025
+
+Daicon III and IV Opening Animations
+Gall Force (anime)
+Getter Robo Armageddon (anime)
+Metallic Rouge (anime)
+Muv-Luv Alternative
+Sol Bianca (anime)
+Terminator Zero (anime)
+Valerian and the City of A Thousand Planets (anime)
+
+Future Diary (manga)
+Judge Dredd: The Cursed Earth (comic)
+Judge Dredd: Necropolis (comic)
+Silent Mobius (manga)
+Skin Police (comic)
+
+Leopard 2A4 Giraffe (vehicle)
+MAZ-7904 (vehicle)
+MAZ-537 (vehicle)
+
+Casa to Puerto Escondido (building)
+Petrova Gora Monument (building)
+Salk Institute for Biological Studies (building)
+Lewis F. Powell Jr. United States Courthouse - Richmond, VA (building)
