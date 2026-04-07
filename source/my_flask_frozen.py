@@ -275,7 +275,7 @@ class Freezer:
 
 		# belimoth
 
-		if os.path.splitext( path )[1] not in [ ".js", ".png", ".svg", ".ico", ".css", ".html", ".webmanifest" ]:
+		if os.path.splitext( path )[1] not in [ ".js", ".jpg", ".png", ".svg", ".ico", ".css", ".html", ".webmanifest" ]:
 			path = Path( str( path ) + ".html" )
 
 		skip = self.app.config['FREEZER_SKIP_EXISTING']

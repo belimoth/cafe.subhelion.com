@@ -1,0 +1,19 @@
+#!/bin/bash
+
+cd /a/source/page/note/media
+
+grep --extended-regexp --no-filename --only-matching --recursive "/note/media/[^ )>]+" . > /a/local/check-media-a
+sort --unique /a/local/check-media-a --output /a/local/check-media-a
+
+find . -type f | sed "s|./|/note/media/|" | sed "s|.md||" > /a/local/check-media-b
+sort --unique /a/local/check-media-b --output /a/local/check-media-b
+
+# code --diff /a/local/check-media-a /a/local/check-media-b
+
+comm -13 /a/local/check-media-a /a/local/check-media-b > /a/local/check-media-orphan
+comm -23 /a/local/check-media-a /a/local/check-media-b > /a/local/check-media-missing
+find -size 0 . > /a/local/check-media-empty
+
+code /a/local/check-media-orphan
+code /a/local/check-media-missing
+code /a/local/check-media-empty

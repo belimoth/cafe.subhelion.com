@@ -520,7 +520,7 @@ table {
 }
 
 table img {
-	width: 102px;
+	/* width: 102px; */
 	height: 76px;
 	outline: 1px solid currentColor;
 }
@@ -531,7 +531,6 @@ body > ul {
 }
 
 body > table {
-	margin-left: -8px;
 	margin-bottom: 32px;
 }
 
@@ -581,8 +580,8 @@ a[href=""] {
 	color: #D33;
 }
 
-
-img {
+img.autha,
+img.world {
 	width: 960px;
 	height: calc( 960px * 1398 / 2754 );
 }
@@ -626,9 +625,24 @@ td.img {
 
 th[data-date] {
 	padding-right: 0;
+	padding-left: 0;
 }
 
 th[data-date]::before {
+	content: attr( data-date );
+	display: inline;
+	margin-left: -11ch;
+	margin-right: 1ch;
+	width: 10ch;
+	font-family: consolas, 'courier new', monospace;
+	text-align: right;
+}
+
+li[data-date] {
+	list-style: none;
+}
+
+li[data-date]::before {
 	content: attr( data-date );
 	display: inline;
 	margin-left: -11ch;
@@ -661,8 +675,118 @@ td.img > a > img {
 	outline: 1px solid currentColor;
 }
 
+blockquote {
+	/* background: #EFEFEF; */
+	padding: 0 8px;
+	/* margin: 0 -8px; */
+	border-left: 4px solid #EEE;
+}
 
-nav > a::after {
-	content: " > ";
+td.img-tt > a::after { display: none; }
+
+td.img-tt {
+	padding-left: 0;
+	padding-right: 0;
+}
+
+td.img-tt > a > img {
+	border: 1px solid #FFF;
+	outline: 1px solid currentColor;
+	width: auto;
+	height: 76px;
+}
+
+
+
+
+
+
+
+
+
+th[data-dune] {
+	padding: 0;
+}
+
+th[data-dune]::before {
+    content: attr(data-dune);
+    display: inline;
+    margin-left: -21ch;
+    margin-right: 1ch;
+    font-family: consolas, 'courier new', monospace;
+    text-align: right;
+	white-space-collapse: preserve;
+}
+
+th[data-dune]:empty + td {
+	padding-left: 0;
+}
+
+
+
+
+
+th[data-year] {
+	padding-right: 0;
+	padding-left: 0;
+}
+
+th[data-year]::before {
+	content: attr( data-year );
 	display: inline;
+	margin-left: -5ch;
+	margin-right: 1ch;
+	font-family: consolas, 'courier new', monospace;
+	text-align: right;
+}
+
+table {
+	border-collapse: collapse;
+	padding: 0;
+	margin-left: 0;
+}
+
+
+
+
+th[data-year]:empty + td{
+	padding-left: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+li[data-life] {
+	list-style: none;
+}
+
+li[data-life]::before {
+	content: attr( data-life );
+	display: inline;
+	margin-left: -13ch;
+	margin-right: 1ch;
+	font-family: consolas, 'courier new', monospace;
+	text-align: right;
+	white-space-collapse: preserve;
+
+}
+
+a.new {
+	cursor: pointer;
+}
+
+
+body > p > img {
+	height: 240px;
+}
+
+td.img + td.img {
+	padding-left: 2px;
 }
