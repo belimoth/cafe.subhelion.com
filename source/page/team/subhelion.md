@@ -10,14 +10,14 @@
 | sgtdogwater    | [bsky.app](https://bsky.app/profile/sgtdogwater.bsky.social) | --                                   |
 | tegiminis      | [bsky.app](https://bsky.app/profile/tegiminis.bsky.social)   | --                                   |
 | turnip_juice   | [bsky.app](https://bsky.app/profile/turnipjuice.bsky.social) | --                                   |
-| zuckmarkerberg | [bsky.app](https://bsky.app/profile/jseph.bsky.social)       | --                                   |
+| shrugseph      | [bsky.app](https://bsky.app/profile/jseph.bsky.social)       | --                                   |
 
 ## Tasks
 
 |                                                                                                                                                         |                                                    |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|
 | [project/dread-check                                                      ](/project/dread-check                                                      ) | belimoth                                           |
-| [project/dread-check/chapter/alien-intel                                  ](/project/dread-check/chapter/alien-intel                                  ) | belimoth zuckmarkerberg                            |
+| [project/dread-check/chapter/alien-intel                                  ](/project/dread-check/chapter/alien-intel                                  ) | belimoth shrugseph                                 |
 | [project/dread-check/chapter/alien-intel-x                                ](/project/dread-check/chapter/alien-intel-x                                ) | belimoth                                           |
 | [project/dread-check/chapter/blood-flush                                  ](/project/dread-check/chapter/blood-flush                                  ) | belimoth                                           |
 | [project/dread-check/chapter/blue-monsoon                                 ](/project/dread-check/chapter/blue-monsoon                                 ) | mithraea                                           |
@@ -29,8 +29,8 @@
 | [project/dread-check/chapter/funny-bowling                                ](/project/dread-check/chapter/funny-bowling                                ) | sgtdogwater                                        |
 | [project/dread-check/chapter/gate-quake                                   ](/project/dread-check/chapter/gate-quake                                   ) | belimoth                                           |
 | [project/dread-check/chapter/hazard-company                               ](/project/dread-check/chapter/hazard-company                               ) | belimoth                                           |
-| [project/dread-check/chapter/horse-war                                    ](/project/dread-check/chapter/horse-war                                    ) | belimoth zuckmarkerberg                            |
-| [project/dread-check/chapter/howling-commandos                            ](/project/dread-check/chapter/howling-commandos                            ) | zuckmarkerberg                                     |
+| [project/dread-check/chapter/horse-war                                    ](/project/dread-check/chapter/horse-war                                    ) | belimoth shrugseph                                 |
+| [project/dread-check/chapter/howling-commandos                            ](/project/dread-check/chapter/howling-commandos                            ) | shrugseph                                          |
 | [project/dread-check/chapter/monster-league-baseball                      ](/project/dread-check/chapter/monster-league-baseball                      ) | turnip_juice                                       |
 | [project/dread-check/chapter/plastic-platoon                              ](/project/dread-check/chapter/plastic-platoon                              ) | belimoth                                           |
 | [project/dread-check/chapter/primitive-streak                             ](/project/dread-check/chapter/primitive-streak                             ) | capntastic                                         |

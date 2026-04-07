@@ -134,7 +134,7 @@ https://www.forgottenweapons.com/famas-commando-prototypes
 
 zach and joe give perfect dark the black mesa/abiotic factor treatment and disguise the ip thanks
 
-#### zuckmarkerberg
+#### shrugseph
 agree
 
 ### 2026-01-17
@@ -151,7 +151,7 @@ every short campaign has something i want to develop to finish draugb campaign w
 
 thinking about weapon alt modes, falcon 2 just has a pistol whip that's lame i think since it's a carrington gun it should be able to switch between subsonic and regular and overpressure and plasma ammo; silencer toggle but you can fuck it up shooting the wrong ammo; 45 acp; the design thrust of giving it pistol whip is to give it a nonlethal option when sneaking so maybe a blank + nonlethal dart attachment toggle like the m7 on an m1 garand; regular size clip of blanks but separate dart reload; everyone does what if the cold war went hot i want to do what if it went colder for longer
 
-#### zuckmarkerberg
+#### shrugseph
 zero is truly terrible; In a fun way; The csrrington guns are all chill in original pd its datadyne who has the weird lasers and stuff. Cuz aliens
 
 ya magsec is a dd gun their introduce it when you take it from a guard outside area 51; whatever everyone else agrees that it is meant to be literally the robocop gun; i used to have an airsoft auto-9 but it broke
@@ -160,7 +160,7 @@ i feel like CMP-150 alt fire could be adapted somehow; need an explanation for h
 
 k7 avenger should have the same thing; maiar guns are just plasma thats a reason for carrington to have plasma rounds; not clear what thr skedar are giving datadyne besides cloaking shields
 
-#### zuckmarkerberg
+#### shrugseph
 I mean I think the idea is Datadyne is generally doing weird hijinks in their labs; Alien inspired, indirectly; https://perfectdark.retropixel.net/pd/weapons; good website alert
 
 ya goldeneye/pd is the one to copy for that stuff;honorable mention to call of duty 2
@@ -215,7 +215,7 @@ Shortly before the game's release, a feature that would have allowed players to 
 
 this would've been so cool
 
-#### zuckmarkerberg
+#### shrugseph
 woah didnt realize how much the dragon was g36; didnt realize datadyne was so german
 
 ### 2026-01-19
@@ -267,7 +267,7 @@ security cameras can contribute also
 
 https://guns.fandom.com/wiki/ST_Kinetics_SSW
 
-#### zuckmarkerberg
+#### shrugseph
 squad connectivity for triggering self destruct too
 
 ### 2026-01-22
@@ -282,7 +282,7 @@ thinking about technically there was a third alien race "cetans"
 https://perfectdark.fandom.com/wiki/Cetan
 no info
 
-#### zuckmarkerberg
+#### shrugseph
 oh woah were they in the submarine level; Recontextualizing perfect dark in my brain as “british marathon”
 
 #### belimoth
@@ -335,12 +335,12 @@ writing bullshit for maiar, they're snakes too now that can pilot humans and hum
 extinct but impersonated by something else in alien intel x
 their beauraceacy is made weird by not actually having ftl travel
 
-#### zuckmarkerberg
+#### shrugseph
 Have you played the EA n64 bond game btw; It’s the only not pd not time splitters goldeneye like I know of; I bought it recentlyish but haven’t replayed; Blue cartridge
 
 ya you've bothered me about that before; world is not enough; haven't found any decompilation projects for that one put it on the roadmap in the closet; i don't remember if i have a physical i was emulating it; pc port of decompiled perfect dark is great; perfect dark is a great target because they did so much with so little; very sparse navmeshes and behavior well organized
 
-#### zuckmarkerberg
+#### shrugseph
 the bottleneck for making a pd is animation; U gotta trick one of those; In the meantime play call of duty modern warfare 3 (2012 or whatever); It’s just ok but it’s also great; mostly it’s when IW got amazing at gun sound design. Carries over into ghosts too but ghosts is actually terrible; Very stateful enemies with long flinch and “attack” states immediately puts you 80% ahead of most shooter design
 
 the lack of world at wars audio is why i procastinate the older cods and codlikes so much; totally imbalanced for multiplayer it ruled; waw multiplayer had the most latitude for making your own fun in a sandbox with guns sort of way; so many of the mgs and secondaries etc were so pointless; i'm putting robodog killstreak in swat city now; sandbox is good look at roblox blackhawk rescue mission 5 or whatever
@@ -413,14 +413,14 @@ the skedar participated in the soviet invasion of afghanistan; did the asgard/ma
 
 https://www.youtube.com/watch?v=yLfwJAq6jiE
 
-#### zuckmarkerberg
+#### shrugseph
 I read the tiny Nintendo power blurb for that a lot of times; love a weapon sprite which isn’t even trying to be in perspective
 
 it's fun; 1:01:45 you can see that they snuck the gbc crosshair game back in for the snipe
 
 has some genuine effort to express goldeneye style concepts, hostages, infiltration; the first level i had to look up how to enter the building because it's a secret entrance in a fountain that is hard to find; 90's espionage flavored exploration of spaces; some nice textures too i'm gonna steal them for prototyping
 
-#### zuckmarkerberg
+#### shrugseph
 ‘Espionage flavor shooter’ is a fun pseudogenre; Oh man I never mailed you cold winter
 
 First person espionage shooters I know: deus exes; the worse bond games; Cold winter; Goldeneye/perfect dark obviously; Arguably Riddick butcher bay?
@@ -460,7 +460,7 @@ https://www.imfdb.org/wiki/Ghost_in_the_Shell_(1995)#CZN-M22
 
 steyr tmps eveywhere and a tmp briefcase gun
 
-#### zuckmarkerberg
+#### shrugseph
 100%
 
 ### 2026-02-16
