@@ -15,22 +15,22 @@
 ## Films
 
 <table>
-<tr><th data-year=1992><td class=img><img src=/static/image/film/praying-with-anger.jpg><td>Praying with Anger (Student film)
-<tr><th data-year=1998><td class=img><img src=/static/image/film/wide-awake.jpg        ><td>Wide Awake
-<tr><th data-year=1999><td class=img><img src=/static/image/film/sixth-sense.jpg       ><td><a class=new href=/note/media/work/film/sixth-sense       >The Sixth Sense
-<tr><th data-year=2000><td class=img><img src=/static/image/film/unbreakable.jpg       ><td><a           href=/note/media/work/film/unbreakable       >Unbreakable
-<tr><th data-year=2002><td class=img><img src=/static/image/film/signs.jpg             ><td><a class=new href=/note/media/work/film/signs             >Signs
-<tr><th data-year=2004><td class=img><img src=/static/image/film/village.jpg           ><td><a class=new href=/note/media/work/film/village           >The Village
-<tr><th data-year=2006><td class=img><img src=/static/image/film/lady-in-the-water.jpg ><td><a class=new href=/note/media/work/film/lady-in-the-water >Lady in the Water
-<tr><th data-year=2008><td class=img><img src=/static/image/film/happening.jpg         ><td><a class=new href=/note/media/work/film/happening         >The Happening
-<tr><th data-year=2010><td class=img><img src=/static/image/film/devil.jpg             ><td><a class=new href=/note/media/work/film/devil             >Devil
-<tr><th data-year=2013><td class=img><img src=/static/image/film/after-earth.jpg       ><td><a class=new href=/note/media/work/film/after-earth       >After Earth
-<tr><th data-year=2015><td class=img><img src=/static/image/film/visit.jpg             ><td><a class=new href=/note/media/work/film/visit             >The Visit
-<tr><th data-year=2016><td class=img><img src=/static/image/film/split.jpg             ><td><a           href=/note/media/work/film/split             >Split
-<tr><th data-year=2019><td class=img><img src=/static/image/film/glass.jpg             ><td><a           href=/note/media/work/film/glass             >Glass
-<tr><th data-year=2021><td class=img><img src=/static/image/film/old.jpg               ><td><a class=new href=/note/media/work/film/old               >Old
-<tr><th data-year=2023><td class=img><img src=/static/image/film/knock-at-the-cabin.jpg><td><a class=new href=/note/media/work/film/knock-at-the-cabin>Knock at the Cabin
-<tr><th data-year=Trap><td class=img><img src=/static/image/film/trap.jpg              ><td><a class=new href=/note/media/work/film/trap              >Trap
+<tr><th data-year=1992><td class=img><img src=/static/image/media/film/praying-with-anger.jpg><td>Praying with Anger (Student film)
+<tr><th data-year=1998><td class=img><img src=/static/image/media/film/wide-awake.jpg        ><td>Wide Awake
+<tr><th data-year=1999><td class=img><img src=/static/image/media/film/sixth-sense.jpg       ><td><a class=new href=/note/media/work/film/sixth-sense       >The Sixth Sense
+<tr><th data-year=2000><td class=img><img src=/static/image/media/film/unbreakable.jpg       ><td><a           href=/note/media/work/film/unbreakable       >Unbreakable
+<tr><th data-year=2002><td class=img><img src=/static/image/media/film/signs.jpg             ><td><a class=new href=/note/media/work/film/signs             >Signs
+<tr><th data-year=2004><td class=img><img src=/static/image/media/film/village.jpg           ><td><a class=new href=/note/media/work/film/village           >The Village
+<tr><th data-year=2006><td class=img><img src=/static/image/media/film/lady-in-the-water.jpg ><td><a class=new href=/note/media/work/film/lady-in-the-water >Lady in the Water
+<tr><th data-year=2008><td class=img><img src=/static/image/media/film/happening.jpg         ><td><a class=new href=/note/media/work/film/happening         >The Happening
+<tr><th data-year=2010><td class=img><img src=/static/image/media/film/devil.jpg             ><td><a class=new href=/note/media/work/film/devil             >Devil
+<tr><th data-year=2013><td class=img><img src=/static/image/media/film/after-earth.jpg       ><td><a class=new href=/note/media/work/film/after-earth       >After Earth
+<tr><th data-year=2015><td class=img><img src=/static/image/media/film/visit.jpg             ><td><a class=new href=/note/media/work/film/visit             >The Visit
+<tr><th data-year=2016><td class=img><img src=/static/image/media/film/split.jpg             ><td><a           href=/note/media/work/film/split             >Split
+<tr><th data-year=2019><td class=img><img src=/static/image/media/film/glass.jpg             ><td><a           href=/note/media/work/film/glass             >Glass
+<tr><th data-year=2021><td class=img><img src=/static/image/media/film/old.jpg               ><td><a class=new href=/note/media/work/film/old               >Old
+<tr><th data-year=2023><td class=img><img src=/static/image/media/film/knock-at-the-cabin.jpg><td><a class=new href=/note/media/work/film/knock-at-the-cabin>Knock at the Cabin
+<tr><th data-year=Trap><td class=img><img src=/static/image/media/film/trap.jpg              ><td><a class=new href=/note/media/work/film/trap              >Trap
 </table>
 
 ## TV

@@ -1,6 +1,6 @@
 # Event Horizon (film)
 
-<img src=/static/image/film/event-horizon.jpg>
+<img src=/static/image/media/film/event-horizon.jpg>
 
 - 1997-08-15
 - [Event Horizon (franchise)](/note/media/franchise/paramount/event-horizon)

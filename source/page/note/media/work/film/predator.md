@@ -1,6 +1,6 @@
 # Predator (film)
 
-<img src=/static/image/film/predator.jpg>
+<img src=/static/image/media/film/predator.jpg>
 
 - 1987-06-12
 - [Predator (franchise) ](/note/media/franchise/fox/predator)

@@ -1,6 +1,6 @@
 # Timecop (film)
 
-<img src=/static/image/film/timecop.jpg>
+<img src=/static/image/media/film/timecop.jpg>
 
 - 1994-09-16
 - [Timecop (franchise)](/note/media/franchise/universal/timecop)

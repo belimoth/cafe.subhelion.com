@@ -1,6 +1,6 @@
 # Total Recall (film)
 
-<img src=/static/image/film/total-recall.jpg>
+<img src=/static/image/media/film/total-recall.jpg>
 
 - 1990-06-01
 - [Total Recall (franchise)](/note/media/franchise/various/total-recall)

@@ -15,12 +15,12 @@
 ## Films
 
 <table>
-<tr><th data-year=1994><td class=img><img src=/static/image/film/timecop.jpg  ><td><a class=new href=/note/media/work/film/timecop  >Timecop</a>
-<tr><th data-year=2003><td class=img><img src=/static/image/film/timecop-2.jpg><td><a class=new href=/note/media/work/film/timecop-2>Timecop 2: The Berlin Decision</a>
+<tr><th data-year=1994><td class=img><img src=/static/image/media/film/timecop.jpg  ><td><a class=new href=/note/media/work/film/timecop  >Timecop</a>
+<tr><th data-year=2003><td class=img><img src=/static/image/media/film/timecop-2.jpg><td><a class=new href=/note/media/work/film/timecop-2>Timecop 2: The Berlin Decision</a>
 </table>
 
 ## TV
 
 <table>
-<tr><th data-year=1997><td class=img><img src=/static/image/tv/timecop.jpg><td><a class=new href=/note/media/work/rv/timecop>Timecop</a>
+<tr><th data-year=1997><td class=img><img src=/static/image/media/tv/timecop.jpg><td><a class=new href=/note/media/work/rv/timecop>Timecop</a>
 </table>

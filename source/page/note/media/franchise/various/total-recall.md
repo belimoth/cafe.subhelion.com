@@ -9,8 +9,8 @@
 ## Films
 
 <table>
-<tr><th data-year=1990><td class=img><a href=/note/media/work/film/total-recall     ><img src=/static/image/film/total-recall.jpg     ></a><td><a href=/note/media/work/film/total-recall>Total Recall</a>
-<tr><th data-year=2012><td class=img><a href=/note/media/work/film/total-recall-2012><img src=/static/image/film/total-recall-2012.jpg></a><td><a href=/note/media/work/film/total-recall-2012>Total Recall (2012)</a>
+<tr><th data-year=1990><td class=img><a href=/note/media/work/film/total-recall     ><img src=/static/image/media/film/total-recall.jpg     ></a><td><a href=/note/media/work/film/total-recall>Total Recall</a>
+<tr><th data-year=2012><td class=img><a href=/note/media/work/film/total-recall-2012><img src=/static/image/media/film/total-recall-2012.jpg></a><td><a href=/note/media/work/film/total-recall-2012>Total Recall (2012)</a>
 </table>
 
 ## TV

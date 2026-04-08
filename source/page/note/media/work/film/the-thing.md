@@ -1,6 +1,6 @@
 # The Thing (film)
 
-<img src=/static/image/film/thing.jpg>
+<img src=/static/image/media/film/thing.jpg>
 
 - 1982-05-25
 - [The Thing (franchise)](/note/media/franchise/universal/the-thing)

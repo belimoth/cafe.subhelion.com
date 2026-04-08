@@ -1,6 +1,6 @@
 # Alien
 
-<img src=/static/image/film/alien.jpg>
+<img src=/static/image/media/film/alien.jpg>
 
 - 1979-05-25
 - [Alien (franchise)  ](/note/media/franchise/fox/alien)

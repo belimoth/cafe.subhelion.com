@@ -1,6 +1,6 @@
 # Predator 2 (film)
 
-<img src=/static/image/film/predator-2.jpg>
+<img src=/static/image/media/film/predator-2.jpg>
 
 - 1990-11-21
 - [Predator (franchise)](/note/media/franchise/fox/predator)

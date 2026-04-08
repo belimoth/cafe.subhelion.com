@@ -1,6 +1,6 @@
 # Bram Stoker's Dracula (film)
 
-<img src=/static/image/film/dracula-1992.jpg>
+<img src=/static/image/media/film/dracula-1992.jpg>
 
 - 1992-11-13
 

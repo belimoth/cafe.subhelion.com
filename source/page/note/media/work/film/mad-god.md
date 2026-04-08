@@ -1,6 +1,6 @@
 # Mad God
 
-<img src=/static/image/film/mad-god.jpg>
+<img src=/static/image/media/film/mad-god.jpg>
 
 - 2021-08-05
 

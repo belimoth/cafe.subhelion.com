@@ -1,6 +1,6 @@
 # Prometheus (film)
 
-<img src=/static/image/film/prometheus.jpg>
+<img src=/static/image/media/film/prometheus.jpg>
 
 - 2012-03-31
 - [Alien (franchise)](/note/media/franchise/fox/alien)

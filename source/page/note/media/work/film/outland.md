@@ -1,6 +1,6 @@
 # Outland (film)
 
-<img src=/static/image/film/outland.jpg>
+<img src=/static/image/media/film/outland.jpg>
 
 - 1981-05-22
 
@@ -20,7 +20,7 @@
 ## Source material
 
 <table>
-<tr><th data-year=1952><td class=img><img src=/static/image/film/high-noon-1952.jpg><td><a class=new>High Noon (1952)</a>
+<tr><th data-year=1952><td class=img><img src=/static/image/media/film/high-noon-1952.jpg><td><a class=new>High Noon (1952)</a>
 </table>
 
 ## Adaptations

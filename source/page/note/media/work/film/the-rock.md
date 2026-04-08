@@ -1,6 +1,6 @@
 # The Rock (film)
 
-<img src=/static/image/film/the-rock.jpg>
+<img src=/static/image/media/film/the-rock.jpg>
 
 - 1996-06-07
 
