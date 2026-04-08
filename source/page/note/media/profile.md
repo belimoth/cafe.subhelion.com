@@ -7,6 +7,7 @@ Profile
 
 # Profile
 
+<li data-life="1890 -- 1976"><a href=/note/media/profile/fritz-lang           >Fritz Lang</a>
 <li data-life="1899 -- 1980"><a href=/note/media/profile/alfred-hitchcock     >Alfred Hitchcock</a>
 <li data-life="1904 -- 1964"><a href=/note/media/profile/peter-lorre          >Peter Lorre</a>
 <li data-life="1913 -- 1994"><a href=/note/media/profile/peter-cushing        >Peter Cushing</a>
