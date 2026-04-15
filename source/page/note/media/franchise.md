@@ -1,6 +1,15 @@
-# Games
+# Media by franchise
 
-## Games by franchise
+- [Media by franchise (multimedia)](/note/media#franchise)
+- [Media by franchise (anime)     ](/note/media/type/anime#franchise)
+- [Media by franchise (book)      ](/note/media/type/book#franchise)
+- [Media by franchise (comic)     ](/note/media/type/comic#franchise)
+- [Media by franchise (film)      ](/note/media/type/film#franchise)
+- [Media by franchise (game)      ](/note/media/type/game#franchise)
+- [Media by franchise (table)     ](/note/media/type/table#franchise)
+- [Media by franchise (tv)        ](/note/media/type/tv#franchise)
+
+## Media by franchise (all)
 
 ### 20th Century/Fox
 
@@ -55,6 +64,22 @@
 <li data-year=2006><a href=/note/media/franchise/capcom/lost-planet      >Lost Planet</a>
 </ul>
 
+### [Dark Horse Comics](/note/media/franchise/dark-horse)
+
+<ul>
+	<li data-year=1989><a href=/note/media/franchise/fox/avp                     >Alien vs Predator</a>
+	<li data-year=1991><a href=/note/media/franchise/dark-horse/sin-city         >Sin City</a>
+	<li data-year=1991><a href=/note/media/franchise/dark-horse/the-mask         >The Mask</a>
+	<li data-year=1992><a href=/note/media/franchise/dark-horse/timecop          >Timecop</a>
+	<li data-year=1992><a href=/note/media/franchise/dark-horse/virus            >Virus</a>
+	<li data-year=1993><a href=/note/media/franchise/dark-horse/hellboy          >Hellboy</a>
+	<li data-year=1995><a href=/note/media/franchise/dark-horse/big-guy-and-rusty>Big Guy and Rusty</a>
+	<li data-year=1998><a href=/note/media/franchise/dark-horse/300              >300</a>
+	<li data-year=2007><a href=/note/media/franchise/dark-horse/umbrella-academy >Umbrella Academy</a>
+	<li data-year=2012><a href=/note/media/franchise/dark-horse/dark-matter      >Dark Matter</a>
+	<li data-year=><a href=/note/media/franchise/dark-horse/></a>
+</ul>
+
 
 ### [D.C. Comics](/note/media/franchise/dc)
 
@@ -66,7 +91,9 @@
 ### Disney
 
 <ul>
-<li><a href=/note/media/franchise/disney/princess>Disney Princess</a>
+	<li>                                              Disney Animation
+	<li><a href=/note/media/franchise/disney/princess>Disney Princess</a>
+	<li><a href=/note/media/franchise/honey-i-shrunk >Honey I Shrunk</a>
 </ul>
 
 ### HandMade
@@ -84,10 +111,20 @@
 	<li data-year=2011><a href=/note/media/franchise/id/rage       >Rage</a>
 </ul>
 
+### Koei/Omega Force
+
+<ul>
+	<li data-year=1983><a href=/note/media/franchise/koei/nobunagas-ambition>Nobunaga's Ambition</a>
+	<li data-year=1985><a href=/note/media/franchise/koei/rot3k             >Romance of the Three Kingdoms</a>
+	<li data-year=1997><a href=/note/media/franchise/koei/dynasty-warriors  >Dynasty Warriors</a>
+	<li data-year=2004><a href=/note/media/franchise/koei/samurai-warriors  >Samurai Warriors</a>
+	<li data-year=2007><a href=/note/media/franchise/koei/warriors-orochi   >Warriors Orochi</a>
+</ul>
+
 ### Kojima
 
 <ul>
-<li data-year=2019><a href=/note/media/franchise/konami/death-stranding>Death Stranding</a>
+	<li data-year=2019><a href=/note/media/franchise/konami/death-stranding>Death Stranding</a>
 </ul>
 
 ### Konami
@@ -112,13 +149,27 @@
 ### [Malibu Comics](/note/media/franchise/malibu)
 
 <ul>
-	<li data-year=1990><a href=/note/media/franchise/malibu/mib       >Men in Black</a>
+	<li data-year=1990><a href=/note/media/franchise/malibu/mib>Men in Black</a>
+	<li data-year=1993><a href=/note/media/franchise/malibu/ultraverse>Ultraverse</a>
 </ul>
 
 ### [Marvel Comics](/note/media/franchise/marvel)
 
 <ul>
-	<li data-year=1973><a href=/note/media/franchise/marvel/blade>Blade</a>
+	<li data-year=1939><a href=/note/media/franchise/marvel/the-human-torch>The Human Torch</a>
+	<li data-year=1941><a href=/note/media/franchise/marvel/captain-america>Captain America</a>
+	<li data-year=1961><a href=/note/media/franchise/marvel/fantastic-four >Fantastic Four</a>
+	<li data-year=1962><a href=/note/media/franchise/marvel/hulk           >Hulk</a>
+	<li data-year=1962><a href=/note/media/franchise/marvel/spider-man     >Spider-Man</a>
+	<li data-year=1963><a href=/note/media/franchise/marvel/avengers       >Avengers</a>
+	<li data-year=1963><a href=/note/media/franchise/marvel/dr-strange     >Dr. Strange</a>
+	<li data-year=1964><a href=/note/media/franchise/marvel/daredevil      >Daredevil</a>
+	<li data-year=1966><a href=/note/media/franchise/marvel/black-panther  >Black Panther</a>
+	<li data-year=1966><a href=/note/media/franchise/marvel/thor           >Thor</a>
+	<li data-year=1968><a href=/note/media/franchise/marvel/spider-man     >Iron Man</a>
+	<li data-year=1969><a href=/note/media/franchise/marvel/spider-man     >Gaurdians of the Galaxy</a>
+	<li data-year=1973><a href=/note/media/franchise/marvel/blade          >Blade</a>
+	<li data-year=1975><a href=/note/media/franchise/marvel/x-men          >X-Men</a>
 </ul>
 
 ### [Masamune Shirow](/note/media/profile/masamune-shirow)
@@ -141,12 +192,20 @@
 	<li data-year=1962><a href=/note/media/franchise/mgm/james-bond>James Bond</a>
 	<li data-year=1983><a href=/note/media/franchise/mgm/wargames  >WarGames</a>
 	<li data-year=1987><a href=/note/media/franchise/mgm/robocop   >RoboCop</a>
+	<li data-year=1994><a href=/note/media/franchise/mgm/stargate  >RoboCop</a>
 </ul>
 
 ### New Line
 
 <ul>
 	<li><a href=/note/media/franchise/new-line/evil-dead>Evil Dead</a>
+</ul>
+
+### Nickelodeon
+
+<ul>
+	<li><a href=/note/media/franchise/nickelodeon/atla        >Avatar: The Last Airbender</a>
+	<li><a href=/note/media/franchise/nickelodeon/invader-zinm>Invader Zim</a>
 </ul>
 
 ### Nintendo
@@ -239,6 +298,14 @@
 	<li data-year=1998><a href=/note/media/franchise/sunrise/cowboy-bebop>Cowboy Bebop</a>
 </ul>
 
+### Tecmo, Team Ninja
+
+<ul>
+	<li data-year=1986><a href=/note/media/franchise/tecmo/solomons-key>Solomon's Key</a>
+	<li data-year=1988><a href=/note/media/franchise/tecmo/ninja-gaiden>Ninja Gaiden</a>
+	<li data-year=2017><a href=/note/media/franchise/tecmo/nioh        >Nioh</a>
+</ul>
+
 ### Toho
 
 <ul>
@@ -282,72 +349,19 @@
 ### Various
 
 <ul>
+	<li data-year=0000><a href=/note/media/franchise/various/hercules    >Hercules</a>
+	<li data-year=1300><a href=/note/media/franchise/various/robin-hood  >Robin Hood</a>
+	<li data-year=1818><a href=/note/media/franchise/various/frankenstein>Frankenstein</a>
+	<li data-year=1897><a href=/note/media/franchise/various/dracula     >Dracula</a>
 	<li data-year=1937><a href=/note/media/franchise/various/lotr        >Lord of the Rings</a>
+	<li data-year=1950><a href=/note/media/franchise/various/narnia      >Chronicles of Narnia</a>
 	<li data-year=1952><a href=/note/media/franchise/various/james-bond  >James Bond</a>
 	<li data-year=1965><a href=/note/media/franchise/various/dune        >Dune</a>
 	<li data-year=1984><a href=/note/media/franchise/various/terminator  >Terminator</a>
 	<li data-year=1986><a href=/note/media/franchise/various/highlander  >Highlander</a>
+	<li data-year=1989><a href=/note/media/franchise/various/tank-girl   >Tank Girl</a>
 	<li data-year=1990><a href=/note/media/franchise/various/total-recall>Total Recall</a>
-</ul>
-
-## Games by platform
-
-<ul>
-	<li data-life="1972 -- 1983">1st generation consoles
-	<li data-life="1976 -- 1992">2nd generation consoles
-	<li data-life="1980 -- 1990">2nd generation handheld consoles
-		<li>Nintendo Game & Watch
-	<li data-life="1983 -- 2003">3rd generation consoles; "8-bit"
-		<li>Atari 7800 (A7800)
-		<li><a href=/note/media/type/game/platform/nes>Nintendo Entertainment System (NES)</a>
-		<li>Sega Master System (SMS)
-	<li data-life="1987 -- 2004">4th generation consoles; "16-bit"
-		<li>SNK Neo Geo
-		<li>Sega Genesis
-		<li><a href=/note/media/type/game/platform/snes>Super Nintendo Entertainment System (SNES)</a>
-		<li>NEC TurboGrafx-16
-	<li>1989 -- 2003 4th generation handheld consoles
-		<li>Atari Lynx
-		<li>Sega Game Gear
-		<li>NEC TurboExpress
-		<li><a href=/note/media/type/game/platform/gb>Nintendo  (GB)</a>
-	<li data-life="1993 -- 2006">5th generation consoles; "32-bit"
-		<li>3DO
-		<li>Atari Jaguar (AJ)
-		<li>Sega Saturn (SAT)
-		<li><a href=/note/media/type/game/platform/ps1>Sony PlayStation (PS1)</a>
-		<li><a href=/note/media/type/game/platform/n64>Nintendo 64 (N64)</a>
-	<li data-life="1995 -- 2003">5th generation handheld consoles
-		<li>Bandai WonderSwan
-		<li><a href=/note/media/type/game/platform/gbc>Nintendo GameBoy Color (GBC)</a>
-		<li>Sega Genesis Nomad
-		<li>SNK Neo Geo Pocket
-		<li>Tiger Electronics Game.com
-	<li data-life="1998 -- 2013">6th generation consoles
-		<li><a href=/note/media/type/game/platform/gcn>Nintendo GameCube (GCN)</a>
-		<li><a href=/note/media/type/game/platform/dc>Sega Dreamcast (DC)</a>
-		<li><a href=/note/media/type/game/platform/ps2>Sony PlayStation 2 (PS2)</a>
-		<li><a href=/note/media/type/game/platform/xbox>Xbox</a>
-	<li data-life="2000 -- 2010">6th generation handheld consoles
-		<li>Bandai WonderSwan Color
-		<li><a href=/note/media/type/game/platform/gba>Nintendo GameBoy Advance (GBA)</a>
-		<li>Nokia N-Gage
-	<li data-life="2004 -- 2014">7th generation handheld consoles
-		<li><a href=/note/media/type/game/platform/nds>Nintendo DS (NDS)</a>
-		<li><a href=/note/media/type/game/platform/psp>Sony PlayStation Portable (PSP)</a>
-	<li data-life="2005 -- 2017">7th generation consoles
-		<li><a href=/note/media/type/game/platform/wii>Nintendo Wii</a>
-		<li><a href=/note/media/type/game/platform/ps3>Sony PlayStation 3 (PS3)</a>
-		<li><a href=/note/media/type/game/platform/xbox-360>Xbox 360</a>
-	<li data-life="2011 -- 2019">8th generation handheld consoles
-		<li><a href=/note/media/type/game/platform/3ds>Nintendo 3DS</a>
-		<li><a href=/note/media/type/game/platform/vita>Sony PlayStation Vita</a>
-	<li data-life="2012 -- 0000">8th generation consoles
-		<li>Nintendo Wii U
-		<li>Nintendo Switch
-		<li>Sony PlayStation 4
-		<li>Xbox One
-	<li data-life="2020 -- 0000">9th generation consoles
-		<li>Sony PlayStation 5
-		<li>Xbox Series X/S
+	<li data-year=1990><a href=/note/media/franchise/various/twin-peaks  >Twin Peaks</a>
+	<li data-year=1996><a href=/note/media/franchise/various/tomb-raider >Tomb Raider</a>
+	<li data-year=2000><a href=/note/media/franchise/various/unbreakable >Unbreakable</a>
 </ul>

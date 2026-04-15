@@ -1,6 +1,6 @@
 # Predator (franchise)
 
-- [Alien vs. Predator (franchise)   ](/note/media/franchise/fox/alien-vs-predator)
+- [Alien vs. Predator (franchise)   ](/note/media/franchise/fox/avp)
 
 ## Films
 
@@ -36,7 +36,7 @@
 <li data-year=2008><a class=new>Predator: The Duel (Mobile)</a>
 <li data-year=2010><a class=new>Predator or Prey (Web)</a>
 <li data-year=2010><a class=new>Predators (Android, iOS)</a>
-<li data-year=2010><a class=new>Predato	rs (Mobile)</a>
+<li data-year=2010><a class=new>Predators (Mobile)</a>
 <li data-year=2010><a class=new>Predators: The Great Hunt (Mobile)</a>
 <li data-year=2018><a class=new>Predator VR</a>
 <li data-year=2020><a class=new>Predator: Hunting Grounds (PC, PS4)</a>

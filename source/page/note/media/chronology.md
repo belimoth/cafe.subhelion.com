@@ -2,7 +2,7 @@
 ## Combined Science Fiction Franchise Chronology (unofficial)
 
 - [Alien (franchise)             ](/note/media/franchise/fox/alien)
-- [Alien vs. Predator (franchise)](/note/media/franchise/fox/alien-vs-predator)
+- [Alien vs. Predator (franchise)](/note/media/franchise/fox/avp)
 - [Blade Runner (franchise)      ](/note/media/franchise/various/blade-runner)
 - [Firefly (franchise)           ](/note/media/franchise/fox/firefly)
 - [Fortress (film)               ](/note/media/work/film/fortress)

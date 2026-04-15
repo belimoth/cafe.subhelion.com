@@ -7,9 +7,11 @@ Profile
 
 # Profile
 
+<ul>
 <li data-life="1890 -- 1976"><a href=/note/media/profile/fritz-lang           >Fritz Lang</a>
 <li data-life="1899 -- 1980"><a href=/note/media/profile/alfred-hitchcock     >Alfred Hitchcock</a>
 <li data-life="1904 -- 1964"><a href=/note/media/profile/peter-lorre          >Peter Lorre</a>
+<li data-life="1910 -- 1998"><a href=/note/media/profile/akira-kurosawa       >Akira Kurosawa; 黒澤 明</a>
 <li data-life="1913 -- 1994"><a href=/note/media/profile/peter-cushing        >Peter Cushing</a>
 <li data-life="1914 -- 1978"><a href=/note/media/profile/geoffrey-unsworth    >Geoffrey Unsworth</a>
 <li data-life="1916 -- 2003"><a href=/note/media/profile/gregory-peck         >Gregory Peck</a>
@@ -22,19 +24,23 @@ Profile
 <li data-life="1931 -- 2024"><a href=/note/media/profile/james-earl-jones     >James Earl Jones</a>
 <li data-life="1932 -- 1986"><a href=/note/media/profile/andrei-tarkovsky     >Andrei Tarkovsky</a>
 <li data-life="1933 --     "><a href=/note/media/profile/john-boorman         >John Boorman</a>
+<li data-life="1934 -- 2018"><a href=/note/media/profile/harlan-ellison       >Harlan Ellison</a>
 <li data-life="1937 --     "><a href=/note/media/profile/anthony-hopkins      >Anthony Hopkins</a>
 <li data-life="1937 --     "><a href=/note/media/profile/ridley-scott         >Ridley Scott</a>
 <li data-life="1938 --     "><a href=/note/media/profile/paul-verhoeven       >Paul Verhoeven</a>
 <li data-life="1938 --     "><a href=/note/media/profile/ronny-cox            >Ronny Cox</a>
 <li data-life="1938 -- 2012"><a href=/note/media/profile/eiko-ishioka         >Eiko Ishioka; 石岡 瑛子</a>
+<li data-life="1938 -- 2020"><a href=/note/media/profile/nobuhiko-obayashi    >Nobuhiko Obayashi; 大林 宣彦</a>
 <li data-life="1939 --     "><a href=/note/media/profile/francis-ford-coppola >Francis Ford Coppola</a>
 <li data-life="1939 --     "><a href=/note/media/profile/ian-mckellen         >Ian McKellen</a>
 <li data-life="1939 -- 2004"><a href=/note/media/profile/paul-winfield        >Paul Winfield</a>
 <li data-life="1940 --     "><a href=/note/media/profile/patrick-stewart      >Patrick Stewart</a>
 <li data-life="1940 --     "><a href=/note/media/profile/terry-gilliam        >Terry Gilliam</a>
 <li data-life="1940 -- 2014"><a href=/note/media/profile/hr-giger             >H.R. Giger</a>
+<li data-life="1940 -- 2016"><a href=/note/media/profile/andrzej-zulawski     >Andrzej Żuławski</a>
 <li data-life="1940 -- 2017"><a href=/note/media/profile/john-hurt            >John Hurt</a>
 <li data-life="1942 --     "><a href=/note/media/profile/harrison-ford        >Harrison Ford</a>
+<li data-life="1942 --     "><a href=/note/media/profile/werner-herzog        >Werner Herzog</a>
 <li data-life="1942 -- 1976"><a href=/note/media/profile/david-munrow         >David Munrow</a>
 <li data-life="1942 -- 2014"><a href=/note/media/profile/bob-hoskins          >Bob Hoskins</a>
 <li data-life="1943 --     "><a href=/note/media/profile/ben-kingsley         >Ben Kingsley</a>
@@ -49,6 +55,7 @@ Profile
 <li data-life="1946 --     "><a href=/note/media/profile/tommy-lee-jones      >Tommy Lee Jones</a>
 <li data-life="1946 -- 2009"><a href=/note/media/profile/dan-obannon          >Dan O'Bannon</a>
 <li data-life="1946 -- 2016"><a href=/note/media/profile/alan-rickman         >Alan Rickman</a>
+<li data-life="1946 -- 2025"><a href=/note/media/profile/david-lynch          >David Lynch</a>
 <li data-life="1947 --     "><a href=/note/media/profile/arnold-schwarzenegger>Arnold Schwarzenegger</a>
 <li data-life="1947 --     "><a href=/note/media/profile/james-v-hart         >James V. Hart</a>
 <li data-life="1947 --     "><a href=/note/media/profile/sam-neill            >Sam Neill</a>
@@ -62,22 +69,27 @@ Profile
 <li data-life="1950 --     "><a href=/note/media/profile/richard-dean-anderson>Richard Dean Anderson</a>
 <li data-life="1951 --     "><a href=/note/media/profile/john-mctiernan       >John McTiernan</a>
 <li data-life="1951 --     "><a href=/note/media/profile/kurt-russel          >Kurt Russel</a>
+<li data-life="1951 --     "><a href=/note/media/profile/kurt-russell         >Kurt Russell</a>
 <li data-life="1951 --     "><a href=/note/media/profile/mamoru-oshii         >Mamoru Oshii; 押井 守</a>
 <li data-life="1951 --     "><a href=/note/media/profile/mark-hamill          >Mark Hamill</a>
 <li data-life="1951 --     "><a href=/note/media/profile/phil-tippet          >Phil Tippet</a>
+<li data-life="1952 --     "><a href=/note/media/profile/erick-avari          >Erick Avari</a>
 <li data-life="1952 --     "><a href=/note/media/profile/jonathan-frakes      >Jonathan Frakes</a>
 <li data-life="1953 --     "><a href=/note/media/profile/pierce-brosnan       >Pierce Brosnan</a>
 <li data-life="1954 --     "><a href=/note/media/profile/james-cameron        >James Cameron</a>
 <li data-life="1954 --     "><a href=/note/media/profile/katsuhiro-otomo      >Katsuhiro Otomo; 大友 克洋</a>
 <li data-life="1955 --     "><a href=/note/media/profile/bruce-willis         >Bruce Willis</a>
 <li data-life="1955 --     "><a href=/note/media/profile/kevin-mcnulty        >Kevin McNulty</a>
+<li data-life="1955 --     "><a href=/note/media/profile/roland-emmerich      >Roland Emmerich</a>
 <li data-life="1955 --     "><a href=/note/media/profile/william-forsythe     >William Forsythe</a>
 <li data-life="1956 --     "><a href=/note/media/profile/linda-hamilton       >Linda Hamilton</a>
 <li data-life="1956 --     "><a href=/note/media/profile/michael-biehn        >Michael Biehn</a>
+<li data-life="1956 --     "><a href=/note/media/profile/richard-kind         >Richard Kind</a>
 <li data-life="1956 -- 2016"><a href=/note/media/profile/carrie-fisher        >Carrie Fisher</a>
 <li data-life="1957 --     "><a href=/note/media/profile/christopher-lambert  >Christopher Lambert</a>
 <li data-life="1957 --     "><a href=/note/media/profile/cynthia-rothrock     >Cynthia Rothrock</a>
 <li data-life="1957 --     "><a href=/note/media/profile/levar-burton         >LeVar Burton</a>
+<li data-life="1957 --     "><a href=/note/media/profile/patrick-tatopoulos   >Patrick Tatopoulos</a>
 <li data-life="1958 --     "><a href=/note/media/profile/gary-oldman          >Gary Oldman</a>
 <li data-life="1958 --     "><a href=/note/media/profile/gregory-widen        >Gregory Widen</a>
 <li data-life="1958 --     "><a href=/note/media/profile/sharon-stone         >Sharon Stone</a>
@@ -87,6 +99,7 @@ Profile
 <li data-life="1959 --     "><a href=/note/media/profile/koji-morimoto        >Koji Morimoto; 森本晃司</a>
 <li data-life="1959 --     "><a href=/note/media/profile/sam-raimi            >Sam Raimi</a>
 <li data-life="1959 --     "><a href=/note/media/profile/vincent-donofrio     >Vincent D'Onofrio</a>
+<li data-life="1960 --     "><a href=/note/media/profile/james-spader         >James Spader</a>
 <li data-life="1960 --     "><a href=/note/media/profile/jcvd                 >Jean-Claude Van Damme</a>
 <li data-life="1961 --     "><a href=/note/media/profile/laurence-fishburne   >Laurence Fishburne</a>
 <li data-life="1961 --     "><a href=/note/media/profile/masamune-shirow      >Masamune Shirow; 士郎 正宗</a>
@@ -97,9 +110,11 @@ Profile
 <li data-life="1963 --     "><a href=/note/media/profile/hideo-kojima         >Hideo Kojima</a>
 <li data-life="1963 --     "><a href=/note/media/profile/yoko-kanno           >Yoko Kanno; 菅野 よう子</a>
 <li data-life="1963 -- 2010"><a href=/note/media/profile/satoshi-kon          >Satoshi Kon; 今 敏</a>
+<li data-life="1964 --     "><a href=/note/media/profile/djimon-hounsou       >Djimon Hounsou</a>
 <li data-life="1964 --     "><a href=/note/media/profile/gloria-reuben        >Gloria Reuben</a>
 <li data-life="1964 --     "><a href=/note/media/profile/keanu-reeves         >Keanu Reeves</a>
 <li data-life="1964 --     "><a href=/note/media/profile/nicolas-cage         >Nicolas Cage</a>
+<li data-life="1965 --     "><a href=/note/media/profile/keiji-inafune        >Keiji Inafune; 稲船 敬二</a>
 <li data-life="1965 --     "><a href=/note/media/profile/masaaki-yuasa        >Masaaki Yuasa; 湯浅 政明</a>
 <li data-life="1965 --     "><a href=/note/media/profile/michael-bay          >Michael Bay</a>
 <li data-life="1965 --     "><a href=/note/media/profile/paul-ws-anderson     >Paul W.S. Anderson</a>

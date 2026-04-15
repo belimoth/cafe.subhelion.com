@@ -1,6 +1,6 @@
 # Alien (franchise)
 
-- [Alien vs. Predator (franchise)   ](/note/media/franchise/fox/alien-vs-predator)
+- [Alien vs. Predator (franchise)   ](/note/media/franchise/fox/avp)
 
 ## Films, TV, Anime
 
