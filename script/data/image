@@ -1,0 +1,12 @@
+#!/bin/bash
+
+resize_one() {
+	name=$( echo $1 | sed "s|/a/local/data/media||" )
+	echo $name
+	mkdir --parents $( dirname /a/source/static/image/media/$name )
+	magick /a/local/data/media/$name -resize 160x240 -background black -gravity center -extent 160x240 /a/source/static/image/media/$name
+}
+
+export -f resize_one
+
+find /a/local/data -name "*.jpg" -exec bash -c 'resize_one {}' \;

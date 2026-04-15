@@ -613,7 +613,7 @@ ul > li[data-year]::before {
 
 
 
-/* table td.img img[src^="/static/image/youtube"] {
+/* table td.img img[src^="/image/youtube"] {
 	width: 60px;
 	height: 45px;
 	display: inline;

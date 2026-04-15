@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "A:",
+			"path": "."
+		},
+		{
+			"name": "media",
+			"path": "local/data/media"
+		},
+		{
+			"name": "media",
+			"path": "source/page/note/media"
+		}
+	],
+	"settings": {}
+}
