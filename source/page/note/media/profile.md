@@ -68,7 +68,6 @@ Profile
 <li data-life="1950 --     "><a href=/note/media/profile/michael-ironside     >Michael Ironside</a>
 <li data-life="1950 --     "><a href=/note/media/profile/richard-dean-anderson>Richard Dean Anderson</a>
 <li data-life="1951 --     "><a href=/note/media/profile/john-mctiernan       >John McTiernan</a>
-<li data-life="1951 --     "><a href=/note/media/profile/kurt-russel          >Kurt Russel</a>
 <li data-life="1951 --     "><a href=/note/media/profile/kurt-russell         >Kurt Russell</a>
 <li data-life="1951 --     "><a href=/note/media/profile/mamoru-oshii         >Mamoru Oshii; 押井 守</a>
 <li data-life="1951 --     "><a href=/note/media/profile/mark-hamill          >Mark Hamill</a>
@@ -76,6 +75,7 @@ Profile
 <li data-life="1952 --     "><a href=/note/media/profile/erick-avari          >Erick Avari</a>
 <li data-life="1952 --     "><a href=/note/media/profile/jonathan-frakes      >Jonathan Frakes</a>
 <li data-life="1953 --     "><a href=/note/media/profile/pierce-brosnan       >Pierce Brosnan</a>
+<li data-life="1953 -- 2025"><a href=/note/media/profile/tcheky-karyo         >Tchéky Karyo </a>
 <li data-life="1954 --     "><a href=/note/media/profile/james-cameron        >James Cameron</a>
 <li data-life="1954 --     "><a href=/note/media/profile/katsuhiro-otomo      >Katsuhiro Otomo; 大友 克洋</a>
 <li data-life="1955 --     "><a href=/note/media/profile/bruce-willis         >Bruce Willis</a>
@@ -119,6 +119,7 @@ Profile
 <li data-life="1965 --     "><a href=/note/media/profile/michael-bay          >Michael Bay</a>
 <li data-life="1965 --     "><a href=/note/media/profile/paul-ws-anderson     >Paul W.S. Anderson</a>
 <li data-life="1965 --     "><a href=/note/media/profile/steve-bacic          >Steve Bacic</a>
+<li data-life="1966 --     "><a href=/note/media/profile/sophie-marceau       >Sophie Marceau</a>
 <li data-life="1967 --     "><a href=/note/media/profile/mia-sara             >Mia Sara</a>
 <li data-life="1967 --     "><a href=/note/media/profile/vin-diesel           >Vin Diesel</a>
 <li data-life="1968 --     "><a href=/note/media/profile/daniel-craig         >Daniel Craig</a>
