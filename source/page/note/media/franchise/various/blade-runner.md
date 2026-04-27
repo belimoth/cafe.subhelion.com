@@ -3,7 +3,7 @@
 ## Source material
 
 <ul>
-<li data-year=1968><a href=/note/fiction/profile/philip-k-dick>Philip K. Dick</a> - <a class=new>Do Androids Dream of Electric Sheep? (novel)</a>
+<li data-year=1968><a href=/note/media/profile/philip-k-dick>Philip K. Dick</a> - <a class=new>Do Androids Dream of Electric Sheep? (novel)</a>
 </ul>
 
 ## Films

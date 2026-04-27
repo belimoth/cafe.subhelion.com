@@ -3,7 +3,7 @@
 ## Source material
 
 <ul>
-<li data-year=1966><a href=/note/fiction/profile/philip-k-dick>Philip K. Dick</a> - "We Can Remember It for You Wholesale" (novella)
+<li data-year=1966><a href=/note/media/profile/philip-k-dick>Philip K. Dick</a> - "We Can Remember It for You Wholesale" (novella)
 </ul>
 
 ## Films

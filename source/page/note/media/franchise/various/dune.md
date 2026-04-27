@@ -1,8 +1,8 @@
 # Dune (franchise)
 
-<li data-life="1920 -- 1986"><a           href=/note/fiction/profile/frank-herbert>Frank Herbert</a>
-<li data-life="1947 --     "><a class=new href=/note/fiction/profile/brian-herbert>Brian Herbert</a>
-<li data-life="1962 --     "><a class=new href=/note/fiction/profile/brian-herbert>Kevin J. Anderson</a>
+<li data-life="1920 -- 1986"><a           href=/note/media/profile/frank-herbert>Frank Herbert</a>
+<li data-life="1947 --     "><a class=new href=/note/media/profile/brian-herbert>Brian Herbert</a>
+<li data-life="1962 --     "><a class=new href=/note/media/profile/brian-herbert>Kevin J. Anderson</a>
 
 
 --
@@ -11,7 +11,7 @@
 - [TVTropes ](https://tvtropes.org/pmwiki/pmwiki.php/Franchise/Dune)
 - [Wikipedia](https://en.wikipedia.org/wiki/Dune_(franchise))
 
-## Novels ([Frank Herbert](/note/fiction/profile/frank-herbert))
+## Novels ([Frank Herbert](/note/media/profile/frank-herbert))
 
 Dune: Serial publication: Analog, December 1963 – February 1964 (Part I, as "Dune World"), and January – May 1965 (Parts II and III, as "The Prophet of Dune"). First edition: Philadelphia: Chilton Books, 1965.
 Dune Messiah: Serial publication: Galaxy, July – November 1969. First edition: New York: G.P. Putnam's Sons, 1969.

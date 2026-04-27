@@ -297,3 +297,6 @@ format = novel
 # Critical studies and reviews of Lindskold's work
 
 # De Lint, Charles (Jul 2000). "[Review of Legends Walking]". Books to Look For. F&SF. 99 (1): 27–31.
+# Jane Lindskold
+
+- 1962 --     
