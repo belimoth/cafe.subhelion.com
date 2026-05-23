@@ -2,8 +2,6 @@
 
 # Fiction
 
---
-
 ## Notes
 
 ### 2024-02-13 speculative fiction timeline
@@ -584,3 +582,416 @@
 | 2010 | deepwater horizon oil spill                                    |                                                                                              |
 |------|----------------------------------------------------------------|----------------------------------------------------------------------------------------------|
 | 2011 | --                                                             | the thing (film)                                                                             |
+
+### wip speculative fiction topics
+
+<ul>
+<li data-year=0000>Spirits, Spirit
+<li data-year=0000>Deities, Deity, Gods, God
+<li data-year=0000>Animism
+<li data-year=0000>Magic
+<li data-year=0000>Witchcraft, Witches, Witch
+<li data-year=0000>Monster > Giants, Giant
+<li data-year=0000>Monster > Dragons, Dragon
+<li data-year=0000>Monster > Demons, Demon
+<li data-year=0000>Afterlife
+<li data-year=0000>Afterlife > Resurrection
+<li data-year=0000>Afterlife > Immortality
+<li data-year=0000>Afterlife > Reincarnation
+<li data-year=0000>Afterlife > Underworld
+<li data-year=0000>Afterlife > Psychopomps, Psychopomp
+<li data-year=0000>Necromancy, Nekya, Mediumship, Mediums, Medium
+<li data-year=0000>Divine Council
+<li data-year-kya="  10">Deluge
+<li data-year-bce=" 650">Automaton
+<li data-year-bce=" 600">Apocalypse
+<li data-year-bce=" 300">Forward Time Travel
+<li data-year-ce=1728>Android
+<li data-year-ce=1733><a href=/note/fiction/time-travel >Backward Time Travel</a>
+<li data-year-ce=1842><a href=/note/fiction/dinosaurs   >Monster > Dinosaurs, Dinosaur</a>
+<li data-year-ce=1865><a href=/note/fiction/space-travel>Space Travel</a>
+<li data-year-ce=1897><a href=/note/fiction/dracula     >Dracula</a>
+<li data-year-ce=1898><a href=/note/fiction/robots      >Robot</a>
+<li data-year-ce=1960>Cyborg
+<li data-year-ce=1977>Droid
+<li data-year-ce=1982><a href=/note/fiction/cyberspace  >Cyberspace</a>
+</ul>
+
+### wip geohistory quick reference
+
+<ul>
+<li data-year-gya=" 4.5">Gaia and Theia collide to form Terra and Luna
+<li data-year-gya=" 4.1">Life
+<li data-year-gya=" 3.9">Prokaryotic life; bacteria
+<li data-year-gya=" 2.2">Eukaryotic life; algae, protists
+<li data-year-gya=" 1.1">Fungi
+<li data-year-mya=" 992">Plants
+<li data-year-mya=" 751">
+<li data-year-kya=" 300"><i>Homo sapiens</i>
+</ul>
+
+
+### Life
+
+<pre style="margin-left: -9ch;">
+  4100 MYA |[ Life ]
+           |- Acytota; acellular life
+           |[ Cytota; cellular life; LUCA ]
+           |  ...
+  3900 MYA |[ Prokaryota ]
+           |--> Bacteria; Monera
+  2200 MYA |[ Eukaryota ]
+           |--> Diphoda; Bikonta; Chromista, Archaeplastida; algae, kelp, plants
+           |[ Opimoda / Unikonta ]
+           |  ...
+  1500 MYA |[ Amorphea ]
+  1400 MYA |--> Amoebozoa; amoebas, slime molds, etc
+  1275 MYA |[ Ophisthokonta ]
+  1100 MYA |--> Holomycota; Fungi; funguses, fungi; molds, mushrooms, yeasts
+   960 MYA |[ Holozoa; Filozoa; Choanozoa ]
+           |- Choanoflagellata; choanoflagellates
+   758 MYA |[ Metazoa; Animalia; multicellular animals ]
+           |--> Porifera; poriferans; sponges
+   743 MYA |[ Eumetazoa ]
+           |--> Ctenophora; Radiata 1; ctenophorans; comb jellies
+           |--> Cnidaria; Radiata 2; jellyfish, hydra, sea anemones, corals
+   708 MYA |[ Bilateria; bilaterians; bilateral animals ]
+           |- Protostomia; protostomes
+        663 MYA |- Ecdysozoa; ecdysozoans
+           |    |    |- Nematozoa; Nematoda; nematodes; round worms
+           | 569 MYA |[ Panarthropoda ]
+           | 611 MYA |--> Tardigrada; tardigrades; water bears
+           |    |    |--> Onychophora; velvet worms
+           | 563 MYA |[ Arthropoda-> arthropods ]
+           |    |    |- † Trilobita; trilobites
+           | 559 MYA |--> Chelicerata; chelicerates
+           | 555 MYA |[ Mandibulata; mandibulates; mandibulate arthropods ]
+           |    |    |--> Myriapoda;  myriapods; centipedes, millipedes, etc
+           | 518 MYA |[ Pancrustacea; Tetraconata ]
+           | 514 MYA |--> Oligostraca; crustacea 1; Ostracoda; seed shrimp, etc
+           | 498 MYA |- * Multicrustacea; crustacea 2
+           | 437 MYA |--> Branchiopoda; branchiopods; crustacea 3; fairy shrimp, clam shrimp, water fleas, etc
+           | 459 MYA |- * Hexapoda; hexapods
+        649 MYA |[ Spiralia ]                                          --
+           |    |--> Rotifera; rotifers; wheel animals
+        550 MYA |[ Lophoctrozoa ]
+           |    |--> Parenchymia; Platyhelminthes, Nemertea; flatworms, ribbon worms
+           |    |- Lophophorata
+           |    |    |- Brachiozoa; Brachiozoans
+           |    |    |    |- Phoronida; phoronids; horseshoe worms
+           |    |    |    |- Brachiopoda; brachiopods
+           |    |    |--> Bryozoa; bryozoans; moss animals
+        543 MYA |    |[ Mollusca; molluscs ]
+           | 514 MYA |--> Bivalvia; bivalves; clams, oysters, cockles, mussels, scallops, etc
+           |    |    |[ Conchifera ]
+           | 476 MYA |--> Gastropoda; gastropods; snails, slugs, semi-slugs, limpets, nudibranchs
+           | 415 MYA |--> Cephalopoda; cephalopods; squid, octopus, cuttlefish, nautilus
+           |    |--> Annelida; annelids; segmented worms
+   692 MYA |[ Deuterostomia; deuterostomes ]
+           |--> Ambulacraria; Coelomopora; ambulacrarians
+   588 MYA |[ Chordata; chordates ]
+           |--> Cephalochordata; lancelets
+           |[ Olfactores ]
+           |--> Tunicata; Urochordata; tunicates
+   563 MYA |[ Vertebrata; Craniata; vertebrates ]
+           |--> Monorhina; Cyclostomi; Agnatha 1; agnathans; jawless fish; hagfish, lampreys
+           |[ Amphirhina ]
+           |- † Osteostraci; Agnatha 2; ostracoderms
+   462 MYA |[ Gnathostomata; jawed fish ]
+           |- † Extinct jawed fish; Placodermi; placoderms
+           |[ Eugnathostomata ]
+           |--> Acanthodii; Teleostomi 1; acanthodians; spiny sharks; stem cartilaginous fish
+   429 MYA |[ Osteichthyes; Teleostomi 2; Euteleostomi; bony fish; bony vertebrates ]
+           |--> Actinopterygii; ray-finned fish
+   415 MYA |[ Sarcopterygii; lobe-finned fish ]
+           |--> Actinistia;  coelacanths
+   408 MYA |[ Rhipidistia / Dipnotetrapodomorpha ]
+           |--> Dipnomorpha; Dipnoi; lungfish
+   352 MYA |[ Tetrapoda; tetrapods ]
+           |--> Amphibia; Batrachomorpha; Lissamphibia; amphibians; modern amphibians
+   319 MYA |[ Amniota; amniotes ]
+           |- Sauropsida; Reptilia sl; sauropsids; reptiles
+           |    |- † extinct reptiles
+        280 mya |[ Sauria; Reptilia ss; saurians; extant reptiles ]
+        261 mya |- Archelosauria; Archosauromorpha sl; archelosaurs
+        244 mya |- Lepidosauria; Lepidosauromorpha; lepidosaurs
+
+
+ 261 mya |[ Archelosauria ]                                     archelosaurs
+         |- * Pantestudines                                     --
+         |[ Archosauromorpha ]                                  --
+         |- † etc                                             † --
+         |[ Crocopoda ]                                         --
+         |- † etc                                             † --
+         |[ Archosauriformes ]                                  --
+         |- † etc                                             † --
+         |[ Eucrocopoda ]                                       --
+         |- † etc                                             † --
+         [ Crurotarsi ]                                         --
+         |- † Phytosauria                                     † --
+ 245 mya |[ Archosauria; archosaurs ]
+         |- * Pseudosuchia                                      pseudosuchians; crocodilian-line archosaurs
+         |[ Avemetatarsalia; bird-line archosaurs ]
+         |- † Aphanosauria                                    † --
+         |[ Ornithodira ]                                       --
+         |- † Pterosauromorpha / Pterosauria                  † --
+         |[ Dinosauromorpha / Dinosauria ]                      --
+         |- † Ornithischia; bird-hipped dinosaurs
+         |[ Saurischia; lizard-hipped dinosaurs ]
+         |- † Sauropodomorpha                                 † --
+ 231 mya |[ Theropoda ]                                         theropods
+         |- † extinct theropods
+ 108 mya |[ Aves; birds ]
+  65 mya |- * Palaeognathae                                  59 paleognaths
+  91 mya |[ Neognatha ]                                  10,000 neognaths
+  83 mya |- * Galloanserae                                      fowl
+         |[ Neoaves ]                                           --
+         |- * Mirandornithes                                 26 grebes, flamingos
+         |[ unnamed ]                                           --
+         |- * Columbaves                                        --
+         |[ Passerea ]                                          --
+         |- * Elementaves                                       --
+         |[ Telluraves ]                                        land birds
+         |- * Afroaves                                          --
+         |- * Australaves                                       --
+
+
+
+ 244 mya |[ Lepidosauromorpha / Lepidosauria ]                  lepidosaurs
+         |- * Rhynchocephalia                                   tuataras
+ 189 mya |[ Squamata; squamates; scaled reptiles; lizards, snakes ]
+         |- * Dibamia                                        24 blind skinks
+         |[ Bifurcata ]                                         --
+         |- * Gekkota                                         * geckos
+ 174 mya |[ Unidentata ]                                        --
+         |- * Scinciformata                                   * --
+ 167 mya |[ Episquamata ]                                       --
+         |- * Laterata                                        * --
+ 161 mya |[ Toxicofera; toxic squamates; toxic scaled reptiles ]
+         |- † Mosasauria                                      † mosasaurians
+ 146 mya |--> Iguania; Iguanomorpha; iguanians; iguanomorphs; iguanomorph lizards
+ 131 mya |- * Ophidia / Panserpentes / Serpentes              * snakes
+ 119 mya |--> Anguimorpha; anguimorphs; anguimorph lizards;
+
+
+           |[ Synapsida; synapsids ]
+           |- † Extinct synapsids; therapsids, gorgonopsids, cynodonts, gomphodonts, etc
+   180 MYA |[ Mammalia; mammals ]
+           |- † Extinct mammals; Mesonychidae; mesonychids; mexonyx, sinonyx, synoplotherium, etc
+           |- Monotremata; Yinotheria; echidnas and platypus
+   160 MYA |[ Theria ]
+           |- Metatheria; Marsupialia; metatherians; marsupials
+    99 MYA |[ Eutheria; Placentalia; eutherians; placental mammals ]
+           |- Atlantogenata
+         80 MYA |- Afrotheria
+           |    |    |--> Afroinsectiphilia; aardvark, sengis, tenrecs, otter shrew, golden moles
+           |    |    |[ Paenungulatomorpha; Paenungulata ]
+           |  53 MYA |--> Hyracoidea; hyraxes; dassies
+           |    |    |[ Tethytheria; tethytheres ]
+           |    |    |- † Extinct tethytheres; desmostylians, embrithopods, etc
+           |  32 MYA |--> Sirenia; sirenians; sea cows; dugongs, manatees
+           |  26 MYA |--> Proboscidea; Elephantinae; Loxodonta; elephants
+         68 MYA |[ Xenartha ]
+           |    |--> Cingulata; cingulates; armadillos
+         57 MYA |[ Pilosa ]
+         40 MYA |--> Vermilingua; anteaters
+         28 MYA |--> Folivora; sloths
+    94 MYA |[ Boreoeutheria ]
+           |--> Laurasiatheria
+         80 mya |--> Eulipotyphla; remnant insectivora; solenodons, talpids, shrews
+           |    |[ Scrotifera ]
+           |    |--> Chiroptera; bats
+           |    |[ Fereuungulata ]
+           |    |- * Ferae
+           |    |[ Euungulata; ungulates ]
+         64 mya |- * Artiodactyla                                  338 even-toed ungulates
+         55 mya |- * Perissodactyla                                 17 odd-toed ungulates
+    87 MYA |[ Euarchontoglires ]
+    79 MYA |- Glires
+         70 MYA |--> Rodentia; rodents
+         51 MYA |--> Lagomorpha; lagomorphs; rabbits, hares, pikas
+           |[ Euarchonta ]
+           |--> Scandentia; scandentians; treeshrews
+           |[ Primatomorpha ]
+           |--> Dermoptera; colugos
+    74 MYA |[ Primates; primates; lemurs, monkeys, apes ]
+           |--> Strepsirhini; Lemuriformes; strepsirrhines; wet-nosed primates; non-tarsier primates
+    69 MYA |[ Haplorhini; haplorhines; dry-nosed primates ]
+    22 MYA |--> Tarsiiformes; Tarsioidea; Tarsiidae; tarsiers
+    43 MYA |[ Simiiformes; anthropoids; higher primates; simians ]
+           |--> Platyrrhini; new-world monkeys
+    29 MYA |[ Catarrhini; old-world monkeys, apes ]
+           |--> Cercopithecoidea; old-world monkeys
+    19 MYA |[ Hominoidea; hominoids; apes ]
+           |--> Hylobatidae; lesser apes; gibbons
+    15 MYA |[ Hominidae; hominids; great apes ]
+           |--> Ponginae; orangutans
+     9 MYA |[ Homininae ]
+           |--> Gorillini; Gorilla; gorillas
+           |[ Hominini ]
+     2 MYA |--> Panina; Pan; bonobos, chimps
+           |[ Homonina ]
+           | † Australopithecus
+           | † Kenyanthropus
+  2.84 MYA |[ Homo ]
+† 1.78 MYA |- † Homo habilis
+           |- † Homo rudolfensis
+  2.6  MYA |[ Homo erectus sl ]
+† 1.4  MYA |- † Homo ergaster
+           |- † Homo erectus ss
+           |[ unnamed ]
+† 0.77 MYA |- † Homo antecessor
+† 0.33 MYA |- † Homo naledi
+           |[ Homo heidelbergensis sl ]
+† 0.15 MYA |- † Homo heidelbergensis ss
+† 0.05 MYA |- † Homo denisova; denisovans
+† 0.04 MYA |- † Homo neanderthalensis; neanderthals
+           |- • Homo sapiens; humans / modern humans (domesticated)
+</pre>
+
+
+### Life
+
+<pre style="overflow-x: scroll; position: absolute; left: 0; width: 100vw;">
+4100 MYA |[ Life ]
+         |- Acytota; acellular life
+         |[ Cytota; cellular life; LUCA ]
+         |  ...
+3900 MYA |[ Prokaryota ]
+         |--> Bacteria; Monera
+2200 MYA |[ Eukaryota ]
+         |--> Diphoda; Bikonta; Chromista, Archaeplastida; algae, kelp, plants
+         |[ Opimoda / Unikonta ]
+         |  ...
+1500 MYA |[ Amorphea ]
+1400 MYA |--> Amoebozoa; amoebas, slime molds, etc
+1275 MYA |[ Ophisthokonta ]
+1100 MYA |--> Holomycota; Fungi; funguses, fungi; molds, mushrooms, yeasts
+ 960 MYA |[ Holozoa; Filozoa; Choanozoa ]
+         |- Choanoflagellata; choanoflagellates
+ 758 MYA |[ Metazoa; Animalia; multicellular animals ]
+         |--> Porifera; poriferans; sponges
+ 743 MYA |[ Eumetazoa ]
+         |--> Ctenophora; Radiata 1; ctenophorans; comb jellies
+         |--> Cnidaria; Radiata 2; jellyfish, hydra, sea anemones, corals
+ 708 MYA |[ Bilateria; bilaterians; bilateral animals ]
+         |- Protostomia; protostomes
+      663 MYA |- Ecdysozoa; ecdysozoans
+         |    |    |- Nematozoa; Nematoda; nematodes; round worms
+         | 569 MYA |[ Panarthropoda ]
+         | 611 MYA |--> Tardigrada; tardigrades; water bears
+         |    |    |--> Onychophora; velvet worms
+         | 563 MYA |[ Arthropoda-> arthropods ]
+         |    |    |- † Trilobita; trilobites
+         | 559 MYA |--> Chelicerata; chelicerates
+         | 555 MYA |[ Mandibulata; mandibulates; mandibulate arthropods ]
+         |    |    |--> Myriapoda;  myriapods; centipedes, millipedes, etc
+         | 518 MYA |[ Pancrustacea; Tetraconata ]
+         | 514 MYA |--> Oligostraca; crustacea 1; Ostracoda; seed shrimp, etc
+         | 498 MYA |- * Multicrustacea; crustacea 2
+         | 437 MYA |--> Branchiopoda; branchiopods; crustacea 3; fairy shrimp, clam shrimp, water fleas, etc
+         | 459 MYA |- * Hexapoda; hexapods
+      649 MYA |[ Spiralia ]                                          --
+         |    |--> Rotifera; rotifers; wheel animals
+      550 MYA |[ Lophoctrozoa ]
+         |    |--> Parenchymia; Platyhelminthes, Nemertea; flatworms, ribbon worms
+         |    |- Lophophorata
+         |    |    |- Brachiozoa; Brachiozoans
+         |    |    |    |- Phoronida; phoronids; horseshoe worms
+         |    |    |    |- Brachiopoda; brachiopods
+         |    |    |--> Bryozoa; bryozoans; moss animals
+      543 MYA |    |[ Mollusca; molluscs ]
+         | 514 MYA |--> Bivalvia; bivalves; clams, oysters, cockles, mussels, scallops, etc
+         |    |    |[ Conchifera ]
+         | 476 MYA |--> Gastropoda; gastropods; snails, slugs, semi-slugs, limpets, nudibranchs
+         | 415 MYA |--> Cephalopoda; cephalopods; squid, octopus, cuttlefish, nautilus
+         |    |--> Annelida; annelids; segmented worms
+ 692 MYA |[ Deuterostomia; deuterostomes ]
+         |--> Ambulacraria; Coelomopora; ambulacrarians
+ 588 MYA |[ Chordata; chordates ]
+         |--> Cephalochordata; lancelets
+         |[ Olfactores ]
+         |--> Tunicata; Urochordata; tunicates
+ 563 MYA |[ Vertebrata; Craniata; vertebrates ]
+         |--> Monorhina; Cyclostomi; Agnatha 1; agnathans; jawless fish; hagfish, lampreys
+         |[ Amphirhina ]
+         |- † Osteostraci; Agnatha 2; ostracoderms
+ 462 MYA |[ Gnathostomata; jawed fish ]
+         |- † Extinct jawed fish; Placodermi; placoderms
+         |[ Eugnathostomata ]
+         |--> Acanthodii; Teleostomi 1; acanthodians; spiny sharks; stem cartilaginous fish
+ 429 MYA |[ Osteichthyes; Teleostomi 2; Euteleostomi; bony fish; bony vertebrates ]
+         |--> Actinopterygii; ray-finned fish
+ 415 MYA |[ Sarcopterygii; lobe-finned fish ]
+         |--> Actinistia;  coelacanths
+ 408 MYA |[ Rhipidistia / Dipnotetrapodomorpha ]
+         |--> Dipnomorpha; Dipnoi; lungfish
+   352 MYA |[ Tetrapoda; tetrapods ]
+           |--> Amphibia; Batrachomorpha; Lissamphibia; amphibians; modern amphibians
+   319 MYA |[ Amniota; amniotes ]
+           |--> Sauropsida; sauropsids
+           |[ Synapsida; synapsids ]
+           |- † Extinct synapsids; therapsids, gorgonopsids, cynodonts, gomphodonts, etc
+   180 MYA |[ Mammalia; mammals ]
+           |- † Extinct mammals; Mesonychidae; mesonychids; mexonyx, sinonyx, synoplotherium, etc
+           |- Monotremata; Yinotheria; echidnas and platypus
+   160 MYA |[ Theria ]
+           |- Metatheria; Marsupialia; metatherians; marsupials
+    99 MYA |[ Eutheria; Placentalia; eutherians; placental mammals ]
+           |- Atlantogenata
+         80 MYA |- Afrotheria
+           |    |    |--> Afroinsectiphilia; aardvark, sengis, tenrecs, otter shrew, golden moles
+           |    |    |[ Paenungulatomorpha; Paenungulata ]
+           |  53 MYA |--> Hyracoidea; hyraxes; dassies
+           |    |    |[ Tethytheria; tethytheres ]
+           |    |    |- † Extinct tethytheres; desmostylians, embrithopods, etc
+           |  32 MYA |--> Sirenia; sirenians; sea cows; dugongs, manatees
+           |  26 MYA |--> Proboscidea; Elephantinae; Loxodonta; elephants
+         68 MYA |[ Xenartha ]
+           |    |--> Cingulata; cingulates; armadillos
+         57 MYA |[ Pilosa ]
+         40 MYA |--> Vermilingua; anteaters
+         28 MYA |--> Folivora; sloths
+    94 MYA |[ Boreoeutheria ]
+           |--> Laurasiatheria
+    87 MYA |[ Euarchontoglires ]
+    79 MYA |- Glires
+         70 MYA |--> Rodentia; rodents
+         51 MYA |--> Lagomorpha; lagomorphs; rabbits, hares, pikas
+           |[ Euarchonta ]
+           |--> Scandentia; scandentians; treeshrews
+           |[ Primatomorpha ]
+           |--> Dermoptera; colugos
+    74 MYA |[ Primates; primates; lemurs, monkeys, apes ]
+           |--> Strepsirhini; Lemuriformes; strepsirrhines; wet-nosed primates; non-tarsier primates
+    69 MYA |[ Haplorhini; haplorhines; dry-nosed primates ]
+    22 MYA |--> Tarsiiformes; Tarsioidea; Tarsiidae; tarsiers
+    43 MYA |[ Simiiformes; anthropoids; higher primates; simians ]
+           |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    29 MYA |[ Catarrhini; old-world monkeys, apes ]                                                                                                                                                                                                  |[ Platyrrhini; new-world monkeys ]
+           |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------>                                        |
+    19 MYA |[ Hominoidea; hominoids; apes ]                                                                                                                                                                 |[ Cercopithecoidea; old-world monkeys ] |
+           |----------------------------------------------------------------------------------------------------------------------------------------------------------                                      |                                        |
+    15 MYA |[ Hominidae; hominids; great apes ]                                                                                                                      |[ Hylobatidae; lesser apes; gibbons ] |                                        |
+           |--------------------------------------------------------------------------------------------------------------------------------                         |                                      |                                        |
+     9 MYA |[ Homininae ]                                                                                                                  |[ Ponginae; orangutans ] |                                      |                                        |
+           |-------------------------------------------------------------------------------------------                                    |                         |                                      |                                        |
+           |[ Hominini ]                                                                              |                                    |                         |                                      |                                        |
+     2 MYA |---------------------------------------------------------                                 |                                    |                         |                                      |                                        |
+           |[ Homonina ]                                            |[ Panina; Pan; bonobos, chimps ] |[ Gorillini; Gorilla; gorillas ]    |                         |                                      |                                        |
+           | † Australopithecus                                     |                                 |                                    |                         |                                      |                                        |
+           | † Kenyanthropus                                        |                                 |                                    |                         |                                      |                                        |
+           |[ Homo ]                                                |                                 |                                    |                         |                                      |                                        |
+           |- † Homo habilis                                        |                                 |                                    |                         |                                      |                                        |
+           |- † Homo rudolfensis                                    |                                 |                                    |                         |                                      |                                        |
+           |[ Homo erectus sl ]                                     |                                 |                                    |                         |                                      |                                        |
+           |- † Homo ergaster                                       |                                 |                                    |                         |                                      |                                        |
+           |- † Homo erectus ss                                     |                                 |                                    |                         |                                      |                                        |
+           |[ unnamed ]                                             |                                 |                                    |                         |                                      |                                        |
+† 0.77 MYA |- † Homo antecessor                                     |                                 |                                    |                         |                                      |                                        |
+† 0.33 MYA |- † Homo naledi                                         |                                 |                                    |                         |                                      |                                        |
+           |[ Homo heidelbergensis ]                                |                                 |                                    |                         |                                      |                                        |
+† 0.05 MYA |- † Homo denisova; denisovans                           |                                 |                                    |                         |                                      |                                        |
+† 0.04 MYA |- † Homo neanderthalensis; neanderthals                 |- • Pan paniscus; bonobo         |                                    |                         |                                      |                                        |
+           |- • Homo sapiens; humans / modern humans (domesticated) |- • Pan troglodtyes; chimpanzee  |                                    |                         |                                      |                                        |
+</pre>
