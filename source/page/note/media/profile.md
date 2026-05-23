@@ -55,7 +55,7 @@ Profile
 <li data-life="1931 -- 2019"><a href=/note/media/profile/gene-wolfe           >Gene Wolfe</a>
 <li data-life="1931 -- 2020"><a href=/note/media/profile/ian-holm             >Ian Holm</a>
 <li data-life="1931 -- 2024"><a href=/note/media/profile/james-earl-jones     >James Earl Jones</a>
-<li data-life="1932 -- 1986"><a href=/note/media/profile/andrei-tarkovsky     >Andrei Tarkovsky</a>
+<li data-life="1932 -- 1986"><a href=/note/media/profile/andrei-tarkovsky     >Andrei Tarkovsky; Андрей Тарковский</a>
 <li data-life="1933 --     "><a href=/note/media/profile/john-boorman         >John Boorman</a>
 <li data-life="1933 -- 2012"><a href=/note/media/profile/brothers-strugatsky  >Boris Strugatsky; Борис Стругацкий</a>
 <li data-life="1934 -- 2018"><a href=/note/media/profile/harlan-ellison       >Harlan Ellison</a>
