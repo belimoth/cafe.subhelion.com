@@ -88,7 +88,9 @@
 <li data-year=1998><a class=new>Foundation and Chaos</a> (Second Foundation series: book 2)
 </ul>
 
-### Man-Kzin Wars
+### Known Space - Man-Kzin Wars
+
+- [Known Space - Man-Kzin Wars (series)](/note/media/work/book/various/known-space#man-kzin-wars)
 
 <ul>
 <li data-year=1991>Greg Bear, S.M. Stirling - <a class=new>The Man Who Would Be Kzin</a>
@@ -114,10 +116,14 @@
 <li data-year=2000><a class=new>Rogue Planet</a>
 </ul>
 
-### Foreworld Saga
+### The Mongoliad / Foreworld
+
+- [The Mongoliad (series)](/note/media/work/book/various/the-mongoliad)
 
 <ul>
-<li data-year=2012><a class=new>The Mongoliad</a>
+<li data-year=2012><a href=/note/media/profile/neal-stephenson>Neal Stephenson</a>, Erik Bear, Greg Bear, Joseph Brassey, Nicole Galland, Cooper Moo, Mark Teppo - <a class=new>The Mongoliad I</a>
+<li data-year=2012><a href=/note/media/profile/neal-stephenson>Neal Stephenson</a>, Erik Bear, Greg Bear, Joseph Brassey, Nicole Galland, Cooper Moo, Mark Teppo - <a class=new>The Mongoliad II</a>
+<li data-year=2013><a href=/note/media/profile/neal-stephenson>Neal Stephenson</a>, Erik Bear, Greg Bear, Joseph Brassey, Nicole Galland, Cooper Moo, Mark Teppo - <a class=new>The Mongoliad III</a>
 </ul>
 
 ## Short stories

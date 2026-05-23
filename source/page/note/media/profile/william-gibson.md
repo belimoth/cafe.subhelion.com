@@ -28,7 +28,7 @@
 <li data-year=1986><a class=new href=/note/media/work/book/william-gibson/burning-chrome>Burning Chrome</a> (omnibus)
 </ul>
 
-### Sprawl
+<h3 id=sprawl>Sprawl</h3>
 
 <ul>
 <li data-year=1984><a href=/note/media/work/book/william-gibson/neuromancer        >Neuromancer</a>
