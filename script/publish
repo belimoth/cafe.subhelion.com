@@ -14,5 +14,6 @@ aws --profile subhelion.com s3 sync /a/local/build/2 s3://cafe.subhelion.com --c
 aws --profile subhelion.com s3 sync /a/local/build/3 s3://cafe.subhelion.com --content-type text/html
 aws --profile subhelion.com s3 sync /a/local/build/4 s3://cafe.subhelion.com --content-type text/html
 aws --profile subhelion.com s3 sync /a/local/build/5 s3://cafe.subhelion.com --content-type text/html
+aws --profile subhelion.com s3 sync /a/local/build/6 s3://cafe.subhelion.com --content-type text/html
 
 aws --profile subhelion.com cloudfront create-invalidation --distribution-id E1Y7FA70VLG6JO --paths "/*"

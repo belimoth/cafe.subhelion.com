@@ -331,7 +331,7 @@ ol ol {
 
 /*  */
 
-pre {
+/* pre {
 	position: absolute;
 	left: 0;
 	width: 100vw;
@@ -369,6 +369,12 @@ pre ::selection {
 
 pre ::selection:window-inactive{
 	background: #3a3d41;
+} */
+
+pre {
+	font-family: consolas, 'courier new', monospace;
+	font-size: 16px;
+	line-height: 18px;
 }
 
 /*  */
@@ -478,15 +484,15 @@ label {
 
 /*  */
 
-ol.toc {
-	width: 320px;
+/* ol.toc {
+	width: 640px;
 	border: 1px solid #444;
 	list-style-type: decimal;
-	padding-top: 24px;
+	/* padding-top: 24px; */
 	list-style: none;
 	padding-left: 12px;
 	margin-left: 0;
-}
+} */
 
 li::marker {
 	color: inherit;
@@ -603,6 +609,63 @@ ul > li[data-year]::before {
 	font-family: 'Consolas', 'Courier New', Courier, monospace;
 }
 
+
+ul > li[data-ybce] {
+	list-style: none;
+}
+
+ul > li[data-ybce]::before {
+	content: attr( data-ybce );
+	display: inline;
+	margin-left: -9ch;
+	margin-right: 1ch;
+	width: 8ch;
+	font-family: 'Consolas', 'Courier New', Courier, monospace;
+}
+
+
+ul > li[data-year-bp] {
+	list-style: none;
+}
+
+ul > li[data-year-bp]::before {
+	content: attr( data-year-bp );
+	display: inline;
+	margin-left: -11ch;
+	margin-right: 1ch;
+	width: 10ch;
+	font-family: 'Consolas', 'Courier New', Courier, monospace;
+}
+
+
+
+
+ul > li[data-year-ce ],
+ul > li[data-year-bce],
+ul > li[data-year-kya],
+ul > li[data-year-mya],
+ul > li[data-year-gya] {
+	list-style: none;
+	white-space: preserve nowrap;
+}
+
+ul > li[data-year-ce ]::before,
+ul > li[data-year-bce]::before,
+ul > li[data-year-kya]::before,
+ul > li[data-year-mya]::before,
+ul > li[data-year-gya]::before {
+	display: inline;
+	margin-left: -9ch;
+	margin-right: 1ch;
+	width: 8ch;
+	font-family: 'Consolas', 'Courier New', Courier, monospace;
+}
+
+ul > li[data-year-ce ]::before { content: attr( data-year-ce  ) "  CE"; }
+ul > li[data-year-bce]::before { content: attr( data-year-bce ) " BCE"; }
+ul > li[data-year-kya]::before { content: attr( data-year-kya ) " KYA"; }
+ul > li[data-year-mya]::before { content: attr( data-year-mya ) " MYA"; }
+ul > li[data-year-gya]::before { content: attr( data-year-gya ) " GYA"; }
 
 
 
@@ -793,3 +856,7 @@ td.img + td.img {
 
 h1 + h1 { margin-top: -40px; }
 h2 ~ ul + blockquote{ margin-top: 64px; }
+
+b {
+	font-weight: 650;
+}
