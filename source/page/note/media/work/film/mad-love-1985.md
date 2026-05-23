@@ -36,17 +36,17 @@
 	<br><a class=new>Michael DeForge</a>
 </ul>
 
+> What zero pussy does to a mfr
+
+<ul>
+	<li data-date=2020-09-22><a href=https://letterboxd.com/gandyfitch/film/mad-love-1985>Letterboxd</a>
+	<br><a class=new>Jake Isgar</a>
+</ul>
+
 > Holding to the belief that a man who has both a woman and a true friend by his side is immune to all the laws and injustices of mankind, Micky puts Léon and Marie together, thinking the idiot savant will protect the dream girl…
 
 <ul>
 	<li data-date=2009-12-09><a href=https://www.slantmagazine.com/film/lamour-braque>A Maelstrom of Love and Madness</a>
 	<br><a class=new>Jeremiah Kipp</a>
 	<br><a class=new>Slant Magazine</a>
-</ul>
-
-> What zero pussy does to a mfr
-
-<ul>
-	<li data-date=2020-09-22><a href=https://letterboxd.com/gandyfitch/film/mad-love-1985>Letterboxd</a>
-	<br><a class=new>Jake Isgar</a>
 </ul>

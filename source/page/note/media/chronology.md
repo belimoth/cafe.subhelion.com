@@ -15,6 +15,7 @@
 
 <style> input:checked + label + ul > li.minor { display: none; }</style>
 <div><input type=checkbox><label>Show major only</label>
+
 <ul>
 <li class=minor data-year=0841><a class=new                                                                 >Predator: Killer of Killers (anime)</a> (2025) (I)
 <li class=minor data-year=1609><a class=new                                                                 >Predator: Killer of Killers (anime)</a> (2025) (II)

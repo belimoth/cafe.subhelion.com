@@ -1,10 +1,14 @@
 # Dracula (franchise)
 
+- [Dracula (fiction)](/note/fiction/dracula)
+
 ## Source material
 
+todo
 
 ## Stage
 
+todo
 
 ## Films
 
