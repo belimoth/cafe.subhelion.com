@@ -5,6 +5,7 @@
 
 --
 
+- [IMDB](https://www.imdb.com/name/nm0000033)
 - [Wikipedia](https://en.wikipedia.org/wiki/Alfred_Hitchcock)
 
 ## Films

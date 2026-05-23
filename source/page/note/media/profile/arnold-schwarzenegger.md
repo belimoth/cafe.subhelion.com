@@ -61,7 +61,3 @@
 <tr><th data-year=2019><td class=img><img src=/static/image/media/film/viy-2.jpg               ><td><a           href=/note/media/work/film/viy-2               >Viy 2: Journey to China</a>
 <tr><th data-year=2019><td class=img><img src=/static/image/media/film/terminator-dark-fate.jpg><td><a class=new href=/note/media/work/film/terminator-dark-fate>Terminator: Dark Fate</a>
 </table>
-
-## Other
-
-<tr><th data-year="1996"><td><a class=new href=/note/media/work/film//t2-3d                      >T2-3D: Battle Across Time The Terminator Theme park attraction
