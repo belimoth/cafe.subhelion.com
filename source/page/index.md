@@ -8,7 +8,7 @@
 
 |                     |                                               |
 |---------------------|-----------------------------------------------|
-| [Profile](/profile) | Artists, authors, directors, editors, workers |
+| [Profile](/profile) | Index of people                               |
 | [Shelf  ](/shelf  ) | Index of offline works                        |
 | [Site   ](/site   ) | Index of online works                         |
 -->

@@ -3,14 +3,14 @@
 <img src=/static/image/media/film/stargate.jpg>
 
 - 1994-10-28
-- [Stargate (franchise)](/note/media/franchise/mgm/stargate)
+- [Stargate (franchise)](/shelf/mgm/stargate)
 
 --
 
-- [Djimon Hounsou    ](/note/media/profile/djimon-hounsou)
-- [Erick Avari       ](/note/media/profile/erick-avari)
-- [James Spader      ](/note/media/profile/james-spader)
-- [Kurt Russell      ](/note/media/profile/kurt-russell)
-- [Patrick Tatopoulos](/note/media/profile/patrick-tatopoulos)
-- [Richard Kind      ](/note/media/profile/richard-kind)
-- [Roland Emmerich   ](/note/media/profile/roland-emmerich)
+- [Djimon Hounsou    ](/profile/djimon-hounsou)
+- [Erick Avari       ](/profile/erick-avari)
+- [James Spader      ](/profile/james-spader)
+- [Kurt Russell      ](/profile/kurt-russell)
+- [Patrick Tatopoulos](/profile/patrick-tatopoulos)
+- [Richard Kind      ](/profile/richard-kind)
+- [Roland Emmerich   ](/profile/roland-emmerich)

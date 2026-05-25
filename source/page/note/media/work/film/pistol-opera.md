@@ -3,7 +3,7 @@
 
 <img src=/static/image/media/film/pistol-opera.jpg>
 
-- [Seijun Suzuki](/note/media/profile/seijun-suzuki)
+- [Seijun Suzuki](/profile/seijun-suzuki)
 
 > I think it's okay to live my life as a pistol.
 

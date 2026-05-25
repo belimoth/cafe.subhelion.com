@@ -15,7 +15,7 @@
 		<td class=img-tt><a href=https://www.tiktok.com/@trademoviespodcast/video/7586619776382881054><img src=/static/image/tiktok/7586619776382881054.jpg></a>
 		<td><a class=new href=/note/media/site/tmp>Trade Movies Podcast</a>
 		<br><a href=https://www.tiktok.com/@trademoviespodcast/video/7586619776382881054>Die Hard is a movie about CASTRATION ANXIETY</a>
-		<br><a href=/note/media/work/film/die-hard>Die Hard (film)</a>
+		<br><a href=/shelf/1988/die-hard>Die Hard (film)</a>
 </table>
 
 ## Youtube
@@ -26,13 +26,13 @@
 		<td class=img><a href=https://youtube.com/watch?v=f1IlNiTXBzQ><img src=/static/image/youtube/tmp/f1IlNiTXBzQ.jpg></a>
 		<td><a class=new href=/note/media/site/tmp>Trade Movies Podcast</a>
 		<br><a href=https://youtube.com/watch?v=f1IlNiTXBzQ>the inversion of voyeurism, the male gaze, gender, and technological agency in Predator (1987)</a>
-		<br><a href=/note/media/work/film/predator>Predator (film)</a>
+		<br><a href=/shelf/1987/predator>Predator (film)</a>
 	<tr>
 		<th data-date=2025-05-01 data-length=4:47>
 		<td class=img><a href=https://youtube.com/watch?v=cbMX3FWzge8><img src=/static/image/youtube/tmp/cbMX3FWzge8.jpg></a>
 		<td><a class=new href=/note/media/site/tmp>Trade Movies Podcast</a>
 		<br><a href=https://youtube.com/watch?v=cbMX3FWzge8>representations of unspoken homosocial and homoerotic male bonding in Predator (1987)</a>
-		<br><a href=/note/media/work/film/predator>Predator (film)</a>
+		<br><a href=/shelf/1987/predator>Predator (film)</a>
 </table>
 
 
@@ -50,37 +50,37 @@
 		<br>
 	<tr>
 		<th data-date= data-length=43:42>
-		<td class=img><a href=https://www.youtube.com/watch?v=pGn2wZr5a9I><img src=/static/image/youtube/tmp/.jpg></a>
+		<td class=img><a href=https://www.youtube.com/watch?v=pGn2wZr5a9I><img src=/static/image/youtube/tmp/pGn2wZr5a9I.jpg></a>
 		<td>Trade Movies Podcast
 		<br>Trade Movies #032 - Pandora's Box (1929), Something Wild (1986), and Star 80 (1983) with Isabel
 		<br>
 	<tr>
 		<th data-date= data-length=3:00>
-		<td class=img><a href=https://www.youtube.com/watch?v=k24ZsoGgGdw><img src=/static/image/youtube/tmp/.jpg></a>
+		<td class=img><a href=https://www.youtube.com/watch?v=k24ZsoGgGdw><img src=/static/image/youtube/tmp/k24ZsoGgGdw.jpg></a>
 		<td>Trade Movies Podcast
 		<br>Trade Movies BONUS #6 - MuseumCast with Scott Winterrowd at the Sid Richardson Museum in Fort Worth
 		<br>
 	<tr>
 		<th data-date= data-length=2:37:58>
-		<td class=img><a href=https://www.youtube.com/watch?v=u80HfuPjs7c><img src=/static/image/youtube/tmp/.jpg></a>
+		<td class=img><a href=https://www.youtube.com/watch?v=u80HfuPjs7c><img src=/static/image/youtube/tmp/u80HfuPjs7c.jpg></a>
 		<td>Trade Movies Podcast
 		<br>Bad Boys II is the American Empire jumping the shark
 		<br>
 	<tr>
 		<th data-date= data-length=2:32:59>
-		<td class=img><a href=https://www.youtube.com/watch?v=08pPdHuIEsc><img src=/static/image/youtube/tmp/.jpg></a>
+		<td class=img><a href=https://www.youtube.com/watch?v=08pPdHuIEsc><img src=/static/image/youtube/tmp/08pPdHuIEsc.jpg></a>
 		<td>Trade Movies Podcast
 		<br>Trade Movies #031 - Bad Boys II (2003) and Independence Day (1996) with Pat Buetow (nomdecoom)
 		<br>
 	<tr>
 		<th data-date= data-length=2:59>
-		<td class=img><a href=https://www.youtube.com/watch?v=4zcM5TWvHc0><img src=/static/image/youtube/tmp/.jpg></a>
+		<td class=img><a href=https://www.youtube.com/watch?v=4zcM5TWvHc0><img src=/static/image/youtube/tmp/4zcM5TWvHc0.jpg></a>
 		<td>Trade Movies Podcast
 		<br>Trade Movies #030 - My Left Foot (1989) and Freaks (1930) with comedian Lucas Waterfill
 		<br>
 	<tr>
 		<th data-date= data-length=1:36:45>
-		<td class=img><a href=https://www.youtube.com/watch?v=drmAFMBFV-I><img src=/static/image/youtube/tmp/.jpg></a>
+		<td class=img><a href=https://www.youtube.com/watch?v=drmAFMBFV-I><img src=/static/image/youtube/tmp/drmAFMBFV-I.jpg></a>
 		<td>Trade Movies Podcast
 		<br>The first mover ever made about eating disorders.
 		<br>

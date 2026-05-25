@@ -9,9 +9,9 @@
 
 --
 
-- [Andrzej Żuławski](/note/media/profile/andrzej-zulawski)
-- [Sophie Marceau  ](/note/media/profile/sophie-marceau)
-- [Tchéky Karyo    ](/note/media/profile/tcheky-karyo)
+- [Andrzej Żuławski](/profile/andrzej-zulawski)
+- [Sophie Marceau  ](/profile/sophie-marceau)
+- [Tchéky Karyo    ](/profile/tcheky-karyo)
 
 --
 

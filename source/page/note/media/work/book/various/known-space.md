@@ -45,7 +45,7 @@
 
 ### Known Space - Shorts
 
-- [Larry Niven](/note/media/profile/larry-niven)
+- [Larry Niven](/profile/larry-niven)
 
 
 <h3 id=tales>Known Space - Tales of Known Space (short)</h3>
@@ -119,9 +119,9 @@
 ### Known Space - Collections
 
 <ul>
-<li data-year=1968><a href=/note/media/work/book/various/neutron-star        >Neutron Star                                     </a> (collection)
-<li data-year=1969><a href=/note/media/work/book/various/the-shape-of-space  >The Shape of Space                               </a> (collection)
-<li data-year=1975><a href=/note/media/work/book/various/tales-of-known-space>Tales of Known Space: The Universe of Larry Niven</a> (collection)
+<li data-year=1968><a href=/shelf/1968/neutron-star        >Neutron Star                                     </a> (collection)
+<li data-year=1969><a href=/shelf/1969/the-shape-of-space  >The Shape of Space                               </a> (collection)
+<li data-year=1975><a href=/shelf/1975/tales-of-known-space>Tales of Known Space: The Universe of Larry Niven</a> (collection)
 <li data-year=1991>World of Ptavvs / A Gift From Earth / Neutron Star (omnibus)
 </ul>
 
@@ -150,12 +150,12 @@
 ### Known Space - Ringworld - Other
 
 <ul>
-<li data-year=1994>Kevin Stein, Todd Cameron Hamilton, James Clouse - <a href=/note/media/book/various/ringworld-guide>Guide to Larry Niven's Ringworld</a>
+<li data-year=1994>Kevin Stein, Todd Cameron Hamilton, James Clouse - <a href=/shelf/1994/ringworld-guide>Guide to Larry Niven's Ringworld</a>
 </ul>
 
 <h3 id=worlds>Known Space - Ringworld - Worlds</h3>
 
-- [Larry Niven](/note/media/profile/larry-niven), [Edward M. Lerner]()
+- [Larry Niven](/profile/larry-niven), [Edward M. Lerner]()
 
 <ul>
 <li data-year=2007><a class=new>Fleet of Worlds    </a>
@@ -224,7 +224,7 @@
 ### Known Space - Man-Kzin Wars VIII
 
 <ul>
-<li data-year=1998><a href=/note/media/profile/larry-niven>Larry Niven    </a> - <a class=new>Choosing Names    </a>
+<li data-year=1998><a href=/profile/larry-niven>Larry Niven    </a> - <a class=new>Choosing Names    </a>
 <li data-year=1998><a class=new                           >Hal Colebatch  </a> - <a class=new>Telepath's Dance  </a>
 <li data-year=1998><a class=new                           >Jean Lamb      </a> - <a class=new>Galley Slave      </a>
 <li data-year=1998><a class=new                           >Paul Chafe     </a> - <a class=new>Jotok             </a>
@@ -322,129 +322,136 @@
 <h2 id=chronology>Chronology</h2>
 
 <div>
-<style> input:checked + label ~ table > tbody > tr.minor { display: none; }</style>
+<style>
+	input:checked + label ~ ul > li.minor { display: none; }
+	li.major { margin: 1lh 0; }
+</style>
 <input type=checkbox><label>Show canon only</label>
 <br>
 <br>
-<table>
 
-<tr class=minor><th data-year="8000 BCE"><td><a href=#mkw >Man-Kzin Wars IIX   <td><i>Jotok</i>
-<tr            ><th data-year=1976><td><a href=#tales       >Tales of Known Space</a>                                <td><a href=>The Coldest Place</a>
-<tr            ><th data-year=1977><td><a href=#tales       >Tales of Known Space</a>                                <td><a href=>Becalmed In Hell</a>
-<tr            ><th data-year=1989><td><a href=#tales       >Tales of Known Space</a>                                <td><a href=>Wait It Out</a>
-<tr            ><th data-year=1996><td><a href=#tales       >Tales of Known Space</a>                                <td><a href=>Eye Of An Octopus</a>
-<tr            ><th data-year=2040><td><a href=#tales       >Tales of Known Space</a>                                <td><a href=>How The Heroes Die</a>
-<tr            ><th data-year=2099><td><a href=#tales       >Tales of Known Space</a>                                <td><a href=>The Jigsaw Man</a>
-<tr            ><th data-year=2106><td>World of Ptavvs
-<tr            ><th data-year=2112><td><a href=#tales       >Tales of Known Space</a>                                <td><a href=>At the Bottom of a Hole</a>
-<tr            ><th data-year=2113><td><a href=#tales       >Tales of Known Space</a>                                <td><a href=>Intent to Deceive</a>
-<tr            ><th data-year=2123><td><a href=#flatlander  >Flatlander</a>                                          <td><a href=>Death By Ecstasy</a>
-<tr            ><th data-year=2124><td><a href=#flatlander  >Flatlander</a>                                          <td><a href=>The Defenseless Dead</a>
-<tr            ><th data-year=2125><td><a href=#protector   >Protector</a>                                           <td>Pssthpok
-<tr            ><th data-year=2126><td><a href=#flatlander  >Flatlander</a>                                          <td><a href=>ARM & Other Short Stories</a>
-<tr            ><th data-year=2126><td><a href=#flatlander  >Flatlander</a>                                          <td><a href=>The Patchwork Girl</a>
-<tr            ><th data-year=2127><td><a href=#flatlander  >Flatlander</a>                                          <td><a href=>The Woman in Del Rey Crater</a>
-<tr            ><th data-year=2135><td><a href=#tales       >Tales of Known Space</a>                                <td><a href=>Cloak of Anarchy</a>
-<tr            ><th data-year=2325><td>A Gift From Earth
-<tr            ><th data-year=2341><td><a href=#protector   >Protector</a>                                           <td>Interlude
-<tr            ><th data-year=2341><td><a href=#protector   >Protector</a>                                           <td>Vandervecken
-<tr            ><th data-year=2361><td><a href=#protector   >Protector</a>                                           <td>Protector
-<tr            ><th data-year=2326><td>Neutron Star                                                                <td>Ethics of Madness
-<tr            ><th data-year=2360><td><a href=#tales       >Tales of Known Space</a>                                <td>The Warriors
-<tr            ><th data-year=2360><td><a href=#mkw         >Man-Kzin Wars IIX</a>                                   <td>Telepath’s Dance
-<tr class=minor><th data-year=2363><td><a href=#mkw         >Man-Kzin Wars XII</a>                                   <td><i>Echoes of Distant Guns</i>
+<ul>
+<li class=minor data-year-bce=8000><a href=#mkw >Man-Kzin Wars IIX - <i>Jotok</i>
+<li             data-year=1976><a href=#tales       >Tales of Known Space</a> - <a href=>The Coldest Place</a>
+<li             data-year=1977><a href=#tales       >Tales of Known Space</a> - <a href=>Becalmed In Hell</a>
+<li             data-year=1989><a href=#tales       >Tales of Known Space</a> - <a href=>Wait It Out</a>
+<li             data-year=1996><a href=#tales       >Tales of Known Space</a> - <a href=>Eye Of An Octopus</a>
+<li             data-year=2040><a href=#tales       >Tales of Known Space</a> - <a href=>How The Heroes Die</a>
+<li             data-year=2099><a href=#tales       >Tales of Known Space</a> - <a href=>The Jigsaw Man</a>
+<li             data-year=2106>World of Ptavvs
+<li             data-year=2112><a href=#tales       >Tales of Known Space</a> - <a href=>At the Bottom of a Hole</a>
+<li             data-year=2113><a href=#tales       >Tales of Known Space</a> - <a href=>Intent to Deceive</a>
+<li             data-year=2123><a href=#flatlander  >Flatlander</a> - <a href=>Death By Ecstasy</a>
+<li             data-year=2124><a href=#flatlander  >Flatlander</a> - <a href=>The Defenseless Dead</a>
+<li             data-year=2125><a href=#protector   >Protector</a> -  Pssthpok
+<li             data-year=2126><a href=#flatlander  >Flatlander</a> - <a href=>ARM & Other Short Stories</a>
+<li             data-year=2126><a href=#flatlander  >Flatlander</a> - <a href=>The Patchwork Girl</a>
+<li             data-year=2127><a href=#flatlander  >Flatlander</a> - <a href=>The Woman in Del Rey Crater</a>
+<li             data-year=2135><a href=#tales       >Tales of Known Space</a> - <a href=>Cloak of Anarchy</a>
+<li             data-year=2325>A Gift From Earth
+<li             data-year=2341><a href=#protector   >Protector</a> -  Interlude
+<li             data-year=2341><a href=#protector   >Protector</a> -  Vandervecken
+<li             data-year=2361><a href=#protector   >Protector</a> -  Protector
+<li             data-year=2326>Neutron Star -  Ethics of Madness
+<li             data-year=2360><a href=#tales       >Tales of Known Space</a> -  The Warriors
+<li             data-year=2360><a href=#mkw         >Man-Kzin Wars IIX</a> -  Telepath’s Dance
+<li class=minor data-year=2363><a href=#mkw         >Man-Kzin Wars XII</a> - <i>Echoes of Distant Guns</i>
 
-<tr><th data-year=2367><td colspan=2><br><b>First Man-Kzin War</b><br><br>
+<li class=major data-year=2367><b>First Man-Kzin War</b>
 
-<tr class=minor><th data-year=2367><td><a href=#mkw         >Man-Kzin Wars X</a>                                     <td><i>One War for Wunderland</i>
-<tr class=minor><th data-year=2367><td><a href=#mkw         >Man-Kzin Wars XIII</a>                                  <td><i>Pick of the Litter</i>
-<tr class=minor><th data-year=2363><td><a href=#mkw         >Man-Kzin Wars XIII</a>                                  <td><i>Misunderstanding</i>
-<tr class=minor><th data-year=2363><td><a href=#mkw         >Man-Kzin Wars VII</a>                                   <td><i>The Colonel’s Tiger</i>
-<tr class=minor><th data-year=2375><td><a href=#mkw         >Man-Kzin Wars III</a>                                   <td><i>Madness Has Its Place</i>
-<tr class=minor><th data-year=2380><td><a href=#mkw         >Man-Kzin Wars VIII</a>                                  <td><i>Slowboat Nightmare</i>
-<tr class=minor><th data-year=2382><td><a href=#mkw         >Man-Kzin Wars XII</a>                                   <td><i>The Trooper and the Triangle</i>
-<tr class=minor><th data-year=2383><td><a href=#mkw         >Man-Kzin Wars IIX</a>                                   <td><i>Choosing Names</i>
-<tr class=minor><th data-year=2389><td><a href=#mkw         >Man-Kzin Wars IV</a>                                    <td><i>The Man Who Would Be Kzin</i>
-<tr class=minor><th data-year=2391><td><a href=#mkw         >Man-Kzin Wars IV</a>                                    <td><i>The Survivor</i>
-<tr class=minor><th data-year=2400><td><a href=#mkw         >Man-Kzin Wars XIII</a>                                  <td><i>Two Types of Teeth</i>
-<tr class=minor><th data-year=2402><td><a href=#mkw         >Man-Kzin Wars VI</a>                                    <td><i>Trojan Cat</i>
-<tr class=minor><th data-year=2404><td><a href=#mkw         >Man-Kzin Wars VIII</a>                                  <td><i>Galley  Slave</i>
-<tr class=minor><th data-year=2406><td><a href=#mkw         >Man-Kzin Wars XI</a>                                    <td><i>Catspaws</i> - Introduction
-<tr class=minor><th data-year=2408><td><a href=#mkw         >Man-Kzin Wars X</a>                                     <td><i>The Corporal In the Caves</i>
-<tr class=minor><th data-year=2413><td><a href=#mkw         >Man-Kzin Wars VII</a>                                   <td><i>A Darker Geometry</i>
-<tr class=minor><th data-year=2413><td>(Man-Kzin Wars)                                                             <td><i>A Darker Geometry</i> (novel)
-<tr class=minor><th data-year=2413><td><a href=#mkw         >Man-Kzin Wars XIII</a>                                  <td><i>Tomcat Tactics</i>
-<tr class=minor><th data-year=2419><td><a href=#mkw         >Man-Kzin Wars XIV</a>                                   <td><i>Deadly Knowledge</i>
-<tr class=minor><th data-year=2419><td><a href=#mkw         >Man-Kzin Wars II</a>                                    <td><i>The Children’s Hour</i>
-<tr class=minor><th data-year=2420><td><a href=#mkw         >Man-Kzin Wars IX</a>                                    <td><i>His Sergeant’s Honor</i>
-<tr class=minor><th data-year=2420><td><a href=#mkw         >Man-Kzin Wars III</a>                                   <td><i>The Asteroid Queen</i>
-<tr class=minor><th data-year=2421><td><a href=#mkw         >Man-Kzin Wars V</a>                                     <td><i>In the Hall of the Mountain King</i>
-<tr class=minor><th data-year=2425><td><a href=#mkw         >Man-Kzin Wars X</a>                                     <td><i>The Music Box</i>
-<tr class=minor><th data-year=2427><td><a href=#mkw         >Man-Kzin Wars XI</a>                                    <td><i>Three At Table</i>
-<tr class=minor><th data-year=2430><td><a href=#mkw         >Man-Kzin Wars XI</a>                                    <td><i>Grossgeister Swamp</i>
-<tr class=minor><th data-year=2433><td><a href=#mkw         >Man-Kzin Wars XI</a>                                    <td><i>Catspaws</i>
-<tr class=minor><th data-year=2435><td>(Man-Kzin Wars)                                                             <td><i>Treasure Planet</i>
-<tr class=minor><th data-year=2435><td><a href=#mkw         >Man-Kzin Wars VI</a>                                    <td><i>The Heroic Myth of Lt Nora Argamentine</i>
-<tr class=minor><th data-year=2437><td><a href=#mkw         >Man-Kzin Wars XIV</a>                                   <td><i>A Man Named Saul</i>
-<tr class=minor><th data-year=2438><td><a href=#mkw         >Man-Kzin Wars XIV</a>                                   <td><i>The Marmalade Problem</i>
-<tr class=minor><th data-year=2440><td><a href=#mkw         >Man-Kzin Wars I</a>                                     <td><i>Iron</i>
-<tr class=minor><th data-year=2440><td><a href=#mkw         >Man-Kzin Wars III</a>                                   <td><i>Inconstant Star</i>
-<tr class=minor><th data-year=2445><td><a href=#mkw         >Man-Kzin Wars IX</a>                                    <td><i>Windows of the Soul; Windows on the world</i>
-<tr            ><th data-year=2445><td><a href=#mkw         >Man-Kzin Wars IX</a>                                    <td>Pele
+<li class=minor data-year=2367><a href=#mkw         >Man-Kzin Wars X</a> - <i>One War for Wunderland</i>
+<li class=minor data-year=2367><a href=#mkw         >Man-Kzin Wars XIII</a> - <i>Pick of the Litter</i>
+<li class=minor data-year=2363><a href=#mkw         >Man-Kzin Wars XIII</a> - <i>Misunderstanding</i>
+<li class=minor data-year=2363><a href=#mkw         >Man-Kzin Wars VII</a> - <i>The Colonel’s Tiger</i>
+<li class=minor data-year=2375><a href=#mkw         >Man-Kzin Wars III</a> - <i>Madness Has Its Place</i>
+<li class=minor data-year=2380><a href=#mkw         >Man-Kzin Wars VIII</a> - <i>Slowboat Nightmare</i>
+<li class=minor data-year=2382><a href=#mkw         >Man-Kzin Wars XII</a> - <i>The Trooper and the Triangle</i>
+<li class=minor data-year=2383><a href=#mkw         >Man-Kzin Wars IIX</a> - <i>Choosing Names</i>
+<li class=minor data-year=2389><a href=#mkw         >Man-Kzin Wars IV</a> - <i>The Man Who Would Be Kzin</i>
+<li class=minor data-year=2391><a href=#mkw         >Man-Kzin Wars IV</a> - <i>The Survivor</i>
+<li class=minor data-year=2400><a href=#mkw         >Man-Kzin Wars XIII</a> - <i>Two Types of Teeth</i>
+<li class=minor data-year=2402><a href=#mkw         >Man-Kzin Wars VI</a> - <i>Trojan Cat</i>
+<li class=minor data-year=2404><a href=#mkw         >Man-Kzin Wars VIII</a> - <i>Galley  Slave</i>
+<li class=minor data-year=2406><a href=#mkw         >Man-Kzin Wars XI</a> - <i>Catspaws</i> - Introduction
+<li class=minor data-year=2408><a href=#mkw         >Man-Kzin Wars X</a> - <i>The Corporal In the Caves</i>
+<li class=minor data-year=2413><a href=#mkw         >Man-Kzin Wars VII</a> - <i>A Darker Geometry</i>
+<li class=minor data-year=2413>(Man-Kzin Wars) - <i>A Darker Geometry</i> (novel)
+<li class=minor data-year=2413><a href=#mkw         >Man-Kzin Wars XIII</a> - <i>Tomcat Tactics</i>
+<li class=minor data-year=2419><a href=#mkw         >Man-Kzin Wars XIV</a> - <i>Deadly Knowledge</i>
+<li class=minor data-year=2419><a href=#mkw         >Man-Kzin Wars II</a> - <i>The Children’s Hour</i>
+<li class=minor data-year=2420><a href=#mkw         >Man-Kzin Wars IX</a> - <i>His Sergeant’s Honor</i>
+<li class=minor data-year=2420><a href=#mkw         >Man-Kzin Wars III</a> - <i>The Asteroid Queen</i>
+<li class=minor data-year=2421><a href=#mkw         >Man-Kzin Wars V</a> - <i>In the Hall of the Mountain King</i>
+<li class=minor data-year=2425><a href=#mkw         >Man-Kzin Wars X</a> - <i>The Music Box</i>
+<li class=minor data-year=2427><a href=#mkw         >Man-Kzin Wars XI</a> - <i>Three At Table</i>
+<li class=minor data-year=2430><a href=#mkw         >Man-Kzin Wars XI</a> - <i>Grossgeister Swamp</i>
+<li class=minor data-year=2433><a href=#mkw         >Man-Kzin Wars XI</a> - <i>Catspaws</i>
+<li class=minor data-year=2435>(Man-Kzin Wars) - <i>Treasure Planet</i>
+<li class=minor data-year=2435><a href=#mkw         >Man-Kzin Wars VI</a> - <i>The Heroic Myth of Lt Nora Argamentine</i>
+<li class=minor data-year=2437><a href=#mkw         >Man-Kzin Wars XIV</a> - <i>A Man Named Saul</i>
+<li class=minor data-year=2438><a href=#mkw         >Man-Kzin Wars XIV</a> - <i>The Marmalade Problem</i>
+<li class=minor data-year=2440><a href=#mkw         >Man-Kzin Wars I</a> - <i>Iron</i>
+<li class=minor data-year=2440><a href=#mkw         >Man-Kzin Wars III</a> - <i>Inconstant Star</i>
+<li class=minor data-year=2445><a href=#mkw         >Man-Kzin Wars IX</a> - <i>Windows of the Soul; Windows on the world</i>
+<li             data-year=2445><a href=#mkw         >Man-Kzin Wars IX</a> -  Pele
 
-<tr><th data-year=2449><td colspan=2><br><b>Second Man-Kzin War</b><br><br>
+<li class=major data-year=2449><b>Second Man-Kzin War</b>
 
-<tr class=minor><th data-year=2449><td><a href=#mkw         >Man-Kzin Wars XIV</a>                                   <td><i>Heritage</i>
-<tr class=minor><th data-year=2490><td>(Man-Kzin Wars)                                                             <td><i>Destiny’s Forge</i>
-<tr class=minor><th data-year=2504><td><a href=#mkw         >Man-Kzin Wars XI</a>                                    <td><i>Teacher’s Pet</i>
-<tr            ><th data-year=2410><td><a href=#mkw         >Man-Kzin Wars XIII</a>                                  <td>Bound for the Promised Land
+<li class=minor data-year=2449><a href=#mkw         >Man-Kzin Wars XIV</a> - <i>Heritage</i>
+<li class=minor data-year=2490>(Man-Kzin Wars) - <i>Destiny’s Forge</i>
+<li class=minor data-year=2504><a href=#mkw         >Man-Kzin Wars XI</a> - <i>Teacher’s Pet</i>
+<li             data-year=2410><a href=#mkw         >Man-Kzin Wars XIII</a> -  Bound for the Promised Land
 
-<tr><th data-year=2490><td colspan=2><br><b>Third Man-Kzin War</b> (ended by the Wunderland Treatymaker)<br><br>
-<tr><th data-year=2500><td colspan=2><br><b>Fourth Man-Kzin War</b> (ended with Covenants of Shast)<br><br>
+<li class=major data-year=2490><b>Third Man-Kzin War</b> (ended by the Wunderland Treatymaker)
 
-<tr class=minor><th data-year=2531><td><a href=#mkw         >Man-Kzin Wars I</a>                                     <td><i>Cathouse</i>
-<tr class=minor><th data-year=2531><td><a href=#mkw         >Man-Kzin Wars II</a>                                    <td><i>Briar Patch</i>
-<tr class=minor><th data-year=2531><td><a href=#mkw         >Man-Kzin Wars V</a>                                     <td><i>Hey Diddle Diddle</i>
-<tr class=minor><th data-year=2554><td><a href=#mkw         >Man-Kzin Wars XII</a>                                   <td><i>Aquila Advenio; Foreign Legion</i>
-<tr class=minor><th data-year=2566><td><a href=#mkw         >Man-Kzin Wars XIII</a>                                  <td><i>At The Gates</i>
-<tr class=minor><th data-year=2570><td><a href=#mkw         >Man-Kzin Wars XIII</a>                                  <td><i>Zeno’s Roulette</i>
-<tr            ><th data-year=2575><td colspan=2><br><b>Fifth Man-Kzin War</b> (unofficial war)<br><br>
-<tr class=minor><th data-year=2578><td><a href=#mkw         >Man-Kzin Wars XIV</a>                                   <td><i>Lions On The Beach</i>
-<tr class=minor><th data-year=2580><td><a href=#mkw         >Man-Kzin Wars XI</a>                                    <td><i>War and Peace</i>
-<tr            ><th data-year=2600><td colspan=2><br><b>Sixth Man-Kzin War</b> (unofficial war)<br><br>
-<tr class=minor><th data-year=2610><td><a href=#mkw         >Man-Kzin Wars XIV</a>                                   <td><i>Leftovers</i>
-<tr class=minor><th data-year=2630><td><a href=#mkw         >Man-Kzin Wars VII</a>                                   <td><i>Prisoner of War</i>
-<tr class=minor><th data-year=2630><td><i>Destiny’s Forge</i>
-<tr            ><th data-year=2630><td><a href=#mkw         >Man-Kzin Wars XII</a>                                   <td>Independent
-<tr            ><th data-year=2641><td><a href=#neutron-star>Neutron Star</a>, <a href=#crashlander>Crashlander</a><td>Neutron Star
-<tr            ><th data-year=2645><td><a href=#neutron-star>Neutron Star</a>                                      <td>A Relic of Empire
-<tr            ><th data-year=2646><td><a href=#neutron-star>Neutron Star</a>, <a href=#crashlander>Crashlander</a><td>At the Core
-<tr            ><th data-year=2646><td><a href=#neutron-star>Neutron Star</a>, <a href=#crashlander>Crashlander</a><td>Flatlander
-<tr            ><th data-year=2647><td><a href=#neutron-star>Neutron Star</a>                                      <td>The Handicapped
-<tr            ><th data-year=2648><td><a href=#neutron-star>Neutron Star</a>, <a href=#crashlander>Crashlander</a><td>Grendel
-<tr            ><th data-year=2637><td><a href=#worlds      >Ringworld - Worlds</a>                                <td><a href=>Juggler of Worlds</a> - 1 They .. 7 Besieged
-<tr            ><th data-year=2650><td><a href=#crashlander >Crashlander                                                                 <td>The Borderland of Sol
-<tr            ><th data-year=2650><td><a href=#worlds      >Ringworld - Worlds</a>                                <td>Fleet of Worlds
-<tr            ><th data-year=2552><td><a href=#crashlander >Crashlander                                                                 <td>Procrustes
-<tr            ><th data-year=2652><td><a href=#worlds      >Ringworld - Worlds</a>                                <td><a href=>Juggler of Worlds</a> - 8 Becalmed .. 9 Betrayed
-<tr            ><th data-year=2655><td><a href=#crashlander >Crashlander                                                                 <td>Ghost
-<tr            ><th data-year=2656><td><a href=#mkw         >Man-Kzin Wars IX</a>                                    <td>Fly By Night
-<tr            ><th data-year=2657><td>Neutron Star                                                                <td>The Soft Weapon
-<tr            ><th data-year=2656><td><a href=#worlds      >Ringworld - Worlds</a>                                <td><a href=>Juggler of Worlds</a> - 10 Outsiders .. 13 Epilogue
-<tr            ><th data-year=2675><td><a href=#worlds      >Ringworld - Worlds</a>                                <td>Destroyer of Worlds
-<tr            ><th data-year=2780><td><a href=#worlds      >Ringworld - Worlds</a>                                <td>Betrayer of Worlds
-<tr            ><th data-year=2686><td>(LarryNiven.net)                                                            <td>The Color of Sunfire
-<tr            ><th data-year=2830><td><a href=#tales    >Tales of Known Space                                     <td>There Is A Tide
-<tr            ><th data-year=2850><td><a href=#ringworld   >Ringworld</a>                                           <td>Ringworld
-<tr            ><th data-year=2871><td><a href=#ringworld   >Ringworld</a>                                           <td>The Ringworld Engineers
-<tr            ><th data-year=2882><td><a href=#ringworld   >Ringworld</a>                                           <td>The Ringworld Throne
-<tr class=minor><th data-year=2892><td><a href=#mkw         >Man-Kzin Wars X</a>                                     <td><i>Peter Robinson</i>
-<tr            ><th data-year=2893><td><a href=#ringworld   >Ringworld</a>                                           <td>Ringworld’s Children
-<tr            ><th data-year=2893><td><a href=#worlds      >Ringworld - Worlds</a>                                <td>Fate of Worlds
-<tr class=minor><th data-year=2895><td><a href=#mkw         >Man-Kzin Wars XII</a>                                   <td><i>String</i>
-<tr class=minor><th data-year=2899><td><a href=#mkw         >Man-Kzin Wars XI</a>                                    <td><i>The Hunting Park</i>
-<tr class=minor><th data-year=2965><td><a href=#mkw         >Man-Kzin Wars XII</a>                                   <td><i>Peace and Freedom</i>
-<tr            ><th data-year=3101><td><a href=#tales       >Tales of Known Space</a>                                <td>Safe at Any Speed
+<li class=major data-year=2500><b>Fourth Man-Kzin War</b> (ended with Covenants of Shast)
 
-</table>
+<li class=minor data-year=2531><a href=#mkw         >Man-Kzin Wars I</a> - <i>Cathouse</i>
+<li class=minor data-year=2531><a href=#mkw         >Man-Kzin Wars II</a> - <i>Briar Patch</i>
+<li class=minor data-year=2531><a href=#mkw         >Man-Kzin Wars V</a> - <i>Hey Diddle Diddle</i>
+<li class=minor data-year=2554><a href=#mkw         >Man-Kzin Wars XII</a> - <i>Aquila Advenio; Foreign Legion</i>
+<li class=minor data-year=2566><a href=#mkw         >Man-Kzin Wars XIII</a> - <i>At The Gates</i>
+<li class=minor data-year=2570><a href=#mkw         >Man-Kzin Wars XIII</a> - <i>Zeno’s Roulette</i>
+
+<li class=major data-year=2575><b>Fifth Man-Kzin War</b> (unofficial war)
+
+<li class=minor data-year=2578><a href=#mkw         >Man-Kzin Wars XIV</a> - <i>Lions On The Beach</i>
+<li class=minor data-year=2580><a href=#mkw         >Man-Kzin Wars XI</a> - <i>War and Peace</i>
+
+<li class=major data-year=2600><b>Sixth Man-Kzin War</b> (unofficial war)
+
+<li class=minor data-year=2610><a href=#mkw         >Man-Kzin Wars XIV</a> - <i>Leftovers</i>
+<li class=minor data-year=2630><a href=#mkw         >Man-Kzin Wars VII</a> - <i>Prisoner of War</i>
+<li class=minor data-year=2630><i>Destiny’s Forge</i>
+<li             data-year=2630><a href=#mkw         >Man-Kzin Wars XII</a> -  Independent
+<li             data-year=2641><a href=#neutron-star>Neutron Star</a>, <a href=#crashlander>Crashlander</a> -  Neutron Star
+<li             data-year=2645><a href=#neutron-star>Neutron Star</a> -  A Relic of Empire
+<li             data-year=2646><a href=#neutron-star>Neutron Star</a>, <a href=#crashlander>Crashlander</a> -  At the Core
+<li             data-year=2646><a href=#neutron-star>Neutron Star</a>, <a href=#crashlander>Crashlander</a> -  Flatlander
+<li             data-year=2647><a href=#neutron-star>Neutron Star</a> -  The Handicapped
+<li             data-year=2648><a href=#neutron-star>Neutron Star</a>, <a href=#crashlander>Crashlander</a> -  Grendel
+<li             data-year=2637><a href=#worlds      >Ringworld - Worlds</a> - <a href=>Juggler of Worlds</a> - 1 They .. 7 Besieged
+<li             data-year=2650><a href=#crashlander >Crashlander -  The Borderland of Sol
+<li             data-year=2650><a href=#worlds      >Ringworld - Worlds</a> -  Fleet of Worlds
+<li             data-year=2552><a href=#crashlander >Crashlander -  Procrustes
+<li             data-year=2652><a href=#worlds      >Ringworld - Worlds</a> - <a href=>Juggler of Worlds</a> - 8 Becalmed .. 9 Betrayed
+<li             data-year=2655><a href=#crashlander >Crashlander -  Ghost
+<li             data-year=2656><a href=#mkw         >Man-Kzin Wars IX</a> -  Fly By Night
+<li             data-year=2657>Neutron Star -  The Soft Weapon
+<li             data-year=2656><a href=#worlds      >Ringworld - Worlds</a> - <a href=>Juggler of Worlds</a> - 10 Outsiders .. 13 Epilogue
+<li             data-year=2675><a href=#worlds      >Ringworld - Worlds</a> -  Destroyer of Worlds
+<li             data-year=2780><a href=#worlds      >Ringworld - Worlds</a> -  Betrayer of Worlds
+<li             data-year=2686>(LarryNiven.net) -  The Color of Sunfire
+<li             data-year=2830><a href=#tales    >Tales of Known Space -  There Is A Tide
+<li             data-year=2850><a href=#ringworld   >Ringworld</a> -  Ringworld
+<li             data-year=2871><a href=#ringworld   >Ringworld</a> -  The Ringworld Engineers
+<li             data-year=2882><a href=#ringworld   >Ringworld</a> -  The Ringworld Throne
+<li class=minor data-year=2892><a href=#mkw         >Man-Kzin Wars X</a> - <i>Peter Robinson</i>
+<li             data-year=2893><a href=#ringworld   >Ringworld</a> -  Ringworld’s Children
+<li             data-year=2893><a href=#worlds      >Ringworld - Worlds</a> -  Fate of Worlds
+<li class=minor data-year=2895><a href=#mkw         >Man-Kzin Wars XII</a> - <i>String</i>
+<li class=minor data-year=2899><a href=#mkw         >Man-Kzin Wars XI</a> - <i>The Hunting Park</i>
+<li class=minor data-year=2965><a href=#mkw         >Man-Kzin Wars XII</a> - <i>Peace and Freedom</i>
+<li             data-year=3101><a href=#tales       >Tales of Known Space</a> -  Safe at Any Speed
+</ul>
 </div>

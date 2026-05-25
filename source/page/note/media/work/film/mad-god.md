@@ -6,7 +6,7 @@
 
 --
 
-- [Phil Tippet](/note/media/profile/phil-tippet)
+- [Phil Tippet](/profile/phil-tippet)
 
 --
 

@@ -153,18 +153,6 @@ ul, ol, p {
 	margin-bottom: 24px;
 }
 
-h1 + h2 {
-	/* margin-top: -48px; */
-}
-
-h2 + h2 {
-	/* margin-top: -40px; */
-}
-
-h1 + h3, h1 + h3 + h3, h1 + h3 + h3 {
-	/* margin-top: -48px; */
-}
-
 dl {
 	margin: 48px 0;
 }
@@ -185,10 +173,6 @@ body > ul, body > ol {
 		margin-left : calc( -6ch );
 		padding-left: calc(  6ch );
 	}
-}
-
-ul {
-	/* list-style: none; */
 }
 
 ol {
@@ -318,9 +302,6 @@ ul ul > li:not( .group ) > span.topic {
 
 li.group {
 	margin-top: 3px;
-}
-
-ul > li {
 }
 
 ol ol {
@@ -484,15 +465,16 @@ label {
 
 /*  */
 
-/* ol.toc {
-	width: 640px;
-	border: 1px solid #444;
-	list-style-type: decimal;
-	/* padding-top: 24px; */
-	list-style: none;
-	padding-left: 12px;
-	margin-left: 0;
-} */
+/*ol.toc {
+/*	width: 640px;
+/*	border: 1px solid #444;
+/*	list-style-type: decimal;
+/*	/* padding-top: 24px; */
+/*	list-style: none;
+/*	padding-left: 12px;
+/*	margin-left: 0;
+/*}
+*/
 
 li::marker {
 	color: inherit;
@@ -561,11 +543,6 @@ body {
 	overflow: visible;
 }
 
-
-table {
-}
-
-
 ol ol ol > li {
 	padding-left: 3ch;
     margin-left: -3ch;
@@ -596,76 +573,6 @@ img.autha {
 	border: 2px solid #CCC;
 }
 
-ul > li[data-year] {
-	list-style: none;
-}
-
-ul > li[data-year]::before {
-	content: attr( data-year );
-	display: inline;
-	margin-left: -5ch;
-	margin-right: 1ch;
-	width: 4ch;
-	font-family: 'Consolas', 'Courier New', Courier, monospace;
-}
-
-
-ul > li[data-ybce] {
-	list-style: none;
-}
-
-ul > li[data-ybce]::before {
-	content: attr( data-ybce );
-	display: inline;
-	margin-left: -9ch;
-	margin-right: 1ch;
-	width: 8ch;
-	font-family: 'Consolas', 'Courier New', Courier, monospace;
-}
-
-
-ul > li[data-year-bp] {
-	list-style: none;
-}
-
-ul > li[data-year-bp]::before {
-	content: attr( data-year-bp );
-	display: inline;
-	margin-left: -11ch;
-	margin-right: 1ch;
-	width: 10ch;
-	font-family: 'Consolas', 'Courier New', Courier, monospace;
-}
-
-
-
-
-ul > li[data-year-ce ],
-ul > li[data-year-bce],
-ul > li[data-year-kya],
-ul > li[data-year-mya],
-ul > li[data-year-gya] {
-	list-style: none;
-	white-space: preserve nowrap;
-}
-
-ul > li[data-year-ce ]::before,
-ul > li[data-year-bce]::before,
-ul > li[data-year-kya]::before,
-ul > li[data-year-mya]::before,
-ul > li[data-year-gya]::before {
-	display: inline;
-	margin-left: -9ch;
-	margin-right: 1ch;
-	width: 8ch;
-	font-family: 'Consolas', 'Courier New', Courier, monospace;
-}
-
-ul > li[data-year-ce ]::before { content: attr( data-year-ce  ) "  CE"; }
-ul > li[data-year-bce]::before { content: attr( data-year-bce ) " BCE"; }
-ul > li[data-year-kya]::before { content: attr( data-year-kya ) " KYA"; }
-ul > li[data-year-mya]::before { content: attr( data-year-mya ) " MYA"; }
-ul > li[data-year-gya]::before { content: attr( data-year-gya ) " GYA"; }
 
 
 
@@ -684,35 +591,6 @@ ul > li[data-year-gya]::before { content: attr( data-year-gya ) " GYA"; }
 
 td.img {
 	padding: 0;
-}
-
-th[data-date] {
-	padding-right: 0;
-	padding-left: 0;
-}
-
-th[data-date]::before {
-	content: attr( data-date );
-	display: inline;
-	margin-left: -11ch;
-	margin-right: 1ch;
-	width: 10ch;
-	font-family: consolas, 'courier new', monospace;
-	text-align: right;
-}
-
-li[data-date] {
-	list-style: none;
-}
-
-li[data-date]::before {
-	content: attr( data-date );
-	display: inline;
-	margin-left: -11ch;
-	margin-right: 1ch;
-	width: 10ch;
-	font-family: consolas, 'courier new', monospace;
-	text-align: right;
 }
 
 table, tr {
@@ -767,41 +645,8 @@ td.img-tt > a > img {
 
 
 
-th[data-dune] {
-	padding: 0;
-}
-
-th[data-dune]::before {
-    content: attr(data-dune);
-    display: inline;
-    margin-left: -21ch;
-    margin-right: 1ch;
-    font-family: consolas, 'courier new', monospace;
-    text-align: right;
-	white-space-collapse: preserve;
-}
-
-th[data-dune]:empty + td {
-	padding-left: 0;
-}
 
 
-
-
-
-th[data-year] {
-	padding-right: 0;
-	padding-left: 0;
-}
-
-th[data-year]::before {
-	content: attr( data-year );
-	display: inline;
-	margin-left: -5ch;
-	margin-right: 1ch;
-	font-family: consolas, 'courier new', monospace;
-	text-align: right;
-}
 
 table {
 	border-collapse: collapse;
@@ -812,9 +657,6 @@ table {
 
 
 
-th[data-year]:empty + td{
-	padding-left: 0;
-}
 
 
 
@@ -859,4 +701,170 @@ h2 ~ ul + blockquote{ margin-top: 64px; }
 
 b {
 	font-weight: 650;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ul > li[data-year] {
+	list-style: none;
+}
+
+ul > li[data-year]::before {
+	content: attr( data-year );
+	display: inline;
+	margin-left: -5ch;
+	margin-right: 1ch;
+	width: 4ch;
+	font-family: 'Consolas', 'Courier New', Courier, monospace;
+}
+
+
+ul > li[data-ybce] {
+	list-style: none;
+}
+
+ul > li[data-ybce]::before {
+	content: attr( data-ybce );
+	display: inline;
+	margin-left: -9ch;
+	margin-right: 1ch;
+	width: 8ch;
+	font-family: 'Consolas', 'Courier New', Courier, monospace;
+}
+
+ul > li[data-year-bp] {
+	list-style: none;
+}
+
+ul > li[data-year-bp]::before {
+	content: attr( data-year-bp );
+	display: inline;
+	margin-left: -11ch;
+	margin-right: 1ch;
+	width: 10ch;
+	font-family: 'Consolas', 'Courier New', Courier, monospace;
+}
+
+
+
+
+th[data-year-ce ], ul > li[data-year-ce ],
+th[data-year-bce], ul > li[data-year-bce],
+th[data-year-kya], ul > li[data-year-kya],
+th[data-year-mya], ul > li[data-year-mya],
+th[data-year-gya], ul > li[data-year-gya] {
+	list-style: none;
+	white-space: preserve nowrap;
+}
+
+th[data-year-ce ]::before,
+th[data-year-bce]::before,
+th[data-year-kya]::before,
+th[data-year-mya]::before,
+th[data-year-gya]::before {
+	display: inline;
+	margin-left: -10ch;
+	margin-right: 1ch;
+	width: 9ch;
+	font-family: 'Consolas', 'Courier New', Courier, monospace;
+}
+
+ul > li[data-year-ce ]::before,
+ul > li[data-year-bce]::before,
+ul > li[data-year-kya]::before,
+ul > li[data-year-mya]::before,
+ul > li[data-year-gya]::before {
+	display: inline;
+	margin-left: -9ch;
+	margin-right: 1ch;
+	width: 8ch;
+	font-family: 'Consolas', 'Courier New', Courier, monospace;
+}
+
+th[data-year-ce ]::before, ul > li[data-year-ce ]::before { content: attr( data-year-ce  ) "  CE"; }
+th[data-year-bce]::before, ul > li[data-year-bce]::before { content: attr( data-year-bce ) " BCE"; }
+th[data-year-kya]::before, ul > li[data-year-kya]::before { content: attr( data-year-kya ) " KYA"; }
+th[data-year-mya]::before, ul > li[data-year-mya]::before { content: attr( data-year-mya ) " MYA"; }
+th[data-year-gya]::before, ul > li[data-year-gya]::before { content: attr( data-year-gya ) " GYA"; }
+
+th[data-date] {
+	padding-right: 0;
+	padding-left: 0;
+}
+
+th[data-date]::before {
+	content: attr( data-date );
+	display: inline;
+	margin-left: -11ch;
+	margin-right: 1ch;
+	width: 10ch;
+	font-family: consolas, 'courier new', monospace;
+	text-align: right;
+}
+
+li[data-date] {
+	list-style: none;
+}
+
+li[data-date]::before {
+	content: attr( data-date );
+	display: inline;
+	margin-left: -11ch;
+	margin-right: 1ch;
+	width: 10ch;
+	font-family: consolas, 'courier new', monospace;
+	text-align: right;
+}
+
+th[data-dune] {
+	padding: 0;
+}
+
+th[data-dune]::before {
+    content: attr(data-dune);
+    display: inline;
+    margin-left: -21ch;
+    margin-right: 1ch;
+    font-family: consolas, 'courier new', monospace;
+    text-align: right;
+	white-space-collapse: preserve;
+}
+
+th[data-dune]:empty + td {
+	padding-left: 0;
+}
+
+th[data-year] {
+	padding-right: 0;
+	padding-left: 0;
+	margin-left: -16px;
+}
+
+th[data-year]::before {
+	content: attr( data-year );
+	display: inline;
+	margin-left: -5ch;
+	/* margin-right: 1ch; */
+	font-family: consolas, 'courier new', monospace;
+	text-align: right;
+}
+
+th[data-year]:empty + td {
+	padding-left: 0;
 }

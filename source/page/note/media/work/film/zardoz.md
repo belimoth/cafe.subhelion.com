@@ -4,7 +4,7 @@
 
 --
 
-- [John Boorman     ](/note/media/profile/john-boorman)
-- [Sean Connery     ](/note/media/profile/sean-connery)
-- [Geoffrey Unsworth](/note/media/profile/geoffrey-unsworth)
-- [David Munrow     ](/note/media/profile/david-munrow)
+- [John Boorman     ](/profile/john-boorman)
+- [Sean Connery     ](/profile/sean-connery)
+- [Geoffrey Unsworth](/profile/geoffrey-unsworth)
+- [David Munrow     ](/profile/david-munrow)

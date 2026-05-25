@@ -3,12 +3,12 @@
 <img src=/static/image/media/film/thing.jpg>
 
 - 1982-05-25
-- [The Thing (franchise)](/note/media/franchise/universal/the-thing)
+- [The Thing (franchise)](/shelf/universal/the-thing)
 
 --
 
-- [John Carpenter](/note/media/profile/john-carpenter)
-- [Kurt Russel   ](/note/media/profile/kurt-russel)
+- [John Carpenter](/profile/john-carpenter)
+- [Kurt Russel   ](/profile/kurt-russel)
 
 --
 

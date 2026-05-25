@@ -1,6 +1,6 @@
 # Dracula
 
-- [Dracula (franchise) (media)](/note/media/franchise/various/dracula)
+- [Dracula (franchise) (shelf)](/shelf/dracula)
 
 
 ## History
@@ -39,8 +39,8 @@ todo
 ### Bram Stoker
 
 <ul>
-<li data-life="1838 -- 1905"><a class=new href=/note/media/profile/henry-irving   >Henry Irving</a>
-<li data-life="1847 -- 1912"><a           href=/note/media/profile/bram-stoker    >Bram Stoker</a>
+<li data-life="1838 -- 1905"><a class=new href=/profile/henry-irving   >Henry Irving</a>
+<li data-life="1847 -- 1912"><a           href=/profile/bram-stoker    >Bram Stoker</a>
 </ul>
 
 <ul>
@@ -49,9 +49,9 @@ todo
 <li data-year=1879>Henry Irving as <i>Shylock</i> in <i>The Merchant of Venice</i>
 <li data-year=1885>Henry Irving as <i>Mephistopheles</i> in <i>Faust</i>
 <li data-year=1892>Bram Stoker first visits <a href=https://en.wikipedia.org/wiki/Cruden_Bay>Cruden Bay, Scotland</a>
-<li data-year=1897><a href=/note/media/profile/bram-stoker>Bram Stoker</a> - <a href=/note/media/work/book/bram-stoker/dracula>Dracula</a>
+<li data-year=1897><a href=/profile/bram-stoker>Bram Stoker</a> - <a href=/shelf/1897/dracula>Dracula</a>
 </ul>
 
 <ul>
-<li data-life="1922 -- 2015"><a           href=/note/media/profile/christopher-lee>Christopher Lee</a>
+<li data-life="1922 -- 2015"><a href=/profile/christopher-lee>Christopher Lee</a>
 </ul>

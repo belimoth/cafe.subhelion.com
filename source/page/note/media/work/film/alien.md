@@ -3,18 +3,18 @@
 <img src=/static/image/media/film/alien.jpg>
 
 - 1979-05-25
-- [Alien (franchise)  ](/note/media/franchise/fox/alien)
+- [Alien (franchise)  ](/shelf/alien)
 
 --
 
-- [Dan O'Bannon       ](/note/media/profile/dan-obannon)
-- [H.R. Giger         ](/note/media/profile/hr-giger)
-- [Harry Dean Stanton ](/note/media/profile/harry-dean-stanton)
-- [Ian Holm           ](/note/media/profile/ian-holm)
-- [John Hurt          ](/note/media/profile/john-hurt)
-- [Ridley Scott       ](/note/media/profile/ridley-scott)
-- [Sigourney Weaver   ](/note/media/profile/sigourney-weaver)
-- [Veronica Cartwright](/note/media/profile/veronica-cartwright)
+- [Dan O'Bannon       ](/profile/dan-obannon)
+- [H.R. Giger         ](/profile/hr-giger)
+- [Harry Dean Stanton ](/profile/harry-dean-stanton)
+- [Ian Holm           ](/profile/ian-holm)
+- [John Hurt          ](/profile/john-hurt)
+- [Ridley Scott       ](/profile/ridley-scott)
+- [Sigourney Weaver   ](/profile/sigourney-weaver)
+- [Veronica Cartwright](/profile/veronica-cartwright)
 
 --
 

@@ -3,16 +3,16 @@
 <img src=/static/image/media/film/total-recall.jpg>
 
 - 1990-06-01
-- [Total Recall (franchise)](/note/media/franchise/various/total-recall)
+- [Total Recall (franchise)](/shelf/total-recall)
 
 --
 
-- [Arnold Schwarzenegger](/note/media/profile/arnold-schwarzenegger)
-- [Dan O'Bannon         ](/note/media/profile/dan-obannon)
-- [Michael Ironside     ](/note/media/profile/michael-ironside)
-- [Paul Verhoeven       ](/note/media/profile/paul-verhoeven)
-- [Ronny Cox            ](/note/media/profile/ronny-cox)
-- [Sharon Stone         ](/note/media/profile/sharon-stone)
+- [Arnold Schwarzenegger](/profile/arnold-schwarzenegger)
+- [Dan O'Bannon         ](/profile/dan-obannon)
+- [Michael Ironside     ](/profile/michael-ironside)
+- [Paul Verhoeven       ](/profile/paul-verhoeven)
+- [Ronny Cox            ](/profile/ronny-cox)
+- [Sharon Stone         ](/profile/sharon-stone)
 
 --
 

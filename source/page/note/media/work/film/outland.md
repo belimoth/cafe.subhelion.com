@@ -6,8 +6,8 @@
 
 --
 
-- [Peter Hyams ](/note/media/profile/peter-hyams)
-- [Sean Connery](/note/media/profile/sean-connery)
+- [Peter Hyams ](/profile/peter-hyams)
+- [Sean Connery](/profile/sean-connery)
 
 --
 

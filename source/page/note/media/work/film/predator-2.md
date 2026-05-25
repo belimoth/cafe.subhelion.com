@@ -3,7 +3,7 @@
 <img src=/static/image/media/film/predator-2.jpg>
 
 - 1990-11-21
-- [Predator (franchise)](/note/media/franchise/fox/predator)
+- [Predator (franchise)](/shelf/predator)
 
 --
 

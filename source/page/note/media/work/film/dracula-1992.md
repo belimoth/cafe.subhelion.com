@@ -6,14 +6,14 @@
 
 --
 
-- [Dracula (franchise)](/note/media/franchise/various/dracula)
+- [Dracula (franchise)](/shelf/dracula)
 
 --
 
-- [Anthony Hopkins     ](/note/media/profile/anthony-hopkins)
-- [Eiko Ishioka        ](/note/media/profile/eiko-ishioka)
-- [Francis Ford Coppola](/note/media/profile/francis-ford-coppola)
-- [Gary Oldman         ](/note/media/profile/gary-oldman)
-- [James V. Hart       ](/note/media/profile/james-v-hart)
-- [Keanu Reeves        ](/note/media/profile/keanu-reeves)
-- [Winona Ryder        ](/note/media/profile/winona-ryder)
+- [Anthony Hopkins     ](/profile/anthony-hopkins)
+- [Eiko Ishioka        ](/profile/eiko-ishioka)
+- [Francis Ford Coppola](/profile/francis-ford-coppola)
+- [Gary Oldman         ](/profile/gary-oldman)
+- [James V. Hart       ](/profile/james-v-hart)
+- [Keanu Reeves        ](/profile/keanu-reeves)
+- [Winona Ryder        ](/profile/winona-ryder)

@@ -6,12 +6,12 @@
 
 --
 
-- [Ed Harris       ](/note/media/profile/ed-harris)
-- [Michael Bay     ](/note/media/profile/michael-bay)
-- [Michael Biehn   ](/note/media/profile/michael-biehn)
-- [Nicolas Cage    ](/note/media/profile/nicolas-cage)
-- [Sean Connery    ](/note/media/profile/sean-connery)
-- [William Forsythe](/note/media/profile/william-forsythe)
+- [Ed Harris       ](/profile/ed-harris)
+- [Michael Bay     ](/profile/michael-bay)
+- [Michael Biehn   ](/profile/michael-biehn)
+- [Nicolas Cage    ](/profile/nicolas-cage)
+- [Sean Connery    ](/profile/sean-connery)
+- [William Forsythe](/profile/william-forsythe)
 
 --
 

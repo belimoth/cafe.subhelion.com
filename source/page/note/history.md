@@ -7,13 +7,13 @@
 
 
 <ul>
-<li><time>                    --      3000      BCE                              </time><a href=#prehistory  >Prehistory</a>
-<li><time>           3000 BCE -- &nbsp;500 &nbsp;CE                              </time><a href=#ancient     >Ancient</a>
-<li><time> &nbsp;500 &nbsp;CE --      1500 &nbsp;CE                              </time><a href=#medieval    >Medieval</a>
-<li><time>      1500 &nbsp;CE --      1800 &nbsp;CE                              </time><a href=#early       >Early modern</a>
-<li><time>      1800 &nbsp;CE --      1914 &nbsp;CE                              </time><a href=#modern      >Modern</a>
-<li><time>      1914 &nbsp;CE --      1945 &nbsp;CE                              </time><a href=#ww          >World wars</a>
-<li><time>      1945 &nbsp;CE -- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</time><a href=#contemporary>Contemporary</a>
+<li><time>         -- 3000 BCE</time><a href=#prehistory  >Prehistory</a>
+<li><time>3000 BCE --  500  CE</time><a href=#ancient     >Ancient</a>
+<li><time> 500  CE -- 1500  CE</time><a href=#medieval    >Medieval</a>
+<li><time>1500  CE -- 1800  CE</time><a href=#early       >Early modern</a>
+<li><time>1800  CE -- 1914  CE</time><a href=#modern      >Modern</a>
+<li><time>1914  CE -- 1945  CE</time><a href=#ww          >World wars</a>
+<li><time>1945  CE --         </time><a href=#contemporary>Contemporary</a>
 </ul>
 
 ## Prehistory
