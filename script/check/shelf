@@ -1,0 +1,19 @@
+#!/bin/bash
+
+cd /a/source/page
+
+grep --extended-regexp --no-filename --only-matching --recursive "/shelf/[^ )>]+" . > /a/local/check-shelf-a
+sort --unique /a/local/check-shelf-a --output /a/local/check-shelf-a
+
+find . -type f | sed "s|./|/|" | sed "s|.md||" > /a/local/check-shelf-b
+sort --unique /a/local/check-shelf-b --output /a/local/check-shelf-b
+
+# code --diff /a/local/check-shelf-a /a/local/check-shelf-b
+
+comm -13 /a/local/check-shelf-a /a/local/check-shelf-b > /a/local/check-shelf-orphan
+comm -23 /a/local/check-shelf-a /a/local/check-shelf-b > /a/local/check-shelf-missing
+find . -size 0  > /a/local/check-shelf-empty
+
+code /a/local/check-shelf-orphan
+code /a/local/check-shelf-missing
+code /a/local/check-shelf-empty

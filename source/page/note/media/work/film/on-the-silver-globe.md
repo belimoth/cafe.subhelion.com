@@ -1,2 +1,0 @@
-# On The Silver Globe
-#

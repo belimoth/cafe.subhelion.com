@@ -11,19 +11,19 @@
 ## Fiction
 
 <ul>
-<li data-year=1875><a class=new href=/shelf/1875/the-primrose-path.jpg         >The Primrose Path </a>
-<li data-year=1875><a class=new href=/shelf/1875/the-chain-of-destiny.jpg      >The Chain of Destiny (novella) </a>
-<li data-year=1890><a class=new href=/shelf/1890/the-snakes-pass.jpg           >The Snake's Pass </a>
-<li data-year=1895><a class=new href=/shelf/1895/the-watters-mou.jpg           >The Watter's Mou' (novella) </a>
-<li data-year=1895><a class=new href=/shelf/1895/the-shoulder-of-shasta.jpg    >The Shoulder of Shasta </a>
-<li data-year=1897><a           href=/shelf/1897/dracula.jpg                   >Dracula </a>
-<li data-year=1898><a class=new href=/shelf/1898/miss-betty.jpg                >Miss Betty </a>
-<li data-year=1902><a class=new href=/shelf/1902/the-mystery-of-the-sea.jpg    >The Mystery of the Sea </a>
-<li data-year=1903><a class=new href=/shelf/1903/the-jewel-of-seven-stars.jpg  >The Jewel of Seven Stars</a>
-<li data-year=1905><a class=new href=/shelf/1905/the-gates-of-life.jpg         >The Gates of Life</a>
-<li data-year=1908><a class=new href=/shelf/1908/lady-athlyne.jpg              >Lady Athlyne </a>
-<li data-year=1909><a class=new href=/shelf/1909/the-lady-of-the-shroud.jpg    >The Lady of the Shroud </a>
-<li data-year=1911><a class=new href=/shelf/1911/the-lair-of-the-white-worm.jpg>The Lair of the White Worm</a>
+<li data-year=1875><a class=new href=/shelf/1875/the-primrose-path         >The Primrose Path </a>
+<li data-year=1875><a class=new href=/shelf/1875/the-chain-of-destiny      >The Chain of Destiny (novella) </a>
+<li data-year=1890><a class=new href=/shelf/1890/the-snakes-pass           >The Snake's Pass </a>
+<li data-year=1895><a class=new href=/shelf/1895/the-watters-mou           >The Watter's Mou' (novella) </a>
+<li data-year=1895><a class=new href=/shelf/1895/the-shoulder-of-shasta    >The Shoulder of Shasta </a>
+<li data-year=1897><a           href=/shelf/1897/dracula                   >Dracula </a>
+<li data-year=1898><a class=new href=/shelf/1898/miss-betty                >Miss Betty </a>
+<li data-year=1902><a class=new href=/shelf/1902/the-mystery-of-the-sea    >The Mystery of the Sea </a>
+<li data-year=1903><a class=new href=/shelf/1903/the-jewel-of-seven-stars  >The Jewel of Seven Stars</a>
+<li data-year=1905><a class=new href=/shelf/1905/the-gates-of-life         >The Gates of Life</a>
+<li data-year=1908><a class=new href=/shelf/1908/lady-athlyne              >Lady Athlyne </a>
+<li data-year=1909><a class=new href=/shelf/1909/the-lady-of-the-shroud    >The Lady of the Shroud </a>
+<li data-year=1911><a class=new href=/shelf/1911/the-lair-of-the-white-worm>The Lair of the White Worm</a>
 </ul>
 
 ### Short story collections
