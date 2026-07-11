@@ -54,7 +54,7 @@ a:active {
 	color: #222;
 }
 
-a.new {
+a[new] {
 	color: #D33;
 }
 
@@ -583,15 +583,7 @@ img.autha {
 
 
 
-/* table td.img img[src^="/image/youtube"] {
-	width: 60px;
-	height: 45px;
-	display: inline;
-} */
 
-td.img {
-	padding: 0;
-}
 
 table, tr {
 	overflow: visible;
@@ -601,6 +593,16 @@ td[data-topic]::after {
 	content: attr( data-topic );
 	display: inline;
 	float: right;
+}
+
+/* table td.img img[src^="/image/youtube"] {
+	width: 60px;
+	height: 45px;
+	display: inline;
+} */
+
+td.img {
+	padding: 0;
 }
 
 td.img ~ td[data-topic]::after {
@@ -683,7 +685,7 @@ li[data-life]::before {
 
 }
 
-a.new {
+a[new] {
 	cursor: pointer;
 }
 
@@ -868,3 +870,74 @@ th[data-year]::before {
 th[data-year]:empty + td {
 	padding-left: 0;
 }
+
+
+
+
+
+table img[src^="/static/image/media"] {
+	width: 51px;
+	height: 82px;
+}
+
+table.missing img,
+table tr.missing img,
+table td.missing img {
+	/* filter: sepia(100%) saturate(100%) hue-rotate(180deg) opacity(60%); */
+	filter: sepia(100%) hue-rotate(290deg) contrast(60%) opacity(80%);
+}
+
+th {
+	padding: 0;
+}
+
+td {
+	padding: 0 2.5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* h3[data-year] {
+	padding-right: 0;
+	padding-left: 0;
+	margin-left: -16px;
+} */
+
+h3[data-year]::before {
+	content: attr( data-year );
+	display: inline;
+	margin-left: -5ch;
+	margin-right: 1ch;
+	font-family: consolas, 'courier new', monospace;
+	text-align: right;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+input[missing]:checked + label ~ h3.missing       { display: none; }
+input[missing]:checked + label ~ table td.missing { display: none; }
+input[missing]:checked + label ~ table tr.missing { display: none; }
+input[missing]:checked + label ~ table.missing    { display: none; }
