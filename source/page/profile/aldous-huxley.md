@@ -11,18 +11,18 @@
 ## Fiction
 
 <ul>
-<li data-year=1921><a class=new href=/shelf/1921/crome-yellow              >Crome Yellow</a>
-<li data-year=1923><a class=new href=/shelf/1923/antic-hay                 >Antic Hay</a>
-<li data-year=1925><a class=new href=/shelf/1925/those-barren-leaves       >Those Barren Leaves</a>
-<li data-year=1928><a class=new href=/shelf/1928/point-counter-point       >Point Counter Point</a>
-<li data-year=1932><a class=new href=/shelf/1932/brave-new-world           >Brave New World</a>
-<li data-year=1936><a class=new href=/shelf/1936/wyeless-in-gaza           >Eyeless in Gaza</a>
-<li data-year=1939><a class=new href=/shelf/1939/after-many-a-summer       >After Many a Summer, or After Many a Summer Dies the Swan</a>
-<li data-year=1944><a class=new href=/shelf/1944/time-must-have-a-stop     >Time Must Have a Stop</a>
-<li data-year=1948><a class=new href=/shelf/1948/ape-and-essence           >Ape and Essence</a>
-<li data-year=1952><a class=new href=/shelf/1952/the-devils-of-loudun      >The Devils of Loudun</a>
-<li data-year=1955><a class=new href=/shelf/1955/the-genius-and-the-goddess>The Genius and the Goddess</a>
-<li data-year=1962><a class=new href=/shelf/1962/island                    >Island</a>
+<li data-year=1921><a new href=/shelf/1921/crome-yellow              >Crome Yellow</a>
+<li data-year=1923><a new href=/shelf/1923/antic-hay                 >Antic Hay</a>
+<li data-year=1925><a new href=/shelf/1925/those-barren-leaves       >Those Barren Leaves</a>
+<li data-year=1928><a new href=/shelf/1928/point-counter-point       >Point Counter Point</a>
+<li data-year=1932><a new href=/shelf/1932/brave-new-world           >Brave New World</a>
+<li data-year=1936><a new href=/shelf/1936/wyeless-in-gaza           >Eyeless in Gaza</a>
+<li data-year=1939><a new href=/shelf/1939/after-many-a-summer       >After Many a Summer, or After Many a Summer Dies the Swan</a>
+<li data-year=1944><a new href=/shelf/1944/time-must-have-a-stop     >Time Must Have a Stop</a>
+<li data-year=1948><a new href=/shelf/1948/ape-and-essence           >Ape and Essence</a>
+<li data-year=1952><a new href=/shelf/1952/the-devils-of-loudun      >The Devils of Loudun</a>
+<li data-year=1955><a new href=/shelf/1955/the-genius-and-the-goddess>The Genius and the Goddess</a>
+<li data-year=1962><a new href=/shelf/1962/island                    >Island</a>
 </ul>
 
 ### Short story collections

@@ -11,71 +11,71 @@
 ## Fiction
 
 <ul>
-<li data-year=1969                                                   ><a class=new href=/shelf/1969/redbeard                            >Redbeard</a>
-<li data-year=1980>Mike Resnick, Glen A. Larson -                     <a class=new href=/shelf/1980/battlestar-galactica-discovers-earth>Battlestar Galactica: Galactica Discovers Earth</a>
-<li data-year=1984                                                   ><a class=new href=/shelf/1984/the-branch                          >The Branch</a>
-<li data-year=1990                                                   ><a class=new href=/shelf/1990/second-contact                      >Second Contact</a>
-<li data-year=1991>Mike Resnick, Jack Chalker, George Alec Effinger - <a class=new href=/shelf/1991/the-red-tape-war                    >The Red Tape War</a>
-<li data-year=2003                                                   ><a class=new href=/shelf/2003/lara-croft-the-amulet-of-power      >Lara Croft: The Amulet of Power</a>
-<li data-year=2005                                                   ><a class=new href=/shelf/2005/dragon-america-revolution           >Dragon America: Revolution</a>
-<li data-year=2012>Mike Resnick, Jack McDevitt -                      <a class=new href=/shelf/2012/the-cassandra-project               >The Cassandra Project</a>
-<li data-year=2017>Mike Resnick, Eric Flint -                         <a class=new href=/shelf/2017/the-gods-of-sagittarius             >The Gods of Sagittarius</a>
+<li data-year=1969                                                   ><a new href=/shelf/1969/redbeard                            >Redbeard</a>
+<li data-year=1980>Mike Resnick, Glen A. Larson -                     <a new href=/shelf/1980/battlestar-galactica-discovers-earth>Battlestar Galactica: Galactica Discovers Earth</a>
+<li data-year=1984                                                   ><a new href=/shelf/1984/the-branch                          >The Branch</a>
+<li data-year=1990                                                   ><a new href=/shelf/1990/second-contact                      >Second Contact</a>
+<li data-year=1991>Mike Resnick, Jack Chalker, George Alec Effinger - <a new href=/shelf/1991/the-red-tape-war                    >The Red Tape War</a>
+<li data-year=2003                                                   ><a new href=/shelf/2003/lara-croft-the-amulet-of-power      >Lara Croft: The Amulet of Power</a>
+<li data-year=2005                                                   ><a new href=/shelf/2005/dragon-america-revolution           >Dragon America: Revolution</a>
+<li data-year=2012>Mike Resnick, Jack McDevitt -                      <a new href=/shelf/2012/the-cassandra-project               >The Cassandra Project</a>
+<li data-year=2017>Mike Resnick, Eric Flint -                         <a new href=/shelf/2017/the-gods-of-sagittarius             >The Gods of Sagittarius</a>
 </ul>
 
 ### Birthright Universe
 
 <ul>
-<li data-year=1988><a class=new href=/shelf/1988/the-hunter     >The Hunter</a> (short)
-<li data-year=1988><a class=new href=/shelf/1988/himself        >Himself</a> (short)
-<li data-year=1988><a class=new href=/shelf/1988/the-politician >The Politician</a> (short)
-<li data-year=1988><a class=new href=/shelf/1988/the-curator    >The Curator</a> (short)
-<li data-year=1988><a class=new href=/shelf/1988/the-potentate  >The Potentate</a> (short)
-<li data-year=1988><a class=new href=/shelf/1988/the-artist     >The Artist</a> (short)
-<li data-year=1988><a class=new href=/shelf/1988/the-gambler    >The Gambler</a> (short)
-<li data-year=1988><a class=new href=/shelf/1988/the-graverobber>The Graverobber</a> (short)
-<li data-year=1988><a class=new href=/shelf/1988/the-warlord    >The Warlord</a> (short)
-<li data-year=1988><a class=new href=/shelf/1988/the-thief      >The Thief</a> (short)
-<li data-year=1988><a class=new href=/shelf/1988/ivory          >Ivory</a>
+<li data-year=1988><a new href=/shelf/1988/the-hunter     >The Hunter</a> (short)
+<li data-year=1988><a new href=/shelf/1988/himself        >Himself</a> (short)
+<li data-year=1988><a new href=/shelf/1988/the-politician >The Politician</a> (short)
+<li data-year=1988><a new href=/shelf/1988/the-curator    >The Curator</a> (short)
+<li data-year=1988><a new href=/shelf/1988/the-potentate  >The Potentate</a> (short)
+<li data-year=1988><a new href=/shelf/1988/the-artist     >The Artist</a> (short)
+<li data-year=1988><a new href=/shelf/1988/the-gambler    >The Gambler</a> (short)
+<li data-year=1988><a new href=/shelf/1988/the-graverobber>The Graverobber</a> (short)
+<li data-year=1988><a new href=/shelf/1988/the-warlord    >The Warlord</a> (short)
+<li data-year=1988><a new href=/shelf/1988/the-thief      >The Thief</a> (short)
+<li data-year=1988><a new href=/shelf/1988/ivory          >Ivory</a>
 </ul>
 
 ### Birthright Universe - Tales of the Galactic Midway
 
 <ul>
-<li data-year=1982><a class=new href=/shelf/1982/sideshow                                 >Sideshow</a>
-<li data-year=1983><a class=new href=/shelf/1983/the-three-legged-hootch-dancer           >The Three-Legged Hootch Dancer</a>
-<li data-year=1983><a class=new href=/shelf/1983/the-wild-alien-tamer                     >The Wild Alien Tamer</a>
-<li data-year=1983><a class=new href=/shelf/1983/the-best-rootin-tootin-shootin-gunslinger>The Best Rootin' Tootin' Shootin' Gunslinger in the Whole Damned Galaxy</a>
+<li data-year=1982><a new href=/shelf/1982/sideshow                                 >Sideshow</a>
+<li data-year=1983><a new href=/shelf/1983/the-three-legged-hootch-dancer           >The Three-Legged Hootch Dancer</a>
+<li data-year=1983><a new href=/shelf/1983/the-wild-alien-tamer                     >The Wild Alien Tamer</a>
+<li data-year=1983><a new href=/shelf/1983/the-best-rootin-tootin-shootin-gunslinger>The Best Rootin' Tootin' Shootin' Gunslinger in the Whole Damned Galaxy</a>
 </ul>
 
 ### Todo
 
 <ul>
-<li data-year=1982><a class=new href=/shelf/1982/the-pioneers      >The Pioneers</a> (short)
-<li data-year=1982><a class=new href=/shelf/1982/the-cartographers >The Cartographers</a> (short)
-<li data-year=1982><a class=new href=/shelf/1982/the-miners        >The Miners</a> (short)
-<li data-year=1982><a class=new href=/shelf/1982/the-psychologists >The Psychologists</a> (short)
-<li data-year=1982><a class=new href=/shelf/1982/the-merchants     >The Merchants</a> (short)
-<li data-year=1982><a class=new href=/shelf/1982/the-diplomats     >The Diplomats</a> (short)
-<li data-year=1982><a class=new href=/shelf/1982/the-olympians     >The Olympians</a> (short)
-<li data-year=1982><a class=new href=/shelf/1982/the-barristers    >The Barristers</a> (short)
-<li data-year=1982><a class=new href=/shelf/1982/the-medics        >The Medics</a> (short)
-<li data-year=1982><a class=new href=/shelf/1982/the-politicians   >The Politicians</a> (short)
-<li data-year=1982><a class=new href=/shelf/1982/the-administrators>The Administrators</a> (short)
-<li data-year=1982><a class=new href=/shelf/1982/the-media         >The Media</a> (short)
-<li data-year=1982><a class=new href=/shelf/1982/the-artists       >The Artists</a> (short)
-<li data-year=1982><a class=new href=/shelf/1982/the-biochemists   >The Biochemists</a> (short)
-<li data-year=1982><a class=new href=/shelf/1982/the-warlords      >The Warlords</a> (short)
-<li data-year=1982><a class=new href=/shelf/1982/the-conspirators  >The Conspirators</a> (short)
-<li data-year=1982><a class=new href=/shelf/1982/the-rulers        >The Rulers</a> (short)
-<li data-year=1982><a class=new href=/shelf/1982/the-symbiotics    >The Symbiotics</a> (short)
-<li data-year=1982><a class=new href=/shelf/1982/the-philosophers  >The Philosophers</a> (short)
-<li data-year=1982><a class=new href=/shelf/1982/the-architects    >The Architects</a> (short)
-<li data-year=1982><a class=new href=/shelf/1982/the-collectors    >The Collectors</a> (short)
-<li data-year=1982><a class=new href=/shelf/1982/the-rebels        >The Rebels</a> (short)
-<li data-year=1982><a class=new href=/shelf/1982/the-arcaeologists >The Archaeologists</a> (short)
-<li data-year=1982><a class=new href=/shelf/1982/the-priests       >The Priests</a> (short)
-<li data-year=1982><a class=new href=/shelf/1982/the-pacifists     >The Pacifists</a> (short)
-<li data-year=1982><a class=new href=/shelf/1982/the-destroyers    >The Destroyers</a> (short)
+<li data-year=1982><a new href=/shelf/1982/the-pioneers      >The Pioneers</a> (short)
+<li data-year=1982><a new href=/shelf/1982/the-cartographers >The Cartographers</a> (short)
+<li data-year=1982><a new href=/shelf/1982/the-miners        >The Miners</a> (short)
+<li data-year=1982><a new href=/shelf/1982/the-psychologists >The Psychologists</a> (short)
+<li data-year=1982><a new href=/shelf/1982/the-merchants     >The Merchants</a> (short)
+<li data-year=1982><a new href=/shelf/1982/the-diplomats     >The Diplomats</a> (short)
+<li data-year=1982><a new href=/shelf/1982/the-olympians     >The Olympians</a> (short)
+<li data-year=1982><a new href=/shelf/1982/the-barristers    >The Barristers</a> (short)
+<li data-year=1982><a new href=/shelf/1982/the-medics        >The Medics</a> (short)
+<li data-year=1982><a new href=/shelf/1982/the-politicians   >The Politicians</a> (short)
+<li data-year=1982><a new href=/shelf/1982/the-administrators>The Administrators</a> (short)
+<li data-year=1982><a new href=/shelf/1982/the-media         >The Media</a> (short)
+<li data-year=1982><a new href=/shelf/1982/the-artists       >The Artists</a> (short)
+<li data-year=1982><a new href=/shelf/1982/the-biochemists   >The Biochemists</a> (short)
+<li data-year=1982><a new href=/shelf/1982/the-warlords      >The Warlords</a> (short)
+<li data-year=1982><a new href=/shelf/1982/the-conspirators  >The Conspirators</a> (short)
+<li data-year=1982><a new href=/shelf/1982/the-rulers        >The Rulers</a> (short)
+<li data-year=1982><a new href=/shelf/1982/the-symbiotics    >The Symbiotics</a> (short)
+<li data-year=1982><a new href=/shelf/1982/the-philosophers  >The Philosophers</a> (short)
+<li data-year=1982><a new href=/shelf/1982/the-architects    >The Architects</a> (short)
+<li data-year=1982><a new href=/shelf/1982/the-collectors    >The Collectors</a> (short)
+<li data-year=1982><a new href=/shelf/1982/the-rebels        >The Rebels</a> (short)
+<li data-year=1982><a new href=/shelf/1982/the-arcaeologists >The Archaeologists</a> (short)
+<li data-year=1982><a new href=/shelf/1982/the-priests       >The Priests</a> (short)
+<li data-year=1982><a new href=/shelf/1982/the-pacifists     >The Pacifists</a> (short)
+<li data-year=1982><a new href=/shelf/1982/the-destroyers    >The Destroyers</a> (short)
 </ul>
 
 ### Tales of the Velvet Comet
@@ -167,77 +167,77 @@
 ### The Chronicles of Lucifer Jones
 
 <ul>
-<li data-year=1985><a class=new href=/shelf/1985/adventures>Adventures</a>
-<li data-year=1993><a class=new href=/shelf/1993/exploits>Exploits</a>
-<li data-year=1995><a class=new href=/shelf/1995/encounters>Encounters</a>
-<li data-year=2009><a class=new href=/shelf/2009/hazards>Hazards</a>
-<li data-year=2017><a class=new href=/shelf/2017/voyages>Voyages</a>
+<li data-year=1985><a new href=/shelf/1985/adventures>Adventures</a>
+<li data-year=1993><a new href=/shelf/1993/exploits>Exploits</a>
+<li data-year=1995><a new href=/shelf/1995/encounters>Encounters</a>
+<li data-year=2009><a new href=/shelf/2009/hazards>Hazards</a>
+<li data-year=2017><a new href=/shelf/2017/voyages>Voyages</a>
 </ul>
 
 ### Dreamscape
 
 <ul>
-<li data-year=2019><a class=new href=/shelf/2019/the-master-of-dreams>The Master of Dreams</a>
-<li data-year=2020><a class=new href=/shelf/2020/the-mistress-of-illusions>The Mistress of Illusions</a>
-<li data-year=TBD><a class=new href=/shelf/TBD>/the-lord-of-nightmares>The Lord of Nightmares</a>
+<li data-year=2019><a new href=/shelf/2019/the-master-of-dreams>The Master of Dreams</a>
+<li data-year=2020><a new href=/shelf/2020/the-mistress-of-illusions>The Mistress of Illusions</a>
+<li data-year=TBD><a new href=/shelf/TBD>/the-lord-of-nightmares>The Lord of Nightmares</a>
 </ul>
 
 ### Encounters
 
 <ul>
-<li data-year=2005><a class=new href=/shelf/2005/lady-with-an-alien   >Lady with an Alien: An Encounter with Leonardo Da Vinci</a>
-<li data-year=2006><a class=new href=/shelf/2006/a-club-in-montmartre >A Club in Montmartre: An Encounter with Henri Toulouse-Lautrec</a>
-<li data-year=2007><a class=new href=/shelf/2007/world-behind-the-door>World Behind the Door: An Encounter with Salvador Dali</a>
+<li data-year=2005><a new href=/shelf/2005/lady-with-an-alien   >Lady with an Alien: An Encounter with Leonardo Da Vinci</a>
+<li data-year=2006><a new href=/shelf/2006/a-club-in-montmartre >A Club in Montmartre: An Encounter with Henri Toulouse-Lautrec</a>
+<li data-year=2007><a new href=/shelf/2007/world-behind-the-door>World Behind the Door: An Encounter with Salvador Dali</a>
 </ul>
 
 ### Eli Paxton
 
 <ul>
-<li data-year=1997><a class=new href=/shelf/1997/dog-in-the-manger     >Dog in the Manger</a>
-<li data-year=2013><a class=new href=/shelf/2013/the-trojan-colt       >The Trojan Colt</a>
-<li data-year=2014><a class=new href=/shelf/2014/cat-on-a-cold-tin-roof>Cat on a Cold Tin Roof</a>
+<li data-year=1997><a new href=/shelf/1997/dog-in-the-manger     >Dog in the Manger</a>
+<li data-year=2013><a new href=/shelf/2013/the-trojan-colt       >The Trojan Colt</a>
+<li data-year=2014><a new href=/shelf/2014/cat-on-a-cold-tin-roof>Cat on a Cold Tin Roof</a>
 </ul>
 
 ### John Justin Mallory
 
 <ul>
-<li data-year=1987><a class=new href=/shelf/1987/stalking-the-unicorn>Stalking the Unicorn</a>
-<li data-year=2008><a class=new href=/shelf/2008/stalking-the-vampire>Stalking the Vampire</a>
-<li data-year=2009><a class=new href=/shelf/2009/stalking-the-dragon >Stalking the Dragon</a>
-<li data-year=2012><a class=new href=/shelf/2012/stalking-the-zombie >Stalking the Zombie</a> (collection)
+<li data-year=1987><a new href=/shelf/1987/stalking-the-unicorn>Stalking the Unicorn</a>
+<li data-year=2008><a new href=/shelf/2008/stalking-the-vampire>Stalking the Vampire</a>
+<li data-year=2009><a new href=/shelf/2009/stalking-the-dragon >Stalking the Dragon</a>
+<li data-year=2012><a new href=/shelf/2012/stalking-the-zombie >Stalking the Zombie</a> (collection)
 </ul>
 
 ### Ganymede
 
 <ul>
-<li data-year=1968><a class=new href=/shelf/1968/the-goddess-of-ganymede >The Goddess of Ganymede</a>
-<li data-year=1968><a class=new href=/shelf/1968/pursuit-on-ganymed     e>Pursuit on Ganymede</a>
+<li data-year=1968><a new href=/shelf/1968/the-goddess-of-ganymede >The Goddess of Ganymede</a>
+<li data-year=1968><a new href=/shelf/1968/pursuit-on-ganymed     e>Pursuit on Ganymede</a>
 </ul>
 
 ### Kirinyaga
 
 <ul>
-<li data-year=1991><a class=new href=/shelf/1991/one-perfect-morning-with-jackals>One Perfect Morning, with Jackals</a> (short)
-<li data-year=1988><a class=new href=/shelf/1988/kirinyaga>Kirinyaga</a> (short)
-<li data-year=1989><a class=new href=/shelf/1989/for-i-have-touched-the-sky>For I Have Touched the Sky</a> (short)
-<li data-year=1990><a class=new href=/shelf/1990/bwana>Bwana</a> (short)
-<li data-year=1990><a class=new href=/shelf/1990/the-manamouki>The Manamouki</a> (short)
-<li data-year=1991><a class=new href=/shelf/1991/song-of-a-dry-rive>Song of a Dry Rive</a> (short)
-<li data-year=1992><a class=new href=/shelf/1992/the-lotus-and-the-spear>The Lotus and the Spear</a> (short)
-<li data-year=1994><a class=new href=/shelf/1994/a-little-knowledge>A Little Knowledge</a> (short)
-<li data-year=1995><a class=new href=/shelf/1995/when-the-old-gods-die>When the Old Gods Die</a> (short)
-<li data-year=1996><a class=new href=/shelf/1996/the-land-of-nod>The Land of Nod</a> (short)
-<li data-year=1998><a class=new href=/shelf/1998/kirinyaga-1998>Kirinyaga: A Fable of Utopia</a> (collection)
-<li data-year=2008><a class=new href=/shelf/2008/kilimanjaro>Kilimanjaro: A Fable of Utopia</a> (novella)
+<li data-year=1991><a new href=/shelf/1991/one-perfect-morning-with-jackals>One Perfect Morning, with Jackals</a> (short)
+<li data-year=1988><a new href=/shelf/1988/kirinyaga>Kirinyaga</a> (short)
+<li data-year=1989><a new href=/shelf/1989/for-i-have-touched-the-sky>For I Have Touched the Sky</a> (short)
+<li data-year=1990><a new href=/shelf/1990/bwana>Bwana</a> (short)
+<li data-year=1990><a new href=/shelf/1990/the-manamouki>The Manamouki</a> (short)
+<li data-year=1991><a new href=/shelf/1991/song-of-a-dry-rive>Song of a Dry Rive</a> (short)
+<li data-year=1992><a new href=/shelf/1992/the-lotus-and-the-spear>The Lotus and the Spear</a> (short)
+<li data-year=1994><a new href=/shelf/1994/a-little-knowledge>A Little Knowledge</a> (short)
+<li data-year=1995><a new href=/shelf/1995/when-the-old-gods-die>When the Old Gods Die</a> (short)
+<li data-year=1996><a new href=/shelf/1996/the-land-of-nod>The Land of Nod</a> (short)
+<li data-year=1998><a new href=/shelf/1998/kirinyaga-1998>Kirinyaga: A Fable of Utopia</a> (collection)
+<li data-year=2008><a new href=/shelf/2008/kilimanjaro>Kilimanjaro: A Fable of Utopia</a> (novella)
 </ul>
 
 ### Weird West Tales
 
 <ul>
-<li data-year=2010><a class=new href=/shelf/2010/the-buntline-special>The Buntline Special</a>
-<li data-year=2011><a class=new href=/shelf/2011/the-doctor-and-the-kid>The Doctor and the Kid</a>
-<li data-year=2012><a class=new href=/shelf/2012/the-doctor-and-the-rough-rider>The Doctor and the Rough Rider</a>
-<li data-year=2013><a class=new href=/shelf/2013/the-doctor-and-the-dinosaurs>The Doctor and the Dinosaurs</a>
+<li data-year=2010><a new href=/shelf/2010/the-buntline-special>The Buntline Special</a>
+<li data-year=2011><a new href=/shelf/2011/the-doctor-and-the-kid>The Doctor and the Kid</a>
+<li data-year=2012><a new href=/shelf/2012/the-doctor-and-the-rough-rider>The Doctor and the Rough Rider</a>
+<li data-year=2013><a new href=/shelf/2013/the-doctor-and-the-dinosaurs>The Doctor and the Dinosaurs</a>
 </ul>
 
 ### Collections

@@ -17,17 +17,17 @@
 <style>li { white-space: normal; }</style>
 
 <ul>
-<li data-year=1981                                   ><a class=new href=/shelf/1981/johnny-mnemonic             >Johnny Mnemonic             </a> (short)
-<li data-year=1981                                   ><a class=new href=/shelf/1981/the-gernsback-continuum     >The Gernsback Continuum     </a> (short)
-<li data-year=1977                                   ><a class=new href=/shelf/1977/fragments-of-a-hologram-rose>Fragments of a Hologram Rose</a> (short)
-<li data-year=1981>William Gibson, John Shirley -     <a class=new href=/shelf/1981/the-belonging-kind          >The Belonging Kind          </a> (short)
-<li data-year=1981                                   ><a class=new href=/shelf/1981/hinterlands                 >Hinterlands                 </a> (short)
-<li data-year=1987>William Gibson, Bruce Sterling -   <a class=new href=/shelf/1987/red-star-winter-orbit       >Red Star, Winter Orbit      </a> (short)
-<li data-year=1984                                   ><a class=new href=/shelf/1984/new-rose-hotel              >New Rose Hotel              </a> (short)
-<li data-year=1985                                   ><a class=new href=/shelf/1985/the-winter-market           >The Winter Market           </a> (short)
-<li data-year=1985>William Gibson, Michael Swanwick - <a class=new href=/shelf/1985/dogfight                    >Dogfight                    </a> (short)
-<li data-year=1982                                   ><a class=new href=/shelf/1982/burning-chrome              >Burning Chrome              </a> (short)
-<li data-year=1986                                   ><a class=new href=/shelf/1986/burning-chrome              >Burning Chrome              </a> (omnibus)
+<li data-year=1981                                   ><a new href=/shelf/1981/johnny-mnemonic             >Johnny Mnemonic             </a> (short)
+<li data-year=1981                                   ><a new href=/shelf/1981/the-gernsback-continuum     >The Gernsback Continuum     </a> (short)
+<li data-year=1977                                   ><a new href=/shelf/1977/fragments-of-a-hologram-rose>Fragments of a Hologram Rose</a> (short)
+<li data-year=1981>William Gibson, John Shirley -     <a new href=/shelf/1981/the-belonging-kind          >The Belonging Kind          </a> (short)
+<li data-year=1981                                   ><a new href=/shelf/1981/hinterlands                 >Hinterlands                 </a> (short)
+<li data-year=1987>William Gibson, Bruce Sterling -   <a new href=/shelf/1987/red-star-winter-orbit       >Red Star, Winter Orbit      </a> (short)
+<li data-year=1984                                   ><a new href=/shelf/1984/new-rose-hotel              >New Rose Hotel              </a> (short)
+<li data-year=1985                                   ><a new href=/shelf/1985/the-winter-market           >The Winter Market           </a> (short)
+<li data-year=1985>William Gibson, Michael Swanwick - <a new href=/shelf/1985/dogfight                    >Dogfight                    </a> (short)
+<li data-year=1982                                   ><a new href=/shelf/1982/burning-chrome              >Burning Chrome              </a> (short)
+<li data-year=1986                                   ><a new href=/shelf/1986/burning-chrome              >Burning Chrome              </a> (omnibus)
 </ul>
 
 <h3 id=sprawl>Sprawl</h3>
@@ -41,31 +41,31 @@
 ### with Bruce Sterling
 
 <ul>
-<li data-year=1990>William Gibson, Bruce Sterling - <a class=new href=/shelf/1990/the-difference-engine>The Difference Engine</a>
+<li data-year=1990>William Gibson, Bruce Sterling - <a new href=/shelf/1990/the-difference-engine>The Difference Engine</a>
 </ul>
 
 ### Bridge
 
 <ul>
-<li data-year=1993><a class=new href=/shelf/1993/virtual-light>Virtual Light</a>
-<li data-year=1996><a class=new href=/shelf/1996/idoru>Idoru</a>
-<li data-year=1999><a class=new href=/shelf/1999/all-tomorrows-parties>All Tomorrow's Parties</a>
+<li data-year=1993><a new href=/shelf/1993/virtual-light>Virtual Light</a>
+<li data-year=1996><a new href=/shelf/1996/idoru>Idoru</a>
+<li data-year=1999><a new href=/shelf/1999/all-tomorrows-parties>All Tomorrow's Parties</a>
 </ul>
 
 ### Blue Ant
 
 <ul>
-<li data-year=2003><a class=new href=/shelf/2003/pattern-recognition>Pattern Recognition</a>
-<li data-year=2007><a class=new href=/shelf/2007/spook-country      >Spook Country</a>
-<li data-year=2010><a class=new href=/shelf/2010/zero-history       >Zero History</a>
+<li data-year=2003><a new href=/shelf/2003/pattern-recognition>Pattern Recognition</a>
+<li data-year=2007><a new href=/shelf/2007/spook-country      >Spook Country</a>
+<li data-year=2010><a new href=/shelf/2010/zero-history       >Zero History</a>
 </ul>
 
 ### Jackpot
 
 <ul>
-<li data-year=2014><a class=new href=/shelf/2014/the-peripheral>The Peripheral</a>
-<li data-year=2020><a class=new href=/shelf/2020/agency        >Agency</a>
-<li data-year=20??><a class=new href=/shelf/20??/jackpot       >Jackpot</a>
+<li data-year=2014><a new href=/shelf/2014/the-peripheral>The Peripheral</a>
+<li data-year=2020><a new href=/shelf/2020/agency        >Agency</a>
+<li data-year=20??><a new href=/shelf/20??/jackpot       >Jackpot</a>
 </ul>
 
 
@@ -91,6 +91,6 @@
 ## Comics
 
 <ul>
-<li data-year=2016>William Gibson, Michael St. John Smith, Butch Guice - <a class=new href=/shelf/2016/archangel              >Archangel</a>
-<li data-year=2019>William Gibson, Johnnie Christmas, Tamra Bonvillain - <a class=new href=/shelf/2019/william-gibsons-alien-3>William Gibson's Alien 3</a>
+<li data-year=2016>William Gibson, Michael St. John Smith, Butch Guice - <a new href=/shelf/2016/archangel              >Archangel</a>
+<li data-year=2019>William Gibson, Johnnie Christmas, Tamra Bonvillain - <a new href=/shelf/2019/william-gibsons-alien-3>William Gibson's Alien 3</a>
 </ul>

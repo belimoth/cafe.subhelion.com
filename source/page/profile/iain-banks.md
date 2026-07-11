@@ -32,10 +32,10 @@
 # Culture
 
 <ul>
-<li data-year=1987><a class=new href=/shelf/1987/consider-phlebas    >Consider Phlebas
-<li data-year=1988><a class=new href=/shelf/1988/the-player-of-games >The Player of Games
-<li data-year=1990><a class=new href=/shelf/1990/use-of-weapons      >Use of Weapons
-<li data-year=1991><a class=new href=/shelf/1991/the-state-of-the-art>The State of the Art (short story collection)
+<li data-year=1987><a new href=/shelf/1987/consider-phlebas    >Consider Phlebas
+<li data-year=1988><a new href=/shelf/1988/the-player-of-games >The Player of Games
+<li data-year=1990><a new href=/shelf/1990/use-of-weapons      >Use of Weapons
+<li data-year=1991><a new href=/shelf/1991/the-state-of-the-art>The State of the Art (short story collection)
 </ul>
 
 # Culture - The State of the Art - Contents

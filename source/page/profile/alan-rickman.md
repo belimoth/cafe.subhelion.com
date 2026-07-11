@@ -30,46 +30,36 @@
 
 
 <table>
-<tr><th data-year=1988><td class=img><img src=/static/image/media/film/die-hard.jpg                                          ><td><a href=>Die Hard</a>
-<tr><th data-year=1989><td class=img><img src=/static/image/media/film/the-january-man.jpg                                   ><td><a href=>The January Man</a>
-<tr><th data-year=1990><td class=img><img src=/static/image/media/film/quigley-down-under.jpg                                ><td><a href=>Quigley Down Under</a>
-<tr><th data-year=1991><td class=img><img src=/static/image/media/film/closet-land.jpg                                       ><td><a href=>Closet Land</a>
-<tr><th data-year=1991><td class=img><img src=/static/image/media/film/robin-hood-prince-of-thieves.jpg                      ><td><a href=>Robin Hood: Prince of Thieves</a>
-<tr><th data-year=1992><td class=img><img src=/static/image/media/film/bob-roberts.jpg                                       ><td><a href=>Bob Roberts</a>
-<tr><th data-year=1996><td class=img><img src=/static/image/media/film/michael-collins.jpg                                   ><td><a href=>Michael Collins</a>
-<tr><th data-year=1996><td class=img><img src=/static/image/media/film/rasputin-1996.jpg                                     ><td><a href=>Rasputin: Dark Servant of Destiny
-<tr><th data-year=1997><td class=img><img src=/static/image/media/film/the-winter-guest.jpg                                  ><td><a href=>The Winter Guest</a>
-<tr><th data-year=1998><td class=img><img src=/static/image/media/film/judas-kiss.jpg                                        ><td><a href=>Judas Kiss</a>
-<tr><th data-year=1999><td class=img><img src=/static/image/media/film/dogma.jpg                                             ><td><a href=>Dogma</a>
-<tr><th data-year=1999><td class=img><img src=/static/image/media/film/galaxy-quest.jpg                                      ><td><a href=>Galaxy Quest</a>
-<tr><th data-year=2001><td class=img><img src=/static/image/media/film/play-2001.jpg                                         ><td><a href=>Play</a>
-<tr><th data-year=2006><td class=img><img src=/static/image/media/film/perfume.jpg                                           ><td><a href=>Perfume: The Story of a Murderer</a>
-<tr><th data-year=2007><td class=img><img src=/static/image/media/film/harry-potter-and-the-order-of-the-phoenix.jpg         ><td><a href=>Harry Potter and the Order of the Phoenix</a>
-<tr><th data-year=2007><td class=img><img src=/static/image/media/film/sweeney-todd-the-demon-barber-of-fleet-street-2007.jpg><td><a href=>Sweeney Todd: The Demon Barber of Fleet Street</a>
-<tr><th data-year=2013><td class=img><img src=/static/image/media/film/the-butler.jpg                                        ><td><a href=>The Butler</a>
-<tr><th data-year=2013><td class=img><img src=/static/image/media/film/dust-2013.jpg                                         ><td><a href=>Dust</a> (short)
-<tr><th data-year=2013><td class=img><img src=/static/image/media/film/cbgb.jpg                                              ><td><a href=>CBGB</a>
-<tr><th data-year=2015><td class=img><img src=/static/image/media/film/eye-in-the-sky-2015.jpg                               ><td><a href=>Eye in the Sky</a>
+<tr><th data-year=1988><td><img src=/static/image/media/film/die-hard.jpg                    ><td><a href=/shelf/1988/die-hard                    >Die Hard</a>
+<tr><th data-year=1989><td><img src=/static/image/media/film/the-january-man.jpg             ><td><a href=/shelf/1989/the-january-man             >The January Man</a>
+<tr><th data-year=1990><td><img src=/static/image/media/film/quigley-down-under.jpg          ><td><a href=/shelf/1990/quigley-down-under          >Quigley Down Under</a>
+<tr><th data-year=1991><td><img src=/static/image/media/film/closet-land.jpg                 ><td><a href=/shelf/1991/closet-land                 >Closet Land</a>
+<tr><th data-year=1991><td><img src=/static/image/media/film/robin-hood-prince-of-thieves.jpg><td><a href=/shelf/1991/robin-hood-prince-of-thieves>Robin Hood: Prince of Thieves</a>
+<tr><th data-year=1992><td><img src=/static/image/media/film/bob-roberts.jpg                 ><td><a href=/shelf/1992/bob-roberts                 >Bob Roberts</a>
+<tr><th data-year=1996><td><img src=/static/image/media/film/michael-collins.jpg             ><td><a href=/shelf/1996/michael-collins             >Michael Collins</a>
+<tr><th data-year=1996><td><img src=/static/image/media/film/rasputin-1996.jpg               ><td><a href=/shelf/1996/rasputin                    >Rasputin: Dark Servant of Destiny
+<tr><th data-year=1997><td><img src=/static/image/media/film/the-winter-guest.jpg            ><td><a href=/shelf/1997/the-winter-guest            >The Winter Guest</a>
+<tr><th data-year=1998><td><img src=/static/image/media/film/judas-kiss.jpg                  ><td><a href=/shelf/1998/judas-kiss                  >Judas Kiss</a>
+<tr><th data-year=1999><td><img src=/static/image/media/film/dogma.jpg                       ><td><a href=/shelf/1999/dogma                       >Dogma</a>
+<tr><th data-year=1999><td><img src=/static/image/media/film/galaxy-quest.jpg                ><td><a href=/shelf/1999/galaxy-quest                >Galaxy Quest</a>
+<tr><th data-year=2001><td><img src=/static/image/media/film/play-2001.jpg                   ><td><a href=/shelf/2001/play-2001                   >Play</a>
+<tr><th data-year=2006><td><img src=/static/image/media/film/perfume.jpg                     ><td><a href=/shelf/2006/perfume                     >Perfume: The Story of a Murderer</a>
+<tr><th data-year=2007><td><img src=/static/image/media/film/sweeney-todd-2007.jpg           ><td><a href=/shelf/2007/sweeney-todd-2007           >Sweeney Todd: The Demon Barber of Fleet Street</a>
+<tr><th data-year=2013><td><img src=/static/image/media/film/the-butler.jpg                  ><td><a href=/shelf/2013/the-butler                  >The Butler</a>
+<tr><th data-year=2013><td><img src=/static/image/media/film/dust-2013.jpg                   ><td><a href=/shelf/2013/dust                        >Dust</a> (short)
+<tr><th data-year=2013><td><img src=/static/image/media/film/cbgb.jpg                        ><td><a href=/shelf/2013/cbgb                        >CBGB</a>
+<tr><th data-year=2015><td><img src=/static/image/media/film/eye-in-the-sky-2015.jpg         ><td><a href=/shelf/2015/eye-in-the-sky-2015         >Eye in the Sky</a>
 </table>
 
 ### Harry Potter
 
 <table>
-<tr><th data-year=2001><td class=img><img src=/static/image/media/film/harry-potter-and-the-philosophers-stone.jpg           ><td><a href=>Harry Potter and the Philosopher's Stone</a>
-<tr><th data-year=2002><td class=img><img src=/static/image/media/film/harry-potter-and-the-chamber-of-secrets.jpg           ><td><a href=>Harry Potter and the Chamber of Secrets</a>
-<tr><th data-year=2004><td class=img><img src=/static/image/media/film/harry-potter-and-the-prisoner-of-azkaban.jpg          ><td><a href=>Harry Potter and the Prisoner of Azkaban</a>
-<tr><th data-year=2005><td class=img><img src=/static/image/media/film/harry-potter-and-the-goblet-of-fire.jpg               ><td><a href=>Harry Potter and the Goblet of Fire</a>
-<tr><th data-year=2009><td class=img><img src=/static/image/media/film/harry-potter-and-the-half-blood-prince.jpg            ><td><a href=>Harry Potter and the Half-Blood Prince</a>
-<tr><th data-year=2010><td class=img><img src=/static/image/media/film/harry-potter-and-the-deathly-hallows-1.jpg            ><td><a href=>Harry Potter and the Deathly Hallows – Part 1</a>
-<tr><th data-year=2011><td class=img><img src=/static/image/media/film/harry-potter-and-the-deathly-hallows-2.jpg            ><td><a href=>Harry Potter and the Deathly Hallows – Part 2</a>
-</table>
-
-### Voice
-
-<table>
-<tr><th data-year=2000><td class=img><img src=/static/image/media/film/help-im-a-fish.jpg                                    ><td><a href=>Help! I'm a Fish</a> (anime)
-<tr><th data-year=2005><td class=img><img src=/static/image/media/film/the-hitchhikers-guide-to-the-galaxy-2005.jpg          ><td><a href=>The Hitchhiker's Guide to the Galaxy</a>
-<tr><th data-year=2010><td class=img><img src=/static/image/media/film/alice-in-wonderland-2010.jpg                          ><td><a href=>Alice in Wonderland</a>
-<tr><th data-year=2010><td class=img><img src=/static/image/media/film/the-wildest-dream.jpg                                 ><td><a href=>The Wildest Dream</a>
-<tr><th data-year=2016><td class=img><img src=/static/image/media/film/alice-through-the-looking-glass-2016.jpg              ><td><a href=>Alice Through the Looking Glass</a>
+<tr><th data-year=2001><td><img src=/static/image/media/film/harry-potter-1.jpg  ><td><a href=/shelf/2001/harry-potter-1  >Harry Potter and the Philosopher's Stone</a>
+<tr><th data-year=2002><td><img src=/static/image/media/film/harry-potter-2.jpg  ><td><a href=/shelf/2002/harry-potter-2  >Harry Potter and the Chamber of Secrets</a>
+<tr><th data-year=2004><td><img src=/static/image/media/film/harry-potter-3.jpg  ><td><a href=/shelf/2004/harry-potter-3  >Harry Potter and the Prisoner of Azkaban</a>
+<tr><th data-year=2005><td><img src=/static/image/media/film/harry-potter-4.jpg  ><td><a href=/shelf/2005/harry-potter-4  >Harry Potter and the Goblet of Fire</a>
+<tr><th data-year=2007><td><img src=/static/image/media/film/harry-potter-5.jpg  ><td><a href=/shelf/2007/harry-potter-5  >Harry Potter and the Order of the Phoenix</a>
+<tr><th data-year=2009><td><img src=/static/image/media/film/harry-potter-6.jpg  ><td><a href=/shelf/2009/harry-potter-6  >Harry Potter and the Half-Blood Prince</a>
+<tr><th data-year=2010><td><img src=/static/image/media/film/harry-potter-7-1.jpg><td><a href=/shelf/2010/harry-potter-7-1>Harry Potter and the Deathly Hallows – Part 1</a>
+<tr><th data-year=2011><td><img src=/static/image/media/film/harry-potter-7-2.jpg><td><a href=/shelf/2011/harry-potter-7-2>Harry Potter and the Deathly Hallows – Part 2</a>
 </table>

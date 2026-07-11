@@ -12,26 +12,26 @@
 ## Novels
 
 <ul>
-<li data-year=1984><a class=new href=/shelf/1984/icehenge                   >Icehenge</a>
-<li data-year=1985><a class=new href=/shelf/1985/the-memory-of-whiteness    >The Memory of Whiteness</a>
-<li data-year=1990><a class=new href=/shelf/1990/a-short-sharp-shock        >A Short, Sharp Shock</a> (novella)
-<li data-year=1997><a class=new href=/shelf/1997/antarctica                 >Antarctica</a>
-<li data-year=2002><a class=new href=/shelf/2002/the-year-of-rice-and-salt  >The Years of Rice and Salt</a>
-<li data-year=2009><a class=new href=/shelf/2009/galileos-dream             >Galileo's Dream</a>
-<li data-year=2012><a class=new href=/shelf/2012/2312                       >2312</a>
-<li data-year=2013><a class=new href=/shelf/2013/shaman                     >Shaman: A Novel of the Ice Age</a>
-<li data-year=2015><a class=new href=/shelf/2015/aurora                     >Aurora</a>
-<li data-year=2017><a class=new href=/shelf/2017/new-york-2140              >New York 2140</a>
-<li data-year=2018><a class=new href=/shelf/2018/red-moon                   >Red Moon</a>
-<li data-year=2020><a class=new href=/shelf/2020/the-ministry-for-the-future>The Ministry for the Future</a>
+<li data-year=1984><a new href=/shelf/1984/icehenge                   >Icehenge</a>
+<li data-year=1985><a new href=/shelf/1985/the-memory-of-whiteness    >The Memory of Whiteness</a>
+<li data-year=1990><a new href=/shelf/1990/a-short-sharp-shock        >A Short, Sharp Shock</a> (novella)
+<li data-year=1997><a new href=/shelf/1997/antarctica                 >Antarctica</a>
+<li data-year=2002><a new href=/shelf/2002/the-year-of-rice-and-salt  >The Years of Rice and Salt</a>
+<li data-year=2009><a new href=/shelf/2009/galileos-dream             >Galileo's Dream</a>
+<li data-year=2012><a new href=/shelf/2012/2312                       >2312</a>
+<li data-year=2013><a new href=/shelf/2013/shaman                     >Shaman: A Novel of the Ice Age</a>
+<li data-year=2015><a new href=/shelf/2015/aurora                     >Aurora</a>
+<li data-year=2017><a new href=/shelf/2017/new-york-2140              >New York 2140</a>
+<li data-year=2018><a new href=/shelf/2018/red-moon                   >Red Moon</a>
+<li data-year=2020><a new href=/shelf/2020/the-ministry-for-the-future>The Ministry for the Future</a>
 </ul>
 
 ### Three Californias
 
 <ul>
-<li data-year=1984><a class=new href=/shelf/1984/the-wild-shore>The Wild Shore</a>
-<li data-year=1988><a class=new href=/shelf/1988/the-gold-coast>The Gold Coast</a>
-<li data-year=1990><a class=new href=/shelf/1990/pacific-edge  >Pacific Edge</a>
+<li data-year=1984><a new href=/shelf/1984/the-wild-shore>The Wild Shore</a>
+<li data-year=1988><a new href=/shelf/1988/the-gold-coast>The Gold Coast</a>
+<li data-year=1990><a new href=/shelf/1990/pacific-edge  >Pacific Edge</a>
 </ul>
 
 ### Mars
@@ -47,9 +47,9 @@
 ### Science in the Capital
 
 <ul>
-<li data-year=2004><a class=new href=/shelf/2004/forty-signs-of-rain    >Forty Signs of Rain</a>
-<li data-year=2005><a class=new href=/shelf/2005/fifty-degrees-below    >Fifty Degrees Below</a>
-<li data-year=2007><a class=new href=/shelf/2007/sixty-days-and-counting>Sixty Days and Counting</a>
+<li data-year=2004><a new href=/shelf/2004/forty-signs-of-rain    >Forty Signs of Rain</a>
+<li data-year=2005><a new href=/shelf/2005/fifty-degrees-below    >Fifty Degrees Below</a>
+<li data-year=2007><a new href=/shelf/2007/sixty-days-and-counting>Sixty Days and Counting</a>
 </ul>
 
 ## Short stories
@@ -79,18 +79,18 @@
 ## Short story collections
 
 <ul>
-<li data-year=1986><a class=new>The Planet on the Table</a>
-<li data-year=1989><a class=new>Escape from Kathmandu</a>
-<li data-year=1991><a class=new>Remaking History</a>
-<li data-year=2001><a class=new>Vinland the Dream</a>
-<li data-year=2010><a class=new>The Best of Kim Stanley Robinson</a>
+<li data-year=1986><a new>The Planet on the Table</a>
+<li data-year=1989><a new>Escape from Kathmandu</a>
+<li data-year=1991><a new>Remaking History</a>
+<li data-year=2001><a new>Vinland the Dream</a>
+<li data-year=2010><a new>The Best of Kim Stanley Robinson</a>
 </ul>
 
 ## Non-fiction
 
 <ul>
 <li data-year=1989>The Novels Of Philip K. Dick (dissertation)
-<li data-year=2013>WorldWatch Institute - <a class=new>State of the World 2013: Is Sustainability Still Possible?</a> - <a>Is it too late?</a>
+<li data-year=2013>WorldWatch Institute - <a new>State of the World 2013: Is Sustainability Still Possible?</a> - <a>Is it too late?</a>
 <li data-year=2022>The High Sierra: A love story
 <li data-year=2017>Naming Mt. Thoreau - p. 167
 <li data-year=2023>Noema Magazine - Paying Ourselves To Decarbonize
@@ -102,5 +102,5 @@
 <li data-year=1994>Future Primitive: The New Ecotopias
 <li data-year=2002>Nebula Awards Showcase 2002
 <li data-year=2012>In the Sierra: Mountain Writing by Kenneth Rexroth
-<li data-year=2014>Kim Stanley Robinson, Gerry Canavan - <a class=new>Green Planets: Ecology and Science Fiction</a>
+<li data-year=2014>Kim Stanley Robinson, Gerry Canavan - <a new>Green Planets: Ecology and Science Fiction</a>
 </ul>

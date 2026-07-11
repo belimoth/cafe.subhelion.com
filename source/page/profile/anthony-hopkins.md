@@ -53,63 +53,63 @@
 
 
 <table>
-<tr><th data-year=1967><td class=img><img src=/static/image/media/film/the-white-bus.jpg                         ><td><a class=new href=>The White Bus                         </a> (Short film)
-<tr><th data-year=1968><td class=img><img src=/static/image/media/film/the-lion-in-winter.jpg                    ><td><a class=new href=>The Lion in Winter                    </a>
-<tr><th data-year=1969><td class=img><img src=/static/image/media/film/hamlet-1969.jpg                           ><td><a class=new href=>Hamlet                                </a>
-<tr><th data-year=1970><td class=img><img src=/static/image/media/film/the-looking-glass-war.jpg                 ><td><a class=new href=>The Looking Glass War                 </a>
-<tr><th data-year=1971><td class=img><img src=/static/image/media/film/when-eight-bells-toll.jpg                 ><td><a class=new href=>When Eight Bells Toll                 </a>
-<tr><th data-year=1972><td class=img><img src=/static/image/media/film/young-winston.jpg                         ><td><a class=new href=>Young Winston                         </a>
-<tr><th data-year=1974><td class=img><img src=/static/image/media/film/juggernaut-1974.jpg                       ><td><a class=new href=>Juggernaut                            </a>
-<tr><th data-year=1977><td class=img><img src=/static/image/media/film/a-bridge-too-far.jpg                      ><td><a class=new href=>A Bridge Too Far                      </a>
-<tr><th data-year=1980><td class=img><img src=/static/image/media/film/the-elephant-man.jpg                      ><td><a class=new href=>The Elephant Man                      </a>
-<tr><th data-year=1984><td class=img><img src=/static/image/media/film/the-bounty.jpg                            ><td><a class=new href=>The Bounty                            </a>
-<tr><th data-year=1990><td class=img><img src=/static/image/media/film/desperate-hours.jpg                       ><td><a class=new href=>Desperate Hours                       </a>
-<tr><th data-year=1991><td class=img><img src=/static/image/media/film/the-silence-of-the-lambs.jpg              ><td><a class=new href=>The Silence of the Lambs              </a>
-<tr><th data-year=1992><td class=img><img src=/static/image/media/film/freejack.jpg                              ><td><a class=new href=>Freejack                              </a>
-<tr><th data-year=1992><td class=img><img src=/static/image/media/film/dracula-1992.jpg                          ><td><a class=new href=>Bram Stoker's Dracula                 </a>
-<tr><th data-year=1992><td class=img><img src=/static/image/media/film/chaplin.jpg                               ><td><a class=new href=>Chaplin                               </a>
-<tr><th data-year=1993><td class=img><img src=/static/image/media/film/the-trial-1993.jpg                        ><td><a class=new href=>The Trial                             </a>
-<tr><th data-year=1993><td class=img><img src=/static/image/media/film/the-remains-of-the-day.jpg                ><td><a class=new href=>The Remains of the Day                </a>
-<tr><th data-year=1993><td class=img><img src=/static/image/media/film/shadowlands.jpg                           ><td><a class=new href=>Shadowlands                           </a>
-<tr><th data-year=1994><td class=img><img src=/static/image/media/film/legends-of-the-fall.jpg                   ><td><a class=new href=>Legends of the Fall                   </a>
-<tr><th data-year=1995><td class=img><img src=/static/image/media/film/nixon.jpg                                 ><td><a class=new href=>Nixon                                 </a>
-<tr><th data-year=1997><td class=img><img src=/static/image/media/film/the-edge.jpg                              ><td><a class=new href=>The Edge                              </a>
-<tr><th data-year=1997><td class=img><img src=/static/image/media/film/amistad.jpg                               ><td><a class=new href=>Amistad                               </a>
-<tr><th data-year=1998><td class=img><img src=/static/image/media/film/the-mask-of-zorro.jpg                     ><td><a class=new href=>The Mask of Zorro                     </a>
-<tr><th data-year=1998><td class=img><img src=/static/image/media/film/meet-joe-black.jpg                        ><td><a class=new href=>Meet Joe Black                        </a>
-<tr><th data-year=1999><td class=img><img src=/static/image/media/film/instinct.jpg                              ><td><a class=new href=>Instinct                              </a>
-<tr><th data-year=1999><td class=img><img src=/static/image/media/film/titus.jpg                                 ><td><a class=new href=>Titus                                 </a>
-<tr><th data-year=2001><td class=img><img src=/static/image/media/film/hannibal.jpg                              ><td><a class=new href=>Hannibal                              </a>
-<tr><th data-year=2002><td class=img><img src=/static/image/media/film/bad-company-2002.jpg                      ><td><a class=new href=>Bad Company                           </a>
-<tr><th data-year=2002><td class=img><img src=/static/image/media/film/red-dragon.jpg                            ><td><a class=new href=>Red Dragon                            </a>
-<tr><th data-year=2004><td class=img><img src=/static/image/media/film/alexander.jpg                             ><td><a class=new href=>Alexander                             </a>
-<tr><th data-year=2007><td class=img><img src=/static/image/media/film/slipstream-2007.jpg                       ><td><a class=new href=>Slipstream                            </a>
-<tr><th data-year=2007><td class=img><img src=/static/image/media/film/fracture.jpg                              ><td><a class=new href=>Fracture                              </a>
-<tr><th data-year=2007><td class=img><img src=/static/image/media/film/beowulf-2007.jpg                               ><td><a class=new href=>Beowulf                          </a>
-<tr><th data-year=2009><td class=img><img src=/static/image/media/film/the-city-of-your-final-destination.jpg    ><td><a class=new href=>The City of Your Final Destination    </a>
-<tr><th data-year=2010><td class=img><img src=/static/image/media/film/the-wolfman.jpg                           ><td><a class=new href=>The Wolfman                           </a>
-<tr><th data-year=2011><td class=img><img src=/static/image/media/film/thor.jpg                                  ><td><a class=new href=>Thor                                  </a>
-<tr><th data-year=2012><td class=img><img src=/static/image/media/film/hitchcock.jpg                             ><td><a class=new href=>Hitchcock                             </a>
-<tr><th data-year=2013><td class=img><img src=/static/image/media/film/red-2.jpg                                 ><td><a class=new href=>Red 2                                 </a>
-<tr><th data-year=2013><td class=img><img src=/static/image/media/film/thor-the-dark-world.jpg                   ><td><a class=new href=>Thor: The Dark World                  </a>
-<tr><th data-year=2014><td class=img><img src=/static/image/media/film/noah.jpg                                  ><td><a class=new href=>Noah                                  </a>
-<tr><th data-year=2015><td class=img><img src=/static/image/media/film/kidnapping-mr-heineken.jpg                ><td><a class=new href=>Kidnapping Mr. Heineken               </a>
-<tr><th data-year=2015><td class=img><img src=/static/image/media/film/solace-2015.jpg                           ><td><a class=new href=>Solace                                </a>
-<tr><th data-year=2017><td class=img><img src=/static/image/media/film/transformers-the-last-knight.jpg          ><td><a class=new href=>Transformers: The Last Knight         </a>
-<tr><th data-year=2017><td class=img><img src=/static/image/media/film/thor-ragnarok.jpg                         ><td><a class=new href=>Thor: Ragnarok                        </a>
-<tr><th data-year=2019><td class=img><img src=/static/image/media/film/the-two-popes.jpg                         ><td><a class=new href=>The Two Popes                         </a>
-<tr><th data-year=2020><td class=img><img src=/static/image/media/film/the-father-2020.jpg                       ><td><a class=new href=>The Father                            </a>
-<tr><th data-year=2022><td class=img><img src=/static/image/media/film/armageddon-time.jpg                       ><td><a class=new href=>Armageddon Time                       </a>
-<tr><th data-year=2023><td class=img><img src=/static/image/media/film/one-life-2023.jpg                         ><td><a class=new href=>One Life                              </a>
-<tr><th data-year=2023><td class=img><img src=/static/image/media/film/freuds-last-session.jpg                   ><td><a class=new href=>Freud's Last Session                  </a>
-<tr><th data-year=2024><td class=img><img src=/static/image/media/film/mary-2024.jpg                             ><td><a class=new href=>Mary                                  </a>
-<tr><th data-year=2025><td class=img><img src=/static/image/media/film/locked-2025.jpg                           ><td><a class=new href=>Locked                                </a>
+     <tr><th data-year=1967><td><img src=/static/image/shelf/1967/the-white-bus.jpg                     ><td><a new href=/shelf/1967/the-white-bus                     >The White Bus                     </a> (Short film)
+     <tr><th data-year=1968><td><img src=/static/image/shelf/1968/the-lion-in-winter.jpg                ><td><a new href=/shelf/1968/the-lion-in-winter                >The Lion in Winter                </a>
+     <tr><th data-year=1969><td><img src=/static/image/shelf/1969/hamlet.jpg                            ><td><a new href=/shelf/1969/hamlet                            >Hamlet                            </a>
+     <tr><th data-year=1970><td><img src=/static/image/shelf/1970/the-looking-glass-war.jpg             ><td><a new href=/shelf/1970/the-looking-glass-war             >The Looking Glass War             </a>
+     <tr><th data-year=1971><td><img src=/static/image/shelf/1971/when-eight-bells-toll.jpg             ><td><a new href=/shelf/1971/when-eight-bells-toll             >When Eight Bells Toll             </a>
+     <tr><th data-year=1972><td><img src=/static/image/shelf/1972/young-winston.jpg                     ><td><a new href=/shelf/1972/young-winston                     >Young Winston                     </a>
+     <tr><th data-year=1974><td><img src=/static/image/shelf/1974/juggernaut.jpg                        ><td><a new href=/shelf/1974/juggernaut                        >Juggernaut                        </a>
+     <tr><th data-year=1977><td><img src=/static/image/shelf/1977/a-bridge-too-far.jpg                  ><td><a new href=/shelf/1977/a-bridge-too-far                  >A Bridge Too Far                  </a>
+     <tr><th data-year=1980><td><img src=/static/image/shelf/1980/the-elephant-man.jpg                  ><td><a new href=/shelf/1980/the-elephant-man                  >The Elephant Man                  </a>
+     <tr><th data-year=1984><td><img src=/static/image/shelf/1984/the-bounty.jpg                        ><td><a new href=/shelf/1984/the-bounty                        >The Bounty                        </a>
+     <tr><th data-year=1990><td><img src=/static/image/shelf/1990/desperate-hours.jpg                   ><td><a new href=/shelf/1990/desperate-hours                   >Desperate Hours                   </a>
+     <tr><th data-year=1991><td><img src=/static/image/shelf/1991/the-silence-of-the-lambs.jpg          ><td><a new href=/shelf/1991/the-silence-of-the-lambs          >The Silence of the Lambs          </a>
+     <tr><th data-year=1992><td><img src=/static/image/shelf/1992/freejack.jpg                          ><td><a new href=/shelf/1992/freejack                          >Freejack                          </a>
+     <tr><th data-year=1992><td><img src=/static/image/shelf/1992/dracula.jpg                           ><td><a new href=/shelf/1992/dracula                           >Bram Stoker's Dracula             </a>
+     <tr><th data-year=1992><td><img src=/static/image/shelf/1992/chaplin.jpg                           ><td><a new href=/shelf/1992/chaplin                           >Chaplin                           </a>
+     <tr><th data-year=1993><td><img src=/static/image/shelf/1993/the-trial.jpg                         ><td><a new href=/shelf/1993/the-trial                         >The Trial                         </a>
+     <tr><th data-year=1993><td><img src=/static/image/shelf/1993/the-remains-of-the-day.jpg            ><td><a new href=/shelf/1993/the-remains-of-the-day            >The Remains of the Day            </a>
+     <tr><th data-year=1993><td><img src=/static/image/shelf/1993/shadowlands.jpg                       ><td><a new href=/shelf/1993/shadowlands                       >Shadowlands                       </a>
+     <tr><th data-year=1994><td><img src=/static/image/shelf/1994/legends-of-the-fall.jpg               ><td><a new href=/shelf/1994/legends-of-the-fall               >Legends of the Fall               </a>
+     <tr><th data-year=1995><td><img src=/static/image/shelf/1995/nixon.jpg                             ><td><a new href=/shelf/1995/nixon                             >Nixon                             </a>
+     <tr><th data-year=1997><td><img src=/static/image/shelf/1997/the-edge.jpg                          ><td><a new href=/shelf/1997/the-edge                          >The Edge                          </a>
+     <tr><th data-year=1997><td><img src=/static/image/shelf/1997/amistad.jpg                           ><td><a new href=/shelf/1997/amistad                           >Amistad                           </a>
+     <tr><th data-year=1998><td><img src=/static/image/shelf/1998/the-mask-of-zorro.jpg                 ><td><a new href=/shelf/1998/the-mask-of-zorro                 >The Mask of Zorro                 </a>
+     <tr><th data-year=1998><td><img src=/static/image/shelf/1998/meet-joe-black.jpg                    ><td><a new href=/shelf/1998/meet-joe-black                    >Meet Joe Black                    </a>
+     <tr><th data-year=1999><td><img src=/static/image/shelf/1999/instinct.jpg                          ><td><a new href=/shelf/1999/instinct                          >Instinct                          </a>
+     <tr><th data-year=1999><td><img src=/static/image/shelf/1999/titus.jpg                             ><td><a new href=/shelf/1999/titus                             >Titus                             </a>
+     <tr><th data-year=2001><td><img src=/static/image/shelf/2001/hannibal.jpg                          ><td><a new href=/shelf/2001/hannibal                          >Hannibal                          </a>
+     <tr><th data-year=2002><td><img src=/static/image/shelf/2002/bad-company.jpg                       ><td><a new href=/shelf/2002/bad-company                       >Bad Company                       </a>
+     <tr><th data-year=2002><td><img src=/static/image/shelf/2002/red-dragon.jpg                        ><td><a new href=/shelf/2002/red-dragon                        >Red Dragon                        </a>
+     <tr><th data-year=2004><td><img src=/static/image/shelf/2004/alexander.jpg                         ><td><a new href=/shelf/2004/alexander                         >Alexander                         </a>
+     <tr><th data-year=2007><td><img src=/static/image/shelf/2007/slipstream.jpg                        ><td><a new href=/shelf/2007/slipstream                        >Slipstream                        </a>
+     <tr><th data-year=2007><td><img src=/static/image/shelf/2007/fracture.jpg                          ><td><a new href=/shelf/2007/fracture                          >Fracture                          </a>
+     <tr><th data-year=2007><td><img src=/static/image/shelf/2007/beowulf.jpg                           ><td><a new href=/shelf/2007/beowulf                           >Beowulf                           </a>
+     <tr><th data-year=2009><td><img src=/static/image/shelf/2009/the-city-of-your-final-destination.jpg><td><a new href=/shelf/2009/the-city-of-your-final-destination>The City of Your Final Destination</a>
+     <tr><th data-year=2010><td><img src=/static/image/shelf/2010/the-wolfman.jpg                       ><td><a new href=/shelf/2010/the-wolfman                       >The Wolfman                       </a>
+     <tr><th data-year=2011><td><img src=/static/image/shelf/2011/thor.jpg                              ><td><a new href=/shelf/2011/thor                              >Thor                              </a>
+     <tr><th data-year=2012><td><img src=/static/image/shelf/2012/hitchcock.jpg                         ><td><a new href=/shelf/2012/hitchcock                         >Hitchcock                         </a>
+     <tr><th data-year=2013><td><img src=/static/image/shelf/2013/red-2.jpg                             ><td><a new href=/shelf/2013/red-2                             >Red 2                             </a>
+     <tr><th data-year=2013><td><img src=/static/image/shelf/2013/thor-the-dark-world.jpg               ><td><a new href=/shelf/2013/thor-the-dark-world               >Thor: The Dark World              </a>
+     <tr><th data-year=2014><td><img src=/static/image/shelf/2014/noah.jpg                              ><td><a new href=/shelf/2014/noah                              >Noah                              </a>
+     <tr><th data-year=2015><td><img src=/static/image/shelf/2015/kidnapping-mr-heineken.jpg            ><td><a new href=/shelf/2015/kidnapping-mr-heineken            >Kidnapping Mr. Heineken           </a>
+     <tr><th data-year=2015><td><img src=/static/image/shelf/2015/solace.jpg                            ><td><a new href=/shelf/2015/solace                            >Solace                            </a>
+     <tr><th data-year=2017><td><img src=/static/image/shelf/2017/transformers-the-last-knight.jpg      ><td><a new href=/shelf/2017/transformers-the-last-knight      >Transformers: The Last Knight     </a>
+     <tr><th data-year=2017><td><img src=/static/image/shelf/2017/thor-ragnarok.jpg                     ><td><a new href=/shelf/2017/thor-ragnarok                     >Thor: Ragnarok                    </a>
+     <tr><th data-year=2019><td><img src=/static/image/shelf/2019/the-two-popes.jpg                     ><td><a new href=/shelf/2019/the-two-popes                     >The Two Popes                     </a>
+     <tr><th data-year=2020><td><img src=/static/image/shelf/2020/the-father.jpg                        ><td><a new href=/shelf/2020/the-father                        >The Father                        </a>
+     <tr><th data-year=2022><td><img src=/static/image/shelf/2022/armageddon-time.jpg                   ><td><a new href=/shelf/2022/armageddon-time                   >Armageddon Time                   </a>
+     <tr><th data-year=2023><td><img src=/static/image/shelf/2023/one-life.jpg                          ><td><a new href=/shelf/2023/one-life                          >One Life                          </a>
+     <tr><th data-year=2023><td><img src=/static/image/shelf/2023/freuds-last-session.jpg               ><td><a new href=/shelf/2023/freuds-last-session               >Freud's Last Session              </a>
+     <tr><th data-year=2024><td><img src=/static/image/shelf/2024/mary.jpg                              ><td><a new href=/shelf/2024/mary                              >Mary                              </a>
+     <tr><th data-year=2025><td><img src=/static/image/shelf/2025/locked.jpg                            ><td><a new href=/shelf/2025/locked                            >Locked                            </a>
 </table>
 
 ### Voice
 
 <table>
-<tr><th data-year=2000><td class=img><img src=/static/image/media/film/how-the-grinch-stole-christmas-2000.jpg><td><a class=new href=>How the Grinch Stole Christmas        </a>
-<tr><th data-year=2023><td class=img><img src=/static/image/media/film/rebel-moon-1.jpg                       ><td><a class=new href=>Rebel Moon – Part One: A Child of Fire</a>
-<tr><th data-year=2024><td class=img><img src=/static/image/media/film/rebel-moon-2.jpg                       ><td><a class=new href=>Rebel Moon – Part Two: The Scargiver  </a>
+<tr><th data-year=2000><td><img src=/static/image/shelf/2000/how-the-grinch-stole-christmas.jpg><td><a new href=/shelf/shelf/2000/how-the-grinch-stole-christmas>How the Grinch Stole Christmas        </a>
+<tr><th data-year=2023><td><img src=/static/image/shelf/2023/rebel-moon-1.jpg                  ><td><a new href=/shelf/shelf/2023/rebel-moon-1                  >Rebel Moon – Part One: A Child of Fire</a>
+<tr><th data-year=2024><td><img src=/static/image/shelf/2024/rebel-moon-2.jpg                  ><td><a new href=/shelf/shelf/2024/rebel-moon-2                  >Rebel Moon – Part Two: The Scargiver  </a>
 </table>

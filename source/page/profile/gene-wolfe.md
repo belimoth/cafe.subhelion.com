@@ -134,23 +134,23 @@
 <h3 id=collections>Story collections</h3>
 
 <ul>
-<li data-year=1980><a class=new>The Island of Doctor Death and Other Stories and Other Stories</a>
-<li data-year=1981><a class=new>Gene Wolfe's Book of Days</a>
-<li data-year=1983><a class=new>The Wolfe Archipelago</a>
-<li data-year=1984><a class=new>Plan(e)t Engineering</a>
-<li data-year=1984><a class=new>Bibliomen</a>
-<li data-year=1988><a class=new>Storeys from the Old Hotel</a>
-<li data-year=1989><a class=new>Endangered Species</a>
-<li data-year=1992><a class=new>Castle of Days (omnibus)</a>
-<li data-year=1992><a class=new>The Young Wolfe</a>
-<li data-year=2000><a class=new>Strange Travelers</a>
-<li data-year=2003><a class=new>Latro in the Mist (omnibus)</a>
-<li data-year=2004><a class=new>Innocents Aboard</a>
-<li data-year=2005><a class=new>Starwater Strains</a>
-<li data-year=2009><a class=new>The Best of Gene Wolfe</a>
-<li data-year=2009><a class=new>The Very Best of Gene Wolfe</a>
-<li data-year=2023><a class=new>The Dead Man and Other Horror Stories</a> (posthumous)
-<li data-year=2023><a class=new>The Wolfe at the Door</a> (posthumous)
+<li data-year=1980><a new>The Island of Doctor Death and Other Stories and Other Stories</a>
+<li data-year=1981><a new>Gene Wolfe's Book of Days</a>
+<li data-year=1983><a new>The Wolfe Archipelago</a>
+<li data-year=1984><a new>Plan(e)t Engineering</a>
+<li data-year=1984><a new>Bibliomen</a>
+<li data-year=1988><a new>Storeys from the Old Hotel</a>
+<li data-year=1989><a new>Endangered Species</a>
+<li data-year=1992><a new>Castle of Days (omnibus)</a>
+<li data-year=1992><a new>The Young Wolfe</a>
+<li data-year=2000><a new>Strange Travelers</a>
+<li data-year=2003><a new>Latro in the Mist (omnibus)</a>
+<li data-year=2004><a new>Innocents Aboard</a>
+<li data-year=2005><a new>Starwater Strains</a>
+<li data-year=2009><a new>The Best of Gene Wolfe</a>
+<li data-year=2009><a new>The Very Best of Gene Wolfe</a>
+<li data-year=2023><a new>The Dead Man and Other Horror Stories</a> (posthumous)
+<li data-year=2023><a new>The Wolfe at the Door</a> (posthumous)
 </ul>
 
 <h3 id=chapbooks>Chapbooks</h3>
@@ -178,7 +178,7 @@
 <li data-year=1984>Patti Perret - The Faces of Science Fiction - Introduction
 <li data-year=1988>Nancy Kress - Trinity and other stories - Introduction
 <li data-year=1991>Letters Home (letters)
-<li data-year=1992><a class=new>Castle of Days</a> (omnibus)
+<li data-year=1992><a new>Castle of Days</a> (omnibus)
 <li data-year=1993><a href=/profile/neil/gaiman>Neil Gaiman</a> - <a href=>Sandman: Fables and Reflections</a> (comic) - Introduction
 <li data-year=2002>A Walking Tour of the Shambles (with Neil Gaiman)
 <li data-year=2006>Vera Nazarian - Salt of the Air - Introduction

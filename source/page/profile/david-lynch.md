@@ -17,16 +17,16 @@
 ## Films
 
 <table>
-<tr><th data-year=1977><td class=img><a href=/shelf/1977/eraserhead                  ><img src=/static/image/media/film/eraserhead.jpg                  ><td><a href=/shelf/1977/eraserhead                  >Eraserhead</a>
-<tr><th data-year=1980><td class=img><a href=/shelf/1980/the-elephant-man            ><img src=/static/image/media/film/the-elephant-man.jpg            ><td><a href=/shelf/1980/the-elephant-man            >The Elephant Man</a>
-<tr><th data-year=1984><td class=img><a href=/shelf/1984/dune                        ><img src=/static/image/media/film/dune.jpg                        ><td><a href=/shelf/1984/dune                        >Dune</a>
-<tr><th data-year=1986><td class=img><a href=/shelf/1986/blue-velvet                 ><img src=/static/image/media/film/blue-velvet.jpg                 ><td><a href=/shelf/1986/blue-velvet                 >Blue Velvet</a>
-<tr><th data-year=1990><td class=img><a href=/shelf/1990/wild-at-heart               ><img src=/static/image/media/film/wild-at-heart.jpg               ><td><a href=/shelf/1990/wild-at-heart               >Wild at Heart</a>
-<tr><th data-year=1992><td class=img><a href=/shelf/1992/twin-peaks-fire-walk-with-me><img src=/static/image/media/film/twin-peaks-fire-walk-with-me.jpg><td><a href=/shelf/1992/twin-peaks-fire-walk-with-me>Twin Peaks: Fire Walk with Me</a>
-<tr><th data-year=1997><td class=img><a href=/shelf/1997/lost-highway                ><img src=/static/image/media/film/lost-highway.jpg                ><td><a href=/shelf/1997/lost-highway                >Lost Highway</a>
-<tr><th data-year=1999><td class=img><a href=/shelf/1999/the-straight-story          ><img src=/static/image/media/film/the-straight-story.jpg          ><td><a href=/shelf/1999/the-straight-story          >The Straight Story</a>
-<tr><th data-year=2001><td class=img><a href=/shelf/2001/mulholland-drive            ><img src=/static/image/media/film/mulholland-drive.jpg            ><td><a href=/shelf/2001/mulholland-drive            >Mulholland Drive</a>
-<tr><th data-year=2006><td class=img><a href=/shelf/2006/inland-empire               ><img src=/static/image/media/film/inland-empire.jpg               ><td><a href=/shelf/2006/inland-empire               >Inland Empire</a>
+<tr><th data-year=1977><td><a href=/shelf/1977/eraserhead                  ><img src=/static/image/media/film/eraserhead.jpg                  ><td><a href=/shelf/1977/eraserhead                  >Eraserhead</a>
+<tr><th data-year=1980><td><a href=/shelf/1980/the-elephant-man            ><img src=/static/image/media/film/the-elephant-man.jpg            ><td><a href=/shelf/1980/the-elephant-man            >The Elephant Man</a>
+<tr><th data-year=1984><td><a href=/shelf/1984/dune                        ><img src=/static/image/media/film/dune.jpg                        ><td><a href=/shelf/1984/dune                        >Dune</a>
+<tr><th data-year=1986><td><a href=/shelf/1986/blue-velvet                 ><img src=/static/image/media/film/blue-velvet.jpg                 ><td><a href=/shelf/1986/blue-velvet                 >Blue Velvet</a>
+<tr><th data-year=1990><td><a href=/shelf/1990/wild-at-heart               ><img src=/static/image/media/film/wild-at-heart.jpg               ><td><a href=/shelf/1990/wild-at-heart               >Wild at Heart</a>
+<tr><th data-year=1992><td><a href=/shelf/1992/twin-peaks-fire-walk-with-me><img src=/static/image/media/film/twin-peaks-fire-walk-with-me.jpg><td><a href=/shelf/1992/twin-peaks-fire-walk-with-me>Twin Peaks: Fire Walk with Me</a>
+<tr><th data-year=1997><td><a href=/shelf/1997/lost-highway                ><img src=/static/image/media/film/lost-highway.jpg                ><td><a href=/shelf/1997/lost-highway                >Lost Highway</a>
+<tr><th data-year=1999><td><a href=/shelf/1999/the-straight-story          ><img src=/static/image/media/film/the-straight-story.jpg          ><td><a href=/shelf/1999/the-straight-story          >The Straight Story</a>
+<tr><th data-year=2001><td><a href=/shelf/2001/mulholland-drive            ><img src=/static/image/media/film/mulholland-drive.jpg            ><td><a href=/shelf/2001/mulholland-drive            >Mulholland Drive</a>
+<tr><th data-year=2006><td><a href=/shelf/2006/inland-empire               ><img src=/static/image/media/film/inland-empire.jpg               ><td><a href=/shelf/2006/inland-empire               >Inland Empire</a>
 </table>
 
 ### Short films
@@ -105,5 +105,5 @@
 <tr><th data-year=1990><td class=image><img src=/static/image/media/tv/twin-peaks-1.jpg><td>Twin Peaks Season 1
 <tr><th data-year=1991><td class=image><img src=/static/image/media/tv/twin-peaks-1.jpg><td>Twin Peaks Season 2
 <tr><th data-year=1992><td class=image><img src=/static/image/media/tv/on-the-air.jpg  ><td>On the Air
-<tr><th data-year=1993><td class=image><img src=/static/image/media/tv/twin-peaks-1.jpg><td>Hotel Room
+<tr><th data-year=1993><td class=image><img src=/static/image/media/tv/hotel-room.jpg><td>Hotel Room
 <tr><th data-year=2017><td class=image><img src=/static/image/media/tv/twin-peaks-1.jpg><td>Twin Peaks Season 3: The Return

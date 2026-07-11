@@ -5,143 +5,143 @@
 ## Fiction
 
 <ul>
-<li data-year=1979                                   ><a class=new href=/shelf/1979/a-planet-called-treason    >A Planet Called Treason</a>
-<li data-year=1980                                   ><a class=new href=/shelf/1980/songmaster                 >Songmaster</a>
-<li data-year=1983                                   ><a class=new href=/shelf/1983/harts-hope                 >Hart's Hope</a>
-<li data-year=1983                                   ><a class=new href=/shelf/1983/sains                      >Saints	/ Woman of Destiny</a>
-<li data-year=1987                                   ><a class=new href=/shelf/1987/wyrms                      >Wyrms</a>
-<li data-year=1988                                   ><a class=new href=/shelf/1988/treason                    >Treason</a>
-<li data-year=1989                                   ><a class=new href=/shelf/1989/the-folk-of-the-fringe     >The Folk of the Fringe</a> (collection)
-<li data-year=1992                                   ><a class=new href=/shelf/1992/lost-boys                  >Lost Boys</a>
-<li data-year=1996                                   ><a class=new href=/shelf/1996/treasure-box               >Treasure Box</a>
-<li data-year=1997                                   ><a class=new href=/shelf/1997/stone-tables               >Stone Tables</a>
-<li data-year=1998                                   ><a class=new href=/shelf/1998/homebody                   >Homebody</a>
-<li data-year=1999                                   ><a class=new href=/shelf/1999/enchantment                >Enchantment</a>
-<li data-year=2005                                   ><a class=new href=/shelf/2005/magic-street               >Magic Street</a>
-<li data-year=2007>Orson Scott Card, Aaron Johnston - <a class=new href=/shelf/2007/invasive-procedures        >Invasive Procedures</a>
-<li data-year=2018                                   ><a class=new href=/shelf/2018/a-town-divided-by-christmas>A Town Divided by Christmas</a>
+<li data-year=1979                                   ><a new href=/shelf/1979/a-planet-called-treason    >A Planet Called Treason</a>
+<li data-year=1980                                   ><a new href=/shelf/1980/songmaster                 >Songmaster</a>
+<li data-year=1983                                   ><a new href=/shelf/1983/harts-hope                 >Hart's Hope</a>
+<li data-year=1983                                   ><a new href=/shelf/1983/sains                      >Saints	/ Woman of Destiny</a>
+<li data-year=1987                                   ><a new href=/shelf/1987/wyrms                      >Wyrms</a>
+<li data-year=1988                                   ><a new href=/shelf/1988/treason                    >Treason</a>
+<li data-year=1989                                   ><a new href=/shelf/1989/the-folk-of-the-fringe     >The Folk of the Fringe</a> (collection)
+<li data-year=1992                                   ><a new href=/shelf/1992/lost-boys                  >Lost Boys</a>
+<li data-year=1996                                   ><a new href=/shelf/1996/treasure-box               >Treasure Box</a>
+<li data-year=1997                                   ><a new href=/shelf/1997/stone-tables               >Stone Tables</a>
+<li data-year=1998                                   ><a new href=/shelf/1998/homebody                   >Homebody</a>
+<li data-year=1999                                   ><a new href=/shelf/1999/enchantment                >Enchantment</a>
+<li data-year=2005                                   ><a new href=/shelf/2005/magic-street               >Magic Street</a>
+<li data-year=2007>Orson Scott Card, Aaron Johnston - <a new href=/shelf/2007/invasive-procedures        >Invasive Procedures</a>
+<li data-year=2018                                   ><a new href=/shelf/2018/a-town-divided-by-christmas>A Town Divided by Christmas</a>
 </ul>
 
 ### Ender's Game
 
 <ul>
-<li data-year=1985><a class=new href=/shelf/1985/enders-game>Ender's Game</a>
+<li data-year=1985><a new href=/shelf/1985/enders-game>Ender's Game</a>
 </ul>
 
 ### Ender's Game - Speaker Trilogy
 
 <ul>
-<li data-year=1986><a class=new href=/shelf/1986/speaker-for-the-dead>Speaker for the Dead</a>
-<li data-year=1991><a class=new href=/shelf/1991/xenocide            >Xenocide</a>
-<li data-year=1996><a class=new href=/shelf/1996/children-of-the-mind>Children of the Mind</a>
+<li data-year=1986><a new href=/shelf/1986/speaker-for-the-dead>Speaker for the Dead</a>
+<li data-year=1991><a new href=/shelf/1991/xenocide            >Xenocide</a>
+<li data-year=1996><a new href=/shelf/1996/children-of-the-mind>Children of the Mind</a>
 </ul>
 
 ### Ender's Game - Omnibus
 
 <ul>
-<li data-year=1991><a class=new href=/shelf/1991/enders-war>Ender's War</a> (omnibus)
+<li data-year=1991><a new href=/shelf/1991/enders-war>Ender's War</a> (omnibus)
 </ul>
 
 ### Ender's Game - Shadow Saga
 
 <ul>
-<li data-year=1999><a class=new href=/shelf/1999/enders-shadow        >Ender's Shadow</a>
-<li data-year=2001><a class=new href=/shelf/2001/shadow-of-the-hegemon>Shadow of the Hegemon</a>
-<li data-year=2002><a class=new href=/shelf/2002/shadow-puppets       >Shadow Puppets</a>
-<li data-year=2005><a class=new href=/shelf/2005/shadow-of-the-giant  >Shadow of the Giant</a>
-<li data-year=2012><a class=new href=/shelf/2012/shadows-in-flight    >Shadows in Flight</a>
-<li data-year=2021><a class=new href=/shelf/2021/the-last-shadow      >The Last Shadow</a>
+<li data-year=1999><a new href=/shelf/1999/enders-shadow        >Ender's Shadow</a>
+<li data-year=2001><a new href=/shelf/2001/shadow-of-the-hegemon>Shadow of the Hegemon</a>
+<li data-year=2002><a new href=/shelf/2002/shadow-puppets       >Shadow Puppets</a>
+<li data-year=2005><a new href=/shelf/2005/shadow-of-the-giant  >Shadow of the Giant</a>
+<li data-year=2012><a new href=/shelf/2012/shadows-in-flight    >Shadows in Flight</a>
+<li data-year=2021><a new href=/shelf/2021/the-last-shadow      >The Last Shadow</a>
 </ul>
 
 #
 
 <ul>
-<li data-year=2002><a class=new href=/shelf/2002/first-meetings>First Meetings</a> (collection)
+<li data-year=2002><a new href=/shelf/2002/first-meetings>First Meetings</a> (collection)
 </ul>
 
 #
 
 <ul>
-<li data-year=1991><a class=new href=/shelf/1991/gloriously-bright         >Gloriously Bright</a> (short)
-<li data-year=2005><a class=new href=/shelf/2005/mazer-in-prison           >Mazer in Prison</a> (short)
-<li data-year=2006><a class=new href=/shelf/2006/pretty-boy                >Pretty Boy</a> (short)
-<li data-year=2006><a class=new href=/shelf/2006/cheater                   >Cheater</a> (short)
-<li data-year=2007><a class=new href=/shelf/2007/a-young-man-with-prospects>A Young Man with Prospects</a> (short)
-<li data-year=2007><a class=new href=/shelf/2007/the-gold-bug              >The Gold Bug</a> (short)
-<li data-year=2007><a class=new href=/shelf/2007/enders-stocking           >Ender's Stocking</a> (short)
-<li data-year=2017><a class=new href=/shelf/2017/renegat                   >Renegat</a>
+<li data-year=1991><a new href=/shelf/1991/gloriously-bright         >Gloriously Bright</a> (short)
+<li data-year=2005><a new href=/shelf/2005/mazer-in-prison           >Mazer in Prison</a> (short)
+<li data-year=2006><a new href=/shelf/2006/pretty-boy                >Pretty Boy</a> (short)
+<li data-year=2006><a new href=/shelf/2006/cheater                   >Cheater</a> (short)
+<li data-year=2007><a new href=/shelf/2007/a-young-man-with-prospects>A Young Man with Prospects</a> (short)
+<li data-year=2007><a new href=/shelf/2007/the-gold-bug              >The Gold Bug</a> (short)
+<li data-year=2007><a new href=/shelf/2007/enders-stocking           >Ender's Stocking</a> (short)
+<li data-year=2017><a new href=/shelf/2017/renegat                   >Renegat</a>
 series = Ender's Game - Fleet Schoo> (short)
 
-<li data-year=2017><a class=new href=/shelf/2017/governor-wiggin>Governor Wiggin</a> (short)
-<li data-year=2018><a class=new href=/shelf/2018/messenger>Messenger</> (short)
+<li data-year=2017><a new href=/shelf/2017/governor-wiggin>Governor Wiggin</a> (short)
+<li data-year=2018><a new href=/shelf/2018/messenger>Messenger</> (short)
 </ul>
 
 #
 
 <ul>
-<li data-year=2007><a class=new href=/shelf/2007/a-war-of-gifts>A War of Gifts: An Ender Story</a>
+<li data-year=2007><a new href=/shelf/2007/a-war-of-gifts>A War of Gifts: An Ender Story</a>
 </ul>
 
 #
 
 <ul>
-<li data-year=2008><a class=new href=/shelf/2008/enders-homecoming>Ender's Homecoming</a> (short)
-<li data-year=2008><a class=new href=/shelf/2008/ender-in-flight>Ender in Flight</a> (short)
-<li data-year=2008><a class=new href=/shelf/2008/ender-in-exile>Ender in Exile</a>
+<li data-year=2008><a new href=/shelf/2008/enders-homecoming>Ender's Homecoming</a> (short)
+<li data-year=2008><a new href=/shelf/2008/ender-in-flight>Ender in Flight</a> (short)
+<li data-year=2008><a new href=/shelf/2008/ender-in-exile>Ender in Exile</a>
 </ul>
 
 # Ender's Game - 1st Formic Wars trilogy
 
 <ul>
-<li data-year=2012>Orson Scott Card, Aaron Johnston - <a class=new href=/shelf/2012/earth-unaware>Earth Unaware</a>
-<li data-year=2013>Orson Scott Card, Aaron Johnston - <a class=new href=/shelf/2013/earth-afire  >Earth Afire</a>
-<li data-year=2014>Orson Scott Card, Aaron Johnston - <a class=new href=/shelf/2014/earth-awakens>Earth Awakens</a>
+<li data-year=2012>Orson Scott Card, Aaron Johnston - <a new href=/shelf/2012/earth-unaware>Earth Unaware</a>
+<li data-year=2013>Orson Scott Card, Aaron Johnston - <a new href=/shelf/2013/earth-afire  >Earth Afire</a>
+<li data-year=2014>Orson Scott Card, Aaron Johnston - <a new href=/shelf/2014/earth-awakens>Earth Awakens</a>
 </ul>
 
 #
 
 <ul>
-<li data-year=2013><a class=new href=/shelf/2013/enders-game-alive>Ender's Game Alive</a> (audiobook)
+<li data-year=2013><a new href=/shelf/2013/enders-game-alive>Ender's Game Alive</a> (audiobook)
 </ul>
 
 # Ender's Game - Fleet School
 
 <ul>
-<li data-year=2017><a class=new href=/shelf/2017/children-of-the-fleet>Children of the Fleet</a>
+<li data-year=2017><a new href=/shelf/2017/children-of-the-fleet>Children of the Fleet</a>
 </ul>
 
 # Ender's Game - 2nd Formic Wars trilogy
 
 <ul>
-<li data-year=2016>Orson Scott Card, Aaron Johnston - <a class=new href=/shelf/2016/the-swarm>The Swarm</a>
-<li data-year=2019>Orson Scott Card, Aaron Johnston - <a class=new href=/shelf/2019/the-hive >The Hive</a>
-<li data-year= TBD>Orson Scott Card, Aaron Johnston - <a class=new href=/shelf/tbd/the-queens>The Queens</a>
+<li data-year=2016>Orson Scott Card, Aaron Johnston - <a new href=/shelf/2016/the-swarm>The Swarm</a>
+<li data-year=2019>Orson Scott Card, Aaron Johnston - <a new href=/shelf/2019/the-hive >The Hive</a>
+<li data-year= TBD>Orson Scott Card, Aaron Johnston - <a new href=/shelf/tbd/the-queens>The Queens</a>
 </ul>
 
 # The Tales of Alvin Maker
 
 <ul>
-<li data-year=1981><a class=new href=/shelf/1981/prentice-alvin-and-the-no-good-plow>Prentice Alvin and the No-Good Plow</a> (poem)
-<li data-year=1987><a class=new href=/shelf/1987/seventh-son                        >Seventh Son</a>
-<li data-year=1988><a class=new href=/shelf/1988/red-prophet                        >Red Prophet</a>
-<li data-year=1989><a class=new href=/shelf/1989/prentice-alvin                     >Prentice Alvin</a>
-<li data-year=1995><a class=new href=/shelf/1995/alvin-journeyman                   >Alvin Journeyman</a>
-<li data-year=1998><a class=new href=/shelf/1998/heartfire                          >Heartfire</a>
-<li data-year=1998><a class=new href=/shelf/1998/grinning-man                       >Grinning Man</a> (short)
-<li data-year=2003><a class=new href=/shelf/2003/the-yazoo-queen                    >The Yazoo Queen</a> (short)
-<li data-year=2014><a class=new href=/shelf/2014/alvin-and-the-apple-tree           >Alvin and the Apple Tree</a> (short)
-<li data-year=2003><a class=new href=/shelf/2003/the-crystal-city                   >The Crystal City</a>
-<li data-year= TBD><a class=new href=/shelf/tbd/master-alvin                        >Master Alvin</a>
+<li data-year=1981><a new href=/shelf/1981/prentice-alvin-and-the-no-good-plow>Prentice Alvin and the No-Good Plow</a> (poem)
+<li data-year=1987><a new href=/shelf/1987/seventh-son                        >Seventh Son</a>
+<li data-year=1988><a new href=/shelf/1988/red-prophet                        >Red Prophet</a>
+<li data-year=1989><a new href=/shelf/1989/prentice-alvin                     >Prentice Alvin</a>
+<li data-year=1995><a new href=/shelf/1995/alvin-journeyman                   >Alvin Journeyman</a>
+<li data-year=1998><a new href=/shelf/1998/heartfire                          >Heartfire</a>
+<li data-year=1998><a new href=/shelf/1998/grinning-man                       >Grinning Man</a> (short)
+<li data-year=2003><a new href=/shelf/2003/the-yazoo-queen                    >The Yazoo Queen</a> (short)
+<li data-year=2014><a new href=/shelf/2014/alvin-and-the-apple-tree           >Alvin and the Apple Tree</a> (short)
+<li data-year=2003><a new href=/shelf/2003/the-crystal-city                   >The Crystal City</a>
+<li data-year= TBD><a new href=/shelf/tbd/master-alvin                        >Master Alvin</a>
 </ul>
 
 # The Homecoming Saga
 
 <ul>
-<li data-year=1992><a class=new href=/shelf/1992/the-memory-of-earth>The Memory of Earth</a>
-<li data-year=1992><a class=new href=/shelf/1992/the-call-of-earth>The Call of Earth</a>
-<li data-year=1994><a class=new href=/shelf/1994/the-ships-of-earth>The Ships of Earth</a>
-<li data-year=1995><a class=new href=/shelf/1995/earthfall>Earthfall</a>
-<li data-year=1995><a class=new href=/shelf/1995/earthborn>Earthborn</a>
+<li data-year=1992><a new href=/shelf/1992/the-memory-of-earth>The Memory of Earth</a>
+<li data-year=1992><a new href=/shelf/1992/the-call-of-earth>The Call of Earth</a>
+<li data-year=1994><a new href=/shelf/1994/the-ships-of-earth>The Ships of Earth</a>
+<li data-year=1995><a new href=/shelf/1995/earthfall>Earthfall</a>
+<li data-year=1995><a new href=/shelf/1995/earthborn>Earthborn</a>
 </ul>
 
 # Women of Genesis
@@ -157,20 +157,20 @@ series = Ender's Game - Fleet Schoo> (short)
 # Pastwatch
 
 <ul>
-<li data-year=1992><a class=new href=/shelf/1992/atlantis>Atlantis</a> (short)
-<li data-year=1996><a class=new href=/shelf/1996/pastwatch>Pastwatch: The Redemption of Christopher Columbus</a>
-<li data-year= TBD><a class=new href=/shelf/tbd/pastwatch-2>Pastwatch: The Flood</a>
-<li data-year= TBD><a class=new href=/shelf/tbd/pastwatch-3>Pastwatch: The Garden of Eden</a>
+<li data-year=1992><a new href=/shelf/1992/atlantis>Atlantis</a> (short)
+<li data-year=1996><a new href=/shelf/1996/pastwatch>Pastwatch: The Redemption of Christopher Columbus</a>
+<li data-year= TBD><a new href=/shelf/tbd/pastwatch-2>Pastwatch: The Flood</a>
+<li data-year= TBD><a new href=/shelf/tbd/pastwatch-3>Pastwatch: The Garden of Eden</a>
 </ul>
 
 # Mithermages
 
 <ul>
-<li data-year=1979><a class=new href=/shelf/1979/sandmagic>Sandmagic</a> (short)
-<li data-year=2008><a class=new href=/shelf/2008/stonefather>Stonefather</a> (novella)
-<li data-year=2011><a class=new href=/shelf/2011/the-lost-gate>The Lost Gate</a>
-<li data-year=2013><a class=new href=/shelf/2013/the-gate-thief>The Gate Thief</a>
-<li data-year=2015><a class=new href=/shelf/2015/gatefather>Gatefather</a>
+<li data-year=1979><a new href=/shelf/1979/sandmagic>Sandmagic</a> (short)
+<li data-year=2008><a new href=/shelf/2008/stonefather>Stonefather</a> (novella)
+<li data-year=2011><a new href=/shelf/2011/the-lost-gate>The Lost Gate</a>
+<li data-year=2013><a new href=/shelf/2013/the-gate-thief>The Gate Thief</a>
+<li data-year=2015><a new href=/shelf/2015/gatefather>Gatefather</a>
 </ul>
 
 # Mayflower
@@ -200,30 +200,30 @@ series = Ender's Game - Fleet Schoo> (short)
 # Pathfinder series
 
 <ul>
-<li data-year=2010><a class=new href=/shelf/2010/Pathfinder>Pathfinder</a>
-<li data-year=2012><a class=new href=/shelf/2012/Ruins>Ruins</a>
-<li data-year=2014><a class=new href=/shelf/2014/Visitors>Visitors</a>
+<li data-year=2010><a new href=/shelf/2010/Pathfinder>Pathfinder</a>
+<li data-year=2012><a new href=/shelf/2012/Ruins>Ruins</a>
+<li data-year=2014><a new href=/shelf/2014/Visitors>Visitors</a>
 </ul>
 
 # Laddertop
 
 <ul>
-<li data-year=2011>Orson Scott Card, Emily Janice Card - <a class=new href=/shelf/2011/laddertop-1>Laddertop: Volume 1</a> (Graphic novel)
-<li data-year=2013>Orson Scott Card, Emily Janice Card - <a class=new href=/shelf/2013/laddertop-2>Laddertop: Volume 2</a> (Graphic novel)
-<li data-year=2022>Orson Scott Card, Emily Janice Card - <a class=new href=/shelf/2022/laddertop-3>Laddertop: Volume 3</a> (Audiobook)
+<li data-year=2011>Orson Scott Card, Emily Janice Card - <a new href=/shelf/2011/laddertop-1>Laddertop: Volume 1</a> (Graphic novel)
+<li data-year=2013>Orson Scott Card, Emily Janice Card - <a new href=/shelf/2013/laddertop-2>Laddertop: Volume 2</a> (Graphic novel)
+<li data-year=2022>Orson Scott Card, Emily Janice Card - <a new href=/shelf/2022/laddertop-3>Laddertop: Volume 3</a> (Audiobook)
 </ul>
 
 # Side Step series
 
 <ul>
-<li data-year=2022><a class=new href=/shelf/2022/wakers>Wakers</a>
+<li data-year=2022><a new href=/shelf/2022/wakers>Wakers</a>
 </ul>
 
 # Micropowers series
 
 <ul>
-<li data-year=2019><a class=new href=/shelf/2019/lost-and-found>Lost and Found</a>
-<li data-year=2021><a class=new href=/shelf/2021/duplex>Duplex</a>
+<li data-year=2019><a new href=/shelf/2019/lost-and-found>Lost and Found</a>
+<li data-year=2021><a new href=/shelf/2021/duplex>Duplex</a>
 </ul>
 
 # Short story collections
