@@ -5,24 +5,24 @@
 ## Films
 
 <table>
-<tr><th data-year=1994><td class=img><a href=/shelf/1994/stargate><img src=/static/image/media/film/stargate.jpg></a><td><a href=/shelf/1994/stargate>Stargate</a>
+<tr><th data-year=1994><td><a href=/shelf/1994/stargate><img src=/static/image/media/film/stargate.jpg></a><td><a href=/shelf/1994/stargate>Stargate</a>
 </table>
 
 ## TV
 
 <table>
-<tr><th data-year=1997><td class=img><a href=/shelf/1997/stargate-sg-1            ><img src=/static/image/media/tv/stargate-sg-1.jpg            ></a><td><a href=/shelf/1997/stargate-sg-1            >Stargate SG-1</a>
-<tr><th data-year=2004><td class=img><a href=/shelf/2004/stargate-atlantis        ><img src=/static/image/media/tv/stargate-atlantis.jpg        ></a><td><a href=/shelf/2004/stargate-atlantis        >Stargate Atlantis</a>
-<tr><th data-year=2009><td class=img><a href=/shelf/2009/stargate-universe        ><img src=/static/image/media/tv/stargate-universe.jpg        ></a><td><a href=/shelf/2009/stargate-universe        >Stargate Universe</a>
-<tr><th data-year=2018><td class=img><a href=/shelf/2018/stargate-origins         ><img src=/static/image/media/tv/stargate-origins.jpg         ></a><td><a href=/shelf/2018/stargate-origins         >Stargate Origins (web)</a>
-<tr><th data-year=2008><td class=img><a href=/shelf/2008/stargate-the-ark-of-truth><img src=/static/image/media/tv/stargate-the-ark-of-truth.jpg></a><td><a href=/shelf/2008/stargate-the-ark-of-truth>Stargate: The Ark of Truth (TV film)</a>
-<tr><th data-year=2008><td class=img><a href=/shelf/2008/stargate-continuum       ><img src=/static/image/media/tv/stargate-continuum.jpg       ></a><td><a href=/shelf/2008/stargate-continuum       >Stargate: Continuum (TV film)</a>
+<tr><th data-year=1997><td><a href=/shelf/1997/stargate-sg-1            ><img src=/static/image/media/tv/stargate-sg-1.jpg            ></a><td><a href=/shelf/1997/stargate-sg-1            >Stargate SG-1</a>
+<tr><th data-year=2004><td><a href=/shelf/2004/stargate-atlantis        ><img src=/static/image/media/tv/stargate-atlantis.jpg        ></a><td><a href=/shelf/2004/stargate-atlantis        >Stargate Atlantis</a>
+<tr><th data-year=2009><td><a href=/shelf/2009/stargate-universe        ><img src=/static/image/media/tv/stargate-universe.jpg        ></a><td><a href=/shelf/2009/stargate-universe        >Stargate Universe</a>
+<tr><th data-year=2018><td><a href=/shelf/2018/stargate-origins         ><img src=/static/image/media/tv/stargate-origins.jpg         ></a><td><a href=/shelf/2018/stargate-origins         >Stargate Origins (web)</a>
+<tr><th data-year=2008><td><a href=/shelf/2008/stargate-the-ark-of-truth><img src=/static/image/media/tv/stargate-the-ark-of-truth.jpg></a><td><a href=/shelf/2008/stargate-the-ark-of-truth>Stargate: The Ark of Truth (TV film)</a>
+<tr><th data-year=2008><td><a href=/shelf/2008/stargate-continuum       ><img src=/static/image/media/tv/stargate-continuum.jpg       ></a><td><a href=/shelf/2008/stargate-continuum       >Stargate: Continuum (TV film)</a>
 </table>
 
 ## Anime
 
 <table>
-<tr><th data-year=2002><td class=img><a href=/shelf/2002/stargate-infinity><img src=/static/image/media/anime/stargate-infinity.jpg></a><td><a href=/shelf/2002/stargate-infinity>Stargate Infinity</a>
+<tr><th data-year=2002><td><a href=/shelf/2002/stargate-infinity><img src=/static/image/media/anime/stargate-infinity.jpg></a><td><a href=/shelf/2002/stargate-infinity>Stargate Infinity</a>
 </table>
 
 ## Documentary
@@ -43,13 +43,13 @@
 ## Games
 
 <table>
-<tr><th data-year=1994><td class=img><img src=/static/image/media/game/stargate.jpg                  ><td>Stargate (Nintendo Game Boy, Sega Game Gear)
-<tr><th data-year=1995><td class=img><img src=/static/image/media/game/stargate.jpg                  ><td>Stargate (Sega Genesis, SNES)
-<tr><th data-year=2005><td class=img><img src=/static/image/media/game/stargate-sg-1-the-alliance.jpg><td>Stargate SG-1: The Alliance (cancelled)
-<tr><th data-year=2006><td class=img><img src=/static/image/media/game/stargate-worlds.jpg           ><td>Stargate Worlds (cancelled)
-<tr><th data-year=2010><td class=img><img src=/static/image/media/game/stargate-resistance.jpg       ><td>Stargate: Resistance
-<tr><th data-year=2013><td class=img><img src=/static/image/media/game/stargate-sg-1-unleashed.jpg   ><td>Stargate SG-1: Unleashed
-<tr><th data-year=2024><td class=img><img src=/static/image/media/game/stargate-timekeepers.jpg      ><td>Stargate: Timekeepers
+<tr><th data-year=1994><td><img src=/static/image/media/game/stargate.jpg                  ><td>Stargate (Nintendo Game Boy, Sega Game Gear)
+<tr><th data-year=1995><td><img src=/static/image/media/game/stargate.jpg                  ><td>Stargate (Sega Genesis, SNES)
+<tr><th data-year=2005><td><img src=/static/image/media/game/stargate-sg-1-the-alliance.jpg><td>Stargate SG-1: The Alliance (cancelled)
+<tr><th data-year=2006><td><img src=/static/image/media/game/stargate-worlds.jpg           ><td>Stargate Worlds (cancelled)
+<tr><th data-year=2010><td><img src=/static/image/media/game/stargate-resistance.jpg       ><td>Stargate: Resistance
+<tr><th data-year=2013><td><img src=/static/image/media/game/stargate-sg-1-unleashed.jpg   ><td>Stargate SG-1: Unleashed
+<tr><th data-year=2024><td><img src=/static/image/media/game/stargate-timekeepers.jpg      ><td>Stargate: Timekeepers
 </table>
 
 ## Other

@@ -24,11 +24,11 @@
 >
 > With Pistol Opera Suzuki takes his Taisho era mythic experimentation and applies it to the themes of his much earlier crime films. Here too is the new mythic language of the early 00’s: that of the comic book, the advertisement and the music video. Alongside it, the new mythological concerns of life under capitalism and the uneasy relationship between Japan and the West.
 
-<ul><li data-date=2024-04-23><a href=https://letterboxd.com/jcg_001/film/pistol-opera>Letterboxd</a><br><a class=new>jcg_001</a></ul>
+<ul><li data-date=2024-04-23><a href=https://letterboxd.com/jcg_001/film/pistol-opera>Letterboxd</a><br><a new>jcg_001</a></ul>
 
 > i love when you can really see an author's signature on their work (boom mic in frame)
 
-<ul><li data-date=2023-04-19><a href=https://letterboxd.com/chance_rev/film/pistol-opera>Letterboxd</a><br><a class=new>chance_rev</a></ul>
+<ul><li data-date=2023-04-19><a href=https://letterboxd.com/chance_rev/film/pistol-opera>Letterboxd</a><br><a new>chance_rev</a></ul>
 
 > “I didn’t mean to kill each other, really!”
 >
@@ -42,4 +42,4 @@
 >
 > Like the Taisho trilogy, the uneasy meeting of Japan and the West is key here, interrupting fitfully until finally exploding into a storm of allusions. The players are beached on the 21st century, a new continent of ideological and cultural detritus. They seem only to kill each other in a closed, absurdist loop, lost in a game played for want of actual truth. No one is as certain of its hollowness as they, but the motions continue, the ball keeps rolling. It’s a matter of momentum: they must kill, they must jostle, or vanish outright as a purposeless system of ciphers.
 
-<ul><li data-date=2020-02-06><a href=https://letterboxd.com/john_lehtonen/film/pistol-opera>Letterboxd</a><br><a class=new>John Lehtonen</a></ul>
+<ul><li data-date=2020-02-06><a href=https://letterboxd.com/john_lehtonen/film/pistol-opera>Letterboxd</a><br><a new>John Lehtonen</a></ul>

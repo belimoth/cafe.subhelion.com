@@ -51,69 +51,69 @@
 <h3 id=tales>Known Space - Tales of Known Space (short)</h3>
 
 <ul>
-<li data-year=1964><a class=new>Tales of Known Space - The Coldest Place               </a>
-<li data-year=1965><a class=new>Tales of Known Space - Becalmed in Hell                </a>
-<li data-year=1966><a class=new>Tales of Known Space - Eye of an Octopus               </a>
-<li data-year=1966><a class=new>Tales of Known Space - How the Heroes Die              </a>
-<li data-year=1966><a class=new>Tales of Known Space - At the Bottom of a Hole         </a>
-<li data-year=1967><a class=new>Tales of Known Space - Safe at any Speed               </a>
-<li data-year=1967><a class=new>Tales of Known Space - The Jigsaw Man                  </a>
-<li data-year=1968><a class=new>Tales of Known Space - Intent to Deceive; The Deceivers</a>
-<li data-year=1968><a class=new>Tales of Known Space - There Is a Tide                 </a>
-<li data-year=1968><a class=new>Tales of Known Space - Wait It Out                     </a>
-<li data-year=1972><a class=new>Tales of Known Space - Cloak of Anarchy                </a>
+<li data-year=1964><a new>Tales of Known Space - The Coldest Place               </a>
+<li data-year=1965><a new>Tales of Known Space - Becalmed in Hell                </a>
+<li data-year=1966><a new>Tales of Known Space - Eye of an Octopus               </a>
+<li data-year=1966><a new>Tales of Known Space - How the Heroes Die              </a>
+<li data-year=1966><a new>Tales of Known Space - At the Bottom of a Hole         </a>
+<li data-year=1967><a new>Tales of Known Space - Safe at any Speed               </a>
+<li data-year=1967><a new>Tales of Known Space - The Jigsaw Man                  </a>
+<li data-year=1968><a new>Tales of Known Space - Intent to Deceive; The Deceivers</a>
+<li data-year=1968><a new>Tales of Known Space - There Is a Tide                 </a>
+<li data-year=1968><a new>Tales of Known Space - Wait It Out                     </a>
+<li data-year=1972><a new>Tales of Known Space - Cloak of Anarchy                </a>
 <li data-year=1975>Tales of Known Space: The Universe of Larry Niven</a> (collection)
 </ul>
 
 ### Known Space - World of Ptavvs
 
 <ul>
-<li data-year=1965><a class=new>World of Ptavvs</a> (novella)
-<li data-year=1966><a class=new>World of Ptavvs</a> (novel)
+<li data-year=1965><a new>World of Ptavvs</a> (novella)
+<li data-year=1966><a new>World of Ptavvs</a> (novel)
 </ul>
 
 
 ### Known Space - Neutron Star (short)
 
 <ul>
-<li data-year=1966><a class=new>Neutron Star - A Relic of the Empire                   </a>
-<li data-year=1967><a class=new>Neutron Star - The Soft Weapon                         </a>
-<li data-year=1967><a class=new>Neutron Star - The Ethics of Madness                   </a>
-<li data-year=1967><a class=new>Neutron Star - The Handicapped                         </a>
+<li data-year=1966><a new>Neutron Star - A Relic of the Empire                   </a>
+<li data-year=1967><a new>Neutron Star - The Soft Weapon                         </a>
+<li data-year=1967><a new>Neutron Star - The Ethics of Madness                   </a>
+<li data-year=1967><a new>Neutron Star - The Handicapped                         </a>
 </ul>
 
 
 ### Known Space - larryniven.net (short)
 
 <ul>
-<li data-year=1993><a class=new>The Color Of Sunfire</a>
+<li data-year=1993><a new>The Color Of Sunfire</a>
 </ul>
 
 <h3 id=crashlander>Known Space - Crashlander; Beowulf Shaeffer</h3>
 
 <ul>
-<li data-year=1966><a class=new>Neutron Star         </a> (short)
-<li data-year=1966><a class=new>At the Core          </a> (short)
-<li data-year=1967><a class=new>Flatlander           </a> (short)
-<li data-year=1968><a class=new>Grendel              </a> (short)
-<li data-year=1975><a class=new>The Borderland of Sol</a> (short)
-<li data-year=1993><a class=new>Procrustes           </a> (short)
-<li data-year=1994><a class=new>Crashlander - Ghost  </a> (short)
-<li data-year=1994><a class=new>Crashlander          </a> (fix-up novel)
+<li data-year=1966><a new>Neutron Star         </a> (short)
+<li data-year=1966><a new>At the Core          </a> (short)
+<li data-year=1967><a new>Flatlander           </a> (short)
+<li data-year=1968><a new>Grendel              </a> (short)
+<li data-year=1975><a new>The Borderland of Sol</a> (short)
+<li data-year=1993><a new>Procrustes           </a> (short)
+<li data-year=1994><a new>Crashlander - Ghost  </a> (short)
+<li data-year=1994><a new>Crashlander          </a> (fix-up novel)
 </ul>
 
 ### Known Space - A Gift from Earth
 
 <ul>
-<li data-year=1968><a class=new>Slowboat Cargo   </a> (short)
-<li data-year=1968><a class=new>A Gift from Earth</a> (novel)
+<li data-year=1968><a new>Slowboat Cargo   </a> (short)
+<li data-year=1968><a new>A Gift from Earth</a> (novel)
 </ul>
 
 <h3 id=protector>Known Space - Protector</h3>
 
 <ul>
-<li data-year=1967><a class=new>The Adults</a> (short)
-<li data-year=1973><a class=new>Protector </a> (novel)
+<li data-year=1967><a new>The Adults</a> (short)
+<li data-year=1973><a new>Protector </a> (novel)
 </ul>
 
 ### Known Space - Collections
@@ -128,23 +128,23 @@
 <h3 id=flatlander>Known Space - Flatlander; Gil Hamilton</h3>
 
 <ul>
-<li data-year=1969><a class=new>Death by Ecstasy; The Organleggers</a> (short)
-<li data-year=1973><a class=new>The Defenseless Dead              </a> (short)
-<li data-year=1975><a class=new>ARM                               </a> (short)
-<li data-year=1976><a class=new>The Long Arm of Gil Hamilton      </a> (omnibus)
-<li data-year=1980><a class=new>The Patchwork Girl                </a> (novel)
-<li data-year=1995><a class=new>The Woman in Del Rey Crater       </a> (short)
-<li data-year=1995><a class=new>Flatlander                        </a> (omnibus)
-<li data-year=2022>Larry Niven, Steven Barnes - <a class=new>Sacred Cow</a> (short)
+<li data-year=1969><a new>Death by Ecstasy; The Organleggers</a> (short)
+<li data-year=1973><a new>The Defenseless Dead              </a> (short)
+<li data-year=1975><a new>ARM                               </a> (short)
+<li data-year=1976><a new>The Long Arm of Gil Hamilton      </a> (omnibus)
+<li data-year=1980><a new>The Patchwork Girl                </a> (novel)
+<li data-year=1995><a new>The Woman in Del Rey Crater       </a> (short)
+<li data-year=1995><a new>Flatlander                        </a> (omnibus)
+<li data-year=2022>Larry Niven, Steven Barnes - <a new>Sacred Cow</a> (short)
 </ul>
 
 <h3 id=ringworld>Known Space - Ringworld</h3>
 
 <ul>
-<li data-year=1970><a href=new>Ringworld              </a>
-<li data-year=1979><a href=new>The Ringworld Engineers</a>
-<li data-year=1996><a href=new>The Ringworld Throne   </a>
-<li data-year=2004><a href=new>Ringworld's Children   </a>
+<li data-year=1970><a new>Ringworld              </a>
+<li data-year=1979><a new>The Ringworld Engineers</a>
+<li data-year=1996><a new>The Ringworld Throne   </a>
+<li data-year=2004><a new>Ringworld's Children   </a>
 </ul>
 
 ### Known Space - Ringworld - Other
@@ -158,11 +158,11 @@
 - [Larry Niven](/profile/larry-niven), [Edward M. Lerner]()
 
 <ul>
-<li data-year=2007><a class=new>Fleet of Worlds    </a>
-<li data-year=2008><a class=new>Juggler of Worlds  </a>
-<li data-year=2009><a class=new>Destroyer of Worlds</a>
-<li data-year=2010><a class=new>Betrayer of Worlds </a>
-<li data-year=2012><a class=new>Fate of Worlds     </a> (sequel)
+<li data-year=2007><a new>Fleet of Worlds    </a>
+<li data-year=2008><a new>Juggler of Worlds  </a>
+<li data-year=2009><a new>Destroyer of Worlds</a>
+<li data-year=2010><a new>Betrayer of Worlds </a>
+<li data-year=2012><a new>Fate of Worlds     </a> (sequel)
 </ul>
 
 <h3 id=man-kzin-wars>Known Space - Man-Kzin Wars I</h3>
@@ -170,74 +170,74 @@
 - [Wikipedia](https://en.wikipedia.org/wiki/Man–Kzin_Wars)
 
 <ul>
-<li data-year=1966><a href=>Larry Niven  </a> - <a class=new>The Warriors</a>
-<li data-year=1988><a href=>Poul Anderson</a> - <a class=new>Iron        </a>
-<li data-year=1988><a href=>Dean Ing     </a> - <a class=new>Cathouse    </a>
-<li data-year=1988><a class=new>The Man-Kzin Wars</a> (omnibus)
+<li data-year=1966><a new>Larry Niven  </a> - <a new>The Warriors</a>
+<li data-year=1988><a new>Poul Anderson</a> - <a new>Iron        </a>
+<li data-year=1988><a new>Dean Ing     </a> - <a new>Cathouse    </a>
+<li data-year=1988><a new>The Man-Kzin Wars</a> (omnibus)
 </ul>
 
 ### Known Space - Man-Kzin Wars II
 
 <ul>
-<li data-year=1989>Dean Ing                        - <a class=new>Briar Patch        </a>
-<li data-year=1989>Jerry Pournelle, S. M. Stirling - <a class=new>The Children's Hour</a>
+<li data-year=1989>Dean Ing                        - <a new>Briar Patch        </a>
+<li data-year=1989>Jerry Pournelle, S. M. Stirling - <a new>The Children's Hour</a>
 </ul>
 
 ### Known Space - Man-Kzin Wars III
 
 <ul>
-<li data-year=1990>Larry Niven                    - <a class=new>Madness Has Its Place</a>
-<li data-year=1990>Jerry Pournelle, S.M. Stirling - <a class=new>The Asteroid Queen   </a>
-<li data-year=1990>Poul Anderson                  - <a class=new>Inconstant Star      </a>
+<li data-year=1990>Larry Niven                    - <a new>Madness Has Its Place</a>
+<li data-year=1990>Jerry Pournelle, S.M. Stirling - <a new>The Asteroid Queen   </a>
+<li data-year=1990>Poul Anderson                  - <a new>Inconstant Star      </a>
 </ul>
 
 
 ### Known Space - Man-Kzin Wars IV
 
 <ul>
-<li data-year=1991>Donald Kingsbury             - <a class=new>The Survivor             </a>
-<li data-year=1991>Greg Bear and S. M. Stirling - <a class=new>The Man Who Would Be Kzin</a>
+<li data-year=1991>Donald Kingsbury             - <a new>The Survivor             </a>
+<li data-year=1991>Greg Bear and S. M. Stirling - <a new>The Man Who Would Be Kzin</a>
 </ul>
 
 ### Known Space - Man-Kzin Wars V
 
 <ul>
-<li data-year=1992>Jerry Pournelle and S.M. Stirling - <a class=new>In The Hall of the Mountain King</a>
-<li data-year=1992>Thomas T. Thomas - <a class=new>Hey Diddle Diddle                                </a>
+<li data-year=1992>Jerry Pournelle and S.M. Stirling - <a new>In The Hall of the Mountain King</a>
+<li data-year=1992>Thomas T. Thomas - <a new>Hey Diddle Diddle                                </a>
 </ul>
 
 ### Known Space - Man-Kzin Wars VI
 
 <ul>
-<li data-year=1994>Donald Kingsbury                - <a class=new>The Heroic Myth of Lieutenant Nora Argamentine</a>
-<li data-year=1994>Mark O. Martin, Gregory Benford - <a class=new>Trojan Cat                                    </a>
+<li data-year=1994>Donald Kingsbury                - <a new>The Heroic Myth of Lieutenant Nora Argamentine</a>
+<li data-year=1994>Mark O. Martin, Gregory Benford - <a new>Trojan Cat                                    </a>
 </ul>
 
 ### Known Space - Man-Kzin Wars VII
 
 <ul>
-<li data-year=1995>Hal Colebatch                   - <a class=new>The Colonel's Tiger</a>
-<li data-year=1995>Mark O. Martin, Gregory Benford - <a class=new>A Darker Geometry  </a>
-<li data-year=1995>Paul Chafe                      - <a class=new>Prisoner of War    </a>
+<li data-year=1995>Hal Colebatch                   - <a new>The Colonel's Tiger</a>
+<li data-year=1995>Mark O. Martin, Gregory Benford - <a new>A Darker Geometry  </a>
+<li data-year=1995>Paul Chafe                      - <a new>Prisoner of War    </a>
 </ul>
 
 ### Known Space - Man-Kzin Wars VIII
 
 <ul>
-<li data-year=1998><a href=/profile/larry-niven>Larry Niven    </a> - <a class=new>Choosing Names    </a>
-<li data-year=1998><a class=new                           >Hal Colebatch  </a> - <a class=new>Telepath's Dance  </a>
-<li data-year=1998><a class=new                           >Jean Lamb      </a> - <a class=new>Galley Slave      </a>
-<li data-year=1998><a class=new                           >Paul Chafe     </a> - <a class=new>Jotok             </a>
-<li data-year=1998><a class=new                           >Warren W. James</a> - <a class=new>Slowboat Nightmare</a>
+<li data-year=1998><a href=/profile/larry-niven>Larry Niven    </a> - <a new>Choosing Names    </a>
+<li data-year=1998><a new>Hal Colebatch  </a> - <a new>Telepath's Dance  </a>
+<li data-year=1998><a new>Jean Lamb      </a> - <a new>Galley Slave      </a>
+<li data-year=1998><a new>Paul Chafe     </a> - <a new>Jotok             </a>
+<li data-year=1998><a new>Warren W. James</a> - <a new>Slowboat Nightmare</a>
 </ul>
 
 ### Known Space - Man-Kzin Wars IX
 
 <ul>
-<li data-year=2002>Poul Anderson - <a class=new>Pele                </a>
-<li data-year=2002>Hal Colebatch - <a class=new>His Sergeant's Honor</a>
-<li data-year=2002>Paul Chafe    - <a class=new>Windows of the Soul </a>
-<li data-year=2002>Larry Niven   - <a class=new>Fly-by-Night        </a>
+<li data-year=2002>Poul Anderson - <a new>Pele                </a>
+<li data-year=2002>Hal Colebatch - <a new>His Sergeant's Honor</a>
+<li data-year=2002>Paul Chafe    - <a new>Windows of the Soul </a>
+<li data-year=2002>Larry Niven   - <a new>Fly-by-Night        </a>
 </ul>
 
 ### Known Space - Man-Kzin Wars X
@@ -245,77 +245,77 @@
 - [Hal Colebatch]()
 
 <ul>
-<li data-year=2003><a class=new>One War for Wunderland   </a>
-<li data-year=2003><a class=new>The Corporal in the Caves</a>
-<li data-year=2003><a class=new>Music Box                </a>
-<li data-year=2003><a class=new>Peter Robinson           </a>
+<li data-year=2003><a new>One War for Wunderland   </a>
+<li data-year=2003><a new>The Corporal in the Caves</a>
+<li data-year=2003><a new>Music Box                </a>
+<li data-year=2003><a new>Peter Robinson           </a>
 </ul>
 
 ### Known Space - Man-Kzin Wars XI
 
 <ul>
-<li data-year=2005>Hal Colebatch             - <a class=new>Three at Table    </a>
-<li data-year=2005>Hal Colebatch             - <a class=new>Grossgeister Swamp</a>
-<li data-year=2005>Hal Colebatch             - <a class=new>Catspaws          </a>
-<li data-year=2005>Matthew Joseph Harrington - <a class=new>Teacher's Pet     </a>
-<li data-year=2005>Matthew Joseph Harrington - <a class=new>War and Peace     </a>
-<li data-year=2005>Larry Niven               - <a class=new>The Hunting Park  </a>
+<li data-year=2005>Hal Colebatch             - <a new>Three at Table    </a>
+<li data-year=2005>Hal Colebatch             - <a new>Grossgeister Swamp</a>
+<li data-year=2005>Hal Colebatch             - <a new>Catspaws          </a>
+<li data-year=2005>Matthew Joseph Harrington - <a new>Teacher's Pet     </a>
+<li data-year=2005>Matthew Joseph Harrington - <a new>War and Peace     </a>
+<li data-year=2005>Larry Niven               - <a new>The Hunting Park  </a>
 </ul>
 
 ### Known Space - Man-Kzin Wars XII
 
 <ul>
-<li data-year=2009>Matthew Joseph Harrington                - <a class=new>Echoes of Distant Guns      </a>
-<li data-year=2009>Hal Colebatch, Matthew Joseph Harrington - <a class=new>Aquila Advenio              </a>
-<li data-year=2009>Hal Colebatch                            - <a class=new>The Trooper and the Triangle</a>
-<li data-year=2009>Hal Colebatch, Matthew Joseph Harrington - <a class=new>String                      </a>
-<li data-year=2009>Matthew Joseph Harrington                - <a class=new>Peace and Freedom           </a>
-<li data-year=2009>Paul Chafe                               - <a class=new>Independent                 </a>
+<li data-year=2009>Matthew Joseph Harrington                - <a new>Echoes of Distant Guns      </a>
+<li data-year=2009>Hal Colebatch, Matthew Joseph Harrington - <a new>Aquila Advenio              </a>
+<li data-year=2009>Hal Colebatch                            - <a new>The Trooper and the Triangle</a>
+<li data-year=2009>Hal Colebatch, Matthew Joseph Harrington - <a new>String                      </a>
+<li data-year=2009>Matthew Joseph Harrington                - <a new>Peace and Freedom           </a>
+<li data-year=2009>Paul Chafe                               - <a new>Independent                 </a>
 </ul>
 
 ### Known Space - Man-Kzin Wars XIII
 
 <ul>
-<li data-year=2012>Hal Colebatch, Jessica Q. Fox - <a class=new>Misunderstanding           </a>
-<li data-year=2012>Jane Lindskold                - <a class=new>Two Type of Teeth          </a>
-<li data-year=2012>Charles E. Gannon             - <a class=new>Pick of the Litter         </a>
-<li data-year=2012>Charles E. Gannon             - <a class=new>Tomcat Tactics             </a>
-<li data-year=2012>Alex Hernandez                - <a class=new>At the Gates               </a>
-<li data-year=2012>David Bartell                 - <a class=new>Zeno's Roulette            </a>
-<li data-year=2012>Alex Hernandez                - <a class=new>Bound for the Promised Land</a>
+<li data-year=2012>Hal Colebatch, Jessica Q. Fox - <a new>Misunderstanding           </a>
+<li data-year=2012>Jane Lindskold                - <a new>Two Type of Teeth          </a>
+<li data-year=2012>Charles E. Gannon             - <a new>Pick of the Litter         </a>
+<li data-year=2012>Charles E. Gannon             - <a new>Tomcat Tactics             </a>
+<li data-year=2012>Alex Hernandez                - <a new>At the Gates               </a>
+<li data-year=2012>David Bartell                 - <a new>Zeno's Roulette            </a>
+<li data-year=2012>Alex Hernandez                - <a new>Bound for the Promised Land</a>
 </ul>
 
 ### Known Space - Man-Kzin Wars XIV
 
 <ul>
-<li data-year=2013>Hal Colebatch, Jessica Q. Fox - <a class=new>A Man Named Saul     </a>
-<li data-year=2013>Matthew Joseph Harrington     - <a class=new>Heritage             </a>
-<li data-year=2013>Hal Colebatch                 - <a class=new>The Marmalade Problem</a>
-<li data-year=2013>Matthew Joseph Harrington     - <a class=new>Leftovers            </a>
-<li data-year=2013>Hal Colebatch                 - <a class=new>The White Column     </a>
-<li data-year=2013>Hal Colebatch                 - <a class=new>Deadly Knowledge     </a>
-<li data-year=2013>Alex Hernandez                - <a class=new>Lions on the Beach   </a>
+<li data-year=2013>Hal Colebatch, Jessica Q. Fox - <a new>A Man Named Saul     </a>
+<li data-year=2013>Matthew Joseph Harrington     - <a new>Heritage             </a>
+<li data-year=2013>Hal Colebatch                 - <a new>The Marmalade Problem</a>
+<li data-year=2013>Matthew Joseph Harrington     - <a new>Leftovers            </a>
+<li data-year=2013>Hal Colebatch                 - <a new>The White Column     </a>
+<li data-year=2013>Hal Colebatch                 - <a new>Deadly Knowledge     </a>
+<li data-year=2013>Alex Hernandez                - <a new>Lions on the Beach   </a>
 </ul>
 
 ### Known Space - Man-Kzin Wars XV
 
 <ul>
-<li data-year=2019>Hal Colebatch                 - <a class=new>Sales Pitch    </a>
-<li data-year=2019>Martin L. Shoemaker           - <a class=new>Singer-of-Truth</a>
-<li data-year=2019>Jason Fregeau                 - <a class=new>The Third Kzin </a>
-<li data-year=2019>Hal Colebatch, Jessica Q. Fox - <a class=new>Excitement     </a>
-<li data-year=2019>Jessica Q. Fox                - <a class=new>Justice        </a>
-<li data-year=2019>Brendan DuBois                - <a class=new>Saga           </a>
-<li data-year=2019>Brad R. Torgersen             - <a class=new>Scrith         </a>
+<li data-year=2019>Hal Colebatch                 - <a new>Sales Pitch    </a>
+<li data-year=2019>Martin L. Shoemaker           - <a new>Singer-of-Truth</a>
+<li data-year=2019>Jason Fregeau                 - <a new>The Third Kzin </a>
+<li data-year=2019>Hal Colebatch, Jessica Q. Fox - <a new>Excitement     </a>
+<li data-year=2019>Jessica Q. Fox                - <a new>Justice        </a>
+<li data-year=2019>Brendan DuBois                - <a new>Saga           </a>
+<li data-year=2019>Brad R. Torgersen             - <a new>Scrith         </a>
 </ul>
 
 ### Known Space - Man-Kzin Wars - Novels
 
 
 <ul>
-<li data-year=2006>Paul Chafe                    - <a class=new>Destiny's Forge</a>
-<li data-year=2014>Hal Colebatch, Jessica Q. Fox - <a class=new>Treasure Planet</a>
-<li data-year=2020>Hal Colebatch, Jessica Q. Fox - <a class=new>Freedom        </a>
+<li data-year=2006>Paul Chafe                    - <a new>Destiny's Forge</a>
+<li data-year=2014>Hal Colebatch, Jessica Q. Fox - <a new>Treasure Planet</a>
+<li data-year=2020>Hal Colebatch, Jessica Q. Fox - <a new>Freedom        </a>
 </ul>
 
 
