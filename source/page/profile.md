@@ -93,6 +93,7 @@ document.getElementById( "label-social"   ).addEventListener( "click", () => lab
 <li data-life="1925 -- 2017"     fiction                           ><a href=/profile/brian-aldiss         >Brian Aldiss</a>
 <li data-life="1926 -- 2001"     fiction                           ><a href=/profile/poul-anderson        >Poul Anderson</a>
 <li data-life="1926 -- 2017"                     media             ><a href=/profile/harry-dean-stanton   >Harry Dean Stanton</a>
+<li data-life="1926 -- 2002"                                 social><a href=/profile/ivan-illich          >Ivan Illich</a>
 <li data-life="1928 -- 1982"     fiction                           ><a href=/profile/philip-k-dick        >Philip K. Dick</a>
 <li data-life="1928 -- 1999"                     media             ><a href=/profile/stanley-kubrick      >Stanley Kubrick</a>
 <li data-life="1929 -- 2018"     fiction                           ><a href=/profile/ursula-k-le-guin     >Ursula K. Le Guin</a>
@@ -163,7 +164,7 @@ document.getElementById( "label-social"   ).addEventListener( "click", () => lab
 <li data-life="1951 --     "                     media             ><a href=/profile/mamoru-oshii         >Mamoru Oshii; 押井 守</a>
 <li data-life="1951 --     "                     media             ><a href=/profile/mark-hamill          >Mark Hamill</a>
 <li data-life="1951 --     "     fiction                           ><a href=/profile/orson-scott-card     >Orson Scott Card</a>
-<li data-life="1951 --     "                     media             ><a href=/profile/phil-tippet          >Phil Tippet</a>
+<li data-life="1951 --     "                     media             ><a href=/profile/phil-tippett         >Phil Tippett/a>
 <li data-life="1951 -- 2022"     fiction                           ><a href=/profile/greg-bear            >Greg Bear</a>
 <li data-life="1952 --     "                     media             ><a href=/profile/erick-avari          >Erick Avari</a>
 <li data-life="1952 --     "                     media             ><a href=/profile/jonathan-frakes      >Jonathan Frakes</a>
@@ -173,6 +174,7 @@ document.getElementById( "label-social"   ).addEventListener( "click", () => lab
 <li data-life="1954 --     "                     media             ><a href=/profile/james-cameron        >James Cameron</a>
 <li data-life="1954 --     "                     media             ><a href=/profile/katsuhiro-otomo      >Katsuhiro Otomo; 大友 克洋</a>
 <li data-life="1954 -- 2013"     fiction                           ><a href=/profile/iain-banks           >Iain M. Banks</a>
+<li data-life="1954 -- 2026"                     media             ><a href=/profile/anthony-head         >Anthony Head</a>
 <li data-life="1955 --     "                     media             ><a href=/profile/bruce-willis         >Bruce Willis</a>
 <li data-life="1955 --     "                     media             ><a href=/profile/kevin-mcnulty        >Kevin McNulty</a>
 <li data-life="1955 --     "                     media             ><a href=/profile/roland-emmerich      >Roland Emmerich</a>
@@ -181,11 +183,11 @@ document.getElementById( "label-social"   ).addEventListener( "click", () => lab
 <li data-life="1956 --     "                     media             ><a href=/profile/michael-biehn        >Michael Biehn</a>
 <li data-life="1956 --     "                     media             ><a href=/profile/richard-kind         >Richard Kind</a>
 <li data-life="1956 -- 2016"                     media             ><a href=/profile/carrie-fisher        >Carrie Fisher</a>
-<li data-life="1957 --     "     fiction                           ><a href=/profile/ann-vandermeer       >Ann VanderMeer</a>
 <li data-life="1957 --     "                     media             ><a href=/profile/christopher-lambert  >Christopher Lambert</a>
 <li data-life="1957 --     "                     media             ><a href=/profile/cynthia-rothrock     >Cynthia Rothrock</a>
 <li data-life="1957 --     "                     media             ><a href=/profile/levar-burton         >LeVar Burton</a>
 <li data-life="1957 --     "                     media             ><a href=/profile/patrick-tatopoulos   >Patrick Tatopoulos</a>
+<li data-life="1957 --     "     fiction                           ><a href=/profile/ann-vandermeer       >Ann VanderMeer</a>
 <li data-life="1957 --     "     fiction                           ><a href=/profile/stephen-baxter       >Stephen Baxter</a>
 <li data-life="1958 --     "                     media             ><a href=/profile/gary-oldman          >Gary Oldman</a>
 <li data-life="1958 --     "                     media             ><a href=/profile/gregory-widen        >Gregory Widen</a>
@@ -194,28 +196,29 @@ document.getElementById( "label-social"   ).addEventListener( "click", () => lab
 <li data-life="1959 --     "                     media             ><a href=/profile/clancy-brown         >Clancy Brown</a>
 <li data-life="1959 --     "                     media             ><a href=/profile/emma-thompson        >Emma Thompson</a>
 <li data-life="1959 --     "                     media             ><a href=/profile/koji-morimoto        >Koji Morimoto; 森本晃司</a>
-<li data-life="1959 --     "     fiction                           ><a href=/profile/neal-stephenson      >Neal Stephenson</a>
 <li data-life="1959 --     "                     media             ><a href=/profile/sam-raimi            >Sam Raimi</a>
 <li data-life="1959 --     "                     media             ><a href=/profile/vincent-donofrio     >Vincent D'Onofrio</a>
+<li data-life="1959 --     "     fiction                           ><a href=/profile/neal-stephenson      >Neal Stephenson</a>
 <li data-life="1960 --     "                     media             ><a href=/profile/james-spader         >James Spader</a>
 <li data-life="1960 --     "                     media             ><a href=/profile/jcvd                 >Jean-Claude Van Damme</a>
-<li data-life="1961 --     "     fiction                           ><a href=/profile/greg-egan            >Greg Egan</a>
+<li data-life="1960 --     "                     media             ><a href=/profile/yasuomi-umetsu       >Yasuomi Umetsu; 梅津 泰臣</a>
 <li data-life="1961 --     "                     media             ><a href=/profile/laurence-fishburne   >Laurence Fishburne</a>
 <li data-life="1961 --     "                     media             ><a href=/profile/masamune-shirow      >Masamune Shirow; 士郎 正宗</a>
 <li data-life="1961 --     "                     media             ><a href=/profile/peter-chung          >Peter Chung</a>
 <li data-life="1961 --     "                     media             ><a href=/profile/tensai-okamura       >Tensai Okamura; 岡村 天斎</a>
-<li data-life="1962 --     "     fiction                           ><a href=/profile/jane-lindskold       >Jane Lindskold</a>
+<li data-life="1961 --     "     fiction                           ><a href=/profile/greg-egan            >Greg Egan</a>
 <li data-life="1962 --     "                     media             ><a href=/profile/jodie-foster         >Jodie Foster</a>
-<li data-life="1962 --     "     fiction                           ><a href=/profile/kevin-j-anderson     >Kevin J. Anderson</a>
 <li data-life="1962 --     "                     media             ><a href=/profile/wesley-snipes        >Wesley Snipes</a>
+<li data-life="1962 --     "     fiction                           ><a href=/profile/jane-lindskold       >Jane Lindskold</a>
+<li data-life="1962 --     "     fiction                           ><a href=/profile/kevin-j-anderson     >Kevin J. Anderson</a>
 <li data-life="1963 --     "                     media             ><a href=/profile/hideo-kojima         >Hideo Kojima</a>
 <li data-life="1963 --     "                     media music       ><a href=/profile/yoko-kanno           >Yoko Kanno; 菅野 よう子</a>
 <li data-life="1963 -- 2010"                     media             ><a href=/profile/satoshi-kon          >Satoshi Kon; 今 敏</a>
 <li data-life="1964 --     "                     media             ><a href=/profile/djimon-hounsou       >Djimon Hounsou</a>
-<li data-life="1964 --     "     fiction                           ><a href=/profile/eric-nylund          >Eric Nylund</a>
 <li data-life="1964 --     "                     media             ><a href=/profile/gloria-reuben        >Gloria Reuben</a>
 <li data-life="1964 --     "                     media             ><a href=/profile/keanu-reeves         >Keanu Reeves</a>
 <li data-life="1964 --     "                     media             ><a href=/profile/nicolas-cage         >Nicolas Cage</a>
+<li data-life="1964 --     "     fiction                           ><a href=/profile/eric-nylund          >Eric Nylund</a>
 <li data-life="1965 --     "                     media             ><a href=/profile/keiji-inafune        >Keiji Inafune; 稲船 敬二</a>
 <li data-life="1965 --     "                     media             ><a href=/profile/masaaki-yuasa        >Masaaki Yuasa; 湯浅 政明</a>
 <li data-life="1965 --     "                     media             ><a href=/profile/michael-bay          >Michael Bay</a>
@@ -225,18 +228,18 @@ document.getElementById( "label-social"   ).addEventListener( "click", () => lab
 <li data-life="1967 --     "                     media             ><a href=/profile/mia-sara             >Mia Sara</a>
 <li data-life="1967 --     "                     media             ><a href=/profile/vin-diesel           >Vin Diesel</a>
 <li data-life="1968 --     "                     media             ><a href=/profile/daniel-craig         >Daniel Craig</a>
-<li data-life="1968 --     "     fiction                           ><a href=/profile/jeff-vandermeer      >Jeff VanderMeer</a>
 <li data-life="1968 --     "                     media             ><a href=/profile/lucy-lawless         >Lucy Lawless</a>
 <li data-life="1968 --     "                     media             ><a href=/profile/will-smith           >Will Smith</a>
+<li data-life="1968 --     "     fiction                           ><a href=/profile/jeff-vandermeer      >Jeff VanderMeer</a>
 <li data-life="1969 --     "                     media             ><a href=/profile/dave-bautista        >Dave Bautista</a>
 <li data-life="1969 --     "                     media             ><a href=/profile/matthew-mcconaughey  >Matthew McConaughey</a>
 <li data-life="1969 --     "                     media             ><a href=/profile/shintaro-kago        >Shintaro Kago; 駕籠 真太郎</a>
 <li data-life="1970 --     "                     media             ><a href=/profile/m-night-shyamalan    >M. Night Shyamalan</a>
 <li data-life="1970 --     "                     media             ><a href=/profile/matt-damon           >Matt Damon</a>
 <li data-life="1971 --     "                     media             ><a href=/profile/duncan-jones         >Duncan Jones</a>
-<li data-life="1971 --     "     fiction                           ><a href=/profile/elizabeth-bear       >Elizabeth Bear</a>
 <li data-life="1971 --     "                     media             ><a href=/profile/winona-ryder         >Winona Ryder</a>
 <li data-life="1971 --     "                     media             ><a href=/profile/yoji-shinkawa        >Yoji Shinkawa; 新川洋司</a>
+<li data-life="1971 --     "     fiction                           ><a href=/profile/elizabeth-bear       >Elizabeth Bear</a>
 <li data-life="1972 --     "                     media             ><a href=/profile/claudia-black        >Claudia Black</a>
 <li data-life="1972 --     "                     media             ><a href=/profile/john-erick-dowdle    >John Erick Dowdle</a>
 <li data-life="1981 --     "                     media             ><a href=/profile/elijah-wood          >Elijah Wood</a>

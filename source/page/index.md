@@ -21,10 +21,11 @@
 | [Code   ]()[](/note/code)    | Programming and video game development                                 |
 | [Fiction](/note/fiction)     | Story, speculation, lore, myth                                         |
 | [History](/note/history)     | History                                                                |
-| [Media  ](/note/media)       | Films, TV shows, anime, manga, comics                                  |
+| [Media  ](/note/media)       | Film, TV anime, manga, comics, games, toys                                  |
 | [Monster](/note/monster)     | Aliens, creatures, devils, dinosaurs; symbolic and speculative biology |
 | [Music  ]()[](/note/music)   | Music                                                                  |
 | [Nature ]()[](/note/nature)  | Earth science and biology                                              |
+| [Social ]()[](/note/social)  | Social studies                                                         |
 | [Tech   ]()[](/note/tech)    | Technology                                                             |
 | [War    ](/note/war)         | Weapons, equipment, vehicles                                           |
 
@@ -32,20 +33,20 @@
 
 ### Code projects
 
-|                                                |                                               |                                                 |
-|------------------------------------------------|-----------------------------------------------|-------------------------------------------------|
-| <a class=new href=/project/boss-guts>Boss Guts | Reverse-engineering and decompilation library | [Source](https://github.com/belimoth/boss-guts) |
-| Engine                                         | Function library                              | [Source](https://github.com/subhelion/engine)   |
-| <li>engine/crest                               | TBS/SRPG game engine                          | --                                              |
-| <li>engine/crucible                            | Gauntlet game engine                          | --                                              |
-| <li>engine/scuffle                             | Brawler game engine                           | --                                              |
-| <li>engine/thwart                              | Contra game engine                            | --                                              |
-| System                                         | Script library                                | [Source](https://github.com/subhelion/system)   |
-| <li>system/code                                | Code scripts                                  | --                                              |
-| <li>system/forge                               | Forge scripts                                 | --                                              |
-| Template                                       | Project template library                      | [Source](https://github.com/subhelion/template) |
-| <li>template/cpp                               | App project templates                         | --                                              |
-| <li>template/web                               | Web project templates                         | --                                              |
+|                                          |                                               |                                                 |
+|------------------------------------------|-----------------------------------------------|-------------------------------------------------|
+| <a new href=/project/boss-guts>Boss Guts | Reverse-engineering and decompilation library | [Source](https://github.com/belimoth/boss-guts) |
+| Engine                                   | Function library                              | [Source](https://github.com/subhelion/engine)   |
+| <li>engine/crest                         | TBS/SRPG game engine                          | --                                              |
+| <li>engine/crucible                      | Gauntlet game engine                          | --                                              |
+| <li>engine/scuffle                       | Brawler game engine                           | --                                              |
+| <li>engine/thwart                        | Contra game engine                            | --                                              |
+| System                                   | Script library                                | [Source](https://github.com/subhelion/system)   |
+| <li>system/code                          | Code scripts                                  | --                                              |
+| <li>system/forge                         | Forge scripts                                 | --                                              |
+| Template                                 | Project template library                      | [Source](https://github.com/subhelion/template) |
+| <li>template/cpp                         | App project templates                         | --                                              |
+| <li>template/web                         | Web project templates                         | --                                              |
 
 ### Game projects
 
