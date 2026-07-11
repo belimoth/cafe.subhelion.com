@@ -39,8 +39,8 @@ todo
 ### Bram Stoker
 
 <ul>
-<li data-life="1838 -- 1905"><a class=new href=/profile/henry-irving   >Henry Irving</a>
-<li data-life="1847 -- 1912"><a           href=/profile/bram-stoker    >Bram Stoker</a>
+<li data-life="1838 -- 1905"><a new href=/profile/henry-irving   >Henry Irving</a>
+<li data-life="1847 -- 1912"><a     href=/profile/bram-stoker    >Bram Stoker</a>
 </ul>
 
 <ul>

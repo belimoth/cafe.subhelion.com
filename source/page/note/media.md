@@ -69,7 +69,7 @@
 ### Disney
 
 <ul>
-	<li>                                                        Disney Animation
+	<li>Disney Animation
 	<li><a href=/shelf/disney/princess>Disney Princess</a>
 	<li><a href=/shelf/honey-i-shrunk >Honey I Shrunk</a>
 </ul>
@@ -111,6 +111,8 @@
 ### [Marvel Comics](href=/shelf/marvel)
 
 <ul>
+	<li data-year=1961><a href=/shelf/marvel/ff   >Fantastic Four</a>
+	<li data-year=1963><a href=/shelf/marvel/x-men>X-Men</a>
 	<li date-year=1973><a href=/shelf/marvel/blade>Blade</a>
 </ul>
 
@@ -151,10 +153,10 @@
 ### Paramount
 
 <ul>
-	<li data-year=1986><a href=/shelf/top-gun           >Top Gun</a>
-	<li data-year=1996><a href=/shelf/mission-impossible>Mission Impossible</a>
-	<li data-year=1997><a href=/shelf/event-horizon     >Event Horizon</a>
-	<li data-year=2008><a href=/shelf/cloverfield       >Cloverfield</a>
+	<li data-year=1986><a href=/shelf/paramound/top-gun           >Top Gun</a>
+	<li data-year=1996><a href=/shelf/paramound/mission-impossible>Mission Impossible</a>
+	<li data-year=1997><a href=/shelf/paramound/event-horizon     >Event Horizon</a>
+	<li data-year=2008><a href=/shelf/paramound/cloverfield       >Cloverfield</a>
 </ul>
 
 ### Rare

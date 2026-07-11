@@ -158,7 +158,7 @@
 <ul>
 	<li data-year=1939><a href=/shelf/marvel/the-human-torch>The Human Torch</a>
 	<li data-year=1941><a href=/shelf/marvel/captain-america>Captain America</a>
-	<li data-year=1961><a href=/shelf/marvel/fantastic-four >Fantastic Four</a>
+	<li data-year=1961><a href=/shelf/marvel/ff              >Fantastic Four</a>
 	<li data-year=1962><a href=/shelf/marvel/hulk           >Hulk</a>
 	<li data-year=1962><a href=/shelf/marvel/spider-man     >Spider-Man</a>
 	<li data-year=1963><a href=/shelf/marvel/avengers       >Avengers</a>
