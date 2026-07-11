@@ -1,0 +1,5 @@
+#!/bin/bash
+
+find . -name "*.webp" -print -exec bash -c 'mv "$1" "${1%.webp}".jpg' - '{}' \;
+
+find . -name "*.jpeg" -print -exec bash -c 'mv "$1" "${1%.jpeg}".jpg' - '{}' \;
