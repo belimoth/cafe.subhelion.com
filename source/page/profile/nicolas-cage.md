@@ -40,7 +40,6 @@
 <!-- <tr><th data-year=2005><td>The Weather Man -->
 <!-- <tr><th data-year=2013><td>Joe -->
 <!-- <tr><th data-year=1987><td>Moonstruck -->
-<!-- <tr><th data-year=1987><td>Raising Arizona -->
 <!-- <tr><th data-year=2021><td>Pig -->
 <!-- <tr><th data-year=1993><td>Red Rock West -->
 <!-- <tr><th data-year=1993><td>Deadfall -->
@@ -56,6 +55,7 @@
 
 <table>
 <tr><th data-year=1984><td><img src=/static/image/media/film/cotton-club.jpg                               ><td>The Cotton Club
+<tr><th data-year=1987><td><img src=/static/image/media/film/raising-arizona.jpg                           ><td>Raising Arizona
 <tr><th data-year=1989><td><img src=/static/image/media/film/time-to-kill.jpg                              ><td>Time to Kill
 <tr><th data-year=1990><td><img src=/static/image/media/film/fire-birds.jpg                                ><td>Fire Birds
 <tr><th data-year=1996><td><img src=/static/image/media/film/the-rock.jpg                                  ><td>The Rock
