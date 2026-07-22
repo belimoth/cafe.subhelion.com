@@ -91,6 +91,7 @@ document.getElementById( "label-social"   ).addEventListener( "click", () => lab
 <li data-life="1924 -- 1990"                     media             ><a href=/profile/sergei-parajanov     >Sergei Parajanov</a>
 <li data-life="1925 -- 1991"     fiction                           ><a href=/profile/brothers-strugatsky  >Arkady Strugatsky; Аркадий Стругацкий</a>
 <li data-life="1925 -- 2017"     fiction                           ><a href=/profile/brian-aldiss         >Brian Aldiss</a>
+<li data-life="1925 -- 1964"     fiction                           ><a href=/profile/flannery-oconnor     >Flannery O'Connor</a>
 <li data-life="1926 -- 2001"     fiction                           ><a href=/profile/poul-anderson        >Poul Anderson</a>
 <li data-life="1926 -- 2017"                     media             ><a href=/profile/harry-dean-stanton   >Harry Dean Stanton</a>
 <li data-life="1926 -- 2002"                                 social><a href=/profile/ivan-illich          >Ivan Illich</a>

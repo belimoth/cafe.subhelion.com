@@ -3,15 +3,13 @@
 <br>
 <p>Our notes and bookmarks.</p>
 
-<!--
-## Links
+<h2 id=links>Links</h2>
 
 |                     |                                               |
 |---------------------|-----------------------------------------------|
 | [Profile](/profile) | Index of people                               |
 | [Shelf  ](/shelf  ) | Index of offline works                        |
 | [Site   ](/site   ) | Index of online works                         |
--->
 
 <h2 id=note>Notes</h2>
 
@@ -21,7 +19,7 @@
 | [Code   ]()[](/note/code)    | Programming and video game development                                 |
 | [Fiction](/note/fiction)     | Story, speculation, lore, myth                                         |
 | [History](/note/history)     | History                                                                |
-| [Media  ](/note/media)       | Film, TV anime, manga, comics, games, toys                                  |
+| [Media  ](/note/media)       | Film, TV anime, manga, comics, games, toys                             |
 | [Monster](/note/monster)     | Aliens, creatures, devils, dinosaurs; symbolic and speculative biology |
 | [Music  ]()[](/note/music)   | Music                                                                  |
 | [Nature ]()[](/note/nature)  | Earth science and biology                                              |

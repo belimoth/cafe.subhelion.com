@@ -880,9 +880,9 @@ table img[src^="/static/image/media"] {
 	height: 82px;
 }
 
-table.missing img,
-table tr.missing img,
-table td.missing img {
+table.missing img:not( :hover ),
+table tr.missing img:not( :hover ),
+table td.missing img:not( :hover ) {
 	/* filter: sepia(100%) saturate(100%) hue-rotate(180deg) opacity(60%); */
 	filter: sepia(100%) hue-rotate(290deg) contrast(60%) opacity(80%);
 }
