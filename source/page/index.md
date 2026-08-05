@@ -72,26 +72,12 @@
 | <li>[clay/vfx  ](/project/clay/vfx)       | Image and video effects            | [Source](https://github.com/subhelion/clay/tree/main/source/vfx)        |
 | <li>[clay/world]()[](/project/clay/world) | Level editor                       | [Source](https://github.com/subhelion/clay/tree/main/source/world)      |
 
-## Sites
+## User groups
 
-<style>style + table td:first-child a::after { display: none; }</style>
-
-|                                                                                                                 |                                                                 |                                                           |
-|-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------|
-| [![belimoth.com         ](static/image/site/belimoth.com.png         )](https://belimoth.com)                   | [belimoth.com      ](https://belimoth.com)                      | [Source](https://github.com/belimoth/belimoth.com)        |
-| [![artbysilverman.com   ](static/image/site/artbysilverman.com.png   )](https://www.artbysilverman.com)         | [artbysilverman.com](https://artbysilverman.com)                | --                                                        |
-| [![mithraea.xyz         ](static/image/site/mithraea.xyz.png         )](https://mithraea.xyz)                   | [mithraea.xyz      ](https://mithraea.xyz)                      | [Source](https://github.com/mithraea/mithraea.github.io)  |
-| [![subhelion.com        ](static/image/site/subhelion.com.png        )](https://subhelion.com)                  | [subhelion.com     ](https://subhelion.com)                     | [Source](https://github.com/subhelion/subhelion.com)      |
-| [![belimoth.itch.io     ](static/image/site/belimoth.itch.io.png     )](https://belimoth.itch.io)               | [belimoth.itch.io  ](https://belimoth.itch.io)                  | --                                                        |
-| [![tegiminis.itch.io    ](static/image/site/tegiminis.itch.io.png    )](https://tegiminis.itch.io)              | [tegiminis.itch.io ](https://tegiminis.itch.io)                 | --                                                        |
-| [![subhelion.itch.io    ](static/image/site/subhelion.itch.io.png    )](https://subhelion.itch.io)              | [subhelion.itch.io ](https://subhelion.itch.io)                 | --                                                        |
-| [![cafe.belimoth.com    ](static/image/site/cafe.belimoth.com.png    )](https://cafe.belimoth.com)              | [cafe.belimoth.com ](https://cafe.belimoth.com)                 | [Source](https://github.com/belimoth/cafe.belimoth.com)   |
-| [![cafe.subhelion.com   ](static/image/site/cafe.subhelion.com.png   )](https://cafe.subhelion.com)             | [cafe.subhelion.com](https://cafe.subhelion.com)                | [Source](https://github.com/subhelion/cafe.subhelion.com) |
-| [![](static/image/site/data.subhelion.com.png   )](                                      )                      | data.subhelion.com                                              | [Source](https://github.com/subhelion/data.subhelion.com) |
-| [![subhelion.bsky.app   ](static/image/site/subhelion.bsky.app.png   )](https://bsky.app/profile/subhelion.com) | [subhelion.bsky.app   ](https://bsky.app/profile/subhelion.com) | --                                                        |
-| [![subhelion.discord.com](static/image/site/subhelion.discord.com.png)](https://discord.gg/tABmNbQVz9)          | [subhelion.discord.com](https://discord.gg/tABmNbQVz9)          | --                                                        |
-| [![subhelion.github.com ](static/image/site/subhelion.github.com.png )](https://github.com/subhelion)           | [subhelion.github.com ](https://github.com/subhelion)           | --                                                        |
-| [![subhelion.gumroad.com](static/image/site/subhelion.gumroad.com.png)](https://subhelion.gumroad.com)          | [subhelion.gumroad.com](https://subhelion.gumroad.com)          | --                                                        |
+|                                                 |            |
+|-------------------------------------------------|------------|
+| [Subhelion](/user/subhelion)                    | This label |
+|                                                 | --         |
 
 ## Users
 

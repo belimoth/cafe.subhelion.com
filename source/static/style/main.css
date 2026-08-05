@@ -941,3 +941,69 @@ input[missing]:checked + label ~ h3.missing       { display: none; }
 input[missing]:checked + label ~ table td.missing { display: none; }
 input[missing]:checked + label ~ table tr.missing { display: none; }
 input[missing]:checked + label ~ table.missing    { display: none; }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+h2 {
+	background: #1A73E8;
+	background: linear-gradient( 0,rgba(255, 255, 255, 1) 0%, #1A73E8 100%);
+	color: #fff;
+	/* width: 100vw; */
+	/* padding-left: calc( 50vw - 50% ); */
+	/* margin-left: calc( 50% - 50vw ); */
+
+	margin-top: 0; padding-top: 48px;
+	margin-bottom: 0; padding-bottom: 40px;
+
+	margin-top: 24px;
+
+	padding-top: 40px;
+	padding-bottom: 48px;
+
+
+
+
+
+	-webkit-text-stroke: 0.75px #1A73E8;
+	font-weight: 800;
+	border-top: 1px solid #1A73E8;
+	background: none;
+}
+
+h1 {
+	color: #FFF;
+	-webkit-text-stroke: 1px #444;
+	font-weight: 800;
+}
+
+/* h2 {
+	background: #1A73E8;
+	color: #fff;
+	padding: 16px 0;
+	padding-left:  96px;
+	margin-left:  -96px;
+	margin-right: -96px;
+
+	position: sticky;
+} */

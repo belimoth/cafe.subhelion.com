@@ -3,7 +3,7 @@
 - 1968 --
 - Acting
 
---
+<br>
 
 - [IMDB](https://www.imdb.com/name/nm0185819)
 - [Wikipedia](https://en.wikipedia.org/wiki/Daniel_Craig)

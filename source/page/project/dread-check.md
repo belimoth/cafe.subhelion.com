@@ -121,7 +121,7 @@ Here's a timeline of some reference games:
 | [Horse War                                    ](/project/dread-check/chapter/horse-war)           | Mechanized combat and battlefield strategy; Originally a separate title                                       |
 | [Howling Commandos                            ](/project/dread-check/chapter/howling-commandos)   | --                                                                                                            |
 | [Plastic Platoon                              ](/project/dread-check/chapter/plastic-platoon)     | --                                                                                                            |
-| [Plastic Platoon: Hazard Company              ](/project/dread-check/chapter/phazard-company)     | --                                                                                                            |
+| [Plastic Platoon: Hazard Company              ](/project/dread-check/chapter/hazard-company)      | --                                                                                                            |
 | [Route 66                                     ](/project/dread-check/chapter/route-66)            | --                                                                                                            |
 | [Swat City                                    ](/project/dread-check/chapter/swat-city)           | Cybergoth gang violence; Zach's current chapter in development                                                |
 | [Swat City X                                  ](/project/dread-check/chapter/swat-city-x)         | --                                                                                                            |
