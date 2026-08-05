@@ -174,12 +174,14 @@
 
 <table>
 <tr class=missing>
+<td><a href=/shelf/1938/silly-symphony-merbabies><img src=/static/image/media/anime/silly-symphony-merbabies.jpg title="Silly Symphony: Merbabies"></a>
+<td><a href=/shelf/1978/the-water-babies        ><img src=/static/image/media/anime/the-water-babies.jpg         title="The Water Babies"></a>
+<tr class=missing>
 <td><a href=/shelf/1989/the-little-mermaid  ><img src=/static/image/media/anime/the-little-mermaid.jpg  title="The Little Mermaid (Film)"></a>
 <td><a href=/shelf/1992/the-little-mermaid-1><img src=/static/image/media/anime/little-mermaid-tv-1.jpg title="The Little Mermaid (TV) - Season 1"></a>
 <td><a href=/shelf/1993/the-little-mermaid-2><img src=/static/image/media/anime/little-mermaid-tv-2.jpg title="The Little Mermaid (TV) - Season 2"></a>
 <td><a href=/shelf/1994/the-little-mermaid-3><img src=/static/image/media/anime/little-mermaid-tv-3.jpg title="The Little Mermaid (TV) - Season 3"></a>
 <tr>
-<td class=missing><a href=/shelf/1978/the-water-babies><img src=/static/image/media/anime/the-water-babies.jpg title="The Water Babies"></a>
 <td class=missing><a href=/shelf/2000/help-im-a-fish  ><img src=/static/image/media/anime/help-im-a-fish.jpg   title="Help! I'm a Fish"></a>
 <td              ><a href=/shelf/2008/ponyo           ><img src=/static/image/media/anime/ponyo.jpg            title="Ponyo"></a>
 <td class=missing><a href=/shelf/2017/lu-over-the-wall><img src=/static/image/media/anime/lu-over-the-wall.jpg title="Lu Over the Wall"></a>

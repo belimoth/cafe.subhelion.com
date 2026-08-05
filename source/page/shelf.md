@@ -1,5 +1,14 @@
 # Shelf
 
+## by topic
+
+<ul>
+<li><a href=>Art</a>
+<li><a href=>Fiction</a>
+<li><a href=>Media</a>
+<li><a href=>Social</a>
+</ul>
+
 ## by year
 
 <table style="width:100%;">
@@ -148,20 +157,13 @@
 <td><a href=/shelf/1909>1909</a>
 </table>
 
-## by topic
-
-Art
-Fiction
-Media
-Social
-
 ## user
 
 <ul>
-<li><a href=/shelf/belimoth  >belimoth</a>
-<li><a href=/shelf/capntastic>capntastic</a>
-<li><a href=/shelf/mithraea  >mithraea</a>
-<li><a href=/shelf/shrugseph >shrugseph</a>
-<li><a href=/shelf/spnoodle  >spnoodle</a>
-<li><a href=/shelf/spnoodle  >tegiminis</a>
+<li><a     href=/shelf/belimoth  >belimoth</a>
+<li><a new href=/shelf/capntastic>capntastic</a>
+<li><a new href=/shelf/mithraea  >mithraea</a>
+<li><a new href=/shelf/shrugseph >shrugseph</a>
+<li><a     href=/shelf/spnoodle  >spnoodle</a>
+<li><a new href=/shelf/spnoodle  >tegiminis</a>
 </ul>
