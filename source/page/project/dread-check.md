@@ -133,10 +133,10 @@ Here's a timeline of some reference games:
 |                                                           | [Settle For Less                ](/project/dread-check/chapter/settle-for-less)          &#10; | -- |
 | ![](/static/image/dread_check/title/swat-city.png)        | [Swat City                      ](/project/dread-check/chapter/swat-city)                &#10; | -- |
 | ![](/static/image/dread_check/title/swat-city.png)        | [Swat City X                    ](/project/dread-check/chapter/swat-city-x)              &#10; | -- |
-| ![](/static/image/dread_check/title/threefold-path.png)   | [研究生总动员: Threefold Path    ](/project/dread-check/chapter/threefold-path)          &#10; | -- |
+| ![](/static/image/dread_check/title/threefold-path.png)   | [研究生总动员: Threefold Path    ](/project/dread-check/chapter/threefold-path)           &#10; | -- |
 |                                                           | [Upon the Silver Globe          ](/project/dread-check/chapter/upon-the-silver-globe)    &#10; | -- |
 |                                                           | [Vermintithe                    ](/project/dread-check/chapter/vermintithe)              &#10; | -- |
-|                                                           | [Wizard School                  ](/project/dread-check/chapter/wizard-school)            &#10; | -- |
+|                                                           | [INDIGO                         ](/project/dread-check/chapter/indigo)                   &#10; | -- |
 |                                                           | [Würm Arctigeddon               ](/project/dread-check/chapter/wuerm-arctigeddon)        &#10; | -- |
 |                                                           | [Würm Arctigeddon Modern        ](/project/dread-check/chapter/wuerm-arctigeddon-modern) &#10; | -- |
 |                                                           | [Xenoparity                     ](/project/dread-check/chapter/xenoparity)               &#10; | -- |
@@ -234,66 +234,52 @@ style + table {
 | 04XXX: Far Future 3 | Blood Flush X2,           | --                | DRAUGB - 4 [Wastes]()   | [Frost Hauler Buffalo]()         | Gate Quake X    | --             | --                    |                     | --                      |
 | XXXXX:  Deep Future | --                        | --                | DRAUGB - 5 [Tower]()    | [Primitive Streak]()             | --              | --             | --                    |                     | --                      |
 
+## Chapters by folder
 
-
-| FOLDER  | GENRE     | MODE     | YEAR  | CHAPTER             | DIRECTOR    |
-|---------|-----------|----------|-------|---------------------|-------------|
-| FICTION | ADVENTURE | CAMPAIGN | 0XXXX | DRAUGB - 6 DRAUGB   | BELIMOTH    |
-| FICTION | ADVENTURE | CAMPAIGN | _19XX | DRAUGB - 1 HARBOR   | BELIMOTH    |
-| FICTION | ADVENTURE | CAMPAIGN | _20XX | DRAUGB - 0 PROLOGUE | BELIMOTH    |
-| FICTION | ADVENTURE | CAMPAIGN | _21XX | DRAUGB - 2 COLONY   | BELIMOTH    |
-| FICTION | ADVENTURE | CAMPAIGN | _2XXX | DRAUGB - 3 FRONTIER | BELIMOTH    |
-| FICTION | ADVENTURE | CAMPAIGN | _4XXX | DRAUGB - 4 WASTES   | BELIMOTH    |
-| FICTION | ADVENTURE | CAMPAIGN | XXXXX | DRAUGB - 5 TOWER    | BELIMOTH    |
-|         |           |          |       |                     |             |
-| FICTION | ADVENTURE | SURVIVAL | 0XXXX | GATE QUAKE 0        | BELIMOTH    |
-| FICTION | ADVENTURE | SURVIVAL | _19XX | GATE QUAKE          | BELIMOTH    |
-| FICTION | ADVENTURE | SURVIVAL | _4XXX | GATE QUAKE X        | BELIMOTH    |
-|         |           |          |       |                     |             |
-| FICTION | ADVENTURE | MYSTERY  | _1XXX | BLOOD FLUSH 0       | BELIMOTH    |
-| FICTION | ADVENTURE | MYSTERY  | _20XX | BLOOD FLUSH         | BELIMOTH    |
-| FICTION | ADVENTURE | MYSTERY  | _2XXX | BLOOD FLUSH X       | BELIMOTH    |
-|         |           |          |       |                     |             |
-| FICTION | ADVENTURE | MYSTERY  | _19XX | ALIEN INTEL CLASSIC | SHRUGSEPH   |
-| FICTION | ADVENTURE | MYSTERY  | _21XX | ALIEN INTEL         | SHRUGSEPH   |
-| FICTION | ADVENTURE | MYSTERY  | _3XXX | ALIEN INTEL X       | BELIMOTH    |
-|         |           |          |       |                     |             |
-| FICTION | ACTION    | STRATEGY | _19XX | HORSE WAR 0         | BELIMOTH    |
-| FICTION | ACTION    | STRATEGY | _21XX | HORSE WAR           | BELIMOTH    |
-| FICTION | ACTION    | STRATEGY | _3XXX | HORSE WAR X         | BELIMOTH    |
-| FICTION | ACTION    | STRATEGY | _4XXX | COLD HAUL BUFFALO   | BELIMOTH    |
-|         |           |          |       |                     |             |
-| FICTION | ADVENTURE | STRATEGY | _0XXX | UNTITLED 0XXX       | --          |
-| FICTION | ADVENTURE | STRATEGY | _1XXX | UNTITLED 1XXX       | --          |
-| FICTION | ACTION    | MYSTERY  | _19XX | BLUE MONSOON        | MITHRAEA    |
-| FICTION | ADVENTURE | STRATEGY | _19XX | HOWLING COMMANDOS   | SHRUGSEPH   |
-| FICTION | ADVENTURE | STRATEGY | _20XX | HOWLING COMMANDOS 2 | SHRUGSEPH   |
-| FICTION | ADVENTURE | SURVIVAL | _19XX | UNTITLED WEST 19XX  | --          |
-| FICTION | ADVENTURE | SURVIVAL | _2XXX | UNTITLED SNOW 2XXX  | --          |
-|         |           |          |       |                     |             |
-| FICTION | ADVENTURE | STRATEGY | 0XXXX | RED CRY A           | TEGIMINIS   |
-| FICTION | ADVENTURE | SURVIVAL | _21XX | THREEFOLD PATH      | SGTDOGWATER |
-| FICTION | ADVENTURE | SURVIVAL | _2XXX | SWAT CITY           | BELIMOTH    |
-| FICTION | ADVENTURE | STRATEGY | _2XXX | RED CRY B           | TEGIMINIS   |
-| FICTION | ADVENTURE | SURVIVAL | _3XXX | SWAT CITY X         | BELIMOTH    |
-|         |           |          |       |                     |             |
-| FICTION | ADVENTURE | ANIMAL   | _21XX | CONCRETE JUNGLE     | BELIMOTH    |
-| FICTION | ADVENTURE | ANIMAL   | _3XXX | CONCRETE JUNGLE X   | BELIMOTH    |
-| FICTION | ADVENTURE | --       | _4XXX | PRIMITIVE STREAK    | CAPNTASTIC  |
-
-
-| ERA   | ## | CAMPAIGN ADVENTURE | STRATEGY ADVENTURE  | STRATEGY ACTION     | SURVIVAL ADVENTURE | SURVIVAL ADVENTURE | MYSTERY ADVENTURE | MYSTERY ACTION | ARCADE ACTION      | ANIMAL ADVENTURE  |
-|-------|----|--------------------|---------------------|---------------------|--------------------|--------------------|-------------------|----------------|--------------------|-------------------|
-| 0XXXX | 3  | DRAUGB DRAUGB      | --                  | --                  | --                 | RED CRY A          | --                | --             | --                 | CONCRETE JUNGLE 0 |
-| 0XXX  | 1  | --                 | --                  | --                  | --                 | UNTITLED SNOW 0XXX | --                | --             | --                 | --                |
-| 1XXX  | 3  | --                 | UNTITLED 1XXX       | --                  | --                 | --                 | BLOOD FLUSH 0     | --             | FULL METAL EXPRESS | --                |
-| 19XX  | 7  | DRAUGB HARBOR      | HOWLING COMMANDOS   | HORSE WAR 0         | GATE QUAKE         | --                 | ALIEN INTEL 0     | BLUE MONSOON   | ROUTE 66           | --                |
-| 20XX  | 3  | DRAUGB PROLOGUE    | HOWLING COMMANDOS 2 | --                  | --                 | --                 | BLOOD FLUSH       | --             | --                 | --                |
-| 21XX  | 5  | DRAUGB COLONY      | --                  | HORSE WAR           | THREEFOLD PATH     | --                 | ALIEN INTEL       | --             | --                 | CONCRETE JUNGLE   |
-| 2XXX  | 5  | DRAUGB FRONTIER    | PLASTIC PLATOON     | --                  | SWAT CITY          | CRYOSHOCK          | BLOOD FLUSH X     | --             | --                 | --                |
-| 3XXX  | 6  | --                 | HAZARD COMPANY      | HORSE WAR X         | SWAT CITY X        | RED CRY B          | ALIEN INTEL X     | --             | --                 | CONCRETE JUNGLE X |
-| 4XXX  | 4  | DRAUGB WASTES      | --                  | COLD HAULER BUFFALO | GATE QUAKE X       | --                 | BLOOD FLUSH X2    | --             | --                 | --                |
-| XXXXX | 1  | DRAUGB TOWER       | --                  | PRIMITIVE STREAK    | --                 | --                 | --                | --             | --                 | --                |
+| FOLDER  | GENRE     | MODE     | YEAR  | CHAPTER             |
+|---------|-----------|----------|-------|---------------------|
+| FICTION | ADVENTURE | CAMPAIGN | 0XXXX | DRAUGB - 6 DRAUGB   |
+| FICTION | ADVENTURE | CAMPAIGN | _19XX | DRAUGB - 1 HARBOR   |
+| FICTION | ADVENTURE | CAMPAIGN | _20XX | DRAUGB - 0 PROLOGUE |
+| FICTION | ADVENTURE | CAMPAIGN | _21XX | DRAUGB - 2 COLONY   |
+| FICTION | ADVENTURE | CAMPAIGN | _2XXX | DRAUGB - 3 FRONTIER |
+| FICTION | ADVENTURE | CAMPAIGN | _4XXX | DRAUGB - 4 WASTES   |
+| FICTION | ADVENTURE | CAMPAIGN | XXXXX | DRAUGB - 5 TOWER    |
+|         |           |          |       |                     |
+| FICTION | ADVENTURE | SURVIVAL | 0XXXX | GATE QUAKE 0        |
+| FICTION | ADVENTURE | SURVIVAL | _19XX | GATE QUAKE          |
+| FICTION | ADVENTURE | SURVIVAL | _4XXX | GATE QUAKE X        |
+|         |           |          |       |                     |
+| FICTION | ADVENTURE | MYSTERY  | _1XXX | BLOOD FLUSH 0       |
+| FICTION | ADVENTURE | MYSTERY  | _20XX | BLOOD FLUSH         |
+| FICTION | ADVENTURE | MYSTERY  | _2XXX | BLOOD FLUSH X       |
+|         |           |          |       |                     |
+| FICTION | ADVENTURE | MYSTERY  | _19XX | ALIEN INTEL CLASSIC |
+| FICTION | ADVENTURE | MYSTERY  | _21XX | ALIEN INTEL         |
+| FICTION | ADVENTURE | MYSTERY  | _3XXX | ALIEN INTEL X       |
+|         |           |          |       |                     |
+| FICTION | ACTION    | STRATEGY | _19XX | HORSE WAR 0         |
+| FICTION | ACTION    | STRATEGY | _21XX | HORSE WAR           |
+| FICTION | ACTION    | STRATEGY | _3XXX | HORSE WAR X         |
+| FICTION | ACTION    | STRATEGY | _4XXX | COLD HAUL BUFFALO   |
+|         |           |          |       |                     |
+| FICTION | ADVENTURE | STRATEGY | _0XXX | UNTITLED 0XXX       |
+| FICTION | ADVENTURE | STRATEGY | _1XXX | UNTITLED 1XXX       |
+| FICTION | ACTION    | MYSTERY  | _19XX | BLUE MONSOON        |
+| FICTION | ADVENTURE | STRATEGY | _19XX | HOWLING COMMANDOS   |
+| FICTION | ADVENTURE | STRATEGY | _20XX | HOWLING COMMANDOS 2 |
+| FICTION | ADVENTURE | SURVIVAL | _19XX | UNTITLED WEST 19XX  |
+| FICTION | ADVENTURE | SURVIVAL | _2XXX | UNTITLED SNOW 2XXX  |
+|         |           |          |       |                     |
+| FICTION | ADVENTURE | STRATEGY | 0XXXX | RED CRY A           |
+| FICTION | ADVENTURE | SURVIVAL | _21XX | THREEFOLD PATH      |
+| FICTION | ADVENTURE | SURVIVAL | _2XXX | SWAT CITY           |
+| FICTION | ADVENTURE | STRATEGY | _2XXX | RED CRY B           |
+| FICTION | ADVENTURE | SURVIVAL | _3XXX | SWAT CITY X         |
+|         |           |          |       |                     |
+| FICTION | ADVENTURE | ANIMAL   | _21XX | CONCRETE JUNGLE     |
+| FICTION | ADVENTURE | ANIMAL   | _3XXX | CONCRETE JUNGLE X   |
+| FICTION | ADVENTURE | --       | _4XXX | PRIMITIVE STREAK    |
 
 ### Chapters by genre
 
@@ -315,14 +301,14 @@ style + table {
 ---------------------------------------------------------------------------------
 CHAPTER - HISTORY
 ---------------------------------------------------------------------------------
-| FOLDER  | GENRE | MODE | YEAR | CHAPTER       | DIRECTOR | -- |
-|---------|-------|------|------|---------------|----------|----|
-| HISTORY | --    | --   | 1600 | SANTORINI     | BELIMOTH | -- |
-| HISTORY | --    | --   | 1914 | SARAJEVO      | BELIMOTH | -- |
-| HISTORY | --    | --   | 1986 | PRIPYAT       | BELIMOTH | -- |
-| HISTORY | --    | --   | 2001 | NEW YORK CITY | BELIMOTH | -- |
-| HISTORY | --    | --   | 2011 | FUKUSHIMA     | BELIMOTH | -- |
-| HISTORY | --    | --   | 2021 | SUEZ          | BELIMOTH | -- |
+| FOLDER  | GENRE | MODE | YEAR | CHAPTER       |
+|---------|-------|------|------|---------------|
+| HISTORY | --    | --   | 1600 | SANTORINI     |
+| HISTORY | --    | --   | 1914 | SARAJEVO      |
+| HISTORY | --    | --   | 1986 | PRIPYAT       |
+| HISTORY | --    | --   | 2001 | NEW YORK CITY |
+| HISTORY | --    | --   | 2011 | FUKUSHIMA     |
+| HISTORY | --    | --   | 2021 | SUEZ          |
 
 ### Chapters by mode
 
@@ -354,6 +340,7 @@ CHAPTER - HISTORY
 | HORSE WAR                                     | -- |     |     |     |     |     |     |     |     |
 | Howling Commandos                             | -- |     |     |     |     |     |     |     |     |
 | Incarnadine Peak                              | -- |     |     |     |     |     |     |     |     |
+| INDIGO                                        | -- | -?- | --- | -X- | -X- | -X- | -X- | --- | -X- |
 | Jacob's Ladder                                | -- |     |     |     |     |     |     |     |     |
 | King of the Drill                             | -- |     |     |     |     |     |     |     |     |
 | King of the Drill 2: Oil Terminal             | -- |     |     |     |     |     |     |     |     |
@@ -385,7 +372,6 @@ CHAPTER - HISTORY
 | Vermintithe 3: Feet of Clay                   | -- |     |     |     |     |     |     |     |     |
 | Vermintithe Zero: Amphibian Dawn              | -- |     |     |     |     |     |     |     |     |
 | Vermintithe Zero X: Amphibian Dusk            | -- |     |     |     |     |     |     |     |     |
-| Wizard School                                 | -- | -?- | --- | -X- | -X- | -X- | -X- | --- | -X- |
 | Würm Arctigeddon                              | -- | -X- | --- | -X- | --- | -X- | -X- | -?- | -X- |
 | Würm Arctigeddon Modern                       | -- |     |     |     |     |     |     |     |     |
 | Xenoparity                                    | -- | -?- | --- | -X- | -?- | --- | --- | -X- | -X- |
@@ -435,7 +421,6 @@ CHAPTER - HISTORY
 | Funny Bowling                                 |
 | Minerva's Owl                                 |
 | Torment Nexus                                 |
-| Wizard School                                 |
 | Blue Monsoon                                  |
 | Lāhainā Noon                                  |
 | Alien Intel                                   |
