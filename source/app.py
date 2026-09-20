@@ -20,11 +20,7 @@ Misaka( app, autolink = True, fenced_code = True, tables = True )
 
 @app.route( "/" )
 def index():
-    return render_template(
-		"template.html",
-		title = "cafe.subhelion.com",
-		content = "index.md"
-	)
+    return render_template( "template.html", title = "cafe.subhelion.com", content = "index.md" )
 
 # @app.route( "/profile/<path:path>" )
 # def profile( path ):
@@ -32,7 +28,4 @@ def index():
 
 @app.route( "/<path:path>" )
 def page( path ):
-	return render_template(
-		"template.html",
-		content = path + ".md",
-	)
+	return render_template( "template.html", content = path + ".md" )
