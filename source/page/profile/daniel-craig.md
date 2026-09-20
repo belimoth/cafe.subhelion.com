@@ -14,7 +14,7 @@
 <!-- <tr><th data-year=1992><td><img src=/static/image/media/film/the-power-of-one.jpg                    ><td><a href=/shelf/1992/the-power-of-one               >The Power of One</a> -->
      <tr><th data-year=1995><td><img src=/static/image/media/film/a-kid-in-king-arthurs-court.jpg         ><td><a href=/shelf/1995/a-kid-in-king-arthurs-court    >A Kid in King Arthur's Court</a>
 <!-- <tr><th data-year=1997><td><img src=/static/image/media/film/obsession.jpg                           ><td><a href=/shelf/1997/obsession                      >Obsession</a> -->
-     <!-- <tr><th data-year=1998><td><img src=/static/image/media/film/love-and-rage.jpg                       ><td><a href=/shelf/1998/love-and-rage                  >Love and Rage</a> -->
+<!-- <tr><th data-year=1998><td><img src=/static/image/media/film/love-and-rage.jpg                       ><td><a href=/shelf/1998/love-and-rage                  >Love and Rage</a> -->
      <tr><th data-year=1998><td><img src=/static/image/media/film/elizabeth.jpg                           ><td><a href=/shelf/1998/elizabeth                      >Elizabeth</a>
      <tr><th data-year=1998><td><img src=/static/image/media/film/love-is-the-devil.jpg                   ><td><a href=/shelf/1998/love-is-the-devil              >Love Is the Devil: Study for a Portrait of Francis Bacon</a>
 <!-- <tr><th data-year=1999><td><img src=/static/image/media/film/the-trench.jpg                          ><td><a href=/shelf/1999/the-trench                     >The Trench</a> -->
@@ -34,8 +34,8 @@
      <tr><th data-year=2005><td><img src=/static/image/media/film/munich.jpg                              ><td><a href=/shelf/2005/munich                         >Munich</a>
      <tr><th data-year=2006><td><img src=/static/image/media/film/renaissance.jpg                         ><td><a href=/shelf/2006/renaissance                    >Renaissance</a>
 <!-- <tr><th data-year=2006><td><img src=/static/image/media/film/infamous.jpg                            ><td><a href=/shelf/2006/infamous                       >Infamous</a> -->
-	 <tr><th data-year=2007><td><img src=/static/image/media/film/the-invasion.jpg                        ><td><a href=/shelf/2007/the-invasion                   >The Invasion</a>
-	 <tr><th data-year=2007><td><img src=/static/image/media/film/the-golden-compass.jpg                  ><td><a href=/shelf/2007/the-golden-compass             >The Golden Compass</a>
+	 <tr><th data-year=2007><td><img src=/static/image/media/film/the-invasion.jpg                       ><td><a href=/shelf/2007/the-invasion                   >The Invasion</a>
+	 <tr><th data-year=2007><td><img src=/static/image/media/film/golden-compass.jpg                     ><td><a href=/shelf/2007/golden-compass                 >The Golden Compass</a>
 <!-- <tr><th data-year=2008><td><img src=/static/image/media/film/flashbacks-of-a-fool.jpg                ><td><a href=/shelf/2008/flashbacks-of-a-fool           >Flashbacks of a Fool</a> -->
      <tr><th data-year=2008><td><img src=/static/image/media/film/defiance.jpg                            ><td><a href=/shelf/2008/defiance                       >Defiance</a>
      <tr><th data-year=2011><td><img src=/static/image/media/film/cowboys-and-aliens.jpg                  ><td><a href=/shelf/2011/cowboys-and-aliens             >Cowboys & Aliens</a>

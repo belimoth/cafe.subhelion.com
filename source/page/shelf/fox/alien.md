@@ -25,20 +25,20 @@
 <li data-year=2012 data-date=2012-05-30><a new href=/shelf/2012/alien-project-prometheus-mission    >Project Prometheus: Mission</a>
 <li data-year=2012 data-date=2012-06-27><a new href=/shelf/2012/alien-weyland-industries-testimonial>Weyland Industries Testimonial</a>
 <li data-year=2012 data-date=2012-10-11><a new href=/shelf/2012/alien-prometheus-transmission       >Prometheus Transmission</a>
-<li data-year=2017 data-date=2016-04-17><a new href=/shelf/2017/alien-covenant-crew-messages        >Alien: Covenant — Crew Messages</a>
-<li data-year=2017 data-date=2016-04-26><a new href=/shelf/2017/alien-covenant-prologue-the-crossing>Alien: Covenant — Prologue: The Crossing</a>
-<li data-year=2017 data-date=2017-02-22><a new href=/shelf/2017/alien-covenant-prologue-last-supper >Alien: Covenant — Prologue: Last Supper</a>
-<li data-year=2017 data-date=2017-03-10><a new href=/shelf/2017/alien-covenant-meet-walter          >Alien: Covenant — Meet Walter</a>
-<li data-year=2017 data-date=2017-05-05><a new href=/shelf/2017/alien-covenant-she-wont-go-quietly  >Alien: Covenant — She Won't Go Quietly</a>
-<li data-year=2017 data-date=2017-05-15><a new href=/shelf/2017/alien-covenant-rick-and-morty       >Alien: Covenant — Rick and Morty</a>
-<li data-year=2017 data-date=2017-07-19><a new href=/shelf/2017/alien-covenant-phobos               >Alien: Covenant — Phobos</a>
-<li data-year=2017 data-date=2017-08-15><a new href=/shelf/2017/alien-covenant-advent               >Alien: Covenant — Advent</a>
+<li data-year=2017 data-date=2016-04-17><a new href=/shelf/2017/alien-covenant-crew-messages        >Alien: Covenant - Crew Messages</a>
+<li data-year=2017 data-date=2016-04-26><a new href=/shelf/2017/alien-covenant-prologue-the-crossing>Alien: Covenant - Prologue: The Crossing</a>
+<li data-year=2017 data-date=2017-02-22><a new href=/shelf/2017/alien-covenant-prologue-last-supper >Alien: Covenant - Prologue: Last Supper</a>
+<li data-year=2017 data-date=2017-03-10><a new href=/shelf/2017/alien-covenant-meet-walter          >Alien: Covenant - Meet Walter</a>
+<li data-year=2017 data-date=2017-05-05><a new href=/shelf/2017/alien-covenant-she-wont-go-quietly  >Alien: Covenant - She Won't Go Quietly</a>
+<li data-year=2017 data-date=2017-05-15><a new href=/shelf/2017/alien-covenant-rick-and-morty       >Alien: Covenant - Rick and Morty</a>
+<li data-year=2017 data-date=2017-07-19><a new href=/shelf/2017/alien-covenant-phobos               >Alien: Covenant - Phobos</a>
+<li data-year=2017 data-date=2017-08-15><a new href=/shelf/2017/alien-covenant-advent               >Alien: Covenant - Advent</a>
 <li data-year=2019 data-date=2019-03-29><a new href=/shelf/2019/alien-containment                   >Alien: Containment</a>
 <li data-year=2019 data-date=2019-04-05><a new href=/shelf/2019/alien-specimen                      >Alien: Specimen</a>
 <li data-year=2019 data-date=2019-04-19><a new href=/shelf/2019/alien-ore                           >Alien: Ore</a>
 <li data-year=2019 data-date=2019-04-26><a new href=/shelf/2019/alien-alone                         >Alien: Alone</a>
 <li data-year=2019 data-date=2019-04-26><a new href=/shelf/2019/alien-harvest                       >Alien: Harvest</a>
-<li data-year=2019 data-date=2019-08-15><a new href=/shelf/2019/alien-covenant-davids-lab           >Alien: Covenant — David's Lab: Last Signs of Life</a>
+<li data-year=2019 data-date=2019-08-15><a new href=/shelf/2019/alien-covenant-davids-lab           >Alien: Covenant - David's Lab: Last Signs of Life</a>
 </ul>
 
 ## Novels
@@ -109,15 +109,15 @@ todo
 <tr><th data-year=2092><td><td><a new href=/shelf/2012/alien-weyland-industries-testimonial>Weyland Industries Testimonial                    </a>(short) (2012)
 <tr><th data-year=2092><td><td><a new href=/shelf/2012/alien-prometheus-transmission       >Prometheus Transmission                           </a>(short) (2012)
 <tr><th data-year=2093><td><td><a     href=/shelf/2012/prometheus                          >Prometheus                                        </a>(film) (2012)
-<tr><th data-year=2094><td><td><a new href=/shelf/2017/alien-covenant-prologue-the-crossing>Alien: Covenant — Prologue: The Crossing          </a>(short) (2017)
-<tr><th data-year=2104><td><td><a new href=/shelf/2017/alien-covenant-origins              >Alien: Covenant — Origins                         </a>(short) (2017)
-<tr><th data-year=2104><td><td><a new href=/shelf/2017/alien-covenant-phobos               >Alien: Covenant — Phobos                          </a>(short) (2017)
-<tr><th data-year=2104><td><td><a new href=/shelf/2017/alien-covenant-prologue-last-supper >Alien: Covenant — Prologue: Last Supper           </a>(short) (2017)
-<tr><th data-year=2104><td><td><a new href=/shelf/2017/alien-covenant-crew-messages        >Alien: Covenant — Crew Messages                   </a>(short) (2017)
-<tr><th data-year=2104><td><td><a new href=/shelf/2017/alien-covenant-she-wont-go-quietly  >Alien: Covenant — She Won't Go Quietly            </a>(short) (2017)
+<tr><th data-year=2094><td><td><a new href=/shelf/2017/alien-covenant-prologue-the-crossing>Alien: Covenant - Prologue: The Crossing          </a>(short) (2017)
+<tr><th data-year=2104><td><td><a new href=/shelf/2017/alien-covenant-origins              >Alien: Covenant - Origins                         </a>(short) (2017)
+<tr><th data-year=2104><td><td><a new href=/shelf/2017/alien-covenant-phobos               >Alien: Covenant - Phobos                          </a>(short) (2017)
+<tr><th data-year=2104><td><td><a new href=/shelf/2017/alien-covenant-prologue-last-supper >Alien: Covenant - Prologue: Last Supper           </a>(short) (2017)
+<tr><th data-year=2104><td><td><a new href=/shelf/2017/alien-covenant-crew-messages        >Alien: Covenant - Crew Messages                   </a>(short) (2017)
+<tr><th data-year=2104><td><td><a new href=/shelf/2017/alien-covenant-she-wont-go-quietly  >Alien: Covenant - She Won't Go Quietly            </a>(short) (2017)
 <tr><th data-year=2104><td><td><a     href=/shelf/2017/alien-covenant                      >Alien: Covenant                                   </a>(2017)
-<tr><th data-year=2104><td><td><a new href=/shelf/2017/alien-covenant-advent               >Alien: Covenant — Advent                          </a>(short) (2017)
-<tr><th data-year=2117><td><td><a new href=/shelf/2019/alien-covenant-davids-lab           >Alien: Covenant — David's Lab: Last Signs of Life </a>(short) (2019)
+<tr><th data-year=2104><td><td><a new href=/shelf/2017/alien-covenant-advent               >Alien: Covenant - Advent                          </a>(short) (2017)
+<tr><th data-year=2117><td><td><a new href=/shelf/2019/alien-covenant-davids-lab           >Alien: Covenant - David's Lab: Last Signs of Life </a>(short) (2019)
 <tr><th data-year=2119><td><td><a new href=/shelf/2019/alien-harvest                       >Alien: Harvest                                    </a>(2019)
 <tr><th data-year=2122><td><td><a     href=/shelf/1979/alien                               >Alien                                             </a>(film) (1979)
 <tr><th data-year=2122><td><td><a new href=/shelf/2019/alien-ore                           >Alien: Ore                                        </a>(short) (2019)

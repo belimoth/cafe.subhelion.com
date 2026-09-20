@@ -7,8 +7,8 @@
 
 - [IMDB](https://www.imdb.com/name/nm0000041)
 - [Wikipedia](https://en.wikipedia.org/wiki/Akira_Kurosawa)
-- [Wikipedia](https://en.wikipedia.org/wiki/List_of_works_by_Akira_Kurosawa)
 - [Wikipedia - Template](https://en.wikipedia.org/wiki/Template:Akira_Kurosawa)
+- [Wikipedia - Works](https://en.wikipedia.org/wiki/List_of_works_by_Akira_Kurosawa)
 
 ## Film
 
@@ -30,6 +30,9 @@
      <tr><th data-year=1949><td><img src=/static/image/media/film/stray-dog.jpg                           ><td><a new href=/shelf/1949/stray-dog                           >野良犬</a><br>Stray Dog
      <tr><th data-year=1950><td><img src=/static/image/media/film/scandal.jpg                             ><td><a new href=/shelf/1950/scandal                             >醜聞</a><br>Scandal
 </table>
+
+
+### Post-occupation Era
 
 <table>
      <tr><th data-year=1950><td><img src=/static/image/media/film/rashomon.jpg                            ><td><a     href=/shelf/1950/rashomon                            >羅生門</a><br>Rashomon
@@ -53,10 +56,6 @@
      <tr><th data-year=1991><td><img src=/static/image/media/film/rhapsody-in-august.jpg                  ><td><a new href=/shelf/1991/rhapsody-in-august                  >八月の狂詩曲</a><br>Rhapsody in August
      <tr><th data-year=1993><td><img src=/static/image/media/film/madadayo.jpg                            ><td><a new href=/shelf/1993/madadayo                            >まあだだよ</a><br>Madadayo
 </table>
-
-
-
-
 
 ## Documentary
 

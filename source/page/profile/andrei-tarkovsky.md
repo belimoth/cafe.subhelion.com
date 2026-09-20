@@ -7,7 +7,7 @@
 
 - [IMDB](https://www.imdb.com/name/nm0001789)
 - [Wikipedia](https://en.wikipedia.org/wiki/Andrei_Tarkovsky)
-- [Wikipedia - Filmography](https://en.wikipedia.org/wiki/Works_by_Andrei_Tarkovsky)
+- [Wikipedia - Works](https://en.wikipedia.org/wiki/Works_by_Andrei_Tarkovsky)
 
 ## Film
 

@@ -117,7 +117,7 @@
      <tr><th data-year=1974><td><img src=/static/image/media/film/dark-places.jpg                            ><td>Dark Places
      <tr><th data-year=1974><td><img src=/static/image/media/film/four-musketeers.jpg                        ><td><a new>The Four Musketeers</a>
      <tr><th data-year=1974><td><img src=/static/image/media/film/man-with-the-golden-gun.jpg                ><td><a new>The Man with the Golden Gun</a>
-     <tr><th data-year=1975><td><img src=/static/image/media/film/le boucher, la star et l'orpheline.jpg     ><td>Le boucher, la star et l'orpheline
+     <tr><th data-year=1975><td><img src=/static/image/media/film/le-boucher-la-star-et-lorpheline.jpg     ><td>Le boucher, la star et l'orpheline
      <tr><th data-year=1975><td><img src=/static/image/media/film/diagnosis-murder.jpg                       ><td>Diagnosis Murder
      <tr><th data-year=1976><td><img src=/static/image/media/film/killer-force.jpg                           ><td>Killer Force; The Diamond Mercenaries
      <tr><th data-year=1976><td><img src=/static/image/media/film/to-the-devil-a-daughter.jpg                ><td>To the Devil, A Daughter
@@ -135,7 +135,7 @@
      <tr><th data-year=1979><td><img src=/static/image/media/film/arabian-adventure.jpg                      ><td>Arabian Adventure
      <tr><th data-year=1979><td><img src=/static/image/media/film/jaguar-lives.jpg                           ><td>Jaguar Lives!
      <tr><th data-year=1979><td><img src=/static/image/media/film/bear-island.jpg                            ><td>Bear Island
-     <tr><th data-year=1941><td><img src=/static/image/media/film/capt-wolfgang-von-kleinschmidt.jpg         ><td>Capt. Wolfgang von Kleinschmidt
+     <tr><th data-year=1979><td><img src=/static/image/media/film/1941.jpg                                   ><td>1941
      <tr><th data-year=1980><td><img src=/static/image/media/film/serial.jpg                                 ><td>Serial
      <tr><th data-year=1980><td><img src=/static/image/media/film/safari-3000.jpg                            ><td>Safari 3000
      <tr><th data-year=1981><td><img src=/static/image/media/film/an-eye-for-an-eye.jpg                      ><td>An Eye for an Eye
@@ -168,7 +168,7 @@
      <tr><th data-year=1994><td><img src=/static/image/media/film/police-academy-mission-to-moscow.jpg       ><td>Police Academy: Mission to Moscow
      <tr><th data-year=1994><td><img src=/static/image/media/film/feast-at-midnight.jpg                      ><td>A Feast at Midnight
 <!-- <tr><th data-year=1996><td><img src=/static/image/media/film/stupids.jpg                                ><td>The Stupids -->
-     <tr><th data-year=1998><td><img src=/static/image/media/film/tale-of-thr-mummy.jpg                      ><td>Tale of the Mummy
+     <tr><th data-year=1998><td><img src=/static/image/media/film/tale-of-the-mummy.jpg                      ><td>Tale of the Mummy
      <tr><th data-year=1998><td><img src=/static/image/media/film/jinnah.jpg                                 ><td>Jinnah
      <tr><th data-year=1999><td><img src=/static/image/media/film/sleepy-hollow.jpg                          ><td><a new>Sleepy Hollow</a>
      <tr><th data-year=2001><td><img src=/static/image/media/film/lotr-1.jpg                                 ><td><a new>The Lord of the Rings: The Fellowship of the Ring</a>
@@ -195,7 +195,7 @@
      <tr><th data-year=2014><td><img src=/static/image/media/film/hobbit-3.jpg                               ><td><a new>The Hobbit: The Battle of the Five Armies
 </table>
 
-## Cameo
+<!-- ## Cameo
 
 <table>
      <tr><th data-year=1970><td><img src=/static/image/media/film/one-more-time.jpg><td>One More Time
@@ -231,4 +231,4 @@
      <tr><th data-year=2024><td><img src=/static/image/media/film/lotr-the-war-of-the-rohirrim.jpg  ><td>The Lord of the Rings: The War of the Rohirrim
 </table>
 
-## TV
+## TV -->

@@ -87,14 +87,14 @@ Here's a timeline of some reference games:
 | [DREAD CHECK PROFILES: SWAT CITY SWIMMER ](https://subhelion.itch.io/swat-city-swimmer)    | -- |
 
 
-### Teams
+<!-- ### Teams -->
 
-|              |                                            |
-|--------------|--------------------------------------------|
-| [PROFILES]() | Concept artists, illustrators, writers     |
-| [CHAPTERS]() | Designers, programmers; core content team  |
-| [SHORTIES]() | Designers, programmers; guest content team |
-| [PRODUCTS]() | Support, production                        |
+<!-- |              |                                            | -->
+<!-- |--------------|--------------------------------------------| -->
+<!-- | [PROFILES]() | Concept artists, illustrators, writers     | -->
+<!-- | [CHAPTERS]() | Designers, programmers; core content team  | -->
+<!-- | [SHORTIES]() | Designers, programmers; guest content team | -->
+<!-- | [PRODUCTS]() | Support, production                        | -->
 
 <h2 id=notes>Notes</h2>
 
@@ -104,53 +104,363 @@ Here's a timeline of some reference games:
 - [design/house   ](/project/dread-check/design/house)
 - [design/vehicle ](/project/dread-check/design/vehicle)
 
-### Dread Check Chapters
+### Chapters
 
-|                                                                                                   |                                                                                                               |
-|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
-| [Alien Intel & Alien Intel Classic            ](/project/dread-check/chapter/alien-intel)         | Zach and Joe's campaign that remixes Perfect Dark; Lays important foundations for the rest of the DRAUGBVERSE |
-| [Alien Intel X                                ](/project/dread-check/chapter/alien-intel-x)       | --                                                                                                            |
-| [Blood Flush                                  ](/project/dread-check/chapter/blood-flush)         | --                                                                                                            |
-| [Cold Hauler Buffalo                          ](/project/dread-check/chapter/cold-hauler-buffalo) | --                                                                                                            |
-| [Cryoshock                                    ](/project/dread-check/chapter/cryshock)            | --                                                                                                            |
-| [Diablo Plains                                ](/project/dread-check/chapter/diablo-plains)       | Industrial simulation in fictional containment facilities                                                     |
-| [DRAUGB                                       ](/project/dread-check/chapter/draugb)              | Zach's supernatural cold war survival campaign that is the original basis for DREAD CHECK; Multiple chapters  |
-| [El ingenioso hidalgo don Quixote de la Mancha](/project/dread-check/chapter/diablo-plains)       | --                                                                                                            |
-| [Full Metal Express                           ](/project/dread-check/chapter/full-metal-express)  | --                                                                                                            |
-| [Gate Quake                                   ](/project/dread-check/chapter/gate-quake)          | Action-focused campaign that remixes Doom, Quake, etc                                                         |
-| [Horse War                                    ](/project/dread-check/chapter/horse-war)           | Mechanized combat and battlefield strategy; Originally a separate title                                       |
-| [Howling Commandos                            ](/project/dread-check/chapter/howling-commandos)   | --                                                                                                            |
-| [Plastic Platoon                              ](/project/dread-check/chapter/plastic-platoon)     | --                                                                                                            |
-| [Plastic Platoon: Hazard Company              ](/project/dread-check/chapter/hazard-company)      | --                                                                                                            |
-| [Route 66                                     ](/project/dread-check/chapter/route-66)            | --                                                                                                            |
-| [Swat City                                    ](/project/dread-check/chapter/swat-city)           | Cybergoth gang violence; Zach's current chapter in development                                                |
-| [Swat City X                                  ](/project/dread-check/chapter/swat-city-x)         | --                                                                                                            |
-| [Würm Arctigeddon & Würm Arctigeddon Modern   ](/project/dread-check/chapter/wuerm-arctigeddon)   | --                                                                                                            |
+|                                                           |                                                                                                |    |
+|-----------------------------------------------------------|------------------------------------------------------------------------------------------------|----|
+| ![](/static/image/dread_check/title/alien-intel.png)      | [Alien Intel Classic            ](/project/dread-check/chapter/alien-intel-classic)      &#10; | -- |
+| ![](/static/image/dread_check/title/alien-intel.png)      | [Alien Intel                    ](/project/dread-check/chapter/alien-intel)              &#10; | -- |
+| ![](/static/image/dread_check/title/alien-intel.png)      | [Alien Intel X                  ](/project/dread-check/chapter/alien-intel-x)            &#10; | -- |
+|                                                           | [Blood Flush                    ](/project/dread-check/chapter/blood-flush)              &#10; | -- |
+| ![](/static/image/dread_check/title/blue-monsoon.png)     | [Blue Monsoon                   ](/project/dread-check/chapter/blue-monsoon)             &#10; | -- |
+| ![](/static/image/dread_check/title/cryoshock.png)        | [Cryoshock                      ](/project/dread-check/chapter/cryshock)                 &#10; | -- |
+|                                                           | [Diablo Plains                  ](/project/dread-check/chapter/diablo-plains)            &#10; | -- |
+| ![](/static/image/dread_check/title/draugb.png)           | [DRAUGB                         ](/project/dread-check/chapter/draugb)                   &#10; | -- |
+|                                                           | [Frost Hauler Buffalo           ](/project/dread-check/chapter/cold-hauler-buffalo)      &#10; | -- |
+|                                                           | [Full Metal Express             ](/project/dread-check/chapter/full-metal-express)       &#10; | -- |
+|                                                           | [Funny Bowling                  ](/project/dread-check/chapter/funny-bowling)            &#10; | -- |
+|                                                           | [Gate Quake                     ](/project/dread-check/chapter/gate-quake)               &#10; | -- |
+|                                                           | [Horse War                      ](/project/dread-check/chapter/horse-war)                &#10; | -- |
+|                                                           | [Howling Commandos              ](/project/dread-check/chapter/howling-commandos)        &#10; | -- |
+|                                                           | [Injury Duty                    ](/project/dread-check/chapter/injury-duty)              &#10; | -- |
+|                                                           | [MLB: Monster League Baseball   ](/project/dread-check/chapter/monster-league-baseball)  &#10; | -- |
+|                                                           | [Plastic Platoon                ](/project/dread-check/chapter/plastic-platoon)          &#10; | -- |
+|                                                           | [Plastic Platoon: Hazard Company](/project/dread-check/chapter/hazard-company)           &#10; | -- |
+| ![](/static/image/dread_check/title/primitive-streak.png) | [Primitive Streak               ](/project/dread-check/chapter/primitive-streak)         &#10; | -- |
+|                                                           | [Pyrebola                       ](/project/dread-check/chapter/pyrebola)                 &#10; | -- |
+| ![](/static/image/dread_check/title/red-cry.png)          | [Red Cry                        ](/project/dread-check/chapter/red-cry)                  &#10; | -- |
+|                                                           | [Route 66                       ](/project/dread-check/chapter/route-66)                 &#10; | -- |
+|                                                           | [Settle For Less                ](/project/dread-check/chapter/settle-for-less)          &#10; | -- |
+| ![](/static/image/dread_check/title/swat-city.png)        | [Swat City                      ](/project/dread-check/chapter/swat-city)                &#10; | -- |
+| ![](/static/image/dread_check/title/swat-city.png)        | [Swat City X                    ](/project/dread-check/chapter/swat-city-x)              &#10; | -- |
+| ![](/static/image/dread_check/title/threefold-path.png)   | [研究生总动员: Threefold Path    ](/project/dread-check/chapter/threefold-path)          &#10; | -- |
+|                                                           | [Upon the Silver Globe          ](/project/dread-check/chapter/upon-the-silver-globe)    &#10; | -- |
+|                                                           | [Vermintithe                    ](/project/dread-check/chapter/vermintithe)              &#10; | -- |
+|                                                           | [Wizard School                  ](/project/dread-check/chapter/wizard-school)            &#10; | -- |
+|                                                           | [Würm Arctigeddon               ](/project/dread-check/chapter/wuerm-arctigeddon)        &#10; | -- |
+|                                                           | [Würm Arctigeddon Modern        ](/project/dread-check/chapter/wuerm-arctigeddon-modern) &#10; | -- |
+|                                                           | [Xenoparity                     ](/project/dread-check/chapter/xenoparity)               &#10; | -- |
+|                                                           | [ЯВЬНАВЬ: YAVNAV                ](/project/dread-check/chapter/yavnav)                   &#10; | -- |
+|                                                           | [Ziqqrrat                       ](/project/dread-check/chapter/ziqqrrat)                 &#10; | -- |
 
-### Dread Check Shorties
 
-Shorties are short self-contained chapters made by guest directors from other studios. Less restrictive than chapters and not necessarily written in the DRAUGBVERSE.
 
-|                                                                                 |    |
-|---------------------------------------------------------------------------------|----|
-| [Blue Monsoon           ](/project/dread-check/chapter/blue-monsoon)            | -- |
-| [Bus Factor X           ](/project/dread-check/chapter/bus-factor-x)            | -- |
-| [Funny Bowling          ](/project/dread-check/chapter/funny-bowling)           | -- |
-| [Monster League Baseball](/project/dread-check/chapter/monster-league-baseball) | -- |
-| [Primitive Streak       ](/project/dread-check/chapter/primitive-streak)        | -- |
-| [Red Cry                ](/project/dread-check/chapter/red-cry)                 | -- |
-| [Threefold Path         ](/project/dread-check/chapter/threefold-path)          | -- |
 
-### Dread Check Profiles
 
-Profiles are stand-alone web games to promote related titles.
 
-|                                                                         |    |
-|-------------------------------------------------------------------------|----|
-| [HOLA: Orbital Drop Food Truck](/project/dread-check/hola)              | -- |
-| [Horse War Rally              ](/project/dread-check/horse-war-rally  ) | -- |
-| [Swat City Scanner            ](/project/dread-check/swat-city-scanner) | -- |
-| [Swat City Skinner            ](/project/dread-check/swat-city-skinner) | -- |
-| [Swat City Swimmer            ](/project/dread-check/swat-city-swimmer) | -- |
+<!-- | STAGE 1 PRECONCEPT    | STAGE 2 CONCEPT       | STAGE 3 PREPRODUCT    | STAGE 4 PRODUCTION    | STAGE 5 POSTPRODUCT   | -->
+<!-- |-----------------------|-----------------------|-----------------------|-----------------------|-----------------------| -->
+<!-- | SWAT CITY SCANNER     |                       |                       |                       |                       | -->
+<!-- | SWAT CITY SKINNER     |                       |                       |                       |                       | -->
+<!-- | SWAT CITY STADIUM     |                       |                       |                       |                       | -->
+<!-- | SWAT CITY SWIMMER     |                       |                       |                       |                       | -->
+<!-- | --------------------- | --------------------- | --------------------- | --------------------- | --------------------- | -->
+<!-- | DRAUGB - 6 DRAUGB     |                       |                       |                       |                       | -->
+<!-- | DRAUGB - 1 HARBOR     |                       |                       |                       |                       | -->
+<!-- | DRAUGB - 0 PROLOGUE   |                       |                       |                       |                       | -->
+<!-- | DRAUGB - 2 COLONY     |                       |                       |                       |                       | -->
+<!-- | DRAUGB - 3 FRONTIER   |                       |                       |                       |                       | -->
+<!-- | DRAUGB - 4 WASTES     |                       |                       |                       |                       | -->
+<!-- | DRAUGB - 5 TOWER      |                       |                       |                       |                       | -->
+<!-- | --------------------- | --------------------- | --------------------- | --------------------- | --------------------- | -->
+<!-- | GATE QUAKE 0          |                       |                       |                       |                       | -->
+<!-- | GATE QUAKE            |                       |                       |                       |                       | -->
+<!-- | GATE QUAKE X          |                       |                       |                       |                       | -->
+<!-- | --------------------- | --------------------- | --------------------- | --------------------- | --------------------- | -->
+<!-- | BLOOD FLUSH 0         |                       |                       |                       |                       | -->
+<!-- | BLOOD FLUSH           |                       |                       |                       |                       | -->
+<!-- | BLOOD FLUSH X         |                       |                       |                       |                       | -->
+<!-- | --------------------- | --------------------- | --------------------- | --------------------- | --------------------- | -->
+<!-- | ALIEN INTEL CLASSIC   |                       |                       |                       |                       | -->
+<!-- | ALIEN INTEL           |                       |                       |                       |                       | -->
+<!-- | ALIEN INTEL X         |                       |                       |                       |                       | -->
+<!-- | --------------------- | --------------------- | --------------------- | --------------------- | --------------------- | -->
+<!-- | COLD HAULER BUFFALO   |                       |                       |                       |                       | -->
+<!-- | HORSE WAR 0           |                       |                       |                       |                       | -->
+<!-- | HORSE WAR             |                       |                       |                       |                       | -->
+<!-- | HORSE WAR X           |                       |                       |                       |                       | -->
+<!-- | PRIMITIVE STREAK      |                       |                       |                       |                       | -->
+<!-- | --------------------- | --------------------- | --------------------- | --------------------- | --------------------- | -->
+<!-- | UNTITLED 0XXX         |                       |                       |                       |                       | -->
+<!-- | UNTITLED 1XXX         |                       |                       |                       |                       | -->
+<!-- | BLUE MONSOON          |                       |                       |                       |                       | -->
+<!-- | HOWLING COMMANDOS     |                       |                       |                       |                       | -->
+<!-- | HOWLING COMMANDOS 2   |                       |                       |                       |                       | -->
+<!-- | UNTITLED WEST 19XX    |                       |                       |                       |                       | -->
+<!-- | UNTITLED SNOW 2XXX    |                       |                       |                       |                       | -->
+<!-- | --------------------- | --------------------- | --------------------- | --------------------- | --------------------- | -->
+<!-- | RED CRY               |                       |                       |                       |                       | -->
+<!-- | THREEFOLD PATH        |                       |                       |                       |                       | -->
+<!-- | SWAT CITY             |                       |                       |                       |                       | -->
+<!-- | SWAT CITY X           |                       |                       |                       |                       | -->
+<!-- | --------------------- | --------------------- | --------------------- | --------------------- | --------------------- | -->
+<!-- | CONCRETE JUNGLE       |                       |                       |                       |                       | -->
+<!-- | CONCRETE JUNGLE X     |                       |                       |                       |                       | -->
 
-Also include in PROFILES is the [DREAD CHECK MEGAZINE](/project/dread-check/megazine), a zip of pdfs of any and all concept art, illustration, short stories, and comics that have been written for DREAD CHECK or onboarded as guest setting, as well as instruction manuals written for each chapter.
+
+### Chapters by era
+
+<style>
+style + table td,
+style + table th {
+	padding: 0 8px;
+}
+
+style + table td:not(:last-child),
+style + table th:not(:last-child) {
+	border-right: 1px solid currentColor;
+	padding: 0 8px;
+}
+
+style + table th {
+	border-bottom: 1px solid currentColor;
+}
+
+style + table {
+	margin-left: -50%;
+}
+</style>
+
+| Era                 | Alien Intel & Blood Flush | Concrete Jungle   | DRAUGB                  | Dreadverse                       | Gate Quake      | Horse War      | Howling Commandos     | Plastic Platoon     | Warpverse               |
+|---------------------|---------------------------|-------------------|-------------------------|----------------------------------|-----------------|----------------|-----------------------|---------------------|-------------------------|
+| 0XXXX:  Deep Past   | --                        | Concrete Jungle 0 | DRAUGB - 6              | [Red Cry]() (A)                  | Gate Quake Zero | --             | --                    |                     | Monster League Baseball |
+| 00XXX: Far Past 1   | --                        | --                | --                      | [Würm Arctigeddon]()             | --              | --             | --                    |                     | --                      |
+| 01XXX: Far Past 2   | Blood Flush Vintage       | --                | --                      | [Vermintithe]()                  | --              | --             | --                    |                     | Full Metal Express      |
+| 019XX: Near Past    | [Alien Intel Classic]()   | --                | DRAUGB - 1 [Harbor]()   | [Blue Monsoon]()                 | Gate Quake      | Horse War Zero | [Howling Commandos]() |                     | Route 66                |
+| 020XX: Present      | [Blood Flush]()           | --                | DRAUGB - 0 [Prologue]() | Würm Arctigeddon Modern          | --              | --             | Howling Commandos 2   |                     | Funny Bowling           |
+| 021XX: Near Future  | [Alien Intel](),          | Concrete Jungle   | DRAUGB - 2 [Colony]()   | [Threefold Path]()               | --              | [Horse War]()  | --                    |                     | --                      |
+| 02XXX: Far Future 1 | Blood Flush X,            | --                | DRAUGB - 3 [Frontier]() | [Cryoshock](), [Swat City]()     | --              | --             | --                    | [Plastic Platoon]() | --                      |
+| 03XXX: Far Future 2 | [Alien Intel X]()         | Concrete Jungle X | --                      | [Red Cry]() (B), [Swat City X]() | --              | Horse War X    | --                    | [Hazard Company]()  | --                      |
+| 04XXX: Far Future 3 | Blood Flush X2,           | --                | DRAUGB - 4 [Wastes]()   | [Frost Hauler Buffalo]()         | Gate Quake X    | --             | --                    |                     | --                      |
+| XXXXX:  Deep Future | --                        | --                | DRAUGB - 5 [Tower]()    | [Primitive Streak]()             | --              | --             | --                    |                     | --                      |
+
+
+
+| FOLDER  | GENRE     | MODE     | YEAR  | CHAPTER             | DIRECTOR    |
+|---------|-----------|----------|-------|---------------------|-------------|
+| FICTION | ADVENTURE | CAMPAIGN | 0XXXX | DRAUGB - 6 DRAUGB   | BELIMOTH    |
+| FICTION | ADVENTURE | CAMPAIGN | _19XX | DRAUGB - 1 HARBOR   | BELIMOTH    |
+| FICTION | ADVENTURE | CAMPAIGN | _20XX | DRAUGB - 0 PROLOGUE | BELIMOTH    |
+| FICTION | ADVENTURE | CAMPAIGN | _21XX | DRAUGB - 2 COLONY   | BELIMOTH    |
+| FICTION | ADVENTURE | CAMPAIGN | _2XXX | DRAUGB - 3 FRONTIER | BELIMOTH    |
+| FICTION | ADVENTURE | CAMPAIGN | _4XXX | DRAUGB - 4 WASTES   | BELIMOTH    |
+| FICTION | ADVENTURE | CAMPAIGN | XXXXX | DRAUGB - 5 TOWER    | BELIMOTH    |
+|         |           |          |       |                     |             |
+| FICTION | ADVENTURE | SURVIVAL | 0XXXX | GATE QUAKE 0        | BELIMOTH    |
+| FICTION | ADVENTURE | SURVIVAL | _19XX | GATE QUAKE          | BELIMOTH    |
+| FICTION | ADVENTURE | SURVIVAL | _4XXX | GATE QUAKE X        | BELIMOTH    |
+|         |           |          |       |                     |             |
+| FICTION | ADVENTURE | MYSTERY  | _1XXX | BLOOD FLUSH 0       | BELIMOTH    |
+| FICTION | ADVENTURE | MYSTERY  | _20XX | BLOOD FLUSH         | BELIMOTH    |
+| FICTION | ADVENTURE | MYSTERY  | _2XXX | BLOOD FLUSH X       | BELIMOTH    |
+|         |           |          |       |                     |             |
+| FICTION | ADVENTURE | MYSTERY  | _19XX | ALIEN INTEL CLASSIC | SHRUGSEPH   |
+| FICTION | ADVENTURE | MYSTERY  | _21XX | ALIEN INTEL         | SHRUGSEPH   |
+| FICTION | ADVENTURE | MYSTERY  | _3XXX | ALIEN INTEL X       | BELIMOTH    |
+|         |           |          |       |                     |             |
+| FICTION | ACTION    | STRATEGY | _19XX | HORSE WAR 0         | BELIMOTH    |
+| FICTION | ACTION    | STRATEGY | _21XX | HORSE WAR           | BELIMOTH    |
+| FICTION | ACTION    | STRATEGY | _3XXX | HORSE WAR X         | BELIMOTH    |
+| FICTION | ACTION    | STRATEGY | _4XXX | COLD HAUL BUFFALO   | BELIMOTH    |
+|         |           |          |       |                     |             |
+| FICTION | ADVENTURE | STRATEGY | _0XXX | UNTITLED 0XXX       | --          |
+| FICTION | ADVENTURE | STRATEGY | _1XXX | UNTITLED 1XXX       | --          |
+| FICTION | ACTION    | MYSTERY  | _19XX | BLUE MONSOON        | MITHRAEA    |
+| FICTION | ADVENTURE | STRATEGY | _19XX | HOWLING COMMANDOS   | SHRUGSEPH   |
+| FICTION | ADVENTURE | STRATEGY | _20XX | HOWLING COMMANDOS 2 | SHRUGSEPH   |
+| FICTION | ADVENTURE | SURVIVAL | _19XX | UNTITLED WEST 19XX  | --          |
+| FICTION | ADVENTURE | SURVIVAL | _2XXX | UNTITLED SNOW 2XXX  | --          |
+|         |           |          |       |                     |             |
+| FICTION | ADVENTURE | STRATEGY | 0XXXX | RED CRY A           | TEGIMINIS   |
+| FICTION | ADVENTURE | SURVIVAL | _21XX | THREEFOLD PATH      | SGTDOGWATER |
+| FICTION | ADVENTURE | SURVIVAL | _2XXX | SWAT CITY           | BELIMOTH    |
+| FICTION | ADVENTURE | STRATEGY | _2XXX | RED CRY B           | TEGIMINIS   |
+| FICTION | ADVENTURE | SURVIVAL | _3XXX | SWAT CITY X         | BELIMOTH    |
+|         |           |          |       |                     |             |
+| FICTION | ADVENTURE | ANIMAL   | _21XX | CONCRETE JUNGLE     | BELIMOTH    |
+| FICTION | ADVENTURE | ANIMAL   | _3XXX | CONCRETE JUNGLE X   | BELIMOTH    |
+| FICTION | ADVENTURE | --       | _4XXX | PRIMITIVE STREAK    | CAPNTASTIC  |
+
+
+| ERA   | ## | CAMPAIGN ADVENTURE | STRATEGY ADVENTURE  | STRATEGY ACTION     | SURVIVAL ADVENTURE | SURVIVAL ADVENTURE | MYSTERY ADVENTURE | MYSTERY ACTION | ARCADE ACTION      | ANIMAL ADVENTURE  |
+|-------|----|--------------------|---------------------|---------------------|--------------------|--------------------|-------------------|----------------|--------------------|-------------------|
+| 0XXXX | 3  | DRAUGB DRAUGB      | --                  | --                  | --                 | RED CRY A          | --                | --             | --                 | CONCRETE JUNGLE 0 |
+| 0XXX  | 1  | --                 | --                  | --                  | --                 | UNTITLED SNOW 0XXX | --                | --             | --                 | --                |
+| 1XXX  | 3  | --                 | UNTITLED 1XXX       | --                  | --                 | --                 | BLOOD FLUSH 0     | --             | FULL METAL EXPRESS | --                |
+| 19XX  | 7  | DRAUGB HARBOR      | HOWLING COMMANDOS   | HORSE WAR 0         | GATE QUAKE         | --                 | ALIEN INTEL 0     | BLUE MONSOON   | ROUTE 66           | --                |
+| 20XX  | 3  | DRAUGB PROLOGUE    | HOWLING COMMANDOS 2 | --                  | --                 | --                 | BLOOD FLUSH       | --             | --                 | --                |
+| 21XX  | 5  | DRAUGB COLONY      | --                  | HORSE WAR           | THREEFOLD PATH     | --                 | ALIEN INTEL       | --             | --                 | CONCRETE JUNGLE   |
+| 2XXX  | 5  | DRAUGB FRONTIER    | PLASTIC PLATOON     | --                  | SWAT CITY          | CRYOSHOCK          | BLOOD FLUSH X     | --             | --                 | --                |
+| 3XXX  | 6  | --                 | HAZARD COMPANY      | HORSE WAR X         | SWAT CITY X        | RED CRY B          | ALIEN INTEL X     | --             | --                 | CONCRETE JUNGLE X |
+| 4XXX  | 4  | DRAUGB WASTES      | --                  | COLD HAULER BUFFALO | GATE QUAKE X       | --                 | BLOOD FLUSH X2    | --             | --                 | --                |
+| XXXXX | 1  | DRAUGB TOWER       | --                  | PRIMITIVE STREAK    | --                 | --                 | --                | --             | --                 | --                |
+
+### Chapters by genre
+
+| ERA   | ## | CAMPAIGN ADVENTURE | STRATEGY ADVENTURE  | STRATEGY ACTION     | SURVIVAL ADVENTURE | SURVIVAL ADVENTURE | MYSTERY ADVENTURE | MYSTERY ACTION | ARCADE ACTION      | ANIMAL ADVENTURE  |
+|-------|----|--------------------|---------------------|---------------------|--------------------|--------------------|-------------------|----------------|--------------------|-------------------|
+| 0XXXX | 3  | DRAUGB DRAUGB      | --                  | --                  | --                 | RED CRY A          | --                | --             | --                 | CONCRETE JUNGLE 0 |
+| 0XXX  | 1  | --                 | --                  | --                  | --                 | UNTITLED SNOW 0XXX | --                | --             | --                 | --                |
+| 1XXX  | 3  | --                 | UNTITLED 1XXX       | --                  | --                 | --                 | BLOOD FLUSH 0     | --             | FULL METAL EXPRESS | --                |
+| 19XX  | 7  | DRAUGB HARBOR      | HOWLING COMMANDOS   | HORSE WAR 0         | GATE QUAKE         | --                 | ALIEN INTEL 0     | BLUE MONSOON   | ROUTE 66           | --                |
+| 20XX  | 3  | DRAUGB PROLOGUE    | HOWLING COMMANDOS 2 | --                  | --                 | --                 | BLOOD FLUSH       | --             | --                 | --                |
+| 21XX  | 5  | DRAUGB COLONY      | --                  | HORSE WAR           | THREEFOLD PATH     | --                 | ALIEN INTEL       | --             | --                 | CONCRETE JUNGLE   |
+| 2XXX  | 5  | DRAUGB FRONTIER    | PLASTIC PLATOON     | --                  | SWAT CITY          | CRYOSHOCK          | BLOOD FLUSH X     | --             | --                 | --                |
+| 3XXX  | 6  | --                 | HAZARD COMPANY      | HORSE WAR X         | SWAT CITY X        | RED CRY B          | ALIEN INTEL X     | --             | --                 | CONCRETE JUNGLE X |
+| 4XXX  | 4  | DRAUGB WASTES      | --                  | COLD HAULER BUFFALO | GATE QUAKE X       | --                 | BLOOD FLUSH X2    | --             | --                 | --                |
+| XXXXX | 1  | DRAUGB TOWER       | --                  | PRIMITIVE STREAK    | --                 | --                 | --                | --             | --                 | --                |
+
+### History chapters
+
+---------------------------------------------------------------------------------
+CHAPTER - HISTORY
+---------------------------------------------------------------------------------
+| FOLDER  | GENRE | MODE | YEAR | CHAPTER       | DIRECTOR | -- |
+|---------|-------|------|------|---------------|----------|----|
+| HISTORY | --    | --   | 1600 | SANTORINI     | BELIMOTH | -- |
+| HISTORY | --    | --   | 1914 | SARAJEVO      | BELIMOTH | -- |
+| HISTORY | --    | --   | 1986 | PRIPYAT       | BELIMOTH | -- |
+| HISTORY | --    | --   | 2001 | NEW YORK CITY | BELIMOTH | -- |
+| HISTORY | --    | --   | 2011 | FUKUSHIMA     | BELIMOTH | -- |
+| HISTORY | --    | --   | 2021 | SUEZ          | BELIMOTH | -- |
+
+### Chapters by mode
+
+| NAME----                                      |    | ACT | ADV | ARC | CRE | PEA | SAF | STR | SUR |
+|-----------------------------------------------|----|-----|-----|-----|-----|-----|-----|-----|-----|
+| Alien Intel                                   | -- | -X- | XXX | -X- | --- | --- | --- | XXX | --- |
+| Alien Intel X                                 | -- | -X- | XXX | -?- | --- | -X- | -X- | --- | XXX |
+| Aqua Dementia                                 | -- |     |     |     |     |     |     |     |     |
+| Blood Flush                                   | -- | XXX | --- | XXX | --- | --- | --- | -X- | -X- |
+| Blood Flush Classic                           | -- |     |     |     |     |     |     |     |     |
+| Blood Flush Vintage                           | -- |     |     |     |     |     |     |     |     |
+| Blood Flush X                                 | -- |     |     |     |     |     |     |     |     |
+| Blue Monsoon                                  | -- |     |     |     |     |     |     |     |     |
+| CHAR WARS                                     | -- | XXX | XXX | -X- | --- | --- | -?- | -X- | --- |
+| Chronicles of Narnia                          | -- |     |     |     |     |     |     |     |     |
+| CRYOSHOCK                                     | -- | -X- | --- | XXX | -X- | --- | -X- | -X- | XXX |
+| Demolidrome                                   | -- |     |     |     |     |     |     |     |     |
+| Demolidrome 2: Rust Bowl                      | -- |     |     |     |     |     |     |     |     |
+| Diablo Plains                                 | -- |     |     |     |     |     |     |     |     |
+| DRAUGB                                        | -- |     |     |     |     |     |     |     |     |
+| El ingenioso hidalgo Don Quixote de la Mancha | -- |     |     |     |     |     |     |     |     |
+| Elias Thorne and the Clockwork Lighthouse     | -- |     |     |     |     |     |     |     |     |
+| Endometriosis                                 | -- |     |     |     |     |     |     |     |     |
+| Frost Hauler Buffalo                          | -- |     |     |     |     |     |     |     |     |
+| Full Metal Express                            | -- |     |     |     |     |     |     |     |     |
+| Funny Bowling                                 | -- |     |     |     |     |     |     |     |     |
+| Gate Quake                                    | -- |     |     |     |     |     |     |     |     |
+| GHOST                                         | -- |     |     |     |     |     |     |     |     |
+| HORSE WAR                                     | -- |     |     |     |     |     |     |     |     |
+| Howling Commandos                             | -- |     |     |     |     |     |     |     |     |
+| Incarnadine Peak                              | -- |     |     |     |     |     |     |     |     |
+| Jacob's Ladder                                | -- |     |     |     |     |     |     |     |     |
+| King of the Drill                             | -- |     |     |     |     |     |     |     |     |
+| King of the Drill 2: Oil Terminal             | -- |     |     |     |     |     |     |     |     |
+| Kull the Conqueror                            | -- |     |     |     |     |     |     |     |     |
+| Lāhainā Noon                                  | -- |     |     |     |     |     |     |     |     |
+| Last Voyage of the SS Pollex                  | -- |     |     |     |     |     |     |     |     |
+| The Life Aquatic with Francine ii Descartes   | -- |     |     |     |     |     |     |     |     |
+| Lord of the Flies                             | -- |     |     |     |     |     |     |     |     |
+| Minerva's Owl                                 | -- |     |     |     |     |     |     |     |     |
+| Night of the Living Dead                      | -- |     |     |     |     |     |     |     |     |
+| Plastic Platoon                               | -- |     |     |     |     |     |     |     |     |
+| Plastic Platoon: Hazard Company               | -- |     |     |     |     |     |     |     |     |
+| Primitive Streak                              | -- |     |     |     |     |     |     |     |     |
+| PYREBOLA                                      | -- |     |     |     |     |     |     |     |     |
+| RED CRY                                       | -- |     |     |     |     |     |     |     |     |
+| ROUTE 66                                      | -- |     |     |     |     |     |     |     |     |
+| Squib Game                                    | -- |     |     |     |     |     |     |     |     |
+| SWAT CITY                                     | -- | -X- | --- | XXX | -X- | -X- | -?- | -?- | -X- |
+| SWAT CITY X                                   | -- | -X- | -X- | -X- | -?- | --- | -X- | -?- | --- |
+| Swiss Family Robinson                         | -- |     |     |     |     |     |     |     |     |
+| Swordhenge                                    | -- | -X- | -X- | -X- | -?- | --- | -X- | -X- | -X- |
+| Swordhenge 2: Axehedge                        | -- |     |     |     |     |     |     |     |     |
+| Swordhenge 3: Gravesalt                       | -- | -X- | --- | XXX | --- | --- | -X- | -X- | XXX |
+| Threefold Path                                | -- |     |     |     |     |     |     |     |     |
+| Torment Nexus                                 | -- | -X- | --- | -X- | -?- | --- | --- | -X- | -?- |
+| Upon the Silver Globe                         | -- |     |     |     |     |     |     |     |     |
+| Vermintithe                                   | -- |     |     |     |     |     |     |     |     |
+| Vermintithe 2: Beneath the Howl               | -- |     |     |     |     |     |     |     |     |
+| Vermintithe 3: Feet of Clay                   | -- |     |     |     |     |     |     |     |     |
+| Vermintithe Zero: Amphibian Dawn              | -- |     |     |     |     |     |     |     |     |
+| Vermintithe Zero X: Amphibian Dusk            | -- |     |     |     |     |     |     |     |     |
+| Wizard School                                 | -- | -?- | --- | -X- | -X- | -X- | -X- | --- | -X- |
+| Würm Arctigeddon                              | -- | -X- | --- | -X- | --- | -X- | -X- | -?- | -X- |
+| Würm Arctigeddon Modern                       | -- |     |     |     |     |     |     |     |     |
+| Xenoparity                                    | -- | -?- | --- | -X- | -?- | --- | --- | -X- | -X- |
+| XUNION                                        | -- |     |     |     |     |     |     |     |     |
+| YAVNAV                                        | -- | -X- | -?- | XXX | -X- | --- | -X- | --- | XXX |
+| ZIQQRRAT                                      | -- | XXX | XXX | --- | --- | --- | -?- | --- | -X- |
+
+### Chapters by title length
+
+| El ingenioso hidalgo Don QUIXOTE de la Mancha |
+| The Life Aquatic with Francine ii Descartes   |
+| Elias Thorne and the Clockwork Lighthouse     |
+| Vermintithe Zero X: Amphibian Dusk            |
+| King of the Drill 2: Oil Terminal             |
+| Vermintithe Zero: Amphibian Dawn              |
+| Plastic Platoon: Hazard Company               |
+| Vermintithe 2: Beneath the Howl               |
+| Last Voyage of the SS Pollex                  |
+| Vermintithe 3: Feet of Clay                   |
+| Demolidrome 2: Rust Bowl                      |
+| Night of the Living Dead                      |
+| Swordhenge 3: Gravesalt                       |
+| Würm Arctigeddon Modern                       |
+| Swordhenge 2: Axehedge                        |
+| Swiss Family Robinson                         |
+| Upon the Silver Globe                         |
+| Chronicles of Narnia                          |
+| Frost Hauler Buffalo                          |
+| Blood Flush Classic                           |
+| Blood Flush Vintage                           |
+| Full Metal Express                            |
+| Kull the Conqueror                            |
+| Howling Commandos                             |
+| King of the Drill                             |
+| Lord of the Flies                             |
+| Incarnadine Peak                              |
+| Primitive Streak                              |
+| Würm Arctigeddon                              |
+| Plastic Platoon                               |
+| Jacob's Ladder                                |
+| Threefold Path                                |
+| Alien Intel X                                 |
+| Aqua Dementia                                 |
+| Blood Flush X                                 |
+| Diablo Plains                                 |
+| Endometriosis                                 |
+| Funny Bowling                                 |
+| Minerva's Owl                                 |
+| Torment Nexus                                 |
+| Wizard School                                 |
+| Blue Monsoon                                  |
+| Lāhainā Noon                                  |
+| Alien Intel                                   |
+| Demolidrome                                   |
+| DEAD HAND X                                   |
+| SWAT CITY X                                   |
+| Vermintithe                                   |
+| Blood Flush                                   |
+| Gate Quake                                    |
+| Squib Game                                    |
+| Swordhenge                                    |
+| Xenoparity                                    |
+| XXXXXXXXX------------------------------------ | must be this short to capitalize
+| CHAR WARS                                     |
+| CRYOSHOCK                                     |
+| DEAD HAND                                     |
+| HORSE WAR                                     |
+| SWAT CITY                                     |
+| PYREBOLA                                      |
+| ROUTE 66                                      |
+| ZIQQRRAT                                      |
+| RED CRY                                       |
+| QUIXOTE                                       |
+| DRAUGB                                        |
+| INDIGO                                        |
+| XUNION                                        |
+| YAVNAV                                        |
+| GHOST                                         |

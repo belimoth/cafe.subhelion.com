@@ -49,62 +49,62 @@
 
 ## GUN - PICK - ALIEN INTEL
 
-| CLASS | ERA | TEAM   | YEAR | KEY                       | AMMO           |  | OWNER    | DESIGNATION               |
-|-------|-----|--------|------|---------------------------|----------------|--|----------|---------------------------|
-|       | --  |        |      | hk_msg90_a1               | 762_nato       |  | H&K      | MSG90 A1                  |
-|       | --  |        |      | hk_msg90_a2               | 762_nato       |  | H&K      | MSG90 A2                  |
-|       | --  |        |      | hk_msg90_sdn              | 762_nato       |  | H&K      | MSG90 SDN                 |
-|       | --  |        |      | hk_sl8                    | 556_nato       |  | H&K      | SL8                       |
-|       | --  |        |      | hk_sl9_sd                 | 300_blackout   |  | H&K      | SL9-SD                    |
-|       | --  |        | 1972 | hk_msg90                  | 762_nato       |  | H&K      | MSG90                     |
-|       | --  |        | 1972 | hk_psg1                   | 762_nato       |  | H&K      | PSG1                      |
-|       | --  |        | 1972 | hk_psg1_a1                | 762_nato       |  | H&K      | PSG1 A1                   |
-|       | --  |        | 1966 | hk_mp5                    |                |  | H&K      | MP5                       |
-|       | --  |        | 1976 | hk_mp5_k                  |                |  | H&K      | MP5-K                     |
-|       | --  |        | 1976 | hk_p11                    |                |  | H&K      | P11 Underwater            |
-|       | --  |        | 1982 | hk_caws                   | 12_gauge       |  | H&K      | CAWS                      |
-|       | --  |        | 1992 | hk_gmg                    | 40mm           |  | H&K      | GMG                       |
-|       | --  |        | 2004 | hk_xm27_oicw              | 46_30mm/20mm   |  | H&K      | XM27 OICW (MP7)           |
-|       | --  |        | 2004 | hk_xm29_oicw              | 556_nato/20mm  |  | H&K      | XM29 OICW (G36)           |
-|       | --  |        | 2010 | hk_xm25_cdte              | 20mm           |  | H&K      | XM25 CDTE                 |
-|       | --  |        | 2010 | hk_xm8                    | 556_nato       |  | H&K      | XM8                       |
-|       |     |        |      |                           |                |  |          |                           |
-|       | --  |        |      | fn_57                     | 57_28mm        |  | FN       | Five-seveN                |
-|       | --  |        |      | ruger_57                  | 57_28mm        |  | Ruger    | 5.7                       |
-|       | --  |        | 1990 | fn_p90                    |                |  | FN       | P90 "RCP-45"              |
-| PDW   | --  |        | 2008 | ar_57                     | 57_28mm        |  | --       | AR-57                     |
-|       |     |        |      |                           |                |  |          |                           |
-|       | --  | ARMADA |      | ai_benelli_m3_s90_t       | 12_gauge       |  | Benelli  | M3 Super 90 Tactical      |
-|       | --  | ICESPY | 1990 | ai_fn_p90_rcp_120         | 57_28mm        |  | FN       | P90 "RCP-120"             |
-|       | --  | ICESPY |      | ai_fr_famas_ar_34         | 556_nato       |  | France   | FAMAS "AR-34"             |
-|       | --  | ARMADA | --   | ai_beretta_m93r_ag_auto_9 | 9mm            |  | Beretta  | M93R-AG Auto 9 "MagSec 4" |
-|       | --  | ARMADA | --   | colt_python               | 357_magnum     |  | Colt     | Python                    |
-|       | --  | ARMADA | --   | colt_python_gold          | 357_magnum     |  | Colt     | Python "Gold"             |
-|       | --  | ARMADA | --   | ai_hk_gmg_devastator      |                |  | H&K      | GMG "Devastator"          |
-|       | --  | ARMADA | --   | ai_hk_g36_e_dragon        | 556_nato       |  | H&K      | G36-E "Dragon"            |
-|       | --  | ARMADA | --   | ai_hk_xm29_oicw           | 556_nato/20mm  |  | H&K      | XM29 OICW "Super Dragon"  |
-|       | --  | ARMADA | --   | ai_steyr_tmp_cmp_150      | 9mm            |  | Steyr    | TMP "CMP-150"             |
-|       | --  | ARMADA | --   | ai_steyr_ssg_08           | 308_winchester |  | Steyr    | SSG 08                    |
-|       | --  | ARMADA | --   | ai_hk_mp7                 | 46_40mm_ap     |  | HK       | MP7 "K7 Avenger"          |
-|       | --  | ICEFED | --   | ai_hk_g11_cyclone         | 473_33mm_g11   |  | H&K      | G11 "Cyclone"             |
-|       | --  | ICESPY | --   | ai_colt_double_eagle      | 45_acp         |  | Colt     | Double Eagle "Falcon 2"   |
-|       | --  | ICESPY | --   | ai_crossbow               | unique         |  | --       | "Crossbow"                |
-|       | --  |        |      |                           |                |  |          |                           |
-|       | --  | ASGARD | --   | ai_maiar_callisto         | --             |  | "Maiar"  | "Callisto NTG"            |
-|       | --  | ASGARD | --   | ai_maiar_farsight         | --             |  | "Maiar"  | "FarSight XR-20"          |
-|       | --  | ASGARD | --   | ai_maiar_phoenix          | --             |  | "Maiar"  |                           |
-|       | --  | SKEDAR | --   | ai_skedar_mauler          | unique         |  | "Skedar" | "Mauler"                  |
-|       | --  | SKEDAR | --   | ai_skedar_reaper          | unique         |  | "Skedar" | "Reaper"                  |
-|       | --  | SKEDAR | --   | ai_skedar_slayer          | unique         |  | "Skedar" | "Slayer"                  |
-|       | --  |        |      |                           |                |  |          |                           |
-|       | --  | ARMADA | --   | ai_dd_rocket_launcher     | unique         |  | --       | "Rocket Launcher"         |
-|       | --  | ICESPY | --   | ai_laptop_gun             | 57_28mm        |  | --       | "Laptop Gun"              |
-|       | --  |        | --   | ai_neutron_bomb           | unique         |  | --       | "Neutron Bomb"            |
-|       | --  |        | --   | ai_nsa_psychosis_gun      | unique         |  | --       | "Psychosis Gun"           |
-|       | --  |        | --   | ai_walther_wa_2000        |                |  | Walther  | WA 2000 "Sniper"          |
-|       | --  |        | --   | ai_knife                  | unique         |  | --       | "Combat Knife"            |
-|       | --  |        | --   | ai_proximity_mine         | unique         |  | --       | "Proximity Mine"          |
-|       | --  |        | --   | ai_remote_mine            | unique         |  | --       | "Remote Mine"             |
+| CLASS | ERA | TEAM   | YEAR | KEY                       | AMMO           | OWNER    | DESIGNATION               |
+|-------|-----|--------|------|---------------------------|----------------|----------|---------------------------|
+|       | --  |        |      | hk_msg90_a1               | 762_nato       | H&K      | MSG90 A1                  |
+|       | --  |        |      | hk_msg90_a2               | 762_nato       | H&K      | MSG90 A2                  |
+|       | --  |        |      | hk_msg90_sdn              | 762_nato       | H&K      | MSG90 SDN                 |
+|       | --  |        |      | hk_sl8                    | 556_nato       | H&K      | SL8                       |
+|       | --  |        |      | hk_sl9_sd                 | 300_blackout   | H&K      | SL9-SD                    |
+|       | --  |        | 1972 | hk_msg90                  | 762_nato       | H&K      | MSG90                     |
+|       | --  |        | 1972 | hk_psg1                   | 762_nato       | H&K      | PSG1                      |
+|       | --  |        | 1972 | hk_psg1_a1                | 762_nato       | H&K      | PSG1 A1                   |
+|       | --  |        | 1966 | hk_mp5                    |                | H&K      | MP5                       |
+|       | --  |        | 1976 | hk_mp5_k                  |                | H&K      | MP5-K                     |
+|       | --  |        | 1976 | hk_p11                    |                | H&K      | P11 Underwater            |
+|       | --  |        | 1982 | hk_caws                   | 12_gauge       | H&K      | CAWS                      |
+|       | --  |        | 1992 | hk_gmg                    | 40mm           | H&K      | GMG                       |
+|       | --  |        | 2004 | hk_xm27_oicw              | 46_30mm/20mm   | H&K      | XM27 OICW (MP7)           |
+|       | --  |        | 2004 | hk_xm29_oicw              | 556_nato/20mm  | H&K      | XM29 OICW (G36)           |
+|       | --  |        | 2010 | hk_xm25_cdte              | 20mm           | H&K      | XM25 CDTE                 |
+|       | --  |        | 2010 | hk_xm8                    | 556_nato       | H&K      | XM8                       |
+|       |     |        |      |                           |                |          |                           |
+|       | --  |        |      | fn_57                     | 57_28mm        | FN       | Five-seveN                |
+|       | --  |        |      | ruger_57                  | 57_28mm        | Ruger    | 5.7                       |
+|       | --  |        | 1990 | fn_p90                    |                | FN       | P90 "RCP-45"              |
+| PDW   | --  |        | 2008 | ar_57                     | 57_28mm        | --       | AR-57                     |
+|       |     |        |      |                           |                |          |                           |
+|       | --  | ARMADA |      | ai_benelli_m3_s90_t       | 12_gauge       | Benelli  | M3 Super 90 Tactical      |
+|       | --  | ICESPY | 1990 | ai_fn_p90_rcp_120         | 57_28mm        | FN       | P90 "RCP-120"             |
+|       | --  | ICESPY |      | ai_fr_famas_ar_34         | 556_nato       | France   | FAMAS "AR-34"             |
+|       | --  | ARMADA | --   | ai_beretta_m93r_ag_auto_9 | 9mm            | Beretta  | M93R-AG Auto 9 "MagSec 4" |
+|       | --  | ARMADA | --   | colt_python               | 357_magnum     | Colt     | Python                    |
+|       | --  | ARMADA | --   | colt_python_gold          | 357_magnum     | Colt     | Python "Gold"             |
+|       | --  | ARMADA | --   | ai_hk_gmg_devastator      |                | H&K      | GMG "Devastator"          |
+|       | --  | ARMADA | --   | ai_hk_g36_e_dragon        | 556_nato       | H&K      | G36-E "Dragon"            |
+|       | --  | ARMADA | --   | ai_hk_xm29_oicw           | 556_nato/20mm  | H&K      | XM29 OICW "Super Dragon"  |
+|       | --  | ARMADA | --   | ai_steyr_tmp_cmp_150      | 9mm            | Steyr    | TMP "CMP-150"             |
+|       | --  | ARMADA | --   | ai_steyr_ssg_08           | 308_winchester | Steyr    | SSG 08                    |
+|       | --  | ARMADA | --   | ai_hk_mp7                 | 46_40mm_ap     | HK       | MP7 "K7 Avenger"          |
+|       | --  | ICEFED | --   | ai_hk_g11_cyclone         | 473_33mm_g11   | H&K      | G11 "Cyclone"             |
+|       | --  | ICESPY | --   | ai_colt_double_eagle      | 45_acp         | Colt     | Double Eagle "Falcon 2"   |
+|       | --  | ICESPY | --   | ai_crossbow               | unique         | --       | "Crossbow"                |
+|       | --  |        |      |                           |                |          |                           |
+|       | --  | ASGARD | --   | ai_maiar_callisto         | --             | "Maiar"  | "Callisto NTG"            |
+|       | --  | ASGARD | --   | ai_maiar_farsight         | --             | "Maiar"  | "FarSight XR-20"          |
+|       | --  | ASGARD | --   | ai_maiar_phoenix          | --             | "Maiar"  |                           |
+|       | --  | SKEDAR | --   | ai_skedar_mauler          | unique         | "Skedar" | "Mauler"                  |
+|       | --  | SKEDAR | --   | ai_skedar_reaper          | unique         | "Skedar" | "Reaper"                  |
+|       | --  | SKEDAR | --   | ai_skedar_slayer          | unique         | "Skedar" | "Slayer"                  |
+|       | --  |        |      |                           |                |          |                           |
+|       | --  | ARMADA | --   | ai_dd_rocket_launcher     | unique         | --       | "Rocket Launcher"         |
+|       | --  | ICESPY | --   | ai_laptop_gun             | 57_28mm        | --       | "Laptop Gun"              |
+|       | --  |        | --   | ai_neutron_bomb           | unique         | --       | "Neutron Bomb"            |
+|       | --  |        | --   | ai_nsa_psychosis_gun      | unique         | --       | "Psychosis Gun"           |
+|       | --  |        | --   | ai_walther_wa_2000        |                | Walther  | WA 2000 "Sniper"          |
+|       | --  |        | --   | ai_knife                  | unique         | --       | "Combat Knife"            |
+|       | --  |        | --   | ai_proximity_mine         | unique         | --       | "Proximity Mine"          |
+|       | --  |        | --   | ai_remote_mine            | unique         | --       | "Remote Mine"             |
 
 ## GUN - PICK - ALIEN INTEL X
 
@@ -147,8 +147,6 @@
 |       |     |      | american_180_twin | 22_lr |      | Voere | American-180 ILARCO Twin |             |
 |       |     |      | rossi_gallery     | 22_lr |      | Rossi | Gallery                  |             |
 |       |     |      | ruger_standard    | 22_lr |      | Ruger | Standard                 |             |
-
-
 
 ## HISTORY
 

@@ -15,7 +15,7 @@
 <tr><th data-year=1987><td><img src=/static/image/media/film/maurice.jpg                                                          ><td><a href=>Maurice</a>
 <tr><th data-year=1988><td><img src=/static/image/media/film/pascalis-island.jpg                                                  ><td><a href=>Pascali's Island</a>
 <tr><th data-year=1988><td><img src=/static/image/media/film/without-a-clue.jpg                                                   ><td><a href=>Without a Clue</a>
-<tr><th data-year=1988><td><img src=/static/image/media/film/testimony-the-story-of-shostakovich.jpg                              ><td><a href=>Testimony — The Story of Shostakovich</a>
+<tr><th data-year=1988><td><img src=/static/image/media/film/testimony-the-story-of-shostakovich.jpg                              ><td><a href=>Testimony - The Story of Shostakovich</a>
 <tr><th data-year=1989><td><img src=/static/image/media/film/slipstream.jpg                                                       ><td><a href=>Slipstream</a>
 <tr><th data-year=1990><td><img src=/static/image/media/film/the-5th-monkey.jpg                                                   ><td><a href=>The 5th Monkey</a>
 <tr><th data-year=1990><td><img src=/static/image/media/film/a-violent-life.jpg                                                   ><td><a href=>A Violent Life</a>

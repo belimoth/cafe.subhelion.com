@@ -22,7 +22,7 @@
      <tr><th data-year=2016><td><img src=/static/image/media/film/now-you-see-me-2.jpg       ><td><a href=/shelf/2016/now-you-see-me-2     >Now You See Me 2</a>
      <tr><th data-year=2016><td><img src=/static/image/media/film/imperium.jpg               ><td><a href=/shelf/2016/imperium             >Imperium</a>
      <tr><th data-year=2016><td><img src=/static/image/media/film/jungle-2017.jpg            ><td><a href=/shelf/2016/jungle               >Jungle</a>
-     <!-- <tr><th data-year=2018><td><img src=/static/image/media/film/beast-of-burdern.jpg       ><td><a href=/shelf/2018/beast-of-burdern     >Beast of Burden</a> -->
+<!-- <tr><th data-year=2018><td><img src=/static/image/media/film/beast-of-burden.jpg        ><td><a href=/shelf/2018/beast-of-burden      >Beast of Burden</a> -->
      <tr><th data-year=2018><td><img src=/static/image/media/film/guns-akimbo.jpg            ><td><a href=/shelf/2018/guns-akimbo          >Guns Akimbo</a>
      <tr><th data-year=2020><td><img src=/static/image/media/film/escape-from-pretoria.jpg   ><td><a href=/shelf/2020/escape-from-pretoria >Escape from Pretoria</a>
 <!-- <tr><th data-year=2022><td><img src=/static/image/media/film/the-lost-city.jpg          ><td><a href=/shelf/2022/the-lost-city        >The Lost City</a> -->
@@ -30,7 +30,7 @@
 <!-- <tr><th data-year=2025><td><img src=/static/image/media/film/merrily-we-roll-along.jpg  ><td><a href=/shelf/2025/merrily-we-roll-along>Merrily We Roll Along</a> -->
 </table>
 
-### Haryy Potter
+### Harry Potter
 
 - [Harry Potter (franchise)]()
 

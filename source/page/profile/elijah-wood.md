@@ -11,7 +11,6 @@
 ## Film
 
 <table>
-<!-- <tr><th data-year=1989><td><img src=/static/image/media/film/back-to-the-future-2.jpg                     ><td><a href=/shelf/1989/back-to-the-future-2                     >Back to the Future Part II</a> -->
 <!-- <tr><th data-year=1990><td><img src=/static/image/media/film/internal-affairs.jpg                         ><td><a href=/shelf/1990/internal-affairs                         >Internal Affairs</a> -->
 <!-- <tr><th data-year=1990><td><img src=/static/image/media/film/avalon.jpg                                   ><td><a href=/shelf/1990/avalon                                   >Avalon</a> -->
 <!-- <tr><th data-year=1990><td><img src=/static/image/media/film/child-in-the-night.jpg                       ><td><a href=/shelf/1990/child-in-the-night                       >Child in the Night</a> -->
