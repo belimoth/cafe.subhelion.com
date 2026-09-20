@@ -1,0 +1,25 @@
+<h1>{{ profile.name }}</h1>
+
+<ul>
+<li>{{ profile.life }}
+<li>{{ profile.role }}
+</ul>
+
+<br>
+
+{% if profile.link %}
+<ul>
+<li>{{ profile.link }}
+</ul>
+{% endif %}
+
+<ul>
+{% if profile.home      %}<li><a href="{{ profile.home      }}">Home</a>{% endif %}
+{% if profile.isfdb     %}<li><a href="{{ profile.isfdb     }}">ISFDB</a>{% endif %}
+{% if profile.imdb      %}<li><a href="{{ profile.imdb      }}">IMDB </a>{% endif %}
+{% if profile.cabal     %}<li><a href="{{ profile.cabal     }}">Standard EBooks</a>{% endif %}
+{% if profile.wiki      %}<li><a href="{{ profile.wiki      }}">Wikipedia</a>{% endif %}
+{% if profile.wiki-foot %}<li><a href="{{ profile.wiki-foot }}">Wikipedia - Template</a>{% endif %}
+{% if profile.wiki-work %}<li><a href="{{ profile.wiki-work }}">Wikipedia - Works</a>{% endif %}
+{% if profile.isfdb     %}<li><a href="{{ profile.isfdb     }}">ISFDB</a>{% endif %}
+</ul>
