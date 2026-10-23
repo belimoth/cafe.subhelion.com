@@ -106,42 +106,42 @@ Here's a timeline of some reference games:
 
 ### Chapters
 
-|                                                           |                                                                                                |    |
-|-----------------------------------------------------------|------------------------------------------------------------------------------------------------|----|
-| ![](/static/image/dread_check/title/alien-intel.png)      | [Alien Intel Classic            ](/project/dread-check/chapter/alien-intel-classic)      &#10; | -- |
-| ![](/static/image/dread_check/title/alien-intel.png)      | [Alien Intel                    ](/project/dread-check/chapter/alien-intel)              &#10; | -- |
-| ![](/static/image/dread_check/title/alien-intel.png)      | [Alien Intel X                  ](/project/dread-check/chapter/alien-intel-x)            &#10; | -- |
-|                                                           | [Blood Flush                    ](/project/dread-check/chapter/blood-flush)              &#10; | -- |
-| ![](/static/image/dread_check/title/blue-monsoon.png)     | [Blue Monsoon                   ](/project/dread-check/chapter/blue-monsoon)             &#10; | -- |
-| ![](/static/image/dread_check/title/cryoshock.png)        | [Cryoshock                      ](/project/dread-check/chapter/cryshock)                 &#10; | -- |
-|                                                           | [Diablo Plains                  ](/project/dread-check/chapter/diablo-plains)            &#10; | -- |
-| ![](/static/image/dread_check/title/draugb.png)           | [DRAUGB                         ](/project/dread-check/chapter/draugb)                   &#10; | -- |
-|                                                           | [Frost Hauler Buffalo           ](/project/dread-check/chapter/cold-hauler-buffalo)      &#10; | -- |
-|                                                           | [Full Metal Express             ](/project/dread-check/chapter/full-metal-express)       &#10; | -- |
-|                                                           | [Funny Bowling                  ](/project/dread-check/chapter/funny-bowling)            &#10; | -- |
-|                                                           | [Gate Quake                     ](/project/dread-check/chapter/gate-quake)               &#10; | -- |
-|                                                           | [Horse War                      ](/project/dread-check/chapter/horse-war)                &#10; | -- |
-|                                                           | [Howling Commandos              ](/project/dread-check/chapter/howling-commandos)        &#10; | -- |
-|                                                           | [Injury Duty                    ](/project/dread-check/chapter/injury-duty)              &#10; | -- |
-|                                                           | [MLB: Monster League Baseball   ](/project/dread-check/chapter/monster-league-baseball)  &#10; | -- |
-|                                                           | [Plastic Platoon                ](/project/dread-check/chapter/plastic-platoon)          &#10; | -- |
-|                                                           | [Plastic Platoon: Hazard Company](/project/dread-check/chapter/hazard-company)           &#10; | -- |
-| ![](/static/image/dread_check/title/primitive-streak.png) | [Primitive Streak               ](/project/dread-check/chapter/primitive-streak)         &#10; | -- |
-|                                                           | [Pyrebola                       ](/project/dread-check/chapter/pyrebola)                 &#10; | -- |
-| ![](/static/image/dread_check/title/red-cry.png)          | [Red Cry                        ](/project/dread-check/chapter/red-cry)                  &#10; | -- |
-|                                                           | [Route 66                       ](/project/dread-check/chapter/route-66)                 &#10; | -- |
-|                                                           | [Settle For Less                ](/project/dread-check/chapter/settle-for-less)          &#10; | -- |
-| ![](/static/image/dread_check/title/swat-city.png)        | [Swat City                      ](/project/dread-check/chapter/swat-city)                &#10; | -- |
-| ![](/static/image/dread_check/title/swat-city.png)        | [Swat City X                    ](/project/dread-check/chapter/swat-city-x)              &#10; | -- |
+|                                                           |                                                                                                 |    |
+|-----------------------------------------------------------|-------------------------------------------------------------------------------------------------|----|
+| ![](/static/image/dread_check/title/alien-intel.png)      | [Alien Intel Classic            ](/project/dread-check/chapter/alien-intel-classic)      &#10;  | -- |
+| ![](/static/image/dread_check/title/alien-intel.png)      | [Alien Intel                    ](/project/dread-check/chapter/alien-intel)              &#10;  | -- |
+| ![](/static/image/dread_check/title/alien-intel.png)      | [Alien Intel X                  ](/project/dread-check/chapter/alien-intel-x)            &#10;  | -- |
+|                                                           | [Blood Flush                    ](/project/dread-check/chapter/blood-flush)              &#10;  | -- |
+| ![](/static/image/dread_check/title/blue-monsoon.png)     | [Blue Monsoon                   ](/project/dread-check/chapter/blue-monsoon)             &#10;  | -- |
+| ![](/static/image/dread_check/title/cryoshock.png)        | [Cryoshock                      ](/project/dread-check/chapter/cryshock)                 &#10;  | -- |
+|                                                           | [Diablo Plains                  ](/project/dread-check/chapter/diablo-plains)            &#10;  | -- |
+| ![](/static/image/dread_check/title/draugb.png)           | [DRAUGB                         ](/project/dread-check/chapter/draugb)                   &#10;  | -- |
+|                                                           | [Frost Hauler Buffalo           ](/project/dread-check/chapter/cold-hauler-buffalo)      &#10;  | -- |
+|                                                           | [Full Metal Express             ](/project/dread-check/chapter/full-metal-express)       &#10;  | -- |
+|                                                           | [Funny Bowling                  ](/project/dread-check/chapter/funny-bowling)            &#10;  | -- |
+|                                                           | [Gate Quake                     ](/project/dread-check/chapter/gate-quake)               &#10;  | -- |
+|                                                           | [Horse War                      ](/project/dread-check/chapter/horse-war)                &#10;  | -- |
+|                                                           | [Howling Commandos              ](/project/dread-check/chapter/howling-commandos)        &#10;  | -- |
+|                                                           | [Injury Duty                    ](/project/dread-check/chapter/injury-duty)              &#10;  | -- |
+|                                                           | [MLB: Monster League Baseball   ](/project/dread-check/chapter/monster-league-baseball)  &#10;  | -- |
+|                                                           | [Plastic Platoon                ](/project/dread-check/chapter/plastic-platoon)          &#10;  | -- |
+|                                                           | [Plastic Platoon: Hazard Company](/project/dread-check/chapter/hazard-company)           &#10;  | -- |
+| ![](/static/image/dread_check/title/primitive-streak.png) | [Primitive Streak               ](/project/dread-check/chapter/primitive-streak)         &#10;  | -- |
+|                                                           | [Pyrebola                       ](/project/dread-check/chapter/pyrebola)                 &#10;  | -- |
+| ![](/static/image/dread_check/title/red-cry.png)          | [Red Cry                        ](/project/dread-check/chapter/red-cry)                  &#10;  | -- |
+|                                                           | [Route 66                       ](/project/dread-check/chapter/route-66)                 &#10;  | -- |
+|                                                           | [Settle For Less                ](/project/dread-check/chapter/settle-for-less)          &#10;  | -- |
+| ![](/static/image/dread_check/title/swat-city.png)        | [Swat City                      ](/project/dread-check/chapter/swat-city)                &#10;  | -- |
+| ![](/static/image/dread_check/title/swat-city.png)        | [Swat City X                    ](/project/dread-check/chapter/swat-city-x)              &#10;  | -- |
 | ![](/static/image/dread_check/title/threefold-path.png)   | [研究生总动员: Threefold Path    ](/project/dread-check/chapter/threefold-path)           &#10; | -- |
-|                                                           | [Upon the Silver Globe          ](/project/dread-check/chapter/upon-the-silver-globe)    &#10; | -- |
-|                                                           | [Vermintithe                    ](/project/dread-check/chapter/vermintithe)              &#10; | -- |
-|                                                           | [INDIGO                         ](/project/dread-check/chapter/indigo)                   &#10; | -- |
-|                                                           | [Würm Arctigeddon               ](/project/dread-check/chapter/wuerm-arctigeddon)        &#10; | -- |
-|                                                           | [Würm Arctigeddon Modern        ](/project/dread-check/chapter/wuerm-arctigeddon-modern) &#10; | -- |
-|                                                           | [Xenoparity                     ](/project/dread-check/chapter/xenoparity)               &#10; | -- |
-|                                                           | [ЯВЬНАВЬ: YAVNAV                ](/project/dread-check/chapter/yavnav)                   &#10; | -- |
-|                                                           | [Ziqqrrat                       ](/project/dread-check/chapter/ziqqrrat)                 &#10; | -- |
+|                                                           | [Upon the Silver Globe          ](/project/dread-check/chapter/upon-the-silver-globe)    &#10;  | -- |
+|                                                           | [Vermintithe                    ](/project/dread-check/chapter/vermintithe)              &#10;  | -- |
+|                                                           | [INDIGO                         ](/project/dread-check/chapter/indigo)                   &#10;  | -- |
+|                                                           | [Würm Arctigeddon               ](/project/dread-check/chapter/wuerm-arctigeddon)        &#10;  | -- |
+|                                                           | [Würm Arctigeddon Modern        ](/project/dread-check/chapter/wuerm-arctigeddon-modern) &#10;  | -- |
+|                                                           | [Xenoparity                     ](/project/dread-check/chapter/xenoparity)               &#10;  | -- |
+|                                                           | [ЯВЬНАВЬ: YAVNAV                ](/project/dread-check/chapter/yavnav)                   &#10;  | -- |
+|                                                           | [Ziqqrrat                       ](/project/dread-check/chapter/ziqqrrat)                 &#10;  | -- |
 
 
 
@@ -449,3 +449,75 @@ CHAPTER - HISTORY
 | XUNION                                        |
 | YAVNAV                                        |
 | GHOST                                         |
+
+### Chapter Sequence
+
+| ERA  | SEQ | KEY | TITLE                                             |
+|------|-----|-----|---------------------------------------------------|
+| 0000 | 000 | HVH | Horns VS Halos                                    |
+| 0XXX | 001 | V00 | Vermintithe Zero: Amphibian Dawn                  |
+|      | 002 | RC0 | RED CRY Zero                                      |
+|      | 003 | WA0 | Würm Arctiggedon                                  |
+|      | 004 | ZQR | ZIQQRRAT                                          |
+|      | 005 | PYR | PYREBOLA                                          |
+| 1XXX | 006 | VT1 | Vermintithe                                       |
+|      | 007 | SH1 | Swordhenge                                        |
+|      | 008 | VT2 | Vermintithe 2: Beneath the Howl                   |
+|      | 009 | SH2 | Swordhenge 2: Axedhedge                           |
+|      | 010 | VT3 | Vermintithe 3: Paws of Clay                       |
+|      | 011 | SH3 | Swordhenge 3: Gravesalt                           |
+|      | 012 | YG0 | --                                                |
+|      | 013 | BF0 | Blood Flush Antique                               |
+|      | 014 | TYR | Tyrant Nexus                                      |
+|      | 015 | AQD | Aqua Dementia                                     |
+|      | 016 | IPK | Incarnadine Peak                                  |
+|      | 017 | FII | The Life Aquatic with Francine ii Descartes       |
+|      | 018 | GST | [G]HOST                                           |
+|      | 019 | DP1 | Diablo Plains                                     |
+|      | 020 | BLU | Blue Monsoon                                      |
+|      | 021 | HC1 | HOWL Commandos                                    |
+|      | 022 | AI0 | Alien Intel Classic                               |
+|      | 023 | D0P | DRAUGB Part 0: Prologue                           |
+|      | 024 | BF1 | Blood Flush                                       |
+| 2XXX | 025 | DH1 | DEAD HAND                                         |
+|      | 026 | D1H | DRAUGB Part 1: HARBOR                             |
+|      | 027 | RC1 | RED CRY                                           |
+|      | 028 | WA1 | Würm Arctiggedon Modern                           |
+|      | 029 | IGO | INDIGO                                            |
+|      | 030 | AI1 | Alien Intel                                       |
+|      | 031 | D2C | DRAUGB Part 2: COLONY                             |
+|      | 032 | 3FP | Threefold Path                                    |
+|      | 033 | SHX | Swordhenge X                                      |
+| 3XXX | 034 | SC1 | SWAT CITY                                         |
+|      | 035 | OWL | Minerva's Owl                                     |
+|      | 036 | PP1 | Plastic Platoon                                   |
+|      | 037 | AIY | Alien Intel Y: Heavy Armor Load Out               |
+|      | 038 | V0X | Vermintithe Zero X: Amphibian Dusk                |
+|      | 039 | PPX | Plastic Platoon: Hazard Company                   |
+|      | 040 | DHX | DEAD HAND X                                       |
+|      | 041 | HW1 | HORSE WAR                                         |
+|      | 042 | BGX | --                                                |
+| 4XXX | 043 | DD1 | Demolidrome                                       |
+|      | 044 | SCX | SWAT CITY X                                       |
+|      | 045 | DD2 | Demolidrome 2: RUST BOWL                          |
+|      | 046 | RCX | RED CRY X                                         |
+|      | 047 | YAV | YAVNAV                                            |
+|      | 048 | D3F | DRAUGB Part 3: FRONTIER                           |
+|      | 049 | TOR | TORMENT                                           |
+|      | 050 | CRY | CRYOSHOCK                                         |
+|      | 051 | L12 | Lāhainā Noon                                      |
+| 5XXX | 052 | FHB | Frost Hauler Buffalo                              |
+|      | 053 | KTD | King of the Drill                                 |
+|      | 054 | CW0 | CHAR WARS Episode 0: MAGE WARS                    |
+|      | 055 | CW1 | CHAR WARS Episode I: The Phantom Hope             |
+|      | 056 | CW2 | CHAR WARS Episode II: The Last Clone Strikes Back |
+|      | 057 | FRK | FREAKS                                            |
+|      | 058 | CW3 | CHAR WARS Episode III: Rise, Return, Revenge      |
+|      | 059 | CW4 | CHAR WARS Episode IV: Harvest Blue                |
+|      | 060 | D4W | DRAUGB Part 4: WASTES                             |
+|      | 061 | XPY | Xenoparity                                        |
+| XXXX | 062 | D5T | DRAUGB Part 5: TOWER                              |
+|      | 063 | YGO | --                                                |
+|      | 064 | D6D | DRAUGB Part 6: DRAUGB                             |
+|      | 065 | PSK | Primitive Streak                                  |
+|      | 066 | SMR | SIMIR                                             |
