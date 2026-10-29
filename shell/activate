@@ -1,0 +1,7 @@
+#!/bin/bash
+
+[[ -d "/a/null/venv" ]] || { echo "error: venv not initialized; run 'install'"; exit 1; }
+
+# shellcheck disable=SC1091
+source /a/null/venv/scripts/activate
+export PYTHONPYCACHEPREFIX=/a/null/run

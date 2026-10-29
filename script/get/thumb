@@ -1,3 +1,0 @@
-#!/bin/bash
-
-wget https://img.youtube.com/vi/$1/default.jpg --output-document /a/source/static/image/youtube/$1.jpg

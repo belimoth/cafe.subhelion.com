@@ -8,7 +8,7 @@ def load_sql( file ):
 
 db_connection = sqlite3.connect( ":memory:", detect_types = sqlite3.PARSE_DECLTYPES )
 db_connection.row_factory = sqlite3.Row
-sql_schema = load_sql( "a:/source/schema.sql" )
+sql_schema = load_sql( "a:/code/schema.sql" )
 db_connection.executescript( sql_schema )
 db_connection.commit()
 

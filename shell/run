@@ -2,12 +2,12 @@
 
 set -o errexit
 
-# cd /a/source
+# cd /a/code
 # echo "http://localhost:8000"
 # python -m http.server
 # python -m httpmdhtml.server
 
-mkdir --parents /a/local/run
+mkdir --parents /a/null/run
 echo "http://localhost:5000"
-source /a/script/activate
-flask --app /a/source/app run --debug
+source /a/shell/source/activate
+flask --app /a/code/app run --debug
