@@ -1,0 +1,74 @@
+install() {
+	[[ $( uname --operating-system ) == "Msys"                            ]] || { echo "error: unsupported os";         exit 1; }
+	[[ -x $( command -v python )                                          ]] || { echo "error: python not installed";   exit 1; }
+	[[ $( python -c "import sys; print( sys.version_info[0] )" ) == "3"   ]] || { echo "error: python 3 not installed"; exit 1; }
+	[[ $( python --version ) == $( cat /a/runtime.txt )                   ]] || { echo "warning: python version mismatch"; }
+
+	python -m venv /a/null/venv
+	source /a/shell/source/activate
+	python -m pip install --upgrade pip
+	pip install --requirement /a/shell/python/requirements.txt
+}
+
+freeze() {
+	source /a/shell/source/activate
+	python --version > /a/shell/python/runtime.txt
+	pip freeze       > /a/shell/python/requirements.txt
+}
+
+run() {
+	# cd /a/code
+	# echo "http://localhost:8000"
+	# python -m http.server
+	# python -m httpmdhtml.server
+
+	mkdir --parents /a/null/run
+	echo "http://localhost:5000"
+	source /a/shell/source/activate
+	flask --app /a/code/app run --debug
+}
+
+build() {
+	rm --recursive --force /a/null/build
+	mkdir --parents        /a/null/build
+
+	# function build_page() {
+	# 	mkdir --parents /a/null/build/$1/..
+	# 	python -m mistune --file /a/code/page/$1.md --output /a/null/build/$1.html
+	# }
+	#
+	# function each() {
+	# 	while read x; do
+	# 		$1 $x
+	# 	done
+	# }
+	#
+	# cp --recursive /a/code/static /a/null/build/static
+	# find /a/code/page -type f -name "*.md" | sed "s|/a/code/page/||" | sed "s|.md||" | each build_page
+
+	cd /a/code
+	source /a/shell/source/activate
+	python -m app
+	export FLASK_FREEZER_DESTINATION=/a/null/build/0
+	python freeze.py
+	python rewrite.py
+	# mv /a/null/build/0/index /a/null/build/0/index.html
+}
+
+publish() {
+	/a/shell/build
+
+	set -o noglob
+
+	aws --profile subhelion.com s3 rm s3://cafe.subhelion.com --recursive
+
+	aws --profile subhelion.com s3 sync /a/null/build/0 s3://cafe.subhelion.com --exclude * --include *.*
+	aws --profile subhelion.com s3 sync /a/null/build/0 s3://cafe.subhelion.com --content-type text/html --exclude *.*
+	aws --profile subhelion.com s3 sync /a/null/build/1 s3://cafe.subhelion.com --content-type text/html
+	aws --profile subhelion.com s3 sync /a/null/build/2 s3://cafe.subhelion.com --content-type text/html
+	aws --profile subhelion.com s3 sync /a/null/build/3 s3://cafe.subhelion.com --content-type text/html
+	aws --profile subhelion.com s3 sync /a/null/build/4 s3://cafe.subhelion.com --content-type text/html
+	aws --profile subhelion.com s3 sync /a/null/build/5 s3://cafe.subhelion.com --content-type text/html
+
+	aws --profile subhelion.com cloudfront create-invalidation --distribution-id E1Y7FA70V=kiLG6JO --paths "/*"
+}

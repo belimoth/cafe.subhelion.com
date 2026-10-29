@@ -1,5 +1,0 @@
-#!/bin/bash
-
-source /a/shell/activate
-python --version > /a/shell/python/runtime.txt
-pip freeze       > /a/shell/python/requirements.txt
