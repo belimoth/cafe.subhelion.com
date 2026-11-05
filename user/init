@@ -7,15 +7,13 @@ MSYS_NO_PATHCONV=1 subst /d a: | true && subst a: .
 history -c
 export HISTFILE=/a/null/.bash_history
 
-export PATH=/a/shell:$PATH
-[[ -z $USER ]] || export PATH=/a/shell/user/$USER:$PATH
+export PATH=/a/user:$PATH
+[[ -z $USER ]] || export PATH=/a/user/profile/$USER:$PATH
 
 # git fetch && git-check && git merge --ff-only && git push || true
 
 set -o allexport
 
-source /a/shell/source/init
-
-set +o allexport
+source /a/user/source/init
 
 code /a --reuse-window
